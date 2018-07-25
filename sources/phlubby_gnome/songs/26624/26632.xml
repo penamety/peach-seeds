@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26632">
+ <title>The Human Race [subtune 4 remix]</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.1739</rating>
+ 
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-14 12:30:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1537">Shock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

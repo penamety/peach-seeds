@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10642">
+ <title>Siren &#39;89</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.25</rating>
+ <info>Basically a copy of Siren (see above) which later on fades into “Being Boiled” by “The Human League”.</info>
+ <songlength>343</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-12 03:23:28</locked_until>
+ <lastplayed>2017-05-31 23:47:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

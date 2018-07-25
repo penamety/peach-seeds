@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35918">
+ <title>Blues</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>94</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 11:06:51</locked_until>
+ <lastplayed>2018-05-24 13:04:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15608</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

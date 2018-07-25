@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25268">
+ <title>Chips</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ 
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 08:57:50</locked_until>
+ <lastplayed>2018-01-27 21:11:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3613</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20292">
+ <title>Pilgrimage</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.7</rating>
+ 
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 17:42:18</locked_until>
+ <lastplayed>2018-06-15 21:16:17</lastplayed>
+ 
+ <type id="5">Remix</type>
+ <pouetid>10460</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1432">Khrome</artist>
+ </artists>
+ <groups>
+  <group id="133">xplsv</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>megamix</tag>
+  
+  <tag>Pilgrimage</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

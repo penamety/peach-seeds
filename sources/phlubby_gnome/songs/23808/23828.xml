@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23828">
+ <title>Telephone</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.2273</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:13:02</locked_until>
+ <lastplayed>2018-06-05 13:58:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>10365</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  <group id="349">Defjam</group><group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21224">
+ <title>Subbuteo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-23 23:34:14</locked_until>
+ <lastplayed>2017-12-02 15:31:38</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="750">Matt Furniss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

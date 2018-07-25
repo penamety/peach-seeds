@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28700">
+ <title>GuckandieWand</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">1.8182</rating>
+ <info>9th @ BreakPoint 2010 - Executable Music newschool</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 22:13:02</locked_until>
+ <lastplayed>2018-05-26 07:42:36</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4116">map</artist>
+ </artists>
+ <groups>
+  <group id="303">Plush</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

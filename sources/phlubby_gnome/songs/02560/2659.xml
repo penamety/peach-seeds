@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2659">
+ <title>Like the Wind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4118</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 21:14:19</locked_until>
+ <lastplayed>2017-10-30 18:48:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9386</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

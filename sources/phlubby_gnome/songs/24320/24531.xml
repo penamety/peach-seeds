@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24531">
+ <title>Dragon Jive</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.7179</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 00:30:15</locked_until>
+ <lastplayed>2018-04-22 13:42:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1475</pouetid>
+ <ytid>QhW9AV4wLhA</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34716">
+ <title>Disco Shit (Subtune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.25</rating>
+ <info>Quite a short one. looped it twice</info>
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:31:00</locked_until>
+ <lastplayed>2018-06-14 18:25:28</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

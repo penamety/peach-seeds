@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7484">
+ <title>Hybris Light</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.4697</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 09:48:22</locked_until>
+ <lastplayed>2018-05-29 13:14:04</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

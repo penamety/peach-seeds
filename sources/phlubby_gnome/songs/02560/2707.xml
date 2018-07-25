@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2707">
+ <title>Dear Rob</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.2319</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 06:10:47</locked_until>
+ <lastplayed>2018-05-14 21:56:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9153</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  <group id="332">Ackerlight</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

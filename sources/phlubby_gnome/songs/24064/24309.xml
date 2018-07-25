@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24309">
+ <title>Le met capillaire</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.0357</rating>
+ 
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:25:45</locked_until>
+ <lastplayed>2018-05-25 23:19:43</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1061">Shout</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DialingTones</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Silly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

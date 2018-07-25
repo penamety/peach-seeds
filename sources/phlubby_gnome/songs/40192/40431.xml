@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40431">
+ <title>Rescue me</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>My entry for Oldschool Executable Music Compo @ Revision 2014.
+
+Placed #7, made with Reality Adlib Tracker. :)</info>
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-22 00:08:58</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4657">Argasek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34980/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

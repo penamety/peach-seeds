@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1988">
+ <title>Blood on the Rooftops</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>68</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-14 00:35:41</locked_until>
+ <lastplayed>2017-07-06 20:48:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5501</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

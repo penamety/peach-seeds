@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37342">
+ <title>Origins</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>Ranked 5th in the music compo at Outline 2012.</info>
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-08 18:40:41</locked_until>
+ <lastplayed>2017-07-08 01:01:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

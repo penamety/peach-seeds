@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32547">
+ <title>Exolon with guitar live play scene memories</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ <info>the best game (Shoot-em-up) in 1987 - Exolon at ZX Spectrum 48K/128K by Raffaele Cecco, Nick Jones and the best soundtrack from this game. So  - this is my oldgame remix and with the live jam guitar)
+
+mix by Podolskiy_Denis_aka_Slash_AtD</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-18 09:27:45</locked_until>
+ <lastplayed>2017-12-29 23:49:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ <ytid>dwubUuG6rLA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1088">Slash [ru]</artist>
+ </artists>
+ <groups>
+  <group id="598">Atomic Destruction</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.atarilegend.com/games/games_detail.php?game_id=190</url>
+    <comment></comment>
+    <type id="6">
+        <name>Atari Legends</name>
+        <icon>/static/media/linkicons/atari-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=867</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0001686</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8lAA0GubXZo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

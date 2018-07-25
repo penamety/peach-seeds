@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40635">
+ <title>Poliisi</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.3</rating>
+ <info>Lyrics:
+
+Poliisi ajaa sinisellä autolla. uaa. sinisellä autolla.
+Poliisilla on pillit katolla. uaa. pillit katolla.
+Poliisi pamputtaa kumisella pampulla  uaa. kumisella pampulla.
+Poliisi uhkaa ihmisiä putkalla. uaa. ihmisiä putkalla.
+On mukavaa ajaa sinisellä autolla. uaa. sinisellä autolla.
+Mukavaa pamputtaa kumisella pampulla. uaa. kumisella pampulla.
+Systeemin vartija se poliisin on työ.
+Poliisi hippejä pampulla lyö.
+On mukavaa ajaa sinisellä autolla. uaa. sinisellä autolla.
+Mukavaa pamputtaa kumisella pampulla. uaa. kumisella pampulla.
+Poliisi ajaa sinisellä autolla. uaa. sinisellä autolla.
+Poliisilla on pillit katolla. uaa. pillit katolla.
+Poliisi pamputtaa kumisella pampulla  uaa. kumisella pampulla.
+Poliisi uhkaa ihmisiä putkalla. uaa. ihmisiä putkalla.
+
+Vocals by Sir_Garbagetruck
+</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 18:01:50</locked_until>
+ <lastplayed>2018-05-25 19:28:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="531">HiRMU</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Punk</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JU2OfBc4m6o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

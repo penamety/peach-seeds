@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5595">
+ <title>Afternoon Voyage</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.3077</rating>
+ 
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 21:41:41</locked_until>
+ <lastplayed>2018-05-06 23:09:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>13339</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

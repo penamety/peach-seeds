@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10102">
+ <title>[Deus Ex] NYC Streets</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.1429</rating>
+ <info>From the game Deus Ex</info>
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 00:47:12</locked_until>
+ <lastplayed>2018-05-21 03:48:33</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DeusEx</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

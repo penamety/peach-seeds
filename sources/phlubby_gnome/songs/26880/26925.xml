@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26925">
+ <title>Cease The Day</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>All the songs from Quazar are available here :
+ftp://ftp.modland.com/pub/modules/Fasttracker%202/Quazar/</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-16 15:29:07</locked_until>
+ <lastplayed>2018-01-28 15:23:10</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="970">Quazar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

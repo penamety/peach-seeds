@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41460">
+ <title>Misterian Fantasies</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.9091</rating>
+ <info>Won 1st prize in Saku diskmag music competition, and was subsequently used in it. There was a limit of 100kb for the song. Most emulators and players play the end part&#39;s drums wrong, nothing like the real ProTracker... :)</info>
+ <songlength>233</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 10:14:54</locked_until>
+ <lastplayed>2018-03-09 16:09:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ <ytid>EJWCVTps3Cg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4469">Gore</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

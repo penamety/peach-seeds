@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12709">
+ <title>It&#39;s Been a While ...for Axel</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.26</rating>
+ <info>Ranked 8th in the xkcompo in 2004.</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 23:42:20</locked_until>
+ <lastplayed>2018-05-26 15:18:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist><artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>xkcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41963">
+ <title>Screwer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.0</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-11 00:44:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>65327</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

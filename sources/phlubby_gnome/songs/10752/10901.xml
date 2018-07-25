@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10901">
+ <title>Coffin express extra</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2778</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 03:51:40</locked_until>
+ <lastplayed>2017-09-29 17:33:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1873">Dezecrator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

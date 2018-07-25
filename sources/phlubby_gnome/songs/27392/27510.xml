@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27510">
+ <title>Evenings</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.0313</rating>
+ <info>Remix of &#34;Moscow Nights&#34; (Podmoskovnye Vechera), one of the most famous russian songs outside Russia =)
+
+From e-zine &#34;ZX-Format #2&#34; / track 16.</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 15:36:30</locked_until>
+ <lastplayed>2018-05-26 18:44:58</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>russian</tag>
+  
+  <tag>slavic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

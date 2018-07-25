@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35662">
+ <title>Change has Come</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.9259</rating>
+ <info>Streamed music compo entry @ Revision 2012</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:34:36</locked_until>
+ <lastplayed>2018-05-28 16:31:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

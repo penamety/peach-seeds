@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31745">
+ <title>Industrial Snow</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7826</rating>
+ 
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 09:23:56</locked_until>
+ <lastplayed>2018-06-16 05:24:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ <ytid>s7J1MemE0fM</ytid>
+ <ytoffset>126</ytoffset>
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group><group id="411">Prosonix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>video</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=s7J1MemE0fM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36028">
+ <title>Midnight Magic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.0526</rating>
+ <info>For Grapevine 11</info>
+ <songlength>463</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-17 01:35:14</locked_until>
+ <lastplayed>2017-08-08 09:00:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9288</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3931">Bernard Sumner</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Grapevine</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5931">
+ <title>Boo</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="133">3.5865</rating>
+ 
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 13:12:42</locked_until>
+ <lastplayed>2018-06-01 20:18:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>130</pouetid>
+ <ytid>KU3ww-lGjOk</ytid>
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist><artist id="1703">Rymdlego</artist>
+ </artists>
+ <groups>
+  <group id="451">maturefurk</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

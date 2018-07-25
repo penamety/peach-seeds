@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43700">
+ <title>Cipsko</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.5</rating>
+ <info>http://janeway.exotica.org.uk/release.php?id=75566</info>
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 00:46:07</locked_until>
+ <lastplayed>2018-03-03 19:48:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2842">Hali</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

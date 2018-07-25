@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10997">
+ <title>Maintheme 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.3333</rating>
+ <info>TDK: &#34;Funny story about this. So Moonstone was published by Mindscape right, and my first industry job was with Mindscape... On my FIRST day, I heard this chip tune playing in the producers room. I looked in to see why they were playing my chip music, and of course I saw the intro.. I kinda walked out very quietly without saying a work, feeling a bit embarrased, but more worried that they would realise I wrote music and question as to why it was on the crack for one of their games... :D&#34;</info>
+ <songlength>114</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 23:59:34</locked_until>
+ <lastplayed>2018-05-27 04:25:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>23282</pouetid>
+ <ytid>a9TB358j2qM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  <group id="190">Crystal</group><group id="163">Melon Dezign</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=a9TB358j2qM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

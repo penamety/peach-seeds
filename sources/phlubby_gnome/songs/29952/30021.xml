@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30021">
+ <title>Dealer</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 12:46:49</locked_until>
+ <lastplayed>2017-10-25 01:50:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

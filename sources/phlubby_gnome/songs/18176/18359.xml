@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18359">
+ <title>Frelst-01</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5263</rating>
+ 
+ <songlength>428</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 12:13:15</locked_until>
+ <lastplayed>2018-03-13 12:27:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>24389</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2080">Frequent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

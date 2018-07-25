@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32972">
+ <title>Wobblepart Music</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>60</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-20 15:15:24</locked_until>
+ <lastplayed>2017-10-10 23:08:26</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2526</pouetid>
+ <ytid>jCcCqW_eod4</ytid>
+ <ytoffset>111</ytoffset>
+ 
+ <artists>
+  <artist id="4776">Libertine</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

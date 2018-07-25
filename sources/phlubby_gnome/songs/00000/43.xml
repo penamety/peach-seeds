@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43">
+ <title>Anarchy Menu 18</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-02 06:38:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

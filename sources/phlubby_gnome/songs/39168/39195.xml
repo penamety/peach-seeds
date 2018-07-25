@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39195">
+ <title>Last Train to Leningrad</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.3333</rating>
+ 
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 03:36:44</locked_until>
+ <lastplayed>2018-05-26 07:53:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4387">Cosmiq (NL)</artist><artist id="270">Cyrex</artist>
+ </artists>
+ <groups>
+  <group id="300">Inque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4194">
+ <title>Walkabout Adventure</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.2353</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 07:15:50</locked_until>
+ <lastplayed>2018-06-14 18:34:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3159</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="393">d-Zire</artist><artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

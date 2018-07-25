@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4205">
+ <title>Lemon e Trippies</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.96</rating>
+ 
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 21:03:04</locked_until>
+ <lastplayed>2018-05-02 03:55:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9610</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

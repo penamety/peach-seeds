@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11525">
+ <title>Get on the Bus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="160">4.3938</rating>
+ <info>Made for the Bound Together project.</info>
+ <songlength>394</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 01:04:21</locked_until>
+ <lastplayed>2018-06-03 12:05:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Muzak</tag>
+  
+  <tag>rhythm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

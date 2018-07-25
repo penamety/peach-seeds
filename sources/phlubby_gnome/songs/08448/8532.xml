@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8532">
+ <title>Toilet Story 4 U</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.5308</rating>
+ 
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 07:25:40</locked_until>
+ <lastplayed>2018-06-10 20:13:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>14585</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

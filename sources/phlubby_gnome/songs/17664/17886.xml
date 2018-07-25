@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17886">
+ <title>One Hour After War</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.56</rating>
+ 
+ <songlength>269</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 01:22:51</locked_until>
+ <lastplayed>2018-05-23 02:11:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>305</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>Goa</tag>
+  
+  <tag>Psytrance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

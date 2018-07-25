@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9625">
+ <title>Why Me?</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.2353</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 23:14:10</locked_until>
+ <lastplayed>2018-06-08 17:46:35</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>10603</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="390">Camelot</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33184">
+ <title>Last Ninja Remix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ <info>original by Reyn Ouwehand.</info>
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-15 09:13:24</locked_until>
+ <lastplayed>2017-08-08 08:29:08</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3955">Wire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

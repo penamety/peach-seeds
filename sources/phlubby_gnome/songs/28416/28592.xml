@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28592">
+ <title>Quest For Shrubbery</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.3056</rating>
+ <info>5th @ Breakpoint 2010 Executable Oldschool music compo</info>
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 17:21:20</locked_until>
+ <lastplayed>2018-05-06 22:12:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

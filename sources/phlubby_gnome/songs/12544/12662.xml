@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12662">
+ <title>LFO Line</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.6667</rating>
+ 
+ <songlength>44</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-25 14:48:58</locked_until>
+ <lastplayed>2017-10-15 22:36:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41026">
+ <title>Powercore</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5263</rating>
+ <info>Remote entry for Stream 2014 &#39;Dance Music Compo&#39;. 
+I wanted to try out wobble bass and attempt a punchy sound for this one.</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 21:21:28</locked_until>
+ <lastplayed>2018-06-04 03:40:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

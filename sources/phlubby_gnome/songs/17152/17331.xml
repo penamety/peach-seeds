@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17331">
+ <title>Visual Art</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 09:28:27</locked_until>
+ <lastplayed>2018-05-27 02:38:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>15010</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2619">D-Luxe</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>EuropeanTop20</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41007">
+ <title>Fluffy Clouds</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.5</rating>
+ <info>2nd place in pc 64k compo at The Party&#39;96</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-15 01:25:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1261</pouetid>
+ <ytid>JEG4sVRfL-Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="1632">A-move</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  <group id="801">Amable [AMB]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Junior</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JEG4sVRfL-Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

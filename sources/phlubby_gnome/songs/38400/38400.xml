@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38400">
+ <title>Dance of the Skeletons</title>
+ <status v="A">Active</status>
+ <bitrate>266</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">4.0</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-27 03:14:29</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="270">Cyrex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

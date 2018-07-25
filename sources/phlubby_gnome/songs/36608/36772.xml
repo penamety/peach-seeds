@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36772">
+ <title>Gigawatt</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ 
+ <songlength>366</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-03-18 13:28:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2129">rockmonitor</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18328">
+ <title>Bouncing Ball 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.5862</rating>
+ 
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 21:13:26</locked_until>
+ <lastplayed>2018-05-10 08:09:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9153</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  <group id="332">Ackerlight</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

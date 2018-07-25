@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8484">
+ <title>Now What? - Medley</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.2697</rating>
+ 
+ <songlength>850</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 03:44:08</locked_until>
+ <lastplayed>2018-05-27 11:58:42</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>multipart</tag>
+  
+  <tag>nowwhat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

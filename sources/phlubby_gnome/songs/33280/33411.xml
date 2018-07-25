@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33411">
+ <title>Ballsong Nr 1</title>
+ <status v="A">Active</status>
+ <bitrate>4</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.625</rating>
+ <info>Developed at the Atari Sunnyvale Research Laboratory, as a test of the Atari 8-bit graphics and sound capabilities.  Though the song patterns themselves are (mostly) predefined, their order and some of the percussion is randomized as the song plays.</info>
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 20:25:57</locked_until>
+ <lastplayed>2018-03-11 09:17:14</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>ybo6g_1jr7s</ytid>
+ 
+ 
+ <artists>
+  <artist id="4830">Douglas Crockford</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1984</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PvsQTb-Ppww</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

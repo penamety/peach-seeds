@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6297">
+ <title>Tinytune 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ 
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-24 21:16:56</locked_until>
+ <lastplayed>2017-09-18 01:09:32</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

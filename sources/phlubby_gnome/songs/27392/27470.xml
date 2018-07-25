@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27470">
+ <title>Story of a Snowman</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">3.7143</rating>
+ <info>Ranked 2nd in the Nectarine X-Mas Madness compo 2009.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:43:32</locked_until>
+ <lastplayed>2018-06-10 19:23:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

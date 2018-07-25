@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28325">
+ <title>Grabbag</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.0842</rating>
+ <info>Cover version from theme from PC-game &#34;Duke Nukem 3D&#34;</info>
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 23:23:48</locked_until>
+ <lastplayed>2018-05-17 15:28:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

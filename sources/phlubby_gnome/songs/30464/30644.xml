@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30644">
+ <title>Orchestral Sequence</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.5</rating>
+ <info>http://remix.kwed.org/files/RKOfiles/moog%20(Sebastian%20Bachlinski)%20-%20Orchestral%20Sequence.mp3</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:19:33</locked_until>
+ <lastplayed>2018-06-06 18:44:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

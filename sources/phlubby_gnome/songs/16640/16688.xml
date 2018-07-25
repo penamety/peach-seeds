@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16688">
+ <title>Rock &#39;n Roll (level 1 remix)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2593</rating>
+ 
+ <songlength>285</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 04:30:11</locked_until>
+ <lastplayed>2018-05-09 22:51:39</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="272">CZ Tunes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

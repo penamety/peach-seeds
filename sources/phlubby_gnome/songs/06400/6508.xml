@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6508">
+ <title>He Has No Face</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.875</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 10:25:22</locked_until>
+ <lastplayed>2018-05-21 07:52:05</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?48952</url>
+    <comment>ModArchive Download Link</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

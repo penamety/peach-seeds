@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2195">
+ <title>Saturn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 11:23:10</locked_until>
+ <lastplayed>2018-02-20 15:53:18</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="390">Dynamic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

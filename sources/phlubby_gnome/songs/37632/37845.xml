@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37845">
+ <title>God Rest Ye Merry Fuckers</title>
+ <status v="A">Active</status>
+ <bitrate>206</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">2.7879</rating>
+ <info>From the BaSShuT EP 2012</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 13:43:58</locked_until>
+ <lastplayed>2018-05-25 01:39:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>60877</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3774">Topy44</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13258">
+ <title>Stupid But Happy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>From the xkcompo in 2004.</info>
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 09:46:38</locked_until>
+ <lastplayed>2018-06-16 04:48:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2137">Shiru Otaku</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>xkcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

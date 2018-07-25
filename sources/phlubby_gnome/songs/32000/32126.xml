@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32126">
+ <title>EOF</title>
+ <status v="R">Rejected</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">2.0</rating>
+ 
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4702">Trommler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Springtunes</tag>
+  
+  <tag>Ubiktune</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

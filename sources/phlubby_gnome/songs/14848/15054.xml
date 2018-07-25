@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15054">
+ <title>After the New Sea</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-04 20:40:45</locked_until>
+ <lastplayed>2017-11-14 09:30:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>10712</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="129">Blue Silence</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

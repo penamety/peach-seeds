@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1608">
+ <title>Sound of Vantaa</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ 
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-09 17:56:32</locked_until>
+ <lastplayed>2017-10-20 05:53:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14881</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="310">DeLorean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

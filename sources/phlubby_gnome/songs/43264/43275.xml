@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43275">
+ <title>Planetoid Essence</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ <info>4th at Sundown 2016 tracked music compo.
+A re-master of this song is part of the [url=http://uctumi.bandcamp.com/album/helicoid]album &#34;Helicoid&#34; by Uctumi released in 2017.[/url]</info>
+ <songlength>285</songlength>
+ <locked>False</locked>
+ <locked_until>2017-05-28 20:49:07</locked_until>
+ <lastplayed>2017-05-27 02:10:51</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>KOFoCVqc2UE</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/160420/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

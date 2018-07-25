@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1154">
+ <title>Lets be Groove</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.7</rating>
+ 
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 11:49:54</locked_until>
+ <lastplayed>2018-06-08 03:54:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="208">Chrylian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

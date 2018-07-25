@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30941">
+ <title>Planets</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8276</rating>
+ <info>used in a slideshow... forgot which</info>
+ <songlength>343</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 10:09:20</locked_until>
+ <lastplayed>2018-03-28 08:59:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>28937</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

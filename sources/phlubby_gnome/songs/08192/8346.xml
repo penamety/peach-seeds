@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8346">
+ <title>Love Foolosophy Chip</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="131">4.458</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 12:33:22</locked_until>
+ <lastplayed>2018-06-15 19:59:38</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Jamiroquai</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

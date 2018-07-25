@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1474">
+ <title>Buena Vista</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.2308</rating>
+ 
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 03:44:05</locked_until>
+ <lastplayed>2018-05-26 15:19:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>HorizonParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

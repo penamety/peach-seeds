@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28586">
+ <title>Steam Water Soil</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.8286</rating>
+ <info>9th @ Breakpoint 2010 Streaming music compo</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-22 23:00:38</locked_until>
+ <lastplayed>2017-10-17 11:02:19</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

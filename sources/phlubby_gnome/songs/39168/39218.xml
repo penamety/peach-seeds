@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39218">
+ <title>A Strange Tribe</title>
+ <status v="A">Active</status>
+ <bitrate>273</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.9091</rating>
+ <info>3rd at Buenzli/Demodays 2013 music competition</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-12 18:59:15</locked_until>
+ <lastplayed>2017-07-07 11:00:59</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

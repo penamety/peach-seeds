@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8692">
+ <title>Tax Man - Remix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.4</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 05:55:28</locked_until>
+ <lastplayed>2017-12-04 01:14:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Beatles</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

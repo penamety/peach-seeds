@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29962">
+ <title>The Universe</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.6563</rating>
+ 
+ <songlength>347</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 23:59:10</locked_until>
+ <lastplayed>2018-05-18 12:06:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31243</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="488">Gladiator</artist>
+ </artists>
+ <groups>
+  <group id="577">IT</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

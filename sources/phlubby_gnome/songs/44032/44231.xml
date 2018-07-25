@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44231">
+ <title>Viianki</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 10:06:38</locked_until>
+ <lastplayed>2018-05-07 16:10:46</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>69722</pouetid>
+ <ytid>UiN0tiQagnE</ytid>
+ 
+ 
+ <artists>
+  <artist id="5613">Shaiggon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>catlead</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

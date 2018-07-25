@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3376">
+ <title>Anarchy-main (Flower Power)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.4032</rating>
+ <info>1:st place at The Digital Symposium &#39;92
+
+Also known as &#34;dc-main&#34;.</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 02:58:16</locked_until>
+ <lastplayed>2018-06-10 18:02:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3037</pouetid>
+ <ytid>MeSiYh1qX0A</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DigitalSymposium</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MeSiYh1qX0A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

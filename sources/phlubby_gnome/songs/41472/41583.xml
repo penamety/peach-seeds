@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41583">
+ <title>August Rain</title>
+ <status v="A">Active</status>
+ <bitrate>213</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="27">4.1111</rating>
+ <info>The song written in one evening on a rainy August day when I was sitting home-alone and had no distractions. My trusty 7-year old iMac ran out of CPU power towards the end, so it&#39;s one of those songs that I can&#39;t actually listen to in Renoise, without rendering it first. One more reason to save money for a new computer.</info>
+ <songlength>455</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 03:21:20</locked_until>
+ <lastplayed>2018-06-12 20:00:11</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

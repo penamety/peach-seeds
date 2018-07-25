@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14581">
+ <title>Smutsgula Tomater</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Ranked 3rd in the multichannel music compo at Remedy 1997.</info>
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 07:15:02</locked_until>
+ <lastplayed>2017-12-09 00:32:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2274">Balrog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

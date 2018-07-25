@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8137">
+ <title>Monkey Island (Live at The Gathering 2003)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="138">4.1449</rating>
+ 
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 06:51:31</locked_until>
+ <lastplayed>2018-05-23 18:54:05</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1514">PRESS PLAY ON TAPE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

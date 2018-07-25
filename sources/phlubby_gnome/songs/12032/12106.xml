@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12106">
+ <title>Sextris - Title</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">3.8644</rating>
+ <info>Title theme from the game &#34;Sextris&#34; (ZX Spectrum) by Silicon Brains Group 1995</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 07:18:46</locked_until>
+ <lastplayed>2018-06-12 19:34:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>GhwKthd-xj0</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4384">Dre@mer</artist><artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  <group id="85">Silicon Brains</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

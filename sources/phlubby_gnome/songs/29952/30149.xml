@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30149">
+ <title>Activity</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.7692</rating>
+ <info>ZX Spectrum</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 08:50:00</locked_until>
+ <lastplayed>2018-04-19 12:23:48</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1734">Mast</artist>
+ </artists>
+ <groups>
+  <group id="47">Fatality</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

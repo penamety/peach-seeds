@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15982">
+ <title>Luminous Vein</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>1st place at blockparty 2008 streaming music compo!
+
+written in modplug tracker, but i processed each track and redid the drums in SONAR.</info>
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-14 21:05:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

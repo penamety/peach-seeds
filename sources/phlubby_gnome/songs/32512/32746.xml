@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32746">
+ <title>Notloesung</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>311</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.1667</rating>
+ <info>4klang synth by Gopher/Alcatrazu
+
+
+2nd place in Executable Music Newskool at Revision 2011</info>
+ <songlength>112</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-04-27 08:57:17</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2028">tEiS</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

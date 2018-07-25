@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6275">
+ <title>Y&#39;on - Intro</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>91</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 16:46:14</locked_until>
+ <lastplayed>2018-04-28 03:53:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3115</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1009">Revisq</artist><artist id="4539">Sixtus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>RushHours</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

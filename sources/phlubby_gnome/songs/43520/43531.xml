@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43531">
+ <title>303 Zombies (Organic Dreams Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.5455</rating>
+ <info>My little Contribution for the Acid Compo at TRSAC 2016, ended up 9th place.
+
+Basically an 8 channel xm mastered in Renoise with big help from my Mate Organic Dreams/ Desire. Thanks, mate!! &lt;3</info>
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 08:45:19</locked_until>
+ <lastplayed>2018-03-04 14:31:28</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/164462/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

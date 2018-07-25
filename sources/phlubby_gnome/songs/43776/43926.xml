@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43926">
+ <title>Overdrive 2</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.9474</rating>
+ <info>Soundtrack on Youtube: https://www.youtube.com/watch?v=VRJqHPr9SN0</info>
+ <songlength>472</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 23:24:32</locked_until>
+ <lastplayed>2018-06-14 12:58:23</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>69648</pouetid>
+ <ytid>gWVmPtr9O0g</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="2092">Strobe</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Sega</tag>
+  
+  <tag>SegaGenesis</tag>
+  
+  <tag>sequel</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ym2612</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gWVmPtr9O0g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/170767/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

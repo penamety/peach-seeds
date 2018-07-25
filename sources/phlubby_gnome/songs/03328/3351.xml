@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3351">
+ <title>Global Trash 3 v2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="118">3.8729</rating>
+ <info>On Amiga Music Preservation it&#39;s also available as :
+[*] [url=http://amp.dascene.net/downmod.php?index=139683]Part 1[/url] &amp; [url=http://amp.dascene.net/downmod.php?index=36927]Part 2[/url]
+[*] A [url=http://amp.dascene.net/downmod.php?index=81147]short[/url] version</info>
+ <songlength>664</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 16:29:43</locked_until>
+ <lastplayed>2018-06-13 22:11:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>981</pouetid>
+ <ytid>2CGOh-jb4QM</ytid>
+ <ytoffset>60</ytoffset>
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  <group id="250">Crionics</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2CGOh-jb4QM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?43773</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?44272</url>
+    <comment>Sorry ignore my first add, this is the long version/mix</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

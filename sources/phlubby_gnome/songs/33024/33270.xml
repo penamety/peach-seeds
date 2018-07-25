@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33270">
+ <title>Sound Tracker - Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">3.3846</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-14 14:34:28</locked_until>
+ <lastplayed>2017-07-07 11:31:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>-yGHhlwofuw</ytid>
+ 
+ 
+ <artists>
+  <artist id="4812">Kicia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

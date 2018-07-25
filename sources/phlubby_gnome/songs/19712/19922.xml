@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19922">
+ <title>Optimus Prime</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8696</rating>
+ <info>Invitation for The Gathering 2008</info>
+ <songlength>47</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 12:20:07</locked_until>
+ <lastplayed>2018-05-29 03:28:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>49857</pouetid>
+ <ytid>vAeShGgq9RU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1427">Kaktusen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vAeShGgq9RU</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

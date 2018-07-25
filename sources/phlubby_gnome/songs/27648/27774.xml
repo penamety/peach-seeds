@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27774">
+ <title>29. Forest Girl 2.0</title>
+ <status v="I">Inactive</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7813</rating>
+ 
+ <songlength>323</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-05-22 20:17:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="792">Mick Rippon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Pop</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1685">
+ <title>New Born</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5417</rating>
+ 
+ <songlength>341</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 07:00:48</locked_until>
+ <lastplayed>2018-05-23 21:28:33</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="322">Digistorm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

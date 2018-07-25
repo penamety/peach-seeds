@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32386">
+ <title>Stardust Memories</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="67">4.3582</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 16:56:02</locked_until>
+ <lastplayed>2018-06-03 01:35:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54205</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4731">gwEm</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

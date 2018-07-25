@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27931">
+ <title>Electric, part 1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">3.7119</rating>
+ 
+ <songlength>426</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 06:10:40</locked_until>
+ <lastplayed>2018-05-29 03:51:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2000">C-jeff</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="25">Brainstorm</group><group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>long</tag>
+  
+  <tag>multipart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

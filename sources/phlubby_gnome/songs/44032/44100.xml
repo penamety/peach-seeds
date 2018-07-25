@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44100">
+ <title>Memories</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ <info>2 place in the competition synthesized music at the festival Artfield ^ 2017.
+Picture cut: &#34;Inbetween - 03&#34; by Paracels.
+Included VST processing.</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 11:35:12</locked_until>
+ <lastplayed>2018-06-13 05:47:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>ArtField</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

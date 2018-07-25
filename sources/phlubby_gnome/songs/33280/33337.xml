@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33337">
+ <title>Myth Millenium Monsters</title>
+ <status v="A">Active</status>
+ <bitrate>158</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.12</rating>
+ <info>Music from the wild animation &#34;Myth Millenium Monsters&#34; by Intense
+...Presented out of competition in 2000, but i don&#39;t remember at what party...</info>
+ <songlength>360</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 08:21:30</locked_until>
+ <lastplayed>2018-03-22 11:42:40</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>YXLXlsGr-Lk</ytid>
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YXLXlsGr-Lk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

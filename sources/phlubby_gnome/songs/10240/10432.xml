@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10432">
+ <title>IK+</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">3.4932</rating>
+ 
+ <songlength>462</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 07:58:19</locked_until>
+ <lastplayed>2018-06-05 21:14:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>43670</pouetid>
+ <ytid>iO4KgCD1zKM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

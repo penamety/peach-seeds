@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34865">
+ <title>Song 4</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>306</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-28 05:30:28</locked_until>
+ <lastplayed>2017-12-09 02:12:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4910">Aeko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

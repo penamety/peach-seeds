@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36312">
+ <title>Deserts of Mars</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ 
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-20 14:16:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4162">Everdune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

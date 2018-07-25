@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36013">
+ <title>We are the Robots</title>
+ <status v="A">Active</status>
+ <bitrate>85</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>1st place in pc demo compo at digiLAB 2005</info>
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 21:01:42</locked_until>
+ <lastplayed>2018-05-29 12:18:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16009</pouetid>
+ <ytid>NgUbLJ85p2Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="1416">Irvin</artist>
+ </artists>
+ <groups>
+  <group id="9">Outracks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NgUbLJ85p2Y</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

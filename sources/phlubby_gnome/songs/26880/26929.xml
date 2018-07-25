@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26929">
+ <title>The Melody Engine</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ <info>All the songs from Quazar are available here :
+ftp://ftp.modland.com/pub/modules/Fasttracker%202/Quazar/</info>
+ <songlength>305</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 15:20:15</locked_until>
+ <lastplayed>2018-05-21 15:47:11</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="970">Quazar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

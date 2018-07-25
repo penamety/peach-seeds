@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25965">
+ <title>1994</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.0</rating>
+ 
+ <songlength>545</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:48:17</locked_until>
+ <lastplayed>2018-05-13 12:48:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>https://youtu.be/PxEpDKM7vfQ?t</ytid>
+ 
+ 
+ <artists>
+  <artist id="1277">u4ia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Rhapsodic</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

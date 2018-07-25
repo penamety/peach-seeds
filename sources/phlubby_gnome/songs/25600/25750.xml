@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25750">
+ <title>Ucieczka z tropiku</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.7949</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 09:53:59</locked_until>
+ <lastplayed>2018-05-07 10:06:27</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3768">Tomasz Liebich</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

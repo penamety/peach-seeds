@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37225">
+ <title>Chapter Thirty One</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1</rating>
+ <info>An ambient drum and bass style track I&#39;ve created for the Sundown 2012 Demoparty in lovely Budleigh Salterton, UK .. 2nd place in the streaming music compo, wahey! :)</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 04:47:55</locked_until>
+ <lastplayed>2018-05-19 20:23:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

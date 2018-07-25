@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11129">
+ <title>Knucklebusters</title>
+ <status v="A">Active</status>
+ <bitrate>207</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="199">2.5327</rating>
+ <info>Remix of Rob Hubbard&#39;s Knucklebusters</info>
+ <songlength>1080</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 05:06:23</locked_until>
+ <lastplayed>2018-06-07 19:40:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="726">Marcel Donné</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>polarizing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

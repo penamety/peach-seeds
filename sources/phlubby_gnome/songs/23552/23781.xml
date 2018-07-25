@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23781">
+ <title>The Deadline</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.4815</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 14:04:56</locked_until>
+ <lastplayed>2018-05-30 19:28:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>24196</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

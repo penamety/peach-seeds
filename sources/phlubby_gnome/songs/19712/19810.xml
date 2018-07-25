@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19810">
+ <title>Last Ninja 2 - Street Loader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.8095</rating>
+ 
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-26 23:29:11</locked_until>
+ <lastplayed>2018-03-04 04:36:30</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2964">Jon Wells</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

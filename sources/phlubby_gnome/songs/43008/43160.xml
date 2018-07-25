@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43160">
+ <title>Vaikeus</title>
+ <status v="R">Rejected</status>
+ <bitrate>499</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="4">2.0</rating>
+ 
+ <songlength>11</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-05-31 20:33:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3764">T.o.B</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?132741</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8494">
+ <title>Diskmag Desaster</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.4516</rating>
+ 
+ <songlength>328</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 11:37:13</locked_until>
+ <lastplayed>2018-05-29 10:22:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>30508</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  <group id="465">Hugi</group>
+ </groups>
+ 
+ <tags>
+  <tag>Hugi</tag>
+  
+  <tag>Mellow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

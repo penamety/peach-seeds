@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12369">
+ <title>Goal Scoring Superstar Hero</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.12</rating>
+ <info>From &#34;Sensible World of Soccer&#34; (1994)
+
+Written by Richard Joseph &amp; Jon Hare
+
+Vocals by Joseph&#39;s girlfriend</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 11:05:25</locked_until>
+ <lastplayed>2018-05-06 22:36:09</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5486">Jops</artist><artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>TeamSport</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1871</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

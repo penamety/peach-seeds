@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39171">
+ <title>Game Examples</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">4.0833</rating>
+ <info>Multipart tune</info>
+ <songlength>46</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 14:49:03</locked_until>
+ <lastplayed>2018-04-29 04:01:50</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1049">Scott</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group>
+ </groups>
+ 
+ <tags>
+  <tag>gamestyle</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

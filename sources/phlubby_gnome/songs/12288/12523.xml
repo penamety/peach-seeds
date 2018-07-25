@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12523">
+ <title>Dreamstone</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.4054</rating>
+ 
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 15:45:54</locked_until>
+ <lastplayed>2018-06-16 08:32:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7693">
+ <title>Shatterhand Final Level Remix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.1429</rating>
+ 
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:53:04</locked_until>
+ <lastplayed>2018-06-06 04:50:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1663">Byproduct</artist><artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

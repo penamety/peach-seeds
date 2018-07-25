@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19661">
+ <title>Wave Mania is My Passion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 16:26:42</locked_until>
+ <lastplayed>2018-04-05 02:55:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/104738/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

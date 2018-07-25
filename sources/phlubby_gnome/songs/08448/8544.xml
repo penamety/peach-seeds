@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8544">
+ <title>Nebulos</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="128">3.3594</rating>
+ 
+ <songlength>812</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 14:36:52</locked_until>
+ <lastplayed>2018-05-20 19:40:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3856</pouetid>
+ <ytid>gfvx2IOoFEM</ytid>
+ 
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

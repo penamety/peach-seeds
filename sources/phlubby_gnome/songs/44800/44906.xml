@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44906">
+ <title>Sid Factory 1</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">4.0</rating>
+ <info>http://remix.kwed.org/download.php/3432/moog%20%28Sebastian%20Bachlinski%29%20-%20Sid%20Factory%201.mp3</info>
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 06:09:06</locked_until>
+ <lastplayed>2018-06-06 07:23:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

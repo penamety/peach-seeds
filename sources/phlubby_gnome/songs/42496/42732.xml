@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42732">
+ <title>Light Trippin (Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">1.6667</rating>
+ <info>Originally released at TRSAC 2013 Oldschool Music Compo this was finally featured in a birthday Intro for Bonefish in January 2016. Music is featured in the credits part towards the end of the intro.
+
+Released on Nintendo Wii, but Music is pure Aaaaamiiigaaaahh</info>
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 21:21:43</locked_until>
+ <lastplayed>2018-05-10 04:18:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>66775</pouetid>
+ <ytid>y3UIPvZpP4c</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=y3UIPvZpP4c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

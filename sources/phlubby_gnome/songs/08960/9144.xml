@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9144">
+ <title>Princess</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.75</rating>
+ <info>bonus chiptune #01</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 15:01:06</locked_until>
+ <lastplayed>2018-03-15 11:38:38</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1762">Heretic</artist>
+ </artists>
+ <groups>
+  <group id="370">Destiny</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

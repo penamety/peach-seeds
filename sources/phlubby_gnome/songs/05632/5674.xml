@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5674">
+ <title>Stormlord</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="132">4.4242</rating>
+ 
+ <songlength>342</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 19:51:30</locked_until>
+ <lastplayed>2018-05-26 11:34:44</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="5">Remix</type>
+ <pouetid>3416</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

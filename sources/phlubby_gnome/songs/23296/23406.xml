@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23406">
+ <title>Black Dragon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ <info>I remember this was done with a custom tracker by Kefrens -serp</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 09:21:28</locked_until>
+ <lastplayed>2018-05-17 08:39:50</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>5088</pouetid>
+ <ytid>HxUoZqv948k</ytid>
+ <ytoffset>2612</ytoffset>
+ 
+ <artists>
+  <artist id="3464">Razmo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

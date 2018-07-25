@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43435">
+ <title>Unintended Consequence [Universal Sequence soundtrack]</title>
+ <status v="A">Active</status>
+ <bitrate>197</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4118</rating>
+ <info>SoundCloud: [url]https://soundcloud.com/gargaj/unintended-consequence[/url]</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 22:54:49</locked_until>
+ <lastplayed>2018-05-14 21:44:54</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>68147</pouetid>
+ <ytid>20vPbH6UWIc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=20vPbH6UWIc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/163097/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

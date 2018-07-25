@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39842">
+ <title>A Wish For A Christmas</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.7586</rating>
+ <info>1st place @ scenemusic.net ChristmasCompo 2013</info>
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 10:13:57</locked_until>
+ <lastplayed>2018-06-13 15:41:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="91">Nectarine</group><group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Accordion</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

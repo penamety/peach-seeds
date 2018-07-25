@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5021">
+ <title>Ghostbusters</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9091</rating>
+ 
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 23:39:37</locked_until>
+ <lastplayed>2017-11-05 09:55:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="826">Mr Young</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

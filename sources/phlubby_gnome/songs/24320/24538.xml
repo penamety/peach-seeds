@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24538">
+ <title>Lars</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.5957</rating>
+ 
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 23:22:33</locked_until>
+ <lastplayed>2018-05-27 06:49:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15257</pouetid>
+ <ytid>mc6HFtxCnXk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="249">Bamiga Sector One (BS1)</group>
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

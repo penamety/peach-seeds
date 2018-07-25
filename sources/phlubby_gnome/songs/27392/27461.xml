@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27461">
+ <title>Already Ready</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.551</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 06:28:15</locked_until>
+ <lastplayed>2018-06-10 19:32:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43882">
+ <title>Subi Loses The Cops</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>Placed #1 in Tracked Music compo at Revision 2017.
+
+4ch Amiga MOD, PT 2.3D
+Written for the tracked music competition at Revision 2017
+SHELBY COBRA, BIG PILE OF BOXES,
+LIGHTS, CAMERA,
+ACTION!</info>
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 15:49:30</locked_until>
+ <lastplayed>2018-01-31 22:57:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1155">Subi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170664/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

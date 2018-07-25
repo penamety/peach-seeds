@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34791">
+ <title>Act 1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.5789</rating>
+ <info>Converted from Disorder Tracker 2 format</info>
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 17:07:50</locked_until>
+ <lastplayed>2018-05-10 02:59:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2498</pouetid>
+ <ytid>fPt71iZyQb0</ytid>
+ <ytoffset>230</ytoffset>
+ 
+ <artists>
+  <artist id="4962">Skywalker</artist>
+ </artists>
+ <groups>
+  <group id="659">Psychic Link</group>
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

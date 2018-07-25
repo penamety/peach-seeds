@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32849">
+ <title>Sad Flutes</title>
+ <status v="A">Active</status>
+ <bitrate>226</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.7308</rating>
+ <info>Ranked 2nd in the streaming music compo at Breeze 2007.</info>
+ <songlength>429</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 01:52:55</locked_until>
+ <lastplayed>2018-05-27 18:57:50</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4763">Filami</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breeze</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>Sitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

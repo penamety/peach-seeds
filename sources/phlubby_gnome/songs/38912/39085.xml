@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39085">
+ <title>Shinjuku Nights</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.2333</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 18:44:29</locked_until>
+ <lastplayed>2018-03-15 05:34:34</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist><artist id="4916">motherchip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

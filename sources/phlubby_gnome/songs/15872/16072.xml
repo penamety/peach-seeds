@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16072">
+ <title>Stickman&#39;s World</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ 
+ <songlength>93</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 00:15:06</locked_until>
+ <lastplayed>2018-03-27 12:27:58</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1139</pouetid>
+ <ytid>8qHhUkVt4Og</ytid>
+ 
+ 
+ <artists>
+  <artist id="5198">Longjam</artist>
+ </artists>
+ <groups>
+  <group id="698">Coma</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10311">
+ <title>Slow Motion</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0</rating>
+ 
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-04 22:08:11</locked_until>
+ <lastplayed>2017-11-17 03:22:51</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ <pouetid>47547</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

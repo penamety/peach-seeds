@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12041">
+ <title>I&#39;m a Pumpkin Man</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">3.4508</rating>
+ <info>Lyrics:
+I&#39;m a pumpkin man...
+I&#39;m a pumpkin man...
+I&#39;m a pumpkin man...
+I&#39;m a pumpkin man...
+
+Good day
+
+I&#39;ll be jumpin&#39; you
+Just like pumpkins do
+
+I&#39;m a pumpkin man and I&#39;ll be chosen like a pumpkin because
+I&#39;m a pumpkin man and I will jump, jump, jump-jump-jump
+I&#39;m a pumpkin, I&#39;m a pumpkin, I&#39;m a pumpkin, I&#39;m a pumpkin
+Jumping, Jumping, Jumping, Jumping, Jumping, Jumping, Jumping, Jumping
+
+I&#39;ll be jumpin&#39; you
+Just like pumpkins do
+
+I&#39;m a pumpkin man
+I&#39;m a motherf**king pumpkin man
+
+I&#39;m a pumpkin man</info>
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 03:35:21</locked_until>
+ <lastplayed>2018-05-17 07:41:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>MQOR3k72S34</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="1976">Trauma</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MQOR3k72S34</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

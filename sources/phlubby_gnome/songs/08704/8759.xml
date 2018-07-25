@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8759">
+ <title>Kapital</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7059</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-04 22:12:30</locked_until>
+ <lastplayed>2017-06-28 20:26:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>1922</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

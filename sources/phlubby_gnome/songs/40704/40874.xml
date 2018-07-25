@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40874">
+ <title>Destination Unknown</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>2nd place in ZX Spectrum music compo at Forever 2010</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-28 16:34:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4715">z00m</artist>
+ </artists>
+ <groups>
+  <group id="797">Total Computer Gang [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=49428</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37379/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

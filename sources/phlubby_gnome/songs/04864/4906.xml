@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4906">
+ <title>More Than Music 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.0</rating>
+ 
+ <songlength>588</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 20:37:27</locked_until>
+ <lastplayed>2018-05-27 11:36:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9578</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

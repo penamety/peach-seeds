@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26795">
+ <title>We Love Spheres</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.4412</rating>
+ 
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 19:32:46</locked_until>
+ <lastplayed>2018-05-23 18:14:27</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>53184</pouetid>
+ <ytid>lEgYksw6ZN4</ytid>
+ 
+ 
+ <artists>
+  <artist id="3106">Madbrain</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  <group id="189">Even</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

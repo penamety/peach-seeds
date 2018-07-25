@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7921">
+ <title>Variform</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="188">4.5691</rating>
+ <info>1st place in combined demo compo at Assembly 2002
+
+Lyrics:
+Kewlers
+Presents
+A demo called &#34;Variform&#34;
+
+We. Are. Back.
+For Assembly 2002
+
+Coding: Curly Brace
+Music: Mel Funktion - Little Bitchard
+Graphics: Actor Dolban
+
+We are back</info>
+ <songlength>377</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 22:24:04</locked_until>
+ <lastplayed>2018-05-24 20:06:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>7138</pouetid>
+ <ytid>JO7mRJIFVTM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="3176">Mel Funktion</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>MacOSX</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JO7mRJIFVTM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

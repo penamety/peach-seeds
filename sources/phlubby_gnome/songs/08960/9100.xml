@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9100">
+ <title>Tyhjan Pirtin Valssi</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="78">4.4615</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:58:03</locked_until>
+ <lastplayed>2018-06-06 09:40:50</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Celtic</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Irish</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7984">
+ <title>STS-06: Microdots</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="99">4.0303</rating>
+ 
+ <songlength>291</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 13:32:35</locked_until>
+ <lastplayed>2018-05-28 05:16:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31579</pouetid>
+ <ytid>v2_u6-qH0MM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1616">1in10</artist><artist id="1469">Man With No Alias</artist>
+ </artists>
+ <groups>
+  <group id="68">Synesthetics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>video</tag>
+  
+  <tag>XBOX</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=v2_u6-qH0MM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

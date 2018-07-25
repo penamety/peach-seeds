@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23262">
+ <title>Sleepwalker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5714</rating>
+ 
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 18:14:41</locked_until>
+ <lastplayed>2018-06-05 11:59:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15667</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="986">Randall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

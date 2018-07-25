@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1377">
+ <title>Eurochart 16</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.7083</rating>
+ <info>Eurocharts issue 16 diskmag BGM.</info>
+ <songlength>449</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-29 23:10:16</locked_until>
+ <lastplayed>2017-07-06 03:37:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11083</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  <group id="143">Static Bytes</group>
+ </groups>
+ 
+ <tags>
+  <tag>diskmag</tag>
+  
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

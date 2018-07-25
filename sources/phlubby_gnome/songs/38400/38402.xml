@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38402">
+ <title>Nobody&#39;s Bizniz</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.6923</rating>
+ <info>1st @ Streaming Music Compo for Revision 2013</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 14:44:19</locked_until>
+ <lastplayed>2018-06-04 18:03:46</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist><artist id="5373">SaVannaH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

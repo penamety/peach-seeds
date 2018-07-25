@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5700">
+ <title>Pushy</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ <info>Made for the multichannel music compo at The Party 1996. Not played.</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 10:43:46</locked_until>
+ <lastplayed>2017-10-05 04:28:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="939">POW</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

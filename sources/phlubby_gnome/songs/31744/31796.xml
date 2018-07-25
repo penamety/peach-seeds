@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31796">
+ <title>Khan</title>
+ <status v="A">Active</status>
+ <bitrate>171</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">4.0476</rating>
+ <info>&#34;Based on outtakes from the tracks Wuji and Five Heroes, as performed by Hanggai Band.&#34;
+
+[source: http://lug00ber.m0f0.net/demoscene/]</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 06:34:44</locked_until>
+ <lastplayed>2018-06-05 06:01:04</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>56651</pouetid>
+ <ytid>SlescOGygV8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Throat-Singing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SlescOGygV8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

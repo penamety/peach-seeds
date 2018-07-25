@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38854">
+ <title>Doctor</title>
+ <status v="A">Active</status>
+ <bitrate>113</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">2.4146</rating>
+ <info>	take a pill
+	take two
+	take five
+	you need your rest
+	you need your health
+
+	sickness
+
+	of the mind
+
+	medicate yourself
+	and it will all go away
+	no pain no worries
+	just you and the voices
+
+	listen to the inner child
+	listen to the doctor
+	for he is a wise old man
+	who knows what is good for you
+
+	better than you
+
+	you are sick
+
+	sick people need help
+	sick people are useless for the society
+	so you need help
+
+	sickness
+
+	of the body
+
+	cover your mouth when you cough
+	cover your eyes from the truth
+
+	walk through the contamination zone
+	covering the city from sky to ground
+
+	you and your sickness
+
+	alone
+
+	medicated
+
+	you need help
+
+	--
+	doctor - a demo for atari 2600
+	by trilobit
+
+	treatment brought to you by
+
+		ilmarque 20mg
+		- effect code
+		- demotool code
+		- texturing code ;)
+		- music
+
+		visy 40mg
+		- engine code
+		- design
+
+		viznut 600mg
+		- 3d code
+
+		B00daW 15mg
+		- music
+
+	aural delusions were created with a heavily modified
+	version of paul slo cum&#39;s music kit 2.
+
+	involuntary treatment administered to: 4d, ananasmurska, aspekt, 
+	australian drug foundation, byterapers, cncd, cpu, damones, 
+	darklite, dekadence, fairlight, fel, flo, mfx, pwp, traction,
+	triebkraft and tvt
+
+	a note from the coder:
+
+	$ef bottles of beer on the wall
+	3414 lines of code
+	dec $ef
+	$ef bottles of beer on the wall</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 02:34:16</locked_until>
+ <lastplayed>2018-05-23 23:47:27</lastplayed>
+ <platform id="46">Atari VCS (2600)</platform>
+ <type id="2">Demo</type>
+ <pouetid>51961</pouetid>
+ <ytid>XrZlbJfkT04</ytid>
+ 
+ 
+ <artists>
+  <artist id="2108">Ilmarque</artist>
+ </artists>
+ <groups>
+  <group id="749">Trilobit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XrZlbJfkT04</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

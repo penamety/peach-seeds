@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15381">
+ <title>Demon Macaroni</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>An entry for The Party&#39;96 4 channel compo, got 12th place.</info>
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-07 06:10:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2365">Caramel</artist><artist id="2939">Jisemdu</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

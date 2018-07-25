@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29520">
+ <title>Cowboy&#39;s Techno</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 18:28:37</locked_until>
+ <lastplayed>2018-05-10 16:03:06</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>54121</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4322">Vedem</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

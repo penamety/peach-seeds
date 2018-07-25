@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13823">
+ <title>Tired 2 Love</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.4528</rating>
+ 
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 10:18:33</locked_until>
+ <lastplayed>2018-06-15 09:13:02</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Schlager</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

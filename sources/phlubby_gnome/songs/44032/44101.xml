@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44101">
+ <title>Happy Chaos</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ <info>Compowinner of AY Music compo @ Chaos Constructions 2016</info>
+ <songlength>126</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 10:50:16</locked_until>
+ <lastplayed>2018-05-25 05:54:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/162300/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

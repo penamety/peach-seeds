@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19156">
+ <title>Freez Frame</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 06:50:23</locked_until>
+ <lastplayed>2018-06-17 01:23:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="529">Hollywood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Reverb</tag>
+  
+  <tag>Simple</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

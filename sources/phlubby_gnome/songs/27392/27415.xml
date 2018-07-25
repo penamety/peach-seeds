@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27415">
+ <title>Robocop 3 (remake)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.2877</rating>
+ 
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 05:50:48</locked_until>
+ <lastplayed>2018-06-14 05:55:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

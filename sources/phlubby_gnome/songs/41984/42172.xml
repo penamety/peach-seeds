@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42172">
+ <title>The Antirack</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 12:17:20</locked_until>
+ <lastplayed>2018-05-19 19:41:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2742</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="728">Marillion</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

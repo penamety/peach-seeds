@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9124">
+ <title>Kings of Evoke</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.5102</rating>
+ <info>2nd place in pc 64k compo at Scene Event 2004
+
+invitation for : Evoke 2004</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:45:56</locked_until>
+ <lastplayed>2018-06-07 11:00:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>12790</pouetid>
+ <ytid>YQ1uDEbhWO8</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="208">Equinox</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneEvent</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YQ1uDEbhWO8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

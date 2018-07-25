@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42977">
+ <title>Dark Space</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ 
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 11:02:44</locked_until>
+ <lastplayed>2018-05-31 05:23:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>3072</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

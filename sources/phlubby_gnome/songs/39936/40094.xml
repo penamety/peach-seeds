@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40094">
+ <title>Another Kind of Beauty</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.75</rating>
+ <info>MP3 audio from the demo &#34;Live Evil&#34; by Mandula. This demo version is slightly different from the XM version.</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 10:54:50</locked_until>
+ <lastplayed>2018-05-20 02:12:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>297</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist><artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=wSAkUZvhyv4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=172</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

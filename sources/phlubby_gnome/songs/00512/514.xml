@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="514">
+ <title>One Scotch Long</title>
+ <status v="I">Inactive</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.92</rating>
+ 
+ <songlength>1910</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="81">Azo</artist><artist id="4038">Punk Bitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

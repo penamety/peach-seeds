@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="462">
+ <title>Funky Ecstasy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ 
+ <songlength>355</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-04 13:28:41</locked_until>
+ <lastplayed>2017-08-29 06:10:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9139</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

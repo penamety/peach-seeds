@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26741">
+ <title>The Music the Trendy Kids Listen to These Days</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">3.4531</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 17:57:29</locked_until>
+ <lastplayed>2018-05-12 00:44:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53544</pouetid>
+ <ytid>k7GA_YyXOqY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=k7GA_YyXOqY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

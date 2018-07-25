@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8471">
+ <title>Masagin</title>
+ <status v="A">Active</status>
+ <bitrate>102</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="210">4.2952</rating>
+ <info>Magasin - Nvision 08 Invitation soundtrack
+
+1st place in pc demo compo at Breakpoint 2008 </info>
+ <songlength>474</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 06:11:55</locked_until>
+ <lastplayed>2018-05-21 00:27:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50131</pouetid>
+ <ytid>RboCh1FxrEg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group><group id="439">Neuro</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>long</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RboCh1FxrEg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

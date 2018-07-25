@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43111">
+ <title>Impending</title>
+ <status v="A">Active</status>
+ <bitrate>237</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>2nd at Revision 2016</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 18:59:21</locked_until>
+ <lastplayed>2018-06-10 22:17:24</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>67106</pouetid>
+ <ytid>qRVTI2y0BBg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>drone</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qRVTI2y0BBg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/155058/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

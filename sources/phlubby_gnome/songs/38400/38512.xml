@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38512">
+ <title>Mini-bus and Us</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.4865</rating>
+ <info>3rd place in Executable Music Oldschool Competition at Revision 2013.</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 10:01:32</locked_until>
+ <lastplayed>2018-06-07 19:14:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5348">Winks</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

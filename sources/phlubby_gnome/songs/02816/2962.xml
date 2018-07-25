@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2962">
+ <title>Hoffipolkka</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.2955</rating>
+ <info>from http://bitworld.bitfellas.org/demo.php?id=7086</info>
+ <songlength>68</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:06:24</locked_until>
+ <lastplayed>2018-05-24 07:54:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>polka</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

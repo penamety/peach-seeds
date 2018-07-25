@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26804">
+ <title>Chips Doodles</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">3.9677</rating>
+ <info>Tracked music entry at birdie 2009.</info>
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 17:37:57</locked_until>
+ <lastplayed>2018-04-04 14:53:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Birdie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1676">
+ <title>End Theme</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.7059</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 07:08:29</locked_until>
+ <lastplayed>2018-05-23 16:52:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4063</pouetid>
+ <ytid>5Ic_lAjiRjw</ytid>
+ <ytoffset>513</ytoffset>
+ 
+ <artists>
+  <artist id="319">Diablo</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AmigaConference</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5Ic_lAjiRjw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

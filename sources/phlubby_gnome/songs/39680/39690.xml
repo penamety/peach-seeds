@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39690">
+ <title>4th Dim@nsion</title>
+ <status v="A">Active</status>
+ <bitrate>957</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>Soundtrack from &#34;4D Demo 8&#34; demo by Lamers &amp; speccy.pl 
+
+1st Place in Combined Demo Compo at RetroKomp / LOAD ERROR 2013.</info>
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-19 01:50:33</locked_until>
+ <lastplayed>2017-07-10 23:13:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>62045</pouetid>
+ <ytid>KZkD9hKsZMA</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>LOAD_ERROR</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>RetroKomp</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KZkD9hKsZMA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

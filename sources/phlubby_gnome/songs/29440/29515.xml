@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29515">
+ <title>Dopplerdefekt</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ 
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 22:22:01</locked_until>
+ <lastplayed>2018-06-07 14:21:42</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>8367</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

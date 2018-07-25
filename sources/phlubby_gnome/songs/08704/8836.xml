@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8836">
+ <title>Obsoleet</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.3923</rating>
+ 
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 23:38:47</locked_until>
+ <lastplayed>2018-06-02 14:48:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13033</pouetid>
+ <ytid>MUWskk0k6XU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1331">Cairbre</artist>
+ </artists>
+ <groups>
+  <group id="459">Unreal Voodoo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MUWskk0k6XU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

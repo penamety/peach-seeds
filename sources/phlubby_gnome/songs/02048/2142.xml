@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2142">
+ <title>Baska</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4762</rating>
+ <info>Soundtrack from &#34;Project X.Y.Z.&#34; by Orange.
+
+2nd place in pc demo compo at Juhla 1995.</info>
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 19:20:46</locked_until>
+ <lastplayed>2018-06-06 02:34:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1304</pouetid>
+ <ytid>F6dkxwYmoxc</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>8chn</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Juhla</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=F6dkxwYmoxc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

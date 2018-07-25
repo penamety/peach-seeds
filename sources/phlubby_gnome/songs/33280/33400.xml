@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33400">
+ <title>Around the Moon</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ 
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-08 08:54:50</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

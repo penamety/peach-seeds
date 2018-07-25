@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4121">
+ <title>Rendez Vous 4</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.4</rating>
+ 
+ <songlength>263</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 21:05:42</locked_until>
+ <lastplayed>2017-10-30 14:04:09</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurodance</tag>
+  
+  <tag>Jarre</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

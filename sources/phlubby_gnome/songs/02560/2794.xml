@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2794">
+ <title>Lackerad Keramik</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.1212</rating>
+ <info>The sampletext states that this was made for the chipmusic compo at &#34;Krangparty&#34;, but it does not state which year.</info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-30 14:47:51</locked_until>
+ <lastplayed>2018-01-13 02:35:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Krangparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10430">
+ <title>Arcade Classics</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.0189</rating>
+ <info>Updated version, uploaded by [user]franz_koopa[/user]
+
+&#34;From Stone Oakvalley&#39;s Authentic Sid Collection (loop &amp; fadeout added)
+It seems that guitar samples are played properly only in MOS6581R4 recording&#34;</info>
+ <songlength>402</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 17:57:31</locked_until>
+ <lastplayed>2018-06-14 13:06:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>45838</pouetid>
+ <ytid>le5FCqYVVw4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64samples</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=132</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

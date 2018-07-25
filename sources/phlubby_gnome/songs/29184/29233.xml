@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29233">
+ <title>Unrealsuperheroic</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="85">4.2</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 03:23:05</locked_until>
+ <lastplayed>2018-05-17 13:24:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

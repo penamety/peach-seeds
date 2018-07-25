@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7793">
+ <title>Phunq Ethereal</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.875</rating>
+ <info>Ranked 8th in the 4channel music compo at The Gathering 1995.</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 12:42:33</locked_until>
+ <lastplayed>2018-04-26 06:31:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="553">Interphace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

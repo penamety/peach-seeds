@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37888">
+ <title>fr-055: 828</title>
+ <status v="A">Active</status>
+ <bitrate>169</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">2.8182</rating>
+ <info>See here for the original mixed tracks:
+
+http://www.entity.be/entity/releases/release37.htm</info>
+ <songlength>508</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 15:20:50</locked_until>
+ <lastplayed>2018-05-15 05:24:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>29739</pouetid>
+ <ytid>smVk2bizXF4</ytid>
+ 
+ 
+ <artists>
+  <artist id="4184">ps</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Icons</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=smVk2bizXF4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12892</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

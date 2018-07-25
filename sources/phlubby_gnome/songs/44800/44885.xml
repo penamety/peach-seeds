@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44885">
+ <title>Stars</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.5</rating>
+ <info>This track was made for One Hour Battle (astronaut yoga meeting)
+[url=http://battleofthebits.org/arena/OHC/3640/]battleofthebits.org/arena/OHC/3640/[/url]
+
+Release date:
+12 March 2018
+</info>
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 18:34:39</locked_until>
+ <lastplayed>2018-05-30 17:47:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5727">Quiet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>botb</tag>
+  
+  <tag>OHB</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/dimaquiet/stars</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40908">
+ <title>Aural Sunflower [compo version]</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="39">4.5128</rating>
+ <info>A re-arranged version of the same tune from the demo,  was made specially for Gravity 97&#39; multichannel compo, I guess.
+
+The size of this version is 562 kB, which is a little smaller from the demo version.</info>
+ <songlength>326</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 00:24:08</locked_until>
+ <lastplayed>2018-05-31 08:03:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>85</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  <group id="21">Pulse [PLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Gravity</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

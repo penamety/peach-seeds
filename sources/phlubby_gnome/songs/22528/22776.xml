@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22776">
+ <title>Reditus Atari XL Demo Soundtrack</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.2609</rating>
+ <info>Not done by Pink himself, so who&#39;s the interpreter?
+
+[i]The answer is out there[/i]: [url]http://pouet.net/nfo.php?which=13009[/url]</info>
+ <songlength>298</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-04 16:10:14</locked_until>
+ <lastplayed>2017-09-26 23:44:33</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="5">Remix</type>
+ <pouetid>13009</pouetid>
+ <ytid>stLlM0bNA_A</ytid>
+ <ytoffset>184</ytoffset>
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  <group id="256">Abyss</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Quast</tag>
+  
+  <tag>Reditus</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Zelax</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=stLlM0bNA_A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8612">
+ <title>Sunflower</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.2353</rating>
+ 
+ <songlength>87</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 20:42:46</locked_until>
+ <lastplayed>2018-05-26 12:11:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>14585</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1619">BLZ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18322">
+ <title>If Pigs Could Fly [maintune]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.7097</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 20:27:18</locked_until>
+ <lastplayed>2018-06-14 00:16:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11835</pouetid>
+ <ytid>75G5kE7m_SE</ytid>
+ <ytoffset>135</ytoffset>
+ 
+ <artists>
+  <artist id="2284">Beast [se]</artist>
+ </artists>
+ <groups>
+  <group id="530">The Syndicate [TSC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=75G5kE7m_SE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/78489/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29636">
+ <title>My Favourite Song</title>
+ <status v="B">Banned</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">1.8387</rating>
+ 
+ <songlength>318</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-06-05 13:19:21</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1155">Subi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Annoying</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

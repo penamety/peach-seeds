@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34042">
+ <title>Back in the Saddle</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1111</rating>
+ <info>2nd in Sunrise 11 Oldskool music compo. Ziphoid&#39;s comeback tune!</info>
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-03 18:14:01</locked_until>
+ <lastplayed>2018-05-01 15:36:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>dylKn8aaOSk</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1666">Ziphoid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Sunrise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

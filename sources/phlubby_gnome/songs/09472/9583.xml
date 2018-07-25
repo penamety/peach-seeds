@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9583">
+ <title>Ocean Loader v.4</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.358</rating>
+ <info>Used as a (tape) loader tune in a numerous Ocean and Imagine games, enjoy!</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 13:19:11</locked_until>
+ <lastplayed>2018-06-12 21:55:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>tfNxV87bKgM</ytid>
+ <ytoffset>80</ytoffset>
+ 
+ <artists>
+  <artist id="1788">Jonathan Dunn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Loader</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29779">
+ <title>3545 II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.5814</rating>
+ <info>recording from stone oakvalley&#39;s collection
+http://www.6581-8580.com/</info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 05:24:51</locked_until>
+ <lastplayed>2018-04-26 02:46:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>36612</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="614">2000 A.D. [AD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33926">
+ <title>Bitblaster (Party Version)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.75</rating>
+ <info>Ranked 2nd in the tiny music compo at Evoke 2011.</info>
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 08:58:10</locked_until>
+ <lastplayed>2017-10-31 16:47:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2211">Alk</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

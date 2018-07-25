@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34889">
+ <title>Calming Storm</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>Tracked music for the 1999 GENESiS&#39; demo called &#34;Storm&#34;. Ranked 4th in the Euskal demo compo.</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 23:54:37</locked_until>
+ <lastplayed>2017-11-16 04:16:47</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>248</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4974">Deep Noise</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Euskal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

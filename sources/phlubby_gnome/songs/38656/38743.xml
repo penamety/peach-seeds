@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38743">
+ <title>Stiletto</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 14:01:14</locked_until>
+ <lastplayed>2017-11-22 01:51:32</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>31520</pouetid>
+ <ytid>JcHNzaUBL4Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="4292">iq (es)</artist>
+ </artists>
+ <groups>
+  <group id="438">RGBA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="962">
+ <title>Midnight Blues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.9375</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-27 03:32:01</locked_until>
+ <lastplayed>2018-02-09 03:28:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>2524</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist><artist id="1066">Sid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

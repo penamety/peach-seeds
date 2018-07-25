@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38830">
+ <title>Light &#39;96</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.3478</rating>
+ <info>Soundtrack from &#34;Illusion&#34; demo by X-Trade (ZX), 1st at Enlight 1996.</info>
+ <songlength>304</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 20:01:41</locked_until>
+ <lastplayed>2018-05-23 14:28:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1581</pouetid>
+ <ytid>NVrZuSYDVVg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5389">Deni</artist>
+ </artists>
+ <groups>
+  <group id="211">X-Trade</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NVrZuSYDVVg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2717</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/28304/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/10790/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

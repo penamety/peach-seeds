@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5975">
+ <title>I&#39;ve got a Pony</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2449</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 03:09:01</locked_until>
+ <lastplayed>2018-04-03 00:31:20</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

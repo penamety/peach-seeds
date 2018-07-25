@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19727">
+ <title>The Wanderer 04 - Guitar Slinger</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.5658</rating>
+ 
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:18:13</locked_until>
+ <lastplayed>2018-05-24 23:59:38</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://open.spotify.com/track/5p7UTIm8NrZ6YqRyiQBo1X</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

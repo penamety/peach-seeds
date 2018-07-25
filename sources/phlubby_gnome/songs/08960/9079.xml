@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9079">
+ <title>Skylight Skippers</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.6667</rating>
+ 
+ <songlength>356</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 16:12:49</locked_until>
+ <lastplayed>2018-06-05 09:18:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9169</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

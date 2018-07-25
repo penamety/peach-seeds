@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9112">
+ <title>Middle Earth Theme</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="152">4.2434</rating>
+ <info>This song has been also used in [song]19639[/song]</info>
+ <songlength>406</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 16:13:01</locked_until>
+ <lastplayed>2018-05-21 19:54:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ <ytid>pXpcY_mrfmk</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="545">Legacy (Atari)</group><group id="18">Overlanders</group><group id="544">ST Connexion</group>
+ </groups>
+ 
+ <tags>
+  <tag>froggies</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pXpcY_mrfmk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23827">
+ <title>Startsong</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.0</rating>
+ 
+ <songlength>86</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 19:54:32</locked_until>
+ <lastplayed>2018-03-19 18:48:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11097</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

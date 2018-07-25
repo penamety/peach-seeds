@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40411">
+ <title>Blitzgewitter</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="35">3.8286</rating>
+ <info>Deep below the surface a power resides, an ancient power that burns slowly and strongly. It burns with a venomous  magnetic aura known only to the strangest beings. The time for release has come, the eons have passed and the  world is charged and ripe.
+
+A storm is brewing.</info>
+ <songlength>361</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 14:01:30</locked_until>
+ <lastplayed>2018-06-14 11:15:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62970</pouetid>
+ <ytid>sjynYgGgKPg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sjynYgGgKPg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

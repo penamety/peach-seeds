@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30976">
+ <title>Renaissance</title>
+ <status v="A">Active</status>
+ <bitrate>104</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.8571</rating>
+ <info>&#34;Music for the Byterapers Reneissance demo is a mixture of outboard gear
+and ITB orchestral libraries.  One of the outboard gear I used is my all
+time favourite Studio Electronics ATC-X analogue monosynth which I ran
+thru either Moogerfooger lowpassfilter, Frostwave Resonator (Low Pass
+Filter) or Ibanez TS9DX distortion pedal.  I also used fully loaded Korg
+Triton and it was used to the C64-like lead sounds and the electronic
+drums you hear on the piece.  Tritons sounds were again processed thru
+the filters mentioned.   Orchestral libraries I used were mostly Project
+SAM brass/True Strike and for strings and woods I used Vienna Special
+Edition Libraries.  The rest of the instruments (to double or to use
+individually) were from the EWQLSO Platinum Library..  I used Protools
+LE for midi editing and then the tracks were mixed our  studio (Protools
+HD3 + outboard). (Watch out for the StereoVersion!!)   Nelli Nyman spoke
+the text written by Grendel.  I think that this also adds a very nice
+dimension to the demo..
+
+I really wanted to combine the &#34;oldschool&#34; sound with some modern
+classical elements to respect the old and to add something new.&#34;</info>
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 00:04:04</locked_until>
+ <lastplayed>2018-03-20 17:44:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51153</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

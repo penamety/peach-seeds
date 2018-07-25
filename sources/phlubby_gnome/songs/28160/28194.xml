@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28194">
+ <title>[Deus Ex] Nauticus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.3125</rating>
+ 
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 05:50:28</locked_until>
+ <lastplayed>2018-05-21 12:29:57</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>DeusEx</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

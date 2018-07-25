@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5961">
+ <title>Globetrotter Blues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.0882</rating>
+ 
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 18:53:09</locked_until>
+ <lastplayed>2018-05-07 05:59:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3948</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="168">Limited Edition [LED]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Saturne</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

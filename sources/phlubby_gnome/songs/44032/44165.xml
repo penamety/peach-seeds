@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44165">
+ <title>Midsummer Melancholy</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.1667</rating>
+ <info>C64 Music Competition at Gubbdata 2017 :  #4</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 08:44:58</locked_until>
+ <lastplayed>2018-04-13 17:19:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5391">Flex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Gubbdata</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=157061</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

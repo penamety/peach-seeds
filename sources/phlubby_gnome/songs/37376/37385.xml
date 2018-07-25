@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37385">
+ <title>Testdrive</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.0</rating>
+ <info>Remix of Test Drive 1 (1987) title music </info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-16 14:32:27</locked_until>
+ <lastplayed>2017-10-08 01:14:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14576</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

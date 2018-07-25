@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24578">
+ <title>The Girl with the Stars in her Hands</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 03:27:17</locked_until>
+ <lastplayed>2018-02-25 07:28:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>500</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1096">Smash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4095">
+ <title>Mox Ruby</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0714</rating>
+ 
+ <songlength>51</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 15:29:47</locked_until>
+ <lastplayed>2018-05-21 22:45:06</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>magical</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44024">
+ <title>4k Horizon Machine</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">4.0</rating>
+ <info>Soundrack for our 4k intro &#34;Horizon machine&#34; @ Revision 2017
+Using some trickery for physical modelling.
+Filesize for music+player: ca. 1kb
+
+4klang synth by Gopher/Alcatraz</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:26:44</locked_until>
+ <lastplayed>2018-06-12 21:44:21</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>69653</pouetid>
+ <ytid>WdWBnrK5GrE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>4klang</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WdWBnrK5GrE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/170744/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44771">
+ <title>Chipgland</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.5</rating>
+ <info>ppsg chipgland awakening °@°</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 10:48:56</locked_until>
+ <lastplayed>2018-05-28 08:06:33</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>PPSG</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

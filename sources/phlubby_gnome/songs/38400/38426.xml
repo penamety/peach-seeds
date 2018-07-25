@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38426">
+ <title>Project:Ion</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-13 04:13:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61229</pouetid>
+ <ytid>xCT0ubEhJxo</ytid>
+ 
+ 
+ <artists>
+  <artist id="3299">Noisefever</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xCT0ubEhJxo</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

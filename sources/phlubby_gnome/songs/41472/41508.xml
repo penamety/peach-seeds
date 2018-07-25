@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41508">
+ <title>Funkbee</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 23:29:34</locked_until>
+ <lastplayed>2018-03-05 01:22:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1810">Fndr</artist><artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

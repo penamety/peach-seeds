@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27301">
+ <title>Sweet Pumpin</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.4615</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 08:27:22</locked_until>
+ <lastplayed>2018-03-07 18:30:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13080</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3961">Raztaman</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

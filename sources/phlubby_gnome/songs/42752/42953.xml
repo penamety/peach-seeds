@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42953">
+ <title>Bizzare Creature</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 00:54:39</locked_until>
+ <lastplayed>2018-06-12 03:33:56</lastplayed>
+ <platform id="52">Atari STe</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

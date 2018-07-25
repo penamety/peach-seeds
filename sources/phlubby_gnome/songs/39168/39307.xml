@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39307">
+ <title>Twillight Sparkle</title>
+ <status v="A">Active</status>
+ <bitrate>171</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Vedders contribution to Gerp 2013 4ch music compo. Remote-entry. Reached 7:th place.</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 16:42:25</locked_until>
+ <lastplayed>2018-05-30 04:09:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

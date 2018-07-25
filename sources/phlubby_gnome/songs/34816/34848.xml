@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34848">
+ <title>Composed Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.9545</rating>
+ 
+ <songlength>307</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 13:05:00</locked_until>
+ <lastplayed>2018-05-21 07:55:19</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58277</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4338">One Man Group</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Beat</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

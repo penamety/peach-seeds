@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7677">
+ <title>Remix Old Skool</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="133">4.4135</rating>
+ <info>1 - Telephone - Obarski (amiga)
+2 - behind the walls - Mantronix/Razor 1911 (amiga)
+3 - Paranoimia Crack Intro - TSM/Sunriders (amiga)
+4 - Goldrunner - Human Race Theme - Rob Hubbard/Mastertronic (c64)
+5 - Sanxion - Rob Hubbard/Thalamus (c64)
+6 - Noisy Pillars - Music Demo by Scoop - Jeroen Tel/MON (C64)
+7 - Monday - Random Voice/Symbiosis (amiga)</info>
+ <songlength>535</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 18:49:56</locked_until>
+ <lastplayed>2018-06-12 00:44:42</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

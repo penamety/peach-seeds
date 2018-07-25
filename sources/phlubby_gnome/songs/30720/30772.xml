@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30772">
+ <title>The Executable Universe</title>
+ <status v="A">Active</status>
+ <bitrate>238</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">3.6154</rating>
+ 
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 17:35:00</locked_until>
+ <lastplayed>2018-06-06 10:33:26</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>24534</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

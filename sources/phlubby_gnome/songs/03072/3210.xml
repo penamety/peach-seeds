@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3210">
+ <title>Last Ninja - Extended</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">4.2418</rating>
+ 
+ <songlength>345</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:42:17</locked_until>
+ <lastplayed>2018-06-06 17:56:49</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="550">Instant Remedy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ninja</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

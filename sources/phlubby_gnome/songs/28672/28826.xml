@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28826">
+ <title>Superheroes</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.3889</rating>
+ 
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 06:06:47</locked_until>
+ <lastplayed>2018-06-12 23:10:10</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1934">Stage 7</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Musicdisk</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

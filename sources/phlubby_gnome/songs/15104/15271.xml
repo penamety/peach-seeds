@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15271">
+ <title>Toymaker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ 
+ <songlength>53</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-10 19:07:53</locked_until>
+ <lastplayed>2018-01-22 03:25:44</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

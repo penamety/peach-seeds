@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4989">
+ <title>Time&#39;s the Remedy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8621</rating>
+ 
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 02:25:40</locked_until>
+ <lastplayed>2018-06-14 13:55:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3614</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="821">Mr Man</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

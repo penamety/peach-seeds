@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12282">
+ <title>The Land of Flying Cubes</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="41">4.0976</rating>
+ 
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 23:57:30</locked_until>
+ <lastplayed>2018-05-15 18:38:59</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>53911</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

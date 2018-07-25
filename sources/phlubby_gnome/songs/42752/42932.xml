@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42932">
+ <title>Electronical Move</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>Aegis Sonix tune from [url]http://janeway.exotica.org.uk/release.php?id=14062[/url] containing the earliest Amiga tunes from SLL</info>
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-11 00:06:08</locked_until>
+ <lastplayed>2018-01-21 11:10:49</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>sonix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

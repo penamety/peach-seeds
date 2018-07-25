@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7115">
+ <title>C&#39;est la Compet&#39;</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-19 17:42:29</locked_until>
+ <lastplayed>2017-12-30 01:22:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jam</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

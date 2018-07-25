@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12174">
+ <title>Galactic Voyage</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">4.3176</rating>
+ <info>http://www.paniq.cc/pages/from_zero_to_hero.html</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 14:52:31</locked_until>
+ <lastplayed>2018-05-20 00:57:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>theremin</tag>
+  
+  <tag>triangle</tag>
+  
+  <tag>Trombone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

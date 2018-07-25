@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3084">
+ <title>Jimi Hendrix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 22:07:03</locked_until>
+ <lastplayed>2018-06-09 09:06:42</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="513">Hein Design</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

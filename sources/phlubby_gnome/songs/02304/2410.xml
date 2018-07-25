@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2410">
+ <title>Her6</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 01:16:13</locked_until>
+ <lastplayed>2017-07-14 02:06:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>5022</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

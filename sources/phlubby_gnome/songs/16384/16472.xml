@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16472">
+ <title>Show me your dreams</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.05</rating>
+ 
+ <songlength>275</songlength>
+ <locked>True</locked>
+ <locked_until>2018-03-03 00:26:34</locked_until>
+ <lastplayed>2018-02-09 12:54:51</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist><artist id="4403">Titi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+  <tag>multipart</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Samba</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2554">
+ <title>Dextrous 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 12:19:45</locked_until>
+ <lastplayed>2018-02-01 04:24:17</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11196</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3959">Dextrous</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

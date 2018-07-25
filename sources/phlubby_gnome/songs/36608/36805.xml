@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36805">
+ <title>tAAt 20v juhlasikermä (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>161</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 20:26:55</locked_until>
+ <lastplayed>2018-05-01 05:53:35</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59612</pouetid>
+ <ytid>Xi7u2zHZoJY</ytid>
+ 
+ 
+ <artists>
+  <artist id="5178">aSTrAaLIkaNisteri</artist>
+ </artists>
+ <groups>
+  <group id="4">tAAt</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Xi7u2zHZoJY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

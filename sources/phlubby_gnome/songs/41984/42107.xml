@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42107">
+ <title>Legacy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0833</rating>
+ <info>Tune from C64 demo Time Machine by Booze Design.
+http://csdb.dk/release/?id=116340</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 09:24:19</locked_until>
+ <lastplayed>2018-03-04 23:54:07</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>61079</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>DaftPunk</tag>
+  
+  <tag>tron</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

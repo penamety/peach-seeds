@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34798">
+ <title>Coming Home</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ <info>Ranked 10th in the streaming music compo at tUm 2011.</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-06 19:22:51</locked_until>
+ <lastplayed>2017-12-19 04:29:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group><group id="204">Paradise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

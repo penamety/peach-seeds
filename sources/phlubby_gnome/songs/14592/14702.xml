@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14702">
+ <title>TSC 99</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.75</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-31 08:21:35</locked_until>
+ <lastplayed>2018-01-09 10:28:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2284">Beast [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

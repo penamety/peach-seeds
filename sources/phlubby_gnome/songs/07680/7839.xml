@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7839">
+ <title>Myth - Title</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.6296</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 06:59:08</locked_until>
+ <lastplayed>2018-06-16 11:28:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>38285</pouetid>
+ <ytid>Ede0NkkMXH0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1761</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2605">
+ <title>Chambers of Shaolin [24]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.6744</rating>
+ 
+ <songlength>443</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 19:00:31</locked_until>
+ <lastplayed>2018-06-11 07:24:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>long</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>OutOfSync</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2969</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

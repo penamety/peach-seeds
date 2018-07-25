@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11008">
+ <title>Archon</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ <info>Remix of the Archon game theme done in Buzz Tracker</info>
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-12 05:07:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1880">Blurry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

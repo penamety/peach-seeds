@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44168">
+ <title>The Adventure</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ <info>http://csdb.dk/sid/?id=47039
+
+2xSID chips (6 channels)</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 13:49:16</locked_until>
+ <lastplayed>2018-03-03 05:17:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>59252</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38099">
+ <title>Budastep</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-20 06:22:13</locked_until>
+ <lastplayed>2018-01-30 02:49:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4450">Ulrick</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Function</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

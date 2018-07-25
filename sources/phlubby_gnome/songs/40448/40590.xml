@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40590">
+ <title>Underground</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">2.9167</rating>
+ 
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 11:08:02</locked_until>
+ <lastplayed>2018-05-25 03:45:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

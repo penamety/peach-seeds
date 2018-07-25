@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31524">
+ <title>Immortal</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="26">3.0</rating>
+ <info>Soundtrack from &#34;Lech&#34; - fast and furious techno Amiga Demo by the Freezers... Just the way we like &#39;em.  Classic!
+
+Ranked 1st in the Amiga Demo competition at the Eastern Conference 1995.</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 04:56:47</locked_until>
+ <lastplayed>2018-05-11 14:37:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4269</pouetid>
+ <ytid>ACF5LSD_Nu4</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="2295">Bethoven</artist>
+ </artists>
+ <groups>
+  <group id="414">Freezers [FRS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EasternConference</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VEFROvu3mXQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/152104/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39074">
+ <title>The Chase</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.8261</rating>
+ <info>Compo entry for streamed music compo at Nordlicht 2013</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 23:35:50</locked_until>
+ <lastplayed>2018-05-06 00:47:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>getdown</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

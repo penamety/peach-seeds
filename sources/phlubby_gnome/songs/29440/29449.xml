@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29449">
+ <title>Valitus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">1.8737</rating>
+ <info>Lyrics:
+Ei peliä voi aina voittaa, 
+mutta kyllä aika sekin koittaa
+
+Uudelleen ja aina yhä uudelleen...
+
+Translation:
+The game cannot always be won
+but surely also that day will come
+
+over and over again...
+</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 10:43:25</locked_until>
+ <lastplayed>2018-04-30 13:54:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3764">T.o.B</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>DrunkSinging</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

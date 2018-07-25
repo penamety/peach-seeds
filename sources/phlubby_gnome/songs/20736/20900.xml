@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20900">
+ <title>International Karate Plus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.625</rating>
+ 
+ <songlength>457</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 16:23:22</locked_until>
+ <lastplayed>2018-06-04 20:38:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38256">
+ <title>Vector (main)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">4.0</rating>
+ <info>In the YouTube video another tune is used. However in the original (?) release, Firefox&amp;Twins&#39; music is used. Check [url=http://bitworld.bitfellas.org/demo.php?id=8877]bitfellas[/url], named &#34;main&#34;.</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 11:41:07</locked_until>
+ <lastplayed>2018-03-26 09:09:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19574</pouetid>
+ <ytid>C86U5raARtk</ytid>
+ <ytoffset>21</ytoffset>
+ 
+ <artists>
+  <artist id="447">Firefox</artist><artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

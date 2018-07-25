@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40563">
+ <title>The Sea</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 09:18:03</locked_until>
+ <lastplayed>2018-05-17 02:07:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>63539</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="878">O2</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

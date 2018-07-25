@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6768">
+ <title>22k</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.7083</rating>
+ 
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 02:19:04</locked_until>
+ <lastplayed>2018-06-05 06:48:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9278</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

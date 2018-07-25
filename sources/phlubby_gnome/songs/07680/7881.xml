@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7881">
+ <title>Liquid sinus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.2857</rating>
+ 
+ <songlength>394</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 12:09:18</locked_until>
+ <lastplayed>2018-06-11 15:08:09</lastplayed>
+ 
+ 
+ 
+ <ytid>JVe7DOW_jpU</ytid>
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JVe7DOW_jpU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

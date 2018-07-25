@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6361">
+ <title>Battle Squadron [title]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">4.4775</rating>
+ <info>Format is Ron Klaren (.rk)
+
+A music and fx format created by Ivo Zoer and Ron Klaren. Files in this format have an eagleplayer specific header. </info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:54:22</locked_until>
+ <lastplayed>2018-05-29 15:35:59</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>KRfCWIK-nzM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/72</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6JDJOaTcpz4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

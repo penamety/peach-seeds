@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33085">
+ <title>The Emboldment</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.5385</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 07:14:18</locked_until>
+ <lastplayed>2018-05-02 08:22:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4524">Anty</artist><artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

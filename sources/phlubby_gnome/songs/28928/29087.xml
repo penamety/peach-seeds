@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29087">
+ <title>Safe With Me</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.0526</rating>
+ <info>Winner of the tracking compo at Birdie #20.</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 15:18:41</locked_until>
+ <lastplayed>2018-03-11 22:22:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1995">Joule</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

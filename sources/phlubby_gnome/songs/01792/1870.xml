@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1870">
+ <title>Santamagotchi (Two in one)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.5402</rating>
+ <info>The remix of  Astaroth - credits/game over music by Jochen Hippel</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 14:02:34</locked_until>
+ <lastplayed>2018-05-17 13:24:40</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>994</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DHS</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

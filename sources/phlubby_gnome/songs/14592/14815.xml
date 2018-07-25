@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14815">
+ <title>Free</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 12:39:46</locked_until>
+ <lastplayed>2018-05-11 05:02:15</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ <pouetid>14171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2293">Betelgeuze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

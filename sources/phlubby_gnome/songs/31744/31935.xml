@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31935">
+ <title>Trance My Pants</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1579</rating>
+ <info>8th in executable music competition @ Breakpoint&#39;09</info>
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-03 02:46:14</locked_until>
+ <lastplayed>2017-09-25 03:24:46</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4297">Gopher</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

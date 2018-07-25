@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3984">
+ <title>Amnesia</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 04:30:28</locked_until>
+ <lastplayed>2017-11-11 23:01:20</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

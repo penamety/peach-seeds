@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44342">
+ <title>Acquiring The Taste</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5</rating>
+ <info>Original by Gentle Giant from 1971 album Acquiring The Taste</info>
+ <songlength>99</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 01:04:22</locked_until>
+ <lastplayed>2018-03-27 18:13:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Progressive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27191">
+ <title>Pinus Contorta</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-18 00:41:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11576</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3947">Ogier le Petit</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

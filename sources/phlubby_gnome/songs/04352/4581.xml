@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4581">
+ <title>You and Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ 
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-27 21:26:56</locked_until>
+ <lastplayed>2017-08-22 03:06:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2054">Evade</artist><artist id="740">Martyn</artist>
+ </artists>
+ <groups>
+  <group id="324">Discofrillorna</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

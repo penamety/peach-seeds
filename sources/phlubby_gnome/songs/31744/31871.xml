@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31871">
+ <title>Reversed</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.9286</rating>
+ 
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 20:32:24</locked_until>
+ <lastplayed>2018-03-17 04:48:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54858</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2576">D-Force</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=k-6eX4penqA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

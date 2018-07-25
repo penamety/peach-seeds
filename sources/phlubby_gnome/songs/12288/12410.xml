@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12410">
+ <title>Sleepwalkers journey (Fusion)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.0</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-21 19:22:21</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6605</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2030">spook</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

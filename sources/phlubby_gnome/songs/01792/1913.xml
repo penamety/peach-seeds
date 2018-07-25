@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1913">
+ <title>Enchantement de Musique</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 21:45:06</locked_until>
+ <lastplayed>2018-05-30 03:56:41</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="367">Dragonfly</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

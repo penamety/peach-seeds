@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9347">
+ <title>Voyage Spatial</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0476</rating>
+ 
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 18:29:54</locked_until>
+ <lastplayed>2018-05-11 14:43:42</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="325">Digital Sanyo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FrenchSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

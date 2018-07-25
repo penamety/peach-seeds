@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36049">
+ <title>Come Back Sometime</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 08:09:14</locked_until>
+ <lastplayed>2018-04-17 01:24:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>48848</pouetid>
+ <ytid>Nxum0Xjzpgc</ytid>
+ 
+ 
+ <artists>
+  <artist id="3931">Bernard Sumner</artist>
+ </artists>
+ <groups>
+  <group id="684">Relay</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Nxum0Xjzpgc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

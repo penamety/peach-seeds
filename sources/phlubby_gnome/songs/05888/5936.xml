@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5936">
+ <title>Bright Eyes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">4.5304</rating>
+ <info>Remix of Blood Sport by [artist]91[/artist].</info>
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 17:03:00</locked_until>
+ <lastplayed>2018-05-26 11:45:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

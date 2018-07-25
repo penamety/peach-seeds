@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30057">
+ <title>Bappalander</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.3175</rating>
+ <info>Tracked By:
+
+&#34;Speedo / Haujobb-DCS-Damage!
+
+Original C64-version &#34;Physician&#34;
+By Marco de Jong (Hithouse).
+
+Samples From
+Original C64-version,
+Various Chip-Tunes
+And Some From Me, Speedo.&#34;</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:06:26</locked_until>
+ <lastplayed>2018-05-22 07:41:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4394">Speedo</artist>
+ </artists>
+ <groups>
+  <group id="424">Damage [DMG]</group><group id="120">Dual Crew &amp; Shining</group><group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?124809</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

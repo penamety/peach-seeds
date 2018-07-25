@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30901">
+ <title>Bubble Brain</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">2.4902</rating>
+ <info>Song made under the name Alex Brand.</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 08:09:59</locked_until>
+ <lastplayed>2018-06-01 03:15:46</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2211">Alk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>chipmunk</tag>
+  
+  <tag>weird</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

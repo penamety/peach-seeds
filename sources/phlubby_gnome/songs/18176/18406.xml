@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18406">
+ <title>Amiga boy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.8857</rating>
+ 
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 16:56:53</locked_until>
+ <lastplayed>2018-06-08 19:43:47</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1388">Funky Fish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9947">
+ <title>Bombs Over Dresden</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.3137</rating>
+ <info>Winner of the C64 music compo at The SID Compo V</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 02:44:10</locked_until>
+ <lastplayed>2018-06-13 03:44:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>town</tag>
+  
+  <tag>war</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

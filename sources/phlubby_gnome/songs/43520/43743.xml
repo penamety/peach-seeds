@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43743">
+ <title>Zombie Curse</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 19:15:45</locked_until>
+ <lastplayed>2018-06-10 12:48:17</lastplayed>
+ <platform id="42">STM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

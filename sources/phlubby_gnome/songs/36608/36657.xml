@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36657">
+ <title>Our Drums Can Beat Your Moms&#39; </title>
+ <status v="A">Active</status>
+ <bitrate>209</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>1st place in combined 64k/4k intro compo at Solskogen 2012</info>
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-27 21:34:53</locked_until>
+ <lastplayed>2017-12-08 06:54:45</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59469</pouetid>
+ <ytid>HSorgRpp3Ls</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HSorgRpp3Ls</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

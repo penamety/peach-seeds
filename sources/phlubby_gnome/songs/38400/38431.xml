@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38431">
+ <title>Lanterns</title>
+ <status v="A">Active</status>
+ <bitrate>234</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0</rating>
+ <info>[b][i]Aceman&#39;s comments:[/i][/b]
+
+My first ever HivelyTracker module :)
+16 channels.
+
+Special thanks for all people involved in creating this great software, and for MasterM for his work on the replayer :)</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 18:10:29</locked_until>
+ <lastplayed>2018-05-12 05:48:37</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

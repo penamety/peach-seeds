@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3924">
+ <title>Live at Stage 9</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.125</rating>
+ 
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 09:59:27</locked_until>
+ <lastplayed>2018-03-10 03:42:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

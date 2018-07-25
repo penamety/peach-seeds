@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="815">
+ <title>On the Road</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.3125</rating>
+ 
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 13:15:56</locked_until>
+ <lastplayed>2018-05-19 22:37:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist><artist id="3118">Major Tom (FI)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

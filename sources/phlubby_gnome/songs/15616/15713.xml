@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15713">
+ <title>Monkey Island Part 4</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ 
+ <songlength>61</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 20:46:55</locked_until>
+ <lastplayed>2018-05-13 14:51:06</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist><artist id="3519">Rudolf Stember</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37707">
+ <title>Channels</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.7857</rating>
+ <info>Recorded by Xiny6581
+
+(8580 recording)</info>
+ <songlength>334</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-22 02:32:57</locked_until>
+ <lastplayed>2018-01-03 11:22:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>61079</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=113057</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

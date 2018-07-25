@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7630">
+ <title>Oh YM2149 Sexy Thing!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="86">4.3372</rating>
+ 
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:30:12</locked_until>
+ <lastplayed>2018-06-13 11:55:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8183</pouetid>
+ <ytid>z9GorwPlPJc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dreamhack</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vFYAW7gv_38</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

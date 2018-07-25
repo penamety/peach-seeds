@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5990">
+ <title>Mountain King</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5455</rating>
+ <info>radix/limited edition
+duration 1:14</info>
+ <songlength>74</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 19:54:31</locked_until>
+ <lastplayed>2018-06-05 16:10:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Classical</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Grieg</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

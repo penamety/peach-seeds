@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33934">
+ <title>Spacefunk</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.9167</rating>
+ 
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-02 00:29:12</locked_until>
+ <lastplayed>2017-09-26 16:52:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

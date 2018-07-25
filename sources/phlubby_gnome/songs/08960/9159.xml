@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9159">
+ <title>Pixy Fluff</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>AY chip music from ZX Spectrum from &#34;YOU ARE ADULT&#34; music-collection by AY-RIDERS (released in 2003).
+Download link http://ay-riders.speccy.cz/download/you_are_adult/04-Gasman-Pixy_Fluff.mp3</info>
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-22 06:04:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="472">Gasman</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

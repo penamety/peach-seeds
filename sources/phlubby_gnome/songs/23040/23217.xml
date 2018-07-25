@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23217">
+ <title>Celebration</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">2.6522</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:25:25</locked_until>
+ <lastplayed>2018-05-23 16:32:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15667</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="986">Randall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Rave</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7211">
+ <title>Starter</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.0612</rating>
+ 
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 07:33:34</locked_until>
+ <lastplayed>2018-06-06 09:37:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3179</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/69687/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

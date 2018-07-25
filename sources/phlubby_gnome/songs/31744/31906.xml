@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31906">
+ <title>Blümchen Rocks</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.2059</rating>
+ <info>A cover of a song called &#34;Nur geträumt&#34; by Blümchen (a lot of umlaute, right?) which in turn is a cover of the same song by Nena. I made that one in my umami green untz phase! </info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 22:43:57</locked_until>
+ <lastplayed>2017-07-14 02:01:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Instrumental</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

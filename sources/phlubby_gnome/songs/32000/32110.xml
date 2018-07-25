@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32110">
+ <title>Forcystus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1111</rating>
+ 
+ <songlength>278</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 08:36:02</locked_until>
+ <lastplayed>2018-05-12 00:25:20</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1992">Derris-Kharlan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

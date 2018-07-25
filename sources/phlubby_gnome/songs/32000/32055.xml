@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32055">
+ <title>House Zak</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 12:48:17</locked_until>
+ <lastplayed>2018-04-23 06:10:32</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3247">MSK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

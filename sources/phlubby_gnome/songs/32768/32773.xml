@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32773">
+ <title>Bright Star</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>Competed in the tracked music compo at Revision 2011.</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 12:29:17</locked_until>
+ <lastplayed>2018-05-17 03:50:39</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

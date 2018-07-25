@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26045">
+ <title>N.S.  Beat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.8</rating>
+ 
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 02:33:19</locked_until>
+ <lastplayed>2018-06-03 03:28:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>1331</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  <group id="347">Northstar</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

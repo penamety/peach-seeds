@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26612">
+ <title>Saint</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ 
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2014-07-21 17:24:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16312</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="139">Yaphan</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

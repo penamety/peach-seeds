@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38574">
+ <title>The Electric Skater</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.625</rating>
+ 
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 08:35:26</locked_until>
+ <lastplayed>2018-06-15 03:54:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>61184</pouetid>
+ <ytid>QZARi8gsbIE</ytid>
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

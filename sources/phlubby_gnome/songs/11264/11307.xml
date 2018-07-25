@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11307">
+ <title>Chart track</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 10:57:00</locked_until>
+ <lastplayed>2018-01-17 17:36:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

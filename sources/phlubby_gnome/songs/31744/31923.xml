@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31923">
+ <title>Towards a new decade</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.8</rating>
+ <info>My first mod written with renoise, parsed with xrns2xmod</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 15:58:12</locked_until>
+ <lastplayed>2018-03-09 06:54:38</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4644">Zenon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18083/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

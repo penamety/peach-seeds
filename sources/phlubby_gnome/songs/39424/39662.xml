@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39662">
+ <title>almoST real (Chip Entracte)</title>
+ <status v="A">Active</status>
+ <bitrate>411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.8333</rating>
+ <info>3rd place in Atari ST/STE YM2149 Music Compo at Silly Venture 2013</info>
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 17:50:11</locked_until>
+ <lastplayed>2018-06-06 21:47:26</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5439">mOdmate</artist>
+ </artists>
+ <groups>
+  <group id="775">Checkpoint [CPT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

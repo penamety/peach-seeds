@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40993">
+ <title>Trem Muls</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>Used in the same title of the demo in The Party 99&#39;.</info>
+ <songlength>322</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 09:11:47</locked_until>
+ <lastplayed>2017-10-28 04:32:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>679</pouetid>
+ <ytid>nXGB7TXiznI</ytid>
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nXGB7TXiznI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

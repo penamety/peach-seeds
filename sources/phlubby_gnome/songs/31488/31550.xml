@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31550">
+ <title>Mermaid</title>
+ <status v="A">Active</status>
+ <bitrate>228</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.6667</rating>
+ <info>1st place at Tokyo Demo Fest 2011</info>
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 08:46:43</locked_until>
+ <lastplayed>2017-08-23 06:19:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56555</pouetid>
+ <ytid>e_ZwBF6Co8U</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="4634">Project_M</artist>
+ </artists>
+ <groups>
+  <group id="417">Eldorado</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e_ZwBF6Co8U</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

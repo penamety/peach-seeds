@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33387">
+ <title>Antiriad Original Theme CPC [YM]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ <info>Original from the Amstrad CPC Game Antiriad (Palace Software 1986)</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 08:12:46</locked_until>
+ <lastplayed>2018-03-30 18:31:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

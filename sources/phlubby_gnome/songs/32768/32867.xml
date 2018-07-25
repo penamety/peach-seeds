@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32867">
+ <title>The Punchline</title>
+ <status v="A">Active</status>
+ <bitrate>96</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.8085</rating>
+ <info>kindergarden 2004 - 1st place, pc democompo
+</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 12:02:13</locked_until>
+ <lastplayed>2018-06-12 14:39:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13724</pouetid>
+ <ytid>hKJo32JPefw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1386">Flipside</artist><artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hKJo32JPefw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

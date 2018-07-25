@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42511">
+ <title>The Lyra III part 3</title>
+ <status v="A">Active</status>
+ <bitrate>795</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>For the SAM Coupé (SAA1099), recorded using SimCoupe.</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 03:00:39</locked_until>
+ <lastplayed>2017-12-06 03:27:52</lastplayed>
+ <platform id="51">Philips SAA</platform>
+ <type id="2">Demo</type>
+ <pouetid>20333</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

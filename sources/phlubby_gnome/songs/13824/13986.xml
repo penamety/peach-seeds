@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13986">
+ <title>Ghosts</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4118</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 23:23:57</locked_until>
+ <lastplayed>2018-05-25 04:18:51</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>3841</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>hanging_note</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

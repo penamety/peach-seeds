@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36920">
+ <title>Vers de Nouvelles Aventures</title>
+ <status v="A">Active</status>
+ <bitrate>153</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.1875</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 18:12:47</locked_until>
+ <lastplayed>2018-05-21 09:39:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44414">
+ <title>Way To Unity</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.8571</rating>
+ <info>This song was composed specifically for Chaos Constructions 2015 (5th place in ZX Spectrum  AY Music Competition).
+I thank the Russian scene for organizing events such as CC. THX !!!
+
+- Platform: ZX Spectrum
+- Type of music: AY chip
+- Editor: Vortex Tracker
+- Stereo Format: ACB
+- Format for download: MP3 (8,6MB)
+- Year of publication: 2015
+
+Caution !!!
+If it encounters you have any questions, comments or need any technical support, please contact me !!!
+Email: lamer.pinky@windowslive.com
+Facebook: Petr Pinky Klusal
+Twitter: Lamer Pinky
+Phone numb.: (+420) 732 424 922 (Czech republic)
+
+Thank you so much for listening !! Speccy rulezzz 4ever !! :-)</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 18:00:12</locked_until>
+ <lastplayed>2018-04-17 20:46:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5333">Lamer Pinky</artist>
+ </artists>
+ <groups>
+  <group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/145995/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

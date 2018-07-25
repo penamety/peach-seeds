@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9556">
+ <title>Syncopa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0476</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 17:41:32</locked_until>
+ <lastplayed>2018-05-15 03:03:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>31658</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1534">Runaro</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group>
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>smooth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

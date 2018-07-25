@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34150">
+ <title>Fodsved</title>
+ <status v="A">Active</status>
+ <bitrate>102</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>My first ever Adlib tune - created the same day I got my Soundblaster 2 card and JCH sent me his marvelous EdLib editor.</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 00:52:11</locked_until>
+ <lastplayed>2017-06-02 04:09:20</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

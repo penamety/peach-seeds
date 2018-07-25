@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33955">
+ <title>Rainbow Fieldz</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>Presented at Chaos Constructions 2004.
+Info from module: &#34;LavSoft productionz 27.11.96&#34;.
+
+[url=ftp://ftp.scene.org/pub/parties/2004/chaosconstructions04/m4ch/lav_raduga.zip]Download[/url]</info>
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 01:32:46</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

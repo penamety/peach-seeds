@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6176">
+ <title>Mulligatawny</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 16:31:29</locked_until>
+ <lastplayed>2018-01-26 21:53:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15884</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1000">Red Ribbon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

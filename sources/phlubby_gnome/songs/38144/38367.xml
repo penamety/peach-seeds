@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38367">
+ <title>Acid Panik Mix</title>
+ <status v="B">Banned</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="42">1.5714</rating>
+ 
+ <songlength>322</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-05-28 16:31:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>19710</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5318">Jack</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acid</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

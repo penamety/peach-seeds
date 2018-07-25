@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32610">
+ <title>Just a Few Days More</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.4898</rating>
+ <info>Winner of Nectarine&#39;s Spring Compo 2011.</info>
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 06:26:01</locked_until>
+ <lastplayed>2018-05-28 20:14:57</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

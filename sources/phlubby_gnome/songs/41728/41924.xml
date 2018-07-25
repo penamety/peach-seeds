@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41924">
+ <title>Space Cheddar</title>
+ <status v="A">Active</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.4828</rating>
+ <info>4th at Revision oldskool music compo
+authentic recording</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 16:20:42</locked_until>
+ <lastplayed>2018-06-16 12:41:38</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=137489</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/136072/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36812">
+ <title>Escape (main)</title>
+ <status v="A">Active</status>
+ <bitrate>238</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0833</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-02 07:39:59</locked_until>
+ <lastplayed>2017-11-14 23:36:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>59621</pouetid>
+ <ytid>CFO9mifkNEg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4913">Rayjan</artist>
+ </artists>
+ <groups>
+  <group id="654">Pyrotech</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CFO9mifkNEg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

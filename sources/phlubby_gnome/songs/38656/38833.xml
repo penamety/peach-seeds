@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38833">
+ <title>Super Trucker</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8571</rating>
+ 
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 08:48:27</locked_until>
+ <lastplayed>2018-05-23 00:33:34</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ <pouetid>1459</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

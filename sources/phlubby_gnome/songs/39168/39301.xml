@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39301">
+ <title>Methane Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.6296</rating>
+ <info>Originally made for demo Rowan Berries by Traction [url]http://www.pouet.net/prod.php?which=61216[/url]  but Preacher wanted to use the older ambient track for it in the end. 
+
+Later i sent it to be used in Spacenight videos, see [url]http://www.pouet.net/topic.php?which=9223&amp;page=1[/url] but no idea if they&#39;ll use it.
+
+Later also used for another Preacher demo at Revision 2014.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 10:02:34</locked_until>
+ <lastplayed>2018-06-04 00:48:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>62971</pouetid>
+ <ytid>_2k6TU3kmqw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_2k6TU3kmqw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

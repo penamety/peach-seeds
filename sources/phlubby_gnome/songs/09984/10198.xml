@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10198">
+ <title>Flowers</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.05</rating>
+ 
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 02:51:42</locked_until>
+ <lastplayed>2018-03-30 14:27:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

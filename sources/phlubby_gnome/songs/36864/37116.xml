@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37116">
+ <title>Galancy/ATL #021</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-23 22:19:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4926">Galancy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=41888</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34860">
+ <title>The End</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ 
+ <songlength>348</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 12:17:51</locked_until>
+ <lastplayed>2017-06-04 04:12:24</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58277</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4338">One Man Group</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

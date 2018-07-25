@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12374">
+ <title>Wizkid - Sunset Wizoward</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.6296</rating>
+ <info>Ocean, 1992</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 01:29:30</locked_until>
+ <lastplayed>2018-04-10 03:26:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>V12cYRmlekE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1744</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

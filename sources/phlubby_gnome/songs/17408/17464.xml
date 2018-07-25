@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17464">
+ <title>Nothing on TV</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 22:50:48</locked_until>
+ <lastplayed>2017-11-01 15:30:54</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2627">Don Quijote</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

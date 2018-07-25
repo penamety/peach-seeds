@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38210">
+ <title>Psyzine</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 06:41:10</locked_until>
+ <lastplayed>2018-03-14 04:50:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4909">Sensei</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

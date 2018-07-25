@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22149">
+ <title>From Beyond</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-25 01:50:47</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="846">Nemesis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12517">
+ <title>Back for a Dance</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0625</rating>
+ 
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 23:39:46</locked_until>
+ <lastplayed>2018-05-22 03:28:39</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

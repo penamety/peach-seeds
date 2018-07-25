@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4919">
+ <title>Coy-hot</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ 
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 10:21:21</locked_until>
+ <lastplayed>2018-05-07 04:37:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>17259</pouetid>
+ <ytid>GVlcQB2TR0A</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="810">Monty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GVlcQB2TR0A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

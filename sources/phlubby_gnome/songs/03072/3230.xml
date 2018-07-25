@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3230">
+ <title>Nexus 7</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="90">4.1667</rating>
+ 
+ <songlength>352</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 09:40:25</locked_until>
+ <lastplayed>2018-06-02 04:55:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>402</pouetid>
+ <ytid>KnFTW10Piyw</ytid>
+ 
+ 
+ <artists>
+  <artist id="553">Interphace</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

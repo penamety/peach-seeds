@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44171">
+ <title>Dump Draxco</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>C64 Music Competition at Silesia Party 5 :  #3</info>
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 12:15:02</locked_until>
+ <lastplayed>2018-04-21 17:43:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Silesia</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

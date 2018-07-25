@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41653">
+ <title>Midnight Solitude</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.8214</rating>
+ <info>2nd in The Demodays 2012 Streaming Music  Competition</info>
+ <songlength>463</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:29:40</locked_until>
+ <lastplayed>2018-06-12 01:07:35</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5580">Shade</artist>
+ </artists>
+ <groups>
+  <group id="336">Nowadays</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rWE5hZ3IxYM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/40792/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

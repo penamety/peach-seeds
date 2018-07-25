@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5825">
+ <title>A Touch of Spring</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.3455</rating>
+ <info>Arranged for one of those FC projects which never became reality.</info>
+ <songlength>139</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 02:08:05</locked_until>
+ <lastplayed>2018-06-13 14:56:14</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

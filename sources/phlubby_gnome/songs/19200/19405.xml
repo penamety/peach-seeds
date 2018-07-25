@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19405">
+ <title>Out Run - Magical Sound Shower</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7826</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-11 00:06:42</locked_until>
+ <lastplayed>2017-06-05 07:27:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2012">Jas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gameport</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

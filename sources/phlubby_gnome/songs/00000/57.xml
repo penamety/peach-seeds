@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="57">
+ <title>DNA Dream</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="135">4.4148</rating>
+ 
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 07:21:44</locked_until>
+ <lastplayed>2018-05-19 08:02:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9205</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?65225</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

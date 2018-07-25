@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12805">
+ <title>Sonic The Hedgehog - green hill (euroclub &#39;95 mix)</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.6327</rating>
+ <info>Original by Masato Nakamura.</info>
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 04:57:57</locked_until>
+ <lastplayed>2018-05-01 04:27:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="994">Rayza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Eurodance</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>ocremix</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://project2612.org/details.php?id=36</url>
+    <comment></comment>
+    <type id="10">
+        <name>Project2612</name>
+        <icon>/static/media/linkicons/project2612-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

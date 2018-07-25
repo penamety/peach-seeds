@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14643">
+ <title>Graveman</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.9412</rating>
+ 
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:55:48</locked_until>
+ <lastplayed>2018-05-23 16:30:25</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3873">BarZoule</artist><artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

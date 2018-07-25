@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12543">
+ <title>Victory</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ 
+ <songlength>78</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 06:28:26</locked_until>
+ <lastplayed>2018-05-09 15:08:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1998">Theo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

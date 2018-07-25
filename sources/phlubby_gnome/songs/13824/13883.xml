@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13883">
+ <title>Zimbabwe</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">1.7143</rating>
+ 
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 18:47:49</locked_until>
+ <lastplayed>2018-04-22 08:46:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14840</pouetid>
+ <ytid>95zeUsxnERw</ytid>
+ 
+ 
+ <artists>
+  <artist id="2208">Antibrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>pachelbel</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=95zeUsxnERw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

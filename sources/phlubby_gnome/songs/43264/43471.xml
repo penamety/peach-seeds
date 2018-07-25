@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43471">
+ <title>Mr. Chip (re-iMAGiNED 1996 to 2016)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Made this in 1996 as a small chip tune on my Amiga, now re-imagined with HQ instruments (Except drums). /SPiRAL</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 21:06:09</locked_until>
+ <lastplayed>2018-04-21 11:51:37</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

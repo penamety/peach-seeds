@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40470">
+ <title>Darkness Rising</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.5625</rating>
+ <info>2nd place in the Nectarine Trip-Hop Compo:
+http://compos.scenemusic.net/scenecompos/compos/Trip%20Hop%20Compo</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 10:31:20</locked_until>
+ <lastplayed>2018-06-07 12:21:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>TripHop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

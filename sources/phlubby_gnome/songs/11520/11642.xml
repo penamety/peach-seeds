@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11642">
+ <title>Memories from the MCP</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.1447</rating>
+ <info>1st place in combined 64k compo at the Ultimate Meeting 2005
+
+Soundtrack of Brain Control&#39;s 64kb demo &#34;Memories from the MCP&#34; (2005)
+Made with Tunefish v2, a software synth developed by Payne^Brain Control
+This version was remastered by Payne</info>
+ <songlength>342</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 05:32:29</locked_until>
+ <lastplayed>2018-06-01 18:18:17</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>20973</pouetid>
+ <ytid>nkBjH49d2bQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>softsynth</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nkBjH49d2bQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

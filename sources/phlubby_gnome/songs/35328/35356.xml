@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35356">
+ <title>Vicious Circles</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.3922</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 11:16:42</locked_until>
+ <lastplayed>2018-03-17 13:04:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>3072</pouetid>
+ <ytid>KzW6-0RlX5U</ytid>
+ <ytoffset>31</ytoffset>
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="662">SHAPE</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

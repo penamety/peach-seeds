@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42180">
+ <title>0OMPA (demo) [stéréo]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ <info>Digitized sound from an ATARI STE in Stereo</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 21:40:42</locked_until>
+ <lastplayed>2018-04-08 04:13:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>64372</pouetid>
+ <ytid>x_XAKg7B9l4</ytid>
+ 
+ 
+ <artists>
+  <artist id="4938">Tomchi</artist>
+ </artists>
+ <groups>
+  <group id="658">No Extra</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IWn1n9r-RQg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/111688/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22713">
+ <title>TMDC 7 Invitation Score</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.2333</rating>
+ 
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 20:38:21</locked_until>
+ <lastplayed>2017-11-23 22:00:15</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>14091</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="925">Phaser</artist>
+ </artists>
+ <groups>
+  <group id="4">tAAt</group>
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

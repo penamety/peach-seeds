@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39660">
+ <title>Nightlore</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7727</rating>
+ <info>It&#39;s an 8-channel stereo (2xPOKEY) track created in RMT (Raster Music Tracker).
+
+Ranked 2nd in ATARI XL/XE POKEY Music Compo at Silly Venture 2013.</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:07:38</locked_until>
+ <lastplayed>2018-06-04 04:12:00</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

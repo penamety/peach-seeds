@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20980">
+ <title>December</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-23 18:20:46</locked_until>
+ <lastplayed>2017-08-12 23:54:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1722">Fab</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OldSchool</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27333">
+ <title>Silize! Silize!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ 
+ <songlength>308</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-11 12:12:05</locked_until>
+ <lastplayed>2017-10-01 02:28:30</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3575">Silize</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+  <tag>silize</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

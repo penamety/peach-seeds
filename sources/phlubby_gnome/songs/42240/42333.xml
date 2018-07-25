@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42333">
+ <title>Shooting Star</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.1875</rating>
+ <info>For the OpenMPT example song compo.</info>
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:32:18</locked_until>
+ <lastplayed>2018-06-10 23:36:21</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>synthpop</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/146994/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

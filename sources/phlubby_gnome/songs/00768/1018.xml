@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1018">
+ <title>Techno Dungeon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1</rating>
+ 
+ <songlength>289</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 21:14:49</locked_until>
+ <lastplayed>2018-05-20 10:14:41</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11277">
+ <title>RendezVous IV</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.875</rating>
+ <info>AY-cover of the famous instrumental song of Jean Michel Jarre - &#34;Fourth Rendez-Vous&#34;.</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 11:55:29</locked_until>
+ <lastplayed>2018-04-25 20:48:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>26731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Jarre</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

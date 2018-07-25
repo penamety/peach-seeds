@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7512">
+ <title>Supremacy</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">3.5</rating>
+ <info>Dupe of [song]1289[/song]</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="234">Con</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40494">
+ <title>Give Me Time</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ <info>Standard Atari ST YM2149F chiptune, 3 channels, mono.
+
+3rd place in the Combined Oldschool &amp; Executable Music Compo at Outline 2014 demo party.
+
+Music editor: SoundMon. Machine: Atari 520ST+.
+
+Play it loud ;)
+</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 00:33:49</locked_until>
+ <lastplayed>2018-05-27 05:20:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/36230/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

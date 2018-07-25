@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41447">
+ <title>The Third</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Winner of Atari XL/XE pokey music @ Silly Venture 2014.</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-18 21:14:47</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SillyVenture</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/128238/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

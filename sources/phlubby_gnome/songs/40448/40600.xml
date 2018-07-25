@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40600">
+ <title>Stream Of Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.1667</rating>
+ <info>1st in the Sundown 2014 Chiptune Music competition</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 11:11:03</locked_until>
+ <lastplayed>2018-05-26 13:11:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/36861/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

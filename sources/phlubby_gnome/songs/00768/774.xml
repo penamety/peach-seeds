@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="774">
+ <title>Sincerely Yours</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-08 02:09:51</locked_until>
+ <lastplayed>2018-01-17 21:28:05</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>3820</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="133">Brainbug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

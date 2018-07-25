@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11740">
+ <title>Dumb Curlew</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.1875</rating>
+ <info>This chiptune only uses one sample/instrument/waveform.</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-28 08:43:44</locked_until>
+ <lastplayed>2017-07-16 23:26:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2047">placebuz</artist><artist id="1520">raina</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

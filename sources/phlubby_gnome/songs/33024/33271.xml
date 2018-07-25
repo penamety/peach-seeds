@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33271">
+ <title>Axel F.</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">2.5161</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 06:38:30</locked_until>
+ <lastplayed>2018-03-12 07:02:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4812">Kicia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>axel_foley</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

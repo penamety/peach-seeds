@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35598">
+ <title>4 Crash Nicker Journal</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="42">4.2381</rating>
+ <info>Soundtrack from &#34;Burn The Lighter #2 Pre-release&#34; diskmag by Team Site</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:40:26</locked_until>
+ <lastplayed>2018-06-15 03:26:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>BurnTheLighter</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/31040/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41907">
+ <title>Small Matters of the Heart (Party Version)</title>
+ <status v="A">Active</status>
+ <bitrate>228</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.75</rating>
+ <info>[b]Comments from the makers:[/b]
+
+Cryptic:
+Finally we are back with a new intro! First one with our new engine. Not a lot of time for proper design this time around since most time has been spent on
+coding and bugfixes but at least we got something released. Expect a cleaned up final to follow in the not to distant future when we have recovered from the party deadline crunching.
+
+Velo:
+So here we are, once again at Revision getting no sleep. It feels great releasing something new finally,especially in a compo like this, hope you enjoy! Consider this a party version that needs polishing, 
+we did not have time to fit all the things we wanted so expect a final version (hopefully not two years from now).
+
+There are some artifacts in the sound that may or may not be noticeable, just pretend its an old vinyl. It will probably, among other things, be fixed in a final version.
+
+
+----------------------------------------
+
+No room in this party version, but greets fly out to:
+
+Mercury, Conspiracy, Ctrl-Alt-Test, Brain Control, Fairlight, Farbrausch, Censor, #ukscene allstars, EDiS, Tulou, Ate bit, Scullar, Triad,  DCS, Nature, FlowersFX, Outbreak, Cellfish, Razor1911, Traktor, Whazzah, SystemK, The Gang, RGBA, Panda Cube, rtificial</info>
+ <songlength>349</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 18:47:11</locked_until>
+ <lastplayed>2018-04-08 03:47:43</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>65336</pouetid>
+ <ytid>foYcHp40HTg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1294">Velo</artist>
+ </artists>
+ <groups>
+  <group id="405">Approximate</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=foYcHp40HTg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

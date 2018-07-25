@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17614">
+ <title>Blockparty</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.6875</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 16:10:25</locked_until>
+ <lastplayed>2018-03-28 07:48:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>34521</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2652">Dual Core</artist>
+ </artists>
+ <groups>
+  <group id="359">Trailer Park Demos</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>Rap</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

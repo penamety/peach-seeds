@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22977">
+ <title>Electricity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-21 02:50:27</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3418">Prophecy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>xkcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

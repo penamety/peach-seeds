@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42449">
+ <title>Happy Tomato</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.8667</rating>
+ <info>Evoke 2105 game compo entry. Produced with 4klang.</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 16:30:59</locked_until>
+ <lastplayed>2017-11-30 11:03:01</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>66058</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>4klang</tag>
+  
+  <tag>fruit</tag>
+  
+  <tag>game</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

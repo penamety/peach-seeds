@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11317">
+ <title>Gold Quest IV Remix</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ 
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-30 04:27:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="272">CZ Tunes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

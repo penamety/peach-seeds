@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12340">
+ <title>Werner Flaschbier - Title screen</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.0465</rating>
+ <info>From the freeware game by Level 4
+
+The game was released in 1987 or 1988 and is an unofficial conversion of Commodore 64 game called Flaschbier (by Werner Soft)</info>
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-08 10:27:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>savvrKW9eMY</ytid>
+ 
+ 
+ <artists>
+  <artist id="2015">Frog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/3864</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

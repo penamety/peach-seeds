@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12285">
+ <title>Good Morning</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="20">2.8</rating>
+ 
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 04:32:19</lastplayed>
+ <platform id="19">Gameboy</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2006">Lo-bat.</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

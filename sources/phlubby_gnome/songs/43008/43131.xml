@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43131">
+ <title>Amigasound</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">2.6111</rating>
+ <info>Used on Avesoft&#39;s &#34;Easy Demo&#34; program released in 1990</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 03:16:55</locked_until>
+ <lastplayed>2018-06-16 20:07:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5661">Farqu</artist>
+ </artists>
+ <groups>
+  <group id="851">Midnightsun (MNS)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Software</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

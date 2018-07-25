@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3306">
+ <title>Travelling by Piano</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ 
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 09:46:29</locked_until>
+ <lastplayed>2018-04-09 12:20:24</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="568">Jazzman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

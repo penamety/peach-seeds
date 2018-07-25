@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8972">
+ <title>Bionic Commando (tune 5)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="112">4.3125</rating>
+ <info>The original song composed by Harumi Fujita
+
+This is a funny remix of Subtune 5 of the game &#34;Bionic Commando&#34; (released in 1987 for the Commodore 64 and various consoles). Upbeat carribean/reggae style. Makes you want to go on holiday. :)</info>
+ <songlength>270</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 18:00:20</locked_until>
+ <lastplayed>2018-05-18 22:31:02</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>Beach</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>salsa</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

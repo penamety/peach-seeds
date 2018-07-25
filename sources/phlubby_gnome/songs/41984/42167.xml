@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42167">
+ <title>Cardinal Washlotion</title>
+ <status v="A">Active</status>
+ <bitrate>246</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 20:40:00</locked_until>
+ <lastplayed>2018-04-28 07:24:24</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>670</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="658">Legend</artist><artist id="1713">Yolk</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

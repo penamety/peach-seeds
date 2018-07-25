@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26995">
+ <title>Look in My Fancy</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">4.0476</rating>
+ <info>from ChipYxa-2 chiptune-compo</info>
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-12 02:50:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

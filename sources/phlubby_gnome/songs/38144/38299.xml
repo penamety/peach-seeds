@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38299">
+ <title>Comet Day</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.64</rating>
+ <info>This is a 3-channels digital song made on ZX Spectrum 48K with AY interface.
+
+Software: SampleTracker.
+
+Music is being played through AY chip, in 4-bit quality.</info>
+ <songlength>140</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:35:11</locked_until>
+ <lastplayed>2018-06-09 17:56:19</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26450/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

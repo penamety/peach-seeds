@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4127">
+ <title>Saturday Night cover</title>
+ <status v="B">Banned</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="176">2.2216</rating>
+ 
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-17 17:31:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Eurodance</tag>
+  
+  <tag>joke</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

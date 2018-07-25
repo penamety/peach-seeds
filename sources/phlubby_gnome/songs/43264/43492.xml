@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43492">
+ <title>Piczka</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>3rd place in the &#34;Combined Tracked Music&#34; Competition at Deadline Demoparty 2016 in Berlin
+
+XM, 18 Channels
+Tracked in 3 hours (for real), OpenMPT being used
+Duration: 3:04 minutes
+Original file size approx. 2 MB
+</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 09:31:26</locked_until>
+ <lastplayed>2017-12-11 06:00:38</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>P_Yq9e4Djos</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=P_Yq9e4Djos</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29689">
+ <title>S.A.U.N.T.E.R.</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.3158</rating>
+ <info>MSX CG-collection Decolation Disk &#34;NOTOS&#34;</info>
+ <songlength>53</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 00:49:59</locked_until>
+ <lastplayed>2018-05-27 05:12:20</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3264">Naruto</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

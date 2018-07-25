@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28577">
+ <title>Life after you</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>12th @ Breakpoint 2010 Streaming music compo</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-17 23:54:59</locked_until>
+ <lastplayed>2018-02-26 13:20:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

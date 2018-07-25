@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34156">
+ <title>Subatomic (Large Hadron Collider edit)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="56">4.2143</rating>
+ <info>Tracked with Nanoloop 1.3
+Recorded on Game Boy DMG-01
+No post-process, raw output!</info>
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 00:11:50</locked_until>
+ <lastplayed>2018-05-14 15:17:15</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

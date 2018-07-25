@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2268">
+ <title>Total Kaos 01</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ 
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 02:38:18</locked_until>
+ <lastplayed>2018-02-06 21:59:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9410</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="395">Echo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

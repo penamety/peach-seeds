@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22694">
+ <title>Legend</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.0</rating>
+ 
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-18 13:11:16</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="925">Phaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Classical</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

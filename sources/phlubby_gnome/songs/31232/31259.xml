@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31259">
+ <title>Art Bizarre main</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.5385</rating>
+ 
+ <songlength>426</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 08:19:30</locked_until>
+ <lastplayed>2018-03-23 10:27:41</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4293">SoNiC (de)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

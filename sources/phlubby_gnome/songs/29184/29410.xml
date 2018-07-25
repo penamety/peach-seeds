@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29410">
+ <title>Coconut Island</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.3667</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-12 02:06:58</locked_until>
+ <lastplayed>2017-07-04 17:11:13</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

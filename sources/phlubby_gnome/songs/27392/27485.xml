@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27485">
+ <title>Mad Men</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.7586</rating>
+ <info>This is an author (MMCM / Sage Group) remix of original track &#34;mAdmEn ... ;)&#34;.
+Was released in demo &#34;Mescaline Synesthesia&#34; by deMarche / December 29th 2009.
+
+Buy this song on [url=http://mmcm.bandcamp.com/track/mad-men]Bandcamp.com[/url] !
+</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 04:29:25</locked_until>
+ <lastplayed>2018-06-06 21:05:40</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54207</pouetid>
+ <ytid>x1o_Tr8jq3I</ytid>
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=x1o_Tr8jq3I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2eJNCm6bWww</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

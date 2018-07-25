@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8632">
+ <title>Chambers Of Shaolin (remake)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5714</rating>
+ <info>Strider remake: http://strider.mjjprod.free.fr/mp3.php</info>
+ <songlength>467</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 21:48:43</locked_until>
+ <lastplayed>2018-06-13 21:23:17</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist><artist id="883">Oedipus</artist><artist id="1645">Strider</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

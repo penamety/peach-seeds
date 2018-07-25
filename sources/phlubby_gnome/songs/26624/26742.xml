@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26742">
+ <title>Funky Ace Remix [Xorron Intro]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.2821</rating>
+ <info>BA: &#34;From the intro of the game Xorron 2001&#34;</info>
+ <songlength>391</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 11:13:10</locked_until>
+ <lastplayed>2018-04-11 15:04:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="183">Starbyte</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1610</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/1610</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

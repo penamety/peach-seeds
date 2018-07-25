@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9688">
+ <title>White</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.4091</rating>
+ 
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 00:57:19</locked_until>
+ <lastplayed>2017-10-24 21:45:17</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1804">Pixel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

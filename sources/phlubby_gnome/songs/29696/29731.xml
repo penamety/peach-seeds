@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29731">
+ <title>8-Channel Demo Song</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">2.8511</rating>
+ <info>Distributed with OctaMED</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:37:14</locked_until>
+ <lastplayed>2018-06-04 22:59:59</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3709">Teijo Kinnunen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Software</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

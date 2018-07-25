@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27572">
+ <title>Pearls For Pigs - Main</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.3385</rating>
+ <info>Soundtrack of the C64 demo &#34;Pearls for Pigs&#34; by Xenon, 3rd place at X 2008.
+
+Part 1: http://hvsc.perff.dk/MUSICIANS/A/A-Man/Waterman.sid
+Part 2: http://hvsc.perff.dk/MUSICIANS/A/A-Man/Genesis.sid</info>
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 05:06:32</locked_until>
+ <lastplayed>2018-05-21 03:56:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>51965</pouetid>
+ <ytid>6HYOOo1_AUo</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  <group id="570">Xenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6HYOOo1_AUo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

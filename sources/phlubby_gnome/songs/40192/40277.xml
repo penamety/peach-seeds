@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40277">
+ <title>Harmonics</title>
+ <status v="A">Active</status>
+ <bitrate>874</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>1st place in ZX Music compo @ Forever 2014</info>
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 18:13:56</locked_until>
+ <lastplayed>2018-04-21 17:47:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>64963</pouetid>
+ <ytid>oKWDTlWDOEU</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="5334">mborik</artist>
+ </artists>
+ <groups>
+  <group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2015</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34312/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=oKWDTlWDOEU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=131631</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/131631/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

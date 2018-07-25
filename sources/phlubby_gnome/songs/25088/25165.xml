@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25165">
+ <title>Heavy tracks</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.1538</rating>
+ 
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-14 02:30:43</locked_until>
+ <lastplayed>2017-07-02 18:37:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3696">TAR</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

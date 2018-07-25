@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36203">
+ <title>Blätterdach</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.95</rating>
+ <info>Entry for Nectarine Ambient Compo</info>
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 05:49:16</locked_until>
+ <lastplayed>2018-05-06 18:54:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

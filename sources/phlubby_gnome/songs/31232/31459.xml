@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31459">
+ <title>Love is Here Tonight</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>1st @ Scenecon 2008</info>
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 00:10:49</locked_until>
+ <lastplayed>2017-11-24 19:29:44</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1058">Shaman</artist>
+ </artists>
+ <groups>
+  <group id="8">Exceed</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SceneCON</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

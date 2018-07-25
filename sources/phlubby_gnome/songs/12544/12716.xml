@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12716">
+ <title>Minako G80</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="81">4.4568</rating>
+ <info>Used in a windows intro.</info>
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 16:01:45</locked_until>
+ <lastplayed>2018-05-30 17:18:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>4692</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="183">Chavez</artist><artist id="1687">Goto80</artist>
+ </artists>
+ <groups>
+  <group id="562">funktion</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

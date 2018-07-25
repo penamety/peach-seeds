@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28259">
+ <title>The Final Blutbloodver</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">2.8947</rating>
+ 
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-13 22:46:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>48901</pouetid>
+ <ytid>3gv378FKL_E</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="498">A moiré misszió bemutatja [AMMB]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3gv378FKL_E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

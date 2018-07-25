@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36002">
+ <title>Gott och Blandat</title>
+ <status v="A">Active</status>
+ <bitrate>129</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.0909</rating>
+ <info>As quoted from CSDb (&#34;iAN CooG&#34;):
+&#34;random noise?&#34;
+
+Perhaps this sounds like random noise :P , but in fact this was an attempt to learn how to use the Prophet64 sequencer. So it&#39;s like several songs in one song; and I know, the transitions aren&#39;t perfect, but hey, there are some parts of that I really like :).
+
+This was made on, and recorded from, a single 8580 SID chip. Just added some EQ and compressor.
+
+Released at Grep White 2008 oldschool music compo.
+
+Download &amp; stream:
+http://dvibe.se/lofi_gob.html</info>
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 05:04:41</locked_until>
+ <lastplayed>2018-05-29 12:36:20</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>GREP</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=74241</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=40553</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31596">
+ <title>Shad 2 - Siouxsie</title>
+ <status v="A">Active</status>
+ <bitrate>112</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="12">2.25</rating>
+ <info>1st @ ArtParty 1999 demo comp</info>
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 01:05:44</locked_until>
+ <lastplayed>2018-03-02 02:13:33</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>52</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4643">Coptic Rain</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

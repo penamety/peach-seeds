@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12008">
+ <title>In the Papers</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>Ranked 7th in the music compo at Rendezvous 1993.</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-18 20:36:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="999">Redferne</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

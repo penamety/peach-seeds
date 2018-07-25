@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25101">
+ <title>Magnetic v2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6316</rating>
+ 
+ <songlength>315</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 03:41:22</locked_until>
+ <lastplayed>2018-04-16 18:00:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

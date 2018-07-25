@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33037">
+ <title>Mr. Big Beat</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.85</rating>
+ <info>Winner of the SID music compo at Breakpoint 2003.</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 11:25:15</locked_until>
+ <lastplayed>2018-04-11 09:15:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

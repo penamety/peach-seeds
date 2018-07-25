@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35419">
+ <title>Smalahove</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.56</rating>
+ <info>Entry for Nectarine Samplepack Compo.
+
+Choose zero reverb,
+choose zero delay,
+choose zero filter,
+choose zero compression.
+
+Tools used: MilkyTracker</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-08 05:52:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

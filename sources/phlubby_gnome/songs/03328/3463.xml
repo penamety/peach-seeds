@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3463">
+ <title>People are People</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.1429</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-29 04:40:33</locked_until>
+ <lastplayed>2017-09-21 05:32:52</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="589">Jörg Rosenstiel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>DepecheMode</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

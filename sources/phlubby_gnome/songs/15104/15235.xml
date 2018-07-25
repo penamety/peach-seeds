@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15235">
+ <title>Zap T Balls 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>This song is a 1:1 conversion of a ZX Spectrum Soundtracker called (afaik) &#34;Agent 6&#34; from Agent X. It was part of LSD Megademo.</info>
+ <songlength>106</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-22 16:06:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>2119</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

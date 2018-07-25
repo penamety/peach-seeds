@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14752">
+ <title>Digi Synth 3 Intro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>64</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-09 11:45:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14128</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2289">Bell</artist>
+ </artists>
+ <groups>
+  <group id="807">K3L</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

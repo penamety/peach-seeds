@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3753">
+ <title>Rallye Master</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.2099</rating>
+ 
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 03:37:35</locked_until>
+ <lastplayed>2018-05-29 06:55:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>34731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/3445</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

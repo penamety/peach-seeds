@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32859">
+ <title>Easterbirdie</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="34">4.2059</rating>
+ <info>Ranked 11th in the Executable Music Oldskool compo @ Revision 2011.</info>
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 14:22:41</locked_until>
+ <lastplayed>2018-05-20 04:53:06</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="472">Gasman</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

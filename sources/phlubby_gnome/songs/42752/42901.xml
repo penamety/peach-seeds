@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42901">
+ <title>Ice Cream Choc</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.0</rating>
+ <info>(c)
+Roberto Ricioppo
+Cosenza
+Italia
+25/11/2006
+
+bassdrum78
+snare78
+guitar9
+setbass
+HHat9
+monk-voice
+newagogo
+strings6
+Strings3
+</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 19:49:20</locked_until>
+ <lastplayed>2018-03-09 22:30:47</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5268">Robric</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?66089</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

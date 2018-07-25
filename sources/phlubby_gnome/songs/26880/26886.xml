@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26886">
+ <title>Loophole</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.9</rating>
+ <info>Ranked 6th in the music compo at Kindergarden 2009.</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 00:20:27</locked_until>
+ <lastplayed>2018-05-06 00:47:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1846">Sinatra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

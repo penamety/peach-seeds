@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4799">
+ <title>Laxity</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.4545</rating>
+ 
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 21:13:39</locked_until>
+ <lastplayed>2018-06-05 01:10:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49932</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="773">Mel o&#39;Dee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40515">
+ <title>Carribean Wurst</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">2.9231</rating>
+ <info>Placed #5, at Nectarine Scenecompos #29, &#34;Coop-Compo&#34; Sts-136 and Silok :p</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-04 21:32:49</locked_until>
+ <lastplayed>2018-02-11 00:57:24</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist><artist id="5037">STS-136</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

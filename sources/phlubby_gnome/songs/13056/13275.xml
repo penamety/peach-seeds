@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13275">
+ <title>IN4K</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.4462</rating>
+ <info>Used in the IN4K Announcement Intro by tonic/Armada, myself and Polaris/Northern Dragons.
+
+The softsynth was done in C and the song data was linked as assembler code since it was easier to organize the byte data as data blocks in assembler code. I tried to create a YM2149ish sound to the tune hence no filters of any kind were used in the softsynth. The synth is able to create three different waveforms: pulse with variable pulse width, saw and noise and has sustain/release volume control. Like all the music editors on the Commodore 64, each individual instrument uses a table for the waveform and note pitch. A new value is read from the table about 50 times per second. With this technique, changing the waveform and note pitch can be used to create more complex sounds like drums.</info>
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 18:00:23</locked_until>
+ <lastplayed>2018-05-25 17:32:16</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>19068</pouetid>
+ <ytid>kv3etzfovWo</ytid>
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  <group id="212">Armada</group><group id="153">Northern Dragons</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Pilgrimage</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kv3etzfovWo</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

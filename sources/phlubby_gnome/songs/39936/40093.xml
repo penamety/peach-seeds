@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40093">
+ <title>Class C Drugs</title>
+ <status v="A">Active</status>
+ <bitrate>352</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5263</rating>
+ <info>Compo entry for Payback 2014 Streaming music compo</info>
+ <songlength>297</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-26 14:26:17</locked_until>
+ <lastplayed>2018-03-07 03:24:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1562">The Hooligan</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Payback</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

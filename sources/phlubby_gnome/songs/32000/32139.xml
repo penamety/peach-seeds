@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32139">
+ <title>Fellowship</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.2593</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 07:04:33</locked_until>
+ <lastplayed>2018-05-25 15:15:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4703">Ahim</artist><artist id="4239">Fatal Snipe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38333">
+ <title>Second Day Uptown</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.2105</rating>
+ <info>ZX Spectrum AY-3-8912 3 channel stereo (ACB), 3rd place at Forever 14 demoparty in ZX Spectrum music compo.</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 19:36:31</locked_until>
+ <lastplayed>2018-05-01 23:46:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26555/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

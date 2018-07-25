@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9927">
+ <title>Pandemonium [short version]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="39">4.1026</rating>
+ <info>This is actually a remix by an unknown author. It was part of a game, which might have originated from the scene. The game was a tron clone for dos and had a couple of other mods.
+
+The original track was used in &#34;Day of Reckoning&#34; demo by Digital.</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 06:04:49</locked_until>
+ <lastplayed>2018-05-16 00:58:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1791">Yaz </artist>
+ </artists>
+ <groups>
+  <group id="178">Digital</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

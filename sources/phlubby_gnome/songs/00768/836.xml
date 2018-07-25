@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="836">
+ <title>The Journey</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.05</rating>
+ 
+ <songlength>323</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 09:56:15</locked_until>
+ <lastplayed>2018-06-14 09:03:23</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

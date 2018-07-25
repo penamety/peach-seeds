@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6994">
+ <title>Back to Basic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5556</rating>
+ <info>Winner of the multichannel music compo at Remedy 1997</info>
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-04 05:08:06</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>ragtime</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

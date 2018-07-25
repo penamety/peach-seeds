@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9402">
+ <title>Feels Like Dancing</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.3721</rating>
+ <info>Composed in 1994 (did not get really finished though). Some samples are from Cappella CD as you might notice :D . I liked best that atmospheric part starting around 2 minutes, should have continued to build more on top of it...</info>
+ <songlength>383</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 16:25:40</locked_until>
+ <lastplayed>2018-05-20 08:04:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34308">
+ <title>The Ultimate Challenge (Lotus III Remix Medley)</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7647</rating>
+ 
+ <songlength>365</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 12:38:23</locked_until>
+ <lastplayed>2018-06-03 23:22:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4915">Microdots</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

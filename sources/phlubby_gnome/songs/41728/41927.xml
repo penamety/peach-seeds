@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41927">
+ <title>Variation 18</title>
+ <status v="A">Active</status>
+ <bitrate>219</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>Rhapsody on a theme of Paganini, opus 43, variation 18. Performed and programmed by Linus &#34;lft&#34; Âkesson.
+
+Licence: CC-BY-SA
+
+--------------------
+Released at Revision 2015.
+
+The original score was composed by Sergei Rachmaninoff (1873-1943) and entered the public domain in 2013.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 16:08:02</locked_until>
+ <lastplayed>2018-03-17 02:18:14</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>65388</pouetid>
+ <ytid>znl4zoRXs1s</ytid>
+ <ytoffset>32</ytoffset>
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=znl4zoRXs1s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17549">
+ <title>Fright Night</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8235</rating>
+ 
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 14:05:20</locked_until>
+ <lastplayed>2018-05-28 03:59:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="370">Dreamer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Halloween</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1076">
+ <title>Coffein Overdose</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.4286</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 02:22:10</locked_until>
+ <lastplayed>2018-02-05 22:44:54</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

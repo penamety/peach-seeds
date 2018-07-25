@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10480">
+ <title>Antics Chip War - Track 1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.3333</rating>
+ 
+ <songlength>287</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-07 21:09:03</locked_until>
+ <lastplayed>2018-02-11 15:15:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16811">
+ <title>Mathematica demo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 05:20:41</locked_until>
+ <lastplayed>2017-10-06 00:23:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>924</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="285">Dark Angel</artist>
+ </artists>
+ <groups>
+  <group id="81">Aura</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

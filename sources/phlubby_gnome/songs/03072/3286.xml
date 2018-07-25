@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3286">
+ <title>Cybernoid 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="123">4.3008</rating>
+ 
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 08:52:59</locked_until>
+ <lastplayed>2018-06-03 04:56:05</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1759">Gary Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

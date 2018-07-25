@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41398">
+ <title>Chasing</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.65</rating>
+ <info>The song comes from my album &#34;Chiptunes&#34; (October 2014) downloadable from here: yerzmyey.i-demo.pl/
+
+AMIGA 500 (8 channels).
+Made with OctaMED.
+Requires 1Mb of ChipRam.
+Recorded from real hardware. (Stereo slightly changed).
+
+Yesssssssss. After 20 years I made an 8-channels module on Amiga500 AGAIN. ;) I wasn&#39;t sure how it would work, as once can&#39;t actually use volumes in this mode, on OctaMED. It&#39;s because there is only 4 volumes for 8 traxx then. Which suxx. So it&#39;s better not to use volumes at all and make more &#39;version&#39; of samples, with various volumes.
+Also the sound-quality gets much lower in the 8ch mode. But whatta hell - why not to force old good A500 to some harder work (software mixing: actually two chips play the music: Paula but also Motorola :) ).
+
+Enjoy this small experiment. ;)
+</info>
+ <songlength>296</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 08:12:40</locked_until>
+ <lastplayed>2018-03-30 15:18:38</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>8chn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

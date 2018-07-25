@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3741">
+ <title>End Theme</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.8649</rating>
+ 
+ <songlength>69</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 17:09:19</locked_until>
+ <lastplayed>2018-06-13 08:24:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>10373</pouetid>
+ <ytid>1KzL2w8FjV8</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=1KzL2w8FjV8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

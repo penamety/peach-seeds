@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38136">
+ <title>The sound of 1992</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>Hyperunknowns contribution to Datastorm 2013 Amiga music compo - reached 6:th place</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-14 16:42:14</locked_until>
+ <lastplayed>2017-06-05 05:42:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5129">HyperUnknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

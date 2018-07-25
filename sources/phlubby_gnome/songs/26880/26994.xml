@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26994">
+ <title>Flat Heroes</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-30 12:36:11</locked_until>
+ <lastplayed>2017-08-23 22:13:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>51550</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

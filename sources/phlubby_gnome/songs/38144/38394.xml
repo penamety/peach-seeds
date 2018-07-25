@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38394">
+ <title>Still Rising</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.3333</rating>
+ <info>CPC Demo Still Rising by Vanity. Composed in 2010.</info>
+ <songlength>329</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 12:06:53</locked_until>
+ <lastplayed>2018-02-18 16:49:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>61177</pouetid>
+ <ytid>dDVAzMjA7bM</ytid>
+ <ytoffset>40</ytoffset>
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

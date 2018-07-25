@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36814">
+ <title>James Blonde</title>
+ <status v="A">Active</status>
+ <bitrate>206</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>This song was found among the ressources from the demo &#34;Escape&#34;.
+
+Also ranked #13 in the Fast music compo at Assembly 2012</info>
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-27 10:23:52</locked_until>
+ <lastplayed>2017-12-06 09:32:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>59621</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4913">Rayjan</artist>
+ </artists>
+ <groups>
+  <group id="654">Pyrotech</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

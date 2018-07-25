@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11607">
+ <title>Teknotris</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.383</rating>
+ 
+ <songlength>324</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-12 17:41:19</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1799">Chibi-Tech</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+  <tag>Musicdisk</tag>
+  
+  <tag>NES</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

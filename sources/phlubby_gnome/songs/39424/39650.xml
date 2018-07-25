@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39650">
+ <title>Forgotten Graveyard</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;Forgotten Graveyard&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Tune completed:	
+008	12.01.2000	
+
+sample list:
+001	Halopad	(16 bit - 29978)
+002	Fngrbass	(16 bit - 9731)
+003	Leadwave	(8 bit - 26195)
+004	Mega Vibes	(16 bit - 10808)
+005	Ainulindale Synth 2	(8 bit - 17506)
+006	Pulse Synth 2	(8 bit - 68243)
+</info>
+ <songlength>305</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 02:34:29</locked_until>
+ <lastplayed>2018-05-11 06:39:24</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

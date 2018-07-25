@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31619">
+ <title>The Final Countdown</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">1.5263</rating>
+ 
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 04:23:44</locked_until>
+ <lastplayed>2018-04-27 20:44:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

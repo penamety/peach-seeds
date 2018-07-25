@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39910">
+ <title>Happy new year 2014</title>
+ <status v="A">Active</status>
+ <bitrate>952</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.6429</rating>
+ <info>Soundtrack from &#34;Happy new year 2014&#34; ZX mini-demo by Gemba Boys</info>
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 09:05:00</locked_until>
+ <lastplayed>2018-06-13 03:53:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>62345</pouetid>
+ <ytid>Q2WM9S3Rigo</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Q2WM9S3Rigo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/32990/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

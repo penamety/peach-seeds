@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2611">
+ <title>Slipstream 2</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-03-01 21:45:13</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

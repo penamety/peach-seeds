@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15621">
+ <title>Seventh Soundmix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>98</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 03:09:57</locked_until>
+ <lastplayed>2017-12-02 00:56:13</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2382">C-Frog</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

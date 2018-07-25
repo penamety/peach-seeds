@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43290">
+ <title>Dendrite</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ <info>Composed for Famicompo Mini VI</info>
+ <songlength>379</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 01:30:41</locked_until>
+ <lastplayed>2018-06-15 02:56:32</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4071">xaimus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>NES</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

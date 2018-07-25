@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2711">
+ <title>Ilyad 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8333</rating>
+ <info>Done in the wonderful FRED-format :-)
+Download [url=http://www.antialias.se/chiptunes/fred/].fred[/url]
+/pwl</info>
+ <songlength>81</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 15:42:57</locked_until>
+ <lastplayed>2018-06-07 00:51:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ <pouetid>10309</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2614</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

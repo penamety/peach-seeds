@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6278">
+ <title>Binary sound short</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.8974</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 05:55:26</locked_until>
+ <lastplayed>2018-05-14 11:55:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

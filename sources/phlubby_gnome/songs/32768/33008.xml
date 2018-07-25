@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33008">
+ <title>Not AGAin!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 10:02:34</locked_until>
+ <lastplayed>2018-06-04 02:11:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9258</pouetid>
+ <ytid>kpP317dj_JY</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

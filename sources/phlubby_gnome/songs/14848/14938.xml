@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14938">
+ <title>Cryptogunner</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.75</rating>
+ 
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-09 02:46:32</locked_until>
+ <lastplayed>2017-09-26 13:41:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1833">Vortex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

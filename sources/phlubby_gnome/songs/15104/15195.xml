@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15195">
+ <title>Avernus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ 
+ <songlength>252</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 07:44:55</locked_until>
+ <lastplayed>2018-03-08 06:05:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9560</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>shuffle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

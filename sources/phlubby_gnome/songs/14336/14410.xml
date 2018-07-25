@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14410">
+ <title>Koffie Shop</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7</rating>
+ 
+ <songlength>326</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 09:17:06</locked_until>
+ <lastplayed>2018-03-13 08:32:55</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1</pouetid>
+ <ytid>0smwfLS1jt8</ytid>
+ 
+ 
+ <artists>
+  <artist id="80">Azazel</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>drugs</tag>
+  
+  <tag>food</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

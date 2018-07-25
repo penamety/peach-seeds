@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42478">
+ <title>Rainy Day</title>
+ <status v="A">Active</status>
+ <bitrate>301</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.525</rating>
+ <info>This one is a re-mix of my Commodore 64 tune composed in 18.10.2015. For some reason is decided to re-mix it right away.
+I played guitar parts and did midi drums using Sonar 8! ( seriously:)
+Bass, arpeggios and other strange sounds are from Commodore 64 6581 SID rev 3. Hope you like this one!
+Cheers!</info>
+ <songlength>276</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:10:52</locked_until>
+ <lastplayed>2018-06-10 07:56:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

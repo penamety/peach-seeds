@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10332">
+ <title>Gotham Nights &#39;96</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4762</rating>
+ 
+ <songlength>381</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-22 02:34:51</locked_until>
+ <lastplayed>2017-09-15 05:19:13</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

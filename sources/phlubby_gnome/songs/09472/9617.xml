@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9617">
+ <title>Resolution</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="117">4.6581</rating>
+ 
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 09:55:34</locked_until>
+ <lastplayed>2018-05-21 03:55:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21785</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

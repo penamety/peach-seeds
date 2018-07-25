@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9961">
+ <title>Natural Wonders</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.32</rating>
+ 
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 21:11:24</locked_until>
+ <lastplayed>2018-06-13 03:56:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>30215</pouetid>
+ <ytid>PVhcKNc99Js</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PVhcKNc99Js</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

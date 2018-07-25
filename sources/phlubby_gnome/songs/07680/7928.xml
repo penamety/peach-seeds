@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7928">
+ <title>Fifteen</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.0417</rating>
+ <info>Download link (that actually works): http://www.kewlers.scene.org/bitchard/tunes/Little_Bitchard_-_Fifteen.mp3</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:19:40</locked_until>
+ <lastplayed>2018-06-11 14:28:42</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>24489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24492">
+ <title>Phantom Eye Syndrome</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ <info>64kb demo won the compo at Breakpoint 2007</info>
+ <songlength>231</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-27 21:43:31</locked_until>
+ <lastplayed>2018-02-08 05:09:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30228</pouetid>
+ <ytid>V1YBCgDk6og</ytid>
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=V1YBCgDk6og</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

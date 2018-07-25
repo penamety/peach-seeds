@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34947">
+ <title>Gradius</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>64</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 22:49:52</locked_until>
+ <lastplayed>2017-11-16 04:25:52</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4985">Memblers</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44997">
+ <title>OverSized</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">3.0</rating>
+ <info>Third place at Very Important Party 2018 in STREAMED MUSIC section :D</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 00:00:46</locked_until>
+ <lastplayed>2018-06-08 16:39:04</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

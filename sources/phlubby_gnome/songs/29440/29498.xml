@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29498">
+ <title>Captive</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.3333</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 12:45:37</locked_until>
+ <lastplayed>2018-06-05 06:45:26</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>24480</pouetid>
+ <ytid>35JhtSCJAjo</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

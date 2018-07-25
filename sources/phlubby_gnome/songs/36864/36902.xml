@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36902">
+ <title>Track 02</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0556</rating>
+ <info>Released at Evoke 2012 in the OGG MP3 music competition.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 23:15:34</locked_until>
+ <lastplayed>2018-02-19 20:38:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5187">Zippy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

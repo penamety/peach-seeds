@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6759">
+ <title>Culture Shock</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5484</rating>
+ 
+ <songlength>273</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 10:51:42</locked_until>
+ <lastplayed>2018-05-15 17:59:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5369</pouetid>
+ <ytid>jHfi3kl2RZo</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

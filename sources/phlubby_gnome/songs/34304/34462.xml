@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34462">
+ <title>Vectormania</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ 
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-14 11:52:20</locked_until>
+ <lastplayed>2018-02-24 05:16:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>35590</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2083">Markus Schneider</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=25625</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

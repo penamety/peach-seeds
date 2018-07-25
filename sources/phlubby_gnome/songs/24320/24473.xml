@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24473">
+ <title>Janosik</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 00:16:42</locked_until>
+ <lastplayed>2018-04-17 04:31:55</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  <group id="467">Marsmellow</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Melodic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

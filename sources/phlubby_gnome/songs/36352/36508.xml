@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36508">
+ <title>Edison Glam</title>
+ <status v="A">Active</status>
+ <bitrate>473</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.2708</rating>
+ <info>Ranked 4th in the streaming music compo at Edison 2012.</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 20:55:28</locked_until>
+ <lastplayed>2018-06-03 08:05:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

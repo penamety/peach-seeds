@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44488">
+ <title>Midnight Cruise</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.2222</rating>
+ <info>C64 2SID Competition at Silesia Party 2 :  #1
+
+2 x SID, 6 channels</info>
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 13:31:46</locked_until>
+ <lastplayed>2018-05-18 11:40:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>dualsid</tag>
+  
+  <tag>Silesia</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=69935</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

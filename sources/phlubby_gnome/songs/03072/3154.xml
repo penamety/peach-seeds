@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3154">
+ <title>Primitive Trigger</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.0182</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 17:15:18</locked_until>
+ <lastplayed>2018-05-19 20:04:38</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="536">Hunz</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

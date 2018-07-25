@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38624">
+ <title>Something</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.6</rating>
+ <info>Drum and Bass in 96kb. Originally written for the Evoke 2007 tiny music competition. Failed in filesize, submitted into the streaming music compo. Summary: Last Spot. :)</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 06:01:13</locked_until>
+ <lastplayed>2018-06-01 21:52:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="992">raYn [DE]</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

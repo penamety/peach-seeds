@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25708">
+ <title>Puggs in Space - Main part</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.3684</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-09 14:08:58</locked_until>
+ <lastplayed>2017-07-02 06:03:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10299</pouetid>
+ <ytid>6nBZX2TUR-Y</ytid>
+ <ytoffset>107</ytoffset>
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

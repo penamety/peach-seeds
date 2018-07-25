@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9528">
+ <title>Vikings</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.3396</rating>
+ 
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 19:07:45</locked_until>
+ <lastplayed>2018-06-05 00:36:56</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Folk</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

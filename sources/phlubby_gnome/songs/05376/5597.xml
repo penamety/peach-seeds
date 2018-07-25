@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5597">
+ <title>Afternoon Voyage III</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.0882</rating>
+ 
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 15:49:19</locked_until>
+ <lastplayed>2018-04-06 23:47:00</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1715</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  <group id="256">Abyss</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

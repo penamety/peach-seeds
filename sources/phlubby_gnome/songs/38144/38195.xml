@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38195">
+ <title>Elusive Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>130</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>&#34;ELUSIVE DREAMS&#34; (C) PHANDRAL/SANXION - THE KING!</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 02:30:15</locked_until>
+ <lastplayed>2017-10-28 20:04:18</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

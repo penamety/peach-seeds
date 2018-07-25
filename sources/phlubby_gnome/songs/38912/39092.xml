@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39092">
+ <title>BOOMBOX</title>
+ <status v="A">Active</status>
+ <bitrate>253</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.75</rating>
+ <info>MSX1, PSG (AY-3-8910), Arkos Tracker
+
+Released at Vammala Party 2013.</info>
+ <songlength>140</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 16:59:52</locked_until>
+ <lastplayed>2018-05-24 13:22:19</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="679">Lieves!Tuore</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

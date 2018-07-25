@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40460">
+ <title>Mosquito Race</title>
+ <status v="A">Active</status>
+ <bitrate>1069</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.1304</rating>
+ 
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 05:28:24</locked_until>
+ <lastplayed>2018-05-24 22:04:57</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>62957</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4904">NecroPolo</artist><artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>ChipMetal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://open.spotify.com/track/40UxmB9HIlcGLgNaQgx55d</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

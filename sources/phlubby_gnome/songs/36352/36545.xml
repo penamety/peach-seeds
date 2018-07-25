@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36545">
+ <title>Omnispace</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="48">4.2917</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 22:18:56</locked_until>
+ <lastplayed>2018-05-27 22:26:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1906">E:mortal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

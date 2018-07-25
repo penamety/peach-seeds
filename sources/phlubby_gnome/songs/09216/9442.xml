@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9442">
+ <title>DNA Warrior</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.3889</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 20:37:57</locked_until>
+ <lastplayed>2018-05-22 14:51:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>45778</pouetid>
+ <ytid>oe7g5b5EV54</ytid>
+ 
+ 
+ <artists>
+  <artist id="1782">Future Freak</artist><artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=609</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43903">
+ <title>H-Immersion</title>
+ <status v="A">Active</status>
+ <bitrate>1344</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.875</rating>
+ 
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 06:40:27</locked_until>
+ <lastplayed>2018-04-12 03:55:48</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>69654</pouetid>
+ <ytid>HpAMtE4i8zg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5722">Daniel Lindholm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HpAMtE4i8zg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

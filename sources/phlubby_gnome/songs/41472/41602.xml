@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41602">
+ <title>Cyanide</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-15 11:04:32</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2096">Wacek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

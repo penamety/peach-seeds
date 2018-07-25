@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39306">
+ <title>Droid</title>
+ <status v="A">Active</status>
+ <bitrate>260</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.8889</rating>
+ <info>My compoentry from Gerp 2013. Amiga 4ch. I tested a new type of style.</info>
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-22 23:38:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

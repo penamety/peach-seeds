@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38390">
+ <title>Music on the Moon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>Released at PixelShow 2005.</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 00:11:35</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist><artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Pixelshow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

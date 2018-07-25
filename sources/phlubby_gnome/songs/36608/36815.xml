@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36815">
+ <title>By by</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>Ranked #9 in Dance music compo at Assembly 2012</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 10:31:28</locked_until>
+ <lastplayed>2018-05-27 01:29:12</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1663">Byproduct</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

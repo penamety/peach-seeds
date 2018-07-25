@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1978">
+ <title>Avoid Tune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-09 17:07:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15945</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="552">Avoid</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

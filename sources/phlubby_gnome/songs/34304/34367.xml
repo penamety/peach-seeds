@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34367">
+ <title>Wob War</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ <info>[url]http://noname.c64.org/csdb/sid/?id=17902[/url]</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 14:10:19</locked_until>
+ <lastplayed>2017-11-26 18:21:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>44745</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="487">Starion [STR]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

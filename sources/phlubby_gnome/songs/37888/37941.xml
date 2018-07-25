@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37941">
+ <title>Hypnotic</title>
+ <status v="A">Active</status>
+ <bitrate>131</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 16:00:36</locked_until>
+ <lastplayed>2018-04-23 00:36:08</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

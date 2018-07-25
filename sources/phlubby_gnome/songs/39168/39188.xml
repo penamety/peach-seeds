@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39188">
+ <title>Hokus Evokus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ <info>My contribution to the streaming music competition at Evoke 2013. It scored 11th place.
+
+As usual, made with Renoise 2.8.1 - Enjoy!</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 09:58:33</locked_until>
+ <lastplayed>2018-04-23 20:39:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

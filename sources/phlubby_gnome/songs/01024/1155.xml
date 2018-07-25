@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1155">
+ <title>Live 3</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 09:39:17</locked_until>
+ <lastplayed>2017-09-29 08:29:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>12342</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="208">Chrylian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

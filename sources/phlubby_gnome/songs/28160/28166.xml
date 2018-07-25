@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28166">
+ <title>Beavis</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">2.42</rating>
+ 
+ <songlength>326</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:33:50</locked_until>
+ <lastplayed>2018-05-31 09:27:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

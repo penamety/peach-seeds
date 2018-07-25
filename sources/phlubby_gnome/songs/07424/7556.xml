@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7556">
+ <title>Ebough, Delicious</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.54</rating>
+ 
+ <songlength>269</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:09:09</locked_until>
+ <lastplayed>2018-06-09 16:46:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51144</pouetid>
+ <ytid>zoqvUidM2mo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1354">D Fast</artist>
+ </artists>
+ <groups>
+  <group id="152">½-bit Cheese [HBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zoqvUidM2mo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

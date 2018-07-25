@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40466">
+ <title>Frenetic </title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>Song composed in 1992 but never released since the Overlanders group decided to end its activities by the end of 1992.</info>
+ <songlength>278</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 03:56:33</locked_until>
+ <lastplayed>2018-05-16 22:43:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="357">Doclands</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

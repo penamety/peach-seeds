@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33323">
+ <title>MDMA</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.1515</rating>
+ <info>Zake feat Eino.</info>
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 14:48:52</locked_until>
+ <lastplayed>2018-06-01 05:45:00</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4434">Zake</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>getdown</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>pachelbel</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27589">
+ <title>Ghost in the Machine</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.3333</rating>
+ <info>Soundtrack for &#34;Ghost in the Machine&#34;, a C64 DTV demo by TRSI, 1st place at Maximum Overdose 8.</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-04 16:54:57</locked_until>
+ <lastplayed>2018-02-08 00:35:20</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>30870</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

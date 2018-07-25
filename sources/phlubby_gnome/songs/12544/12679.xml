@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12679">
+ <title>Tempest 2000 Level 1</title>
+ <status v="I">Inactive</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="0">None</rating>
+ 
+ <songlength>25</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

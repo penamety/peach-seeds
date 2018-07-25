@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24445">
+ <title>Razorback (Unreal Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.8333</rating>
+ 
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:05:15</locked_until>
+ <lastplayed>2018-05-20 05:31:20</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>UnrealTournament</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

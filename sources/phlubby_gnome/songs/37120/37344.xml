@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37344">
+ <title>Starchips</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>Ranked 11th in the music compo at Outline 2012.</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 04:53:53</locked_until>
+ <lastplayed>2018-05-19 18:27:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

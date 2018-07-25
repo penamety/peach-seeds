@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36492">
+ <title>Feliz Navidad</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">2.5227</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 21:17:11</locked_until>
+ <lastplayed>2018-06-04 18:26:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5017">Seismic</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

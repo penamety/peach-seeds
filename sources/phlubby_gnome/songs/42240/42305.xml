@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42305">
+ <title>Take Me Up</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.7857</rating>
+ <info>Another track from their mp3.com site. I believe this is an xm as well.
+
+/Spiral</info>
+ <songlength>345</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 11:01:02</locked_until>
+ <lastplayed>2018-06-02 11:14:50</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="740">Martyn</artist>
+ </artists>
+ <groups>
+  <group id="324">Discofrillorna</group>
+ </groups>
+ 
+ <tags>
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

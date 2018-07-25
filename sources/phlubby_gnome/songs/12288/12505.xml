@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12505">
+ <title>Orbitalism</title>
+ <status v="A">Active</status>
+ <bitrate>134</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.0571</rating>
+ <info>1st in pc 64k intro compo at Evoke 2002
+
+
+Download link: http://ftp.df.lth.se/pub/scene.org/music/artists/netpoet/netpoet-orbitalism.mp3</info>
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 08:18:03</locked_until>
+ <lastplayed>2017-09-17 01:58:19</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>7412</pouetid>
+ <ytid>DswHyueGxCY</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DswHyueGxCY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

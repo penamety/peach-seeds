@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2551">
+ <title>Demo 44</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ 
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 13:30:35</locked_until>
+ <lastplayed>2017-10-23 20:51:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

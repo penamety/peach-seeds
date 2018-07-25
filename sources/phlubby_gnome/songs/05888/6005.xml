@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6005">
+ <title>Polyester</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.2069</rating>
+ <info>
+by radix / solitude
+duration 2:33
+finished february &#39;94
+
+module size: 23k
+sample size: 6k
+
+radix / sde &#39;94
+</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 10:17:13</locked_until>
+ <lastplayed>2018-05-10 19:13:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>52537</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?172801</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

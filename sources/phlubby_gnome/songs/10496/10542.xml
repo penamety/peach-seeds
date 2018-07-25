@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10542">
+ <title>Blueprint</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Sample name message:
+
+by martin wall
+mantronix/warfalcons
+august 1990.
+</info>
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-01 04:12:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9158</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

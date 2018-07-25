@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14240">
+ <title>Blitzkrieg</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-23 11:05:19</locked_until>
+ <lastplayed>2017-12-02 03:37:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2234">ArtZ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Instrumental</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

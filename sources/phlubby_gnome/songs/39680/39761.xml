@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39761">
+ <title>Mental Madness</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ <info>AY_MIX by KENOTRON/ETC/SCENE&#39;98</info>
+ <songlength>82</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 02:54:26</locked_until>
+ <lastplayed>2018-05-18 13:17:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>54353</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

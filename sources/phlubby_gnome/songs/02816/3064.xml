@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3064">
+ <title>Whispering Silence</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.3333</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 22:04:51</locked_until>
+ <lastplayed>2018-05-28 11:56:17</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>11360</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

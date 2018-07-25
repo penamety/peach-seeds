@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36937">
+ <title>Antiphore (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>1st place in pc 64k compo at Evoke 2007</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 12:47:21</locked_until>
+ <lastplayed>2018-05-28 04:16:01</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>31661</pouetid>
+ <ytid>ZtsyXJt-04M</ytid>
+ 
+ 
+ <artists>
+  <artist id="5195">Izard</artist>
+ </artists>
+ <groups>
+  <group id="300">Inque</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZtsyXJt-04M</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

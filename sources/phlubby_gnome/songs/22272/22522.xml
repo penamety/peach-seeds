@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22522">
+ <title>Zeitmaschine</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">3.7294</rating>
+ <info>1st place in pc demo compo at the Ultimate Meeting 2003 (tUM)</info>
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 20:57:56</locked_until>
+ <lastplayed>2018-06-14 03:15:00</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>11248</pouetid>
+ <ytid>jDylrKPXXH8</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=A9lGLENxccg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jDylrKPXXH8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

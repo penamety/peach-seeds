@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35422">
+ <title>Mundane Tuna</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5909</rating>
+ <info>Entry for Nectarine Samplepack compo</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 07:54:04</locked_until>
+ <lastplayed>2018-04-27 23:22:47</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3838">mu6k</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>fish</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

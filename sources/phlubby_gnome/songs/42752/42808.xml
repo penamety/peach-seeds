@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42808">
+ <title>Alteredstates</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">1.8182</rating>
+ <info>Amiga,Octamed module,1993.Rendered in Mono,2007</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 04:47:07</locked_until>
+ <lastplayed>2018-04-17 22:32:09</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4475">M.A.F</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>octamed</tag>
+  
+  <tag>Rave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

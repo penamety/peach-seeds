@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43447">
+ <title>Rag</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ 
+ <songlength>393</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 00:45:07</locked_until>
+ <lastplayed>2018-06-06 12:24:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3594</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  <group id="577">IT</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

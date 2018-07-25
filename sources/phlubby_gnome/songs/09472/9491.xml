@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9491">
+ <title>March of the Magiants</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0385</rating>
+ 
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:48:27</locked_until>
+ <lastplayed>2018-05-21 06:32:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1331">Cairbre</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>magical</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

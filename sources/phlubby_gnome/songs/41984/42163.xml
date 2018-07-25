@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42163">
+ <title>Save Me</title>
+ <status v="A">Active</status>
+ <bitrate>1056</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0</rating>
+ <info>1st place in compos.scenemusic.net Open Co-op Compo 2015</info>
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 16:21:06</locked_until>
+ <lastplayed>2018-06-17 08:48:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist><artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

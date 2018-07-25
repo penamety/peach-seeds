@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39432">
+ <title>Kubus</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 09:57:51</locked_until>
+ <lastplayed>2018-03-05 17:01:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62011</pouetid>
+ <ytid>3AiEhno5Qak</ytid>
+ 
+ 
+ <artists>
+  <artist id="4117">Eladamri</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>ApolloMissionSamples</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3AiEhno5Qak</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

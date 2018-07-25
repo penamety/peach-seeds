@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12192">
+ <title>Sparapaaczci</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ 
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 17:54:48</locked_until>
+ <lastplayed>2017-11-29 00:01:00</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1661">Nula</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

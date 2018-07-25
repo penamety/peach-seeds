@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32613">
+ <title>Silverback</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.2955</rating>
+ <info>Ranked 5th in Nectarine&#39;s Spring Compo 2011.</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-30 14:23:50</locked_until>
+ <lastplayed>2018-04-29 20:00:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

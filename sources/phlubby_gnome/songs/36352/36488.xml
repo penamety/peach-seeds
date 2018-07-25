@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36488">
+ <title>Angels like Happy Hardcore</title>
+ <status v="A">Active</status>
+ <bitrate>87</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.1563</rating>
+ 
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 17:31:39</locked_until>
+ <lastplayed>2018-06-07 04:08:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

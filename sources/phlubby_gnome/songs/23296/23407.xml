@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23407">
+ <title>Dragonjive</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-03 14:55:51</locked_until>
+ <lastplayed>2017-05-30 12:37:13</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>4061</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3464">Razmo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

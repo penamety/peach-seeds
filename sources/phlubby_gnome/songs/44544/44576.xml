@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44576">
+ <title>Liquidation</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.1667</rating>
+ <info>&#34;This is my first tune using 16 tracks. I&#39;m damn lucky having the envelope system. Hope we can release this piece of code in a near future...&#34;</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 08:34:07</locked_until>
+ <lastplayed>2018-05-16 11:51:38</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?48192</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

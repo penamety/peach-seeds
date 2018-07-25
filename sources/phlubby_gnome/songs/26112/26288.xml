@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26288">
+ <title>Manhattan</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ <info>Ranked 5th in the four channel music compo at Mekka &amp; Symposium 1998.</info>
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 09:48:36</locked_until>
+ <lastplayed>2018-01-10 05:41:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="727">Marc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

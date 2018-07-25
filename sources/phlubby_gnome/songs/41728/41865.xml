@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41865">
+ <title>Funky Marmelade</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.8095</rating>
+ <info>My entry for the Tracked music competition at Revision 2015 made with MilkyTracker.
+
+My aim was to make this sound like a playful jam session (hence the name Marmelade (Jam). I spent quite some time working on this song, starting in february, and finishing it at Revision. My XM skills are a little bit rusty (first XM i finish for many years).</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 07:08:19</locked_until>
+ <lastplayed>2017-12-03 19:56:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

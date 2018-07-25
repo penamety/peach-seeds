@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43711">
+ <title>Modulating Blues</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.8889</rating>
+ <info>2nd place in Demobit 2017 combined music compo
+
+Written for (the resurrected) Demobit 2017, it has been 13 years since I composed anything. 
+
+Direct WAV export from Schism Tracker as I wanted to retain the &#39;tracker module&#39; sound - no postprocessing done either. Call me old fashioned.
+
+(c) Blue Zone - commercial use prohibited</info>
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 18:48:59</locked_until>
+ <lastplayed>2018-05-19 18:46:51</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="130">Blue Zone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Demobit</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/167719/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

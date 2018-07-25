@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44123">
+ <title>2de</title>
+ <status v="A">Active</status>
+ <bitrate>543</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 15:35:03</locked_until>
+ <lastplayed>2018-04-16 12:25:57</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>64651</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5563">stRing</artist>
+ </artists>
+ <groups>
+  <group id="869">Agenda</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vVQmrQZzBqk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/128250/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

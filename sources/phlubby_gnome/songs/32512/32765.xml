@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32765">
+ <title>Delta Jam</title>
+ <status v="A">Active</status>
+ <bitrate>512</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">4.0417</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 16:00:08</locked_until>
+ <lastplayed>2017-12-21 22:57:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>52467</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

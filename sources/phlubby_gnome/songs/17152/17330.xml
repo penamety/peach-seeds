@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17330">
+ <title>Universal Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 11:50:01</locked_until>
+ <lastplayed>2018-01-24 11:15:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9249</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2619">D-Luxe</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

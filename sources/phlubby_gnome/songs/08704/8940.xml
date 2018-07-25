@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8940">
+ <title>While Bored</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.9143</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>272</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 15:13:45</locked_until>
+ <lastplayed>2018-06-13 13:49:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

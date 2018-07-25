@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24904">
+ <title>Tekila</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.3182</rating>
+ <info>The first intro EVER featuring the &#34;fractal&#34; rotation zoomer (which is not actually a fractal, just random pixels plotted out in the centre and being mangled up in the integer rot-zoom routine ;-)
+
+/prowler</info>
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 05:53:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8174</pouetid>
+ <ytid>xf3wi60TzfM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

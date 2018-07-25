@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8823">
+ <title>Infinity</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.2794</rating>
+ <info>5th in the multichannel compo @ Assembly 1994.</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 11:43:36</locked_until>
+ <lastplayed>2018-05-13 22:37:02</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="628">Khyron</artist><artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="655">Psychic Monks</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

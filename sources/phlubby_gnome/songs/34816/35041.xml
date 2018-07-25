@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35041">
+ <title>The Aardvark Song!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">2.8571</rating>
+ 
+ <songlength>369</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 01:18:55</locked_until>
+ <lastplayed>2017-12-13 16:03:23</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3263">Narfy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Mono</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

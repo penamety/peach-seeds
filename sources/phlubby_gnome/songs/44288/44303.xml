@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44303">
+ <title>kugelblitz</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.2</rating>
+ <info>4th place in ZX Spectrum AY-Music compo @ Chaos Constructions 2017</info>
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 20:54:26</locked_until>
+ <lastplayed>2018-05-15 13:32:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/177492/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

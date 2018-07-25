@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14695">
+ <title>Beats Part 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ 
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 09:30:37</locked_until>
+ <lastplayed>2018-05-12 09:56:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2283">Bay Tremore</artist>
+ </artists>
+ <groups>
+  <group id="482">Loveboat [LUV]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43909">
+ <title>It is Demo Time in Your Face</title>
+ <status v="A">Active</status>
+ <bitrate>270</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ <info>Placed 9th in the Revision 2017 executable music competition.</info>
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 14:51:23</locked_until>
+ <lastplayed>2018-04-23 02:17:18</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4757">BeRo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170778/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

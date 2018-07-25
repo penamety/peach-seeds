@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7104">
+ <title>Traumatique</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="136">4.5</rating>
+ 
+ <songlength>335</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 01:54:44</locked_until>
+ <lastplayed>2018-05-24 06:59:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>472</pouetid>
+ <ytid>hyc_fyZR2qg</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="446">trauma</group><group id="84">Trauma Child Genesis [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

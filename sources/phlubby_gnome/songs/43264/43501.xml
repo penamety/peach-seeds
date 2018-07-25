@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43501">
+ <title>Reflecting Surface</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.4444</rating>
+ <info>Shared 7th place in the Function 2016 music compo
+
+SoundCloud: [url]https://soundcloud.com/dshmusic/dsh-reflecting-surface[/url]</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 10:08:45</locked_until>
+ <lastplayed>2018-05-25 04:12:26</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5686">DSH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>garage</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/162936/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

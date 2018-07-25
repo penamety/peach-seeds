@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="616">
+ <title>Md Wastelands</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.0959</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 17:22:29</locked_until>
+ <lastplayed>2018-05-15 08:23:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3119</pouetid>
+ <ytid>sKoIWG7snog</ytid>
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Dark</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>TristarParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

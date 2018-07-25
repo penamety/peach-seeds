@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32181">
+ <title>Orbiter</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Cooperation between Alpha C and Xtense for the modules.pl co-op compo held during February 2011.</info>
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-24 12:41:08</locked_until>
+ <lastplayed>2017-09-17 01:45:21</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist><artist id="4712">Xtense</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

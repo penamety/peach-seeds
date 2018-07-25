@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41898">
+ <title>Endless Joy</title>
+ <status v="A">Active</status>
+ <bitrate>183</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1852</rating>
+ <info>OpenMPT + Plugins (Synth1, Classic Series, GranComp3, sfz, Electri-Q)</info>
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 10:45:32</locked_until>
+ <lastplayed>2018-05-26 16:09:04</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

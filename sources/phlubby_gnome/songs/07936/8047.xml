@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8047">
+ <title>Fairyland</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ 
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 15:04:26</locked_until>
+ <lastplayed>2018-04-23 01:16:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11070</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

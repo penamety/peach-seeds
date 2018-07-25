@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22642">
+ <title>Goodbye</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-07 05:23:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2833">GTO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

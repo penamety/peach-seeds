@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36729">
+ <title>Twenty</title>
+ <status v="A">Active</status>
+ <bitrate>169</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ 
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-10 03:22:04</locked_until>
+ <lastplayed>2018-01-22 03:51:28</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50156</pouetid>
+ <ytid>kzye3tT0lV4</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="3365">Payne</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13227</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kzye3tT0lV4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

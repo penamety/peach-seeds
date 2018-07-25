@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10478">
+ <title>Trap</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">2.9375</rating>
+ 
+ <songlength>586</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 12:25:34</locked_until>
+ <lastplayed>2018-05-14 20:04:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>long</tag>
+  
+  <tag>rape</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

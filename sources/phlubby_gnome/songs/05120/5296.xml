@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5296">
+ <title>Chicago Song</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">3.6875</rating>
+ <info>Download link: http://modarchive.org/index.php?request=view_by_moduleid&amp;query=36438
+
+Original written by Marcus Miller and performed by (at least) David Sanborn [url]http://www.youtube.com/watch?v=qvzD7X_k3a8[/url]</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 15:43:12</locked_until>
+ <lastplayed>2018-02-11 13:35:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10308</pouetid>
+ <ytid>rukVKi53_eg</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

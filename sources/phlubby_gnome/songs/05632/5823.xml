@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5823">
+ <title>Assembly&#39;94</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.0946</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 13:41:54</locked_until>
+ <lastplayed>2018-05-20 00:45:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3002</pouetid>
+ <ytid>Aai0eJbIBrg</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group><group id="546">sonic pc</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

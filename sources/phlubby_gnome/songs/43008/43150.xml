@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43150">
+ <title>return of the dreams</title>
+ <status v="A">Active</status>
+ <bitrate>218</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-04 02:08:30</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5663">Voicer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

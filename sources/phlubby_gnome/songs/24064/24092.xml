@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24092">
+ <title>The Jungle Book II</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 10:13:38</locked_until>
+ <lastplayed>2017-06-20 20:17:24</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

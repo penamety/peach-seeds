@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16025">
+ <title>Through the Atmosphere</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.2</rating>
+ 
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 15:03:52</locked_until>
+ <lastplayed>2018-05-01 21:24:13</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

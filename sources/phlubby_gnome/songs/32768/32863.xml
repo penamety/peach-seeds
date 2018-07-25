@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32863">
+ <title>0068. Super Duper Turrican</title>
+ <status v="A">Active</status>
+ <bitrate>309</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.8571</rating>
+ 
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 13:33:50</locked_until>
+ <lastplayed>2018-03-28 10:21:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

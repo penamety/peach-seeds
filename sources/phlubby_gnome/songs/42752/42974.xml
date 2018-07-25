@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42974">
+ <title>Fade In</title>
+ <status v="A">Active</status>
+ <bitrate>299</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.0</rating>
+ <info>Fade In Composed by Thomas Mogensen (Drax). Remix by Sami Seppä (Rock)</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 02:48:03</locked_until>
+ <lastplayed>2017-11-03 12:44:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

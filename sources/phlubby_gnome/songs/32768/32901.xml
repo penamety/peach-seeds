@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32901">
+ <title>Orchestrachoir</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="7">3.2857</rating>
+ <info>Composed by Arrakis/BrainWave. Demo in coop with Cinefex Design (hi old chaps contact me)</info>
+ <songlength>522</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-05-23 15:49:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="66">Arrakis</artist>
+ </artists>
+ <groups>
+  <group id="569">Brainwave [FR]</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

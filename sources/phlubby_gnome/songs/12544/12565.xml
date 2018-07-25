@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12565">
+ <title>Intromuza (Fractured.ni Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.7692</rating>
+ 
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 17:01:29</locked_until>
+ <lastplayed>2018-05-29 12:08:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2002">Slash_AtD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

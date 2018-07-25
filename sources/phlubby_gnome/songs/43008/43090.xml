@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43090">
+ <title>A Slow Tornado in Strawberry Fields</title>
+ <status v="A">Active</status>
+ <bitrate>273</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ <info>4th at Revision 2014</info>
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 22:22:59</locked_until>
+ <lastplayed>2018-05-31 10:03:29</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>63023</pouetid>
+ <ytid>ibhbLb806-I</ytid>
+ 
+ 
+ <artists>
+  <artist id="5310">Atom Delta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>4klang</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ibhbLb806-I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/109124/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

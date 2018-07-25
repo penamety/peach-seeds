@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32758">
+ <title>Code is My Pron</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.2174</rating>
+ <info>1st place in PC 4K compo at Revision 2011</info>
+ <songlength>106</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 11:10:31</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56866</pouetid>
+ <ytid>_RgGWzosC48</ytid>
+ 
+ 
+ <artists>
+  <artist id="4754">Chock</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_RgGWzosC48</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

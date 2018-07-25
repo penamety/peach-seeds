@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33050">
+ <title>Slappy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.1818</rating>
+ 
+ <songlength>296</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-27 06:16:50</locked_until>
+ <lastplayed>2017-11-06 11:23:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7854</pouetid>
+ <ytid>0n1yJHovGrA</ytid>
+ <ytoffset>94</ytoffset>
+ 
+ <artists>
+  <artist id="728">Marillion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AmigaConference</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

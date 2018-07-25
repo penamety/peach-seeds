@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44503">
+ <title>Lunatico - Side 2 (Rain)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">4.2</rating>
+ <info>From the 2016 demo “Lunatico.”</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:27:53</locked_until>
+ <lastplayed>2018-06-10 14:54:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>68410</pouetid>
+ <ytid>TxUWkmD4AU0</ytid>
+ <ytoffset>321</ytoffset>
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  <group id="786">Kryo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TxUWkmD4AU0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=53590</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=151273</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

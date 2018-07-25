@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7979">
+ <title>I am a Database</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="156">3.9167</rating>
+ <info>Lyrics:
+
+I am a database and that is all I&#39;ll ever be.
+I am a database, free from redundancy.
+I am a database and all I do is aim to please.
+Hey baby, wanna have a taste of my primary keys?
+
+I am a database; I only speak SQL.
+I am a database communicating through a shell.
+I am a database and all I do is aim to please.
+Hey baby, wanna have a taste of my primary keys?</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 18:43:00</locked_until>
+ <lastplayed>2018-05-31 19:52:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="719">Makke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>DelayLama</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

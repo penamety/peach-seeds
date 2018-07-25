@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29228">
+ <title>Beyond</title>
+ <status v="A">Active</status>
+ <bitrate>219</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.3978</rating>
+ 
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 06:26:50</locked_until>
+ <lastplayed>2018-06-02 20:00:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist><artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

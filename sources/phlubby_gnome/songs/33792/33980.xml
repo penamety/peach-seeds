@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33980">
+ <title>Russian</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0606</rating>
+ 
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 19:41:45</locked_until>
+ <lastplayed>2018-06-11 04:32:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>2478</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

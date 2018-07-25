@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9525">
+ <title>Bubble Bobble (HillBilly Rodeo OC ReMix)</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">2.7027</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1785">DJ Pretzel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Banjo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>HillBilly</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Sheep</tag>
+  
+  <tag>Silly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

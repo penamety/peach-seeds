@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2480">
+ <title>French Connection</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.5556</rating>
+ 
+ <songlength>354</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 23:39:21</locked_until>
+ <lastplayed>2018-05-29 18:52:18</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Downtempo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

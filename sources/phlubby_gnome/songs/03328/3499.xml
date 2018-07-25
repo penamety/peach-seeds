@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3499">
+ <title>Celtic Waves</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="98">4.5306</rating>
+ <info>Remix of Donkey Kong Country soundtrack</info>
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 01:01:18</locked_until>
+ <lastplayed>2018-06-15 14:39:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

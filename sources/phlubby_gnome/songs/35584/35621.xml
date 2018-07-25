@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35621">
+ <title>Believe it</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.3043</rating>
+ <info>Tracked music compo entry @ Revision 2012</info>
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 09:46:00</locked_until>
+ <lastplayed>2018-05-19 09:37:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

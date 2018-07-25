@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27969">
+ <title>Turbohund</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8788</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 11:45:26</locked_until>
+ <lastplayed>2018-05-25 04:23:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1323">Bliss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

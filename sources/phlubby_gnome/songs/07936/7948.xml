@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7948">
+ <title>Beams are Gonna Blind Me</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">2.6064</rating>
+ <info>Lyrics:
+I am riding on a beam
+A digital clean datastream
+Travelling with bits&amp;bytes along
+Binary encoding 0 1
+
+The beams are gonna blind me
+The data streams behind me
+The beams are gonna blind me
+The lights are gonna guide me
+
+Much more clusters passing by
+Fujijamatari signs
+And in the distant digiland
+The pyramids of IBM
+
+The beams are gonna blind me
+The data streams behind me
+The beams are gonna blind me
+The lights are gonna guide me
+
+A database my journey ends
+All panther moderns are my friends
+We break the ice with no problems
+We gonna steal the whole contents</info>
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 06:38:41</locked_until>
+ <lastplayed>2018-05-21 23:42:59</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>16426</pouetid>
+ <ytid>_lEfl1XYCBY</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1458">Lotek Style</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_lEfl1XYCBY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

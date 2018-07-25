@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26625">
+ <title>The Human Race (subtune 4)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.1714</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 08:58:07</locked_until>
+ <lastplayed>2018-06-02 08:39:20</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1240</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

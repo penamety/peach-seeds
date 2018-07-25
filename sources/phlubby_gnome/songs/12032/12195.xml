@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12195">
+ <title>Nemesis the Warlock [title]</title>
+ <status v="A">Active</status>
+ <bitrate>79</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.1759</rating>
+ 
+ <songlength>414</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 07:58:07</locked_until>
+ <lastplayed>2018-05-04 23:47:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>OUSPEFX-3h4</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OUSPEFX-3h4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1775</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

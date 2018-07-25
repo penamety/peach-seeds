@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7502">
+ <title>At the End of Cave</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-22 13:54:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15407</pouetid>
+ <ytid>kP_QgY5OxX0</ytid>
+ <ytoffset>28</ytoffset>
+ 
+ <artists>
+  <artist id="1336">Chip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

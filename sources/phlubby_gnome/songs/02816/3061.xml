@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3061">
+ <title>Victory</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.6786</rating>
+ 
+ <songlength>315</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 11:44:50</locked_until>
+ <lastplayed>2018-05-09 14:32:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>12645</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

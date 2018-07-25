@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38482">
+ <title>Mutative</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ <info>1st place in Silly Venture 2012 Atari ST/STE music compo</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 16:34:23</locked_until>
+ <lastplayed>2018-05-21 14:28:32</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist><artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SillyVenture</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/55611/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

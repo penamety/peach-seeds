@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43509">
+ <title>Bla</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>recorded from original hardware http://sndhrecord.atari.org/
+3rd place in chipmusic compo, Error In Line 1999
+</info>
+ <songlength>91</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-31 08:40:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="775">Checkpoint [CPT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>ErrorInLine</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/54496/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28482">
+ <title>Classic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.7778</rating>
+ 
+ <songlength>367</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 23:40:27</locked_until>
+ <lastplayed>2018-04-19 16:37:54</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

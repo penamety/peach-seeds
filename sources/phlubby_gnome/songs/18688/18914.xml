@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18914">
+ <title>Imaginary Friends</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">3.8602</rating>
+ <info>11th place in combined demo compo at Assembly 2004</info>
+ <songlength>454</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 17:59:37</locked_until>
+ <lastplayed>2018-06-12 11:29:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13046</pouetid>
+ <ytid>X3pLigmBJco</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="2828">Grip</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=X3pLigmBJco</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

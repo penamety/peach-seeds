@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25306">
+ <title>Knockerboys Chipmod</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ 
+ <songlength>104</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 22:36:14</locked_until>
+ <lastplayed>2018-06-08 20:20:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>fast</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

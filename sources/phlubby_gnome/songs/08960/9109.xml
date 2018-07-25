@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9109">
+ <title>Okay, let&#39;s track it</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 02:18:51</locked_until>
+ <lastplayed>2018-03-26 06:01:51</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>21005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

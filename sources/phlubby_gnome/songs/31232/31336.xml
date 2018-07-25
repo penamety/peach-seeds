@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31336">
+ <title>Too Late</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-08 03:28:57</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3838">mu6k</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

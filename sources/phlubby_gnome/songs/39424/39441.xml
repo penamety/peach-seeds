@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39441">
+ <title>War-Cry</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>from amiga demo Beyond the Future by Union</info>
+ <songlength>290</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-20 23:48:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10464</pouetid>
+ <ytid>lRawwdw_EYs</ytid>
+ 
+ 
+ <artists>
+  <artist id="2527">Dan</artist>
+ </artists>
+ <groups>
+  <group id="309">Pic Saint Loup</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Investation</tag>
+  
+  <tag>Union</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

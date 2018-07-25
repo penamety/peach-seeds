@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44029">
+ <title>City Lights</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.2353</rating>
+ <info>From the demo Dolor Sit Amet by Lorem Ipsum (aka Elude).
+
+Took 1st place at Revision 2016</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 20:35:43</locked_until>
+ <lastplayed>2018-06-17 11:24:20</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>67182</pouetid>
+ <ytid>NvKAq3tq_LE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

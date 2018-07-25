@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42101">
+ <title>Melanoma Mood</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Melanoma Mood by Randall of MultiStyle Labs.
+2nd place in C64 2SID Competition at Silesia Party 6.
+http://csdb.dk/release/?id=109590</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 08:50:47</locked_until>
+ <lastplayed>2018-02-15 17:27:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5418">Randall (PL)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>SID</tag>
+  
+  <tag>stereo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

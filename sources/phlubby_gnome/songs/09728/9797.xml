@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9797">
+ <title>Netherworld</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8333</rating>
+ <info>1:st place the The Computer Crossroad (TCC) 1993 4ch music compo</info>
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 10:20:40</locked_until>
+ <lastplayed>2018-01-27 02:16:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="946">Probe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

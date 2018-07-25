@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10161">
+ <title>Teotihuacan</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.6596</rating>
+ 
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 19:19:50</locked_until>
+ <lastplayed>2018-05-10 23:42:11</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

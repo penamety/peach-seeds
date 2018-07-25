@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43232">
+ <title>We Are Amiga</title>
+ <status v="A">Active</status>
+ <bitrate>1724</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.2308</rating>
+ <info>1st in Streaming Music compo at Edison 2016</info>
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 03:32:40</locked_until>
+ <lastplayed>2018-05-06 09:48:54</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

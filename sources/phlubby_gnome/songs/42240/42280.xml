@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42280">
+ <title>Mikuk</title>
+ <status v="A">Active</status>
+ <bitrate>172</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.3571</rating>
+ <info>Tune for Vandalism News #64</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 08:42:11</locked_until>
+ <lastplayed>2018-05-23 19:39:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=138976</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

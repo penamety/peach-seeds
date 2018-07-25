@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30068">
+ <title>Fish Light</title>
+ <status v="A">Active</status>
+ <bitrate>207</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1765</rating>
+ <info>Fish Light
+el blanco
+[fulcrum]
+5:32
+
+After a bit of a lull and constant interruptions by real-life(TM), finally, another tune.
+Greetz to fulcrum, coplan, others etc.
+I really focused on VSTi usage in this one. Pretty much all the instruments (except for the drums) are VSTis. 
+I really enjoy using the Angular Momentum Additive Table Synth by Laif Oddson &amp; Thomas Weber. Just love those delicious sounds it puts out. If only it didn&#39;t crash madtracker all the time! I mainly used some presets with a few minor tweaks.
+The piano is Steinberg&#39;s &#34;The Grand&#34; run through MT2&#39;s flanger to make it fit in with the trance sound.
+The drums are all samples I had lying around.</info>
+ <songlength>332</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 17:22:46</locked_until>
+ <lastplayed>2018-03-10 05:24:46</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3852">elblanco</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>madtracker2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

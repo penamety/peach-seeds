@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27420">
+ <title>Sleeplessness</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0769</rating>
+ <info>Inspired by Tangerine&#39;s tune from &#34;Synthesed World&#34; musicdisk, most samples taken from there as well. Jazzy piano solo is Lavender&#39;s trademark :)
+The tune was made for another shareware game for Sunny Games. With this tune we send greets to all oldschool fans on ZX, Amiga and PC demoscene.</info>
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-01 01:01:29</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33282</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8909">
+ <title>Pellusid Water</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.7273</rating>
+ <info>Released in the music compo at Rendezvous 1992.</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 21:49:01</locked_until>
+ <lastplayed>2017-10-12 22:39:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>31943</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

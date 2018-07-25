@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28474">
+ <title>Rainbow Extasy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.2609</rating>
+ <info>I wrote this tune in 1995 with PPs (Pascal Simon). We used a modified version of it in our first and only demo, called &#39;Bunk&#39;, available on www.pouet.net</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 04:47:37</locked_until>
+ <lastplayed>2018-05-31 20:09:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>26019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4094">Korguiq</artist><artist id="4095">PPs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>HappyHardcore</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/95749/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

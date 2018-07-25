@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44114">
+ <title>Clubbed to Death</title>
+ <status v="A">Active</status>
+ <bitrate>534</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ <info>1st place at WAPniak 2k17 cover compo</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 17:47:58</locked_until>
+ <lastplayed>2018-05-02 05:26:40</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Matrix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/171845/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42118">
+ <title>Yerzmix Part 7</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0714</rating>
+ <info>This song has been made on two ZX Spectrum 48K machines with AY-interfaces. 
+Recorded from ZX81 with TurboSound (ZXpand_AY+Mr_X).</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 03:18:17</locked_until>
+ <lastplayed>2018-06-12 19:36:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

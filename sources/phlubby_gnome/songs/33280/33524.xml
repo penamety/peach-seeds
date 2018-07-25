@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33524">
+ <title>Valve</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.6452</rating>
+ <info>1st place in newschool music compo at Solskogen 2011
+Also used in Dekadenced by Accession</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-20 07:36:11</locked_until>
+ <lastplayed>2017-06-14 03:52:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>57729</pouetid>
+ <ytid>_SRQpwqsa6Q</ytid>
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

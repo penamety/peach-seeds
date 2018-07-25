@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33923">
+ <title>Jawollsen (feat. Mr. Gadget)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>Ranked 7th in the mp3/ogg music compo at Evoke 2011.</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 18:37:38</locked_until>
+ <lastplayed>2018-04-04 22:19:27</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4867">Novel</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

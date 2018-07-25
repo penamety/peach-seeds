@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37731">
+ <title>Blade of Justice</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3684</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-13 01:58:19</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4164">ST-Arts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>Dramatic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

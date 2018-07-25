@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40870">
+ <title>128 Miles</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.6818</rating>
+ <info>1st place in ZX Spectrum music compo at Forever 2010</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 07:02:41</locked_until>
+ <lastplayed>2018-05-08 14:09:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=49427</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37373/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

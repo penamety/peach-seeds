@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4018">
+ <title>Desert Dawn</title>
+ <status v="D">Dupe</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.5862</rating>
+ <info>Same as [song]4019[/song] but with higher quality samples.</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>462</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

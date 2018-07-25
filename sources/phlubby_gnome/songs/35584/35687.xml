@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35687">
+ <title>Hydropoetry cathedra (crankshaft remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7813</rating>
+ 
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 05:44:09</locked_until>
+ <lastplayed>2018-04-28 07:21:03</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>59135</pouetid>
+ <ytid>e5tPG_hFTwc</ytid>
+ <ytoffset>33</ytoffset>
+ 
+ <artists>
+  <artist id="981">Raiden</artist><artist id="1713">Yolk</artist>
+ </artists>
+ <groups>
+  <group id="557">MadWizards [MWI MaWi]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e5tPG_hFTwc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

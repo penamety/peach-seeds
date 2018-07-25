@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25261">
+ <title>Breakthru mod</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 21:35:45</locked_until>
+ <lastplayed>2018-05-27 03:33:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

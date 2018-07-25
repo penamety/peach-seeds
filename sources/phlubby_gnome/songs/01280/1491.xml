@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1491">
+ <title>Cybernoid II Jarresque 2001 Mix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.625</rating>
+ 
+ <songlength>456</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 17:23:18</locked_until>
+ <lastplayed>2018-06-09 17:15:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="289">DaTucker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

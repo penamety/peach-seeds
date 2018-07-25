@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5199">
+ <title>Skyscraper</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.7586</rating>
+ 
+ <songlength>356</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-14 00:38:57</locked_until>
+ <lastplayed>2017-12-26 03:03:09</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

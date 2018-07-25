@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26263">
+ <title>Turrican II Remixed</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.1304</rating>
+ 
+ <songlength>446</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-16 11:21:45</locked_until>
+ <lastplayed>2017-12-25 14:18:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4778">Cerbere</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

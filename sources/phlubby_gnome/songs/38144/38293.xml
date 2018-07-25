@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38293">
+ <title>Moduline Remix</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="2">2.5</rating>
+ <info>Featured in Meteor 2.</info>
+ <songlength>510</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

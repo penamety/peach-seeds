@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3544">
+ <title>Living in a Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.1216</rating>
+ <info>Also in [url=http://www.pouet.net/prod.php?which=5815]Dizzy Tunes 1[/url]</info>
+ <songlength>387</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 01:18:42</locked_until>
+ <lastplayed>2018-05-27 17:33:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>26189</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>Mellow</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

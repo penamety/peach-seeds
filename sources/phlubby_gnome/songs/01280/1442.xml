@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1442">
+ <title>Almagest</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8889</rating>
+ 
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 09:31:56</locked_until>
+ <lastplayed>2017-10-09 21:15:07</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="267">Cyclone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

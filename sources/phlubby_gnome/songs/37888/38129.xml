@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38129">
+ <title>We are here to make some noise</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ <info>Magnars contribution to Datastorm 2013 Amiga music compo - reached 2:nd place.
+
+Message to Magnar: Nice to have you back on Amiga 4ch, PAL!</info>
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-23 03:06:46</locked_until>
+ <lastplayed>2017-12-04 16:31:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

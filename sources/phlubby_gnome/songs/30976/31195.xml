@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31195">
+ <title>Oberheimx</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ 
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-29 10:24:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18991</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2014">Oberheim</artist>
+ </artists>
+ <groups>
+  <group id="342">Vortex 42</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

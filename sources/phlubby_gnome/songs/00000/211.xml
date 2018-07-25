@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="211">
+ <title>Full Contact</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.303</rating>
+ 
+ <songlength>354</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 21:26:05</locked_until>
+ <lastplayed>2018-05-24 14:37:31</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>panflutes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

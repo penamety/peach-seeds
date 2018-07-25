@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3090">
+ <title>Kasparov</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">2.8506</rating>
+ <info>1st place in pc 3d acc demo at The Party 1999</info>
+ <songlength>597</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 09:16:54</locked_until>
+ <lastplayed>2018-05-26 16:32:00</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>374</pouetid>
+ <ytid>89_S9Fp4MlI</ytid>
+ 
+ 
+ <artists>
+  <artist id="516">Herr Weltschaft</artist>
+ </artists>
+ <groups>
+  <group id="504">elitegroup [e]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=N9HKfofgzzU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=89_S9Fp4MlI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3511">
+ <title>Essential Classics</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 20:12:05</locked_until>
+ <lastplayed>2018-04-23 21:59:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="1060">Shorty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

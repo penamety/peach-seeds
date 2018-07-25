@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42733">
+ <title>Bubble Bobble remix rough demo 2016</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ <info>[i]A demo remix of Song 8 in the original Bubble Bobble SID by Peter Clarke[/i]</info>
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-11 10:36:25</locked_until>
+ <lastplayed>2017-08-01 00:49:13</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4475">M.A.F</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3yuVQ-jbh_8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

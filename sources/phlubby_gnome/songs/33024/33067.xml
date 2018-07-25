@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33067">
+ <title>Technopolis (ArtField 2011 Invitation)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 13:47:11</locked_until>
+ <lastplayed>2018-04-12 04:04:36</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56816</pouetid>
+ <ytid>XEQDLF2o2QY</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="2137">Shiru Otaku</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>ArtField</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XEQDLF2o2QY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

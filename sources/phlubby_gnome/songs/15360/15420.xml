@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15420">
+ <title>Ballada o Wiertarce</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.5455</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-07 09:39:50</locked_until>
+ <lastplayed>2017-07-28 02:34:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2374">CDX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

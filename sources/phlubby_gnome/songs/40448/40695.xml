@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40695">
+ <title>XTC</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.1429</rating>
+ <info>Was started at Nordlicht 2013 and now finished on Nordlicht 2014 with some work at home in between. 
+Ranked 3rd place in &#39;Executable Music&#39; Compo.</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 06:12:01</locked_until>
+ <lastplayed>2018-05-19 12:45:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>jelly</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

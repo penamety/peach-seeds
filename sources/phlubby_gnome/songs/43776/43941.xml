@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43941">
+ <title>Ready To Rumble</title>
+ <status v="A">Active</status>
+ <bitrate>190</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.5455</rating>
+ <info>Cooperation tune done with Mygg / Insane, Virgill / Alcatraz and Triace / Insane^Desire for the Revision 2017 Amiga invitation demo by Insane.
+
+(6th place at Datastorm 2017)</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 20:46:37</locked_until>
+ <lastplayed>2018-03-28 05:52:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>68902</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="5724">Mygg</artist><artist id="5446">Triace</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group><group id="160">Desire</group><group id="692">Insane</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34593">
+ <title>TLN2_central_park</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.9459</rating>
+ <info>AHX Conversion of &#34;The Last Ninja 2 - Central Park In-game&#34; tune by Matt Gray</info>
+ <songlength>331</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-30 05:07:15</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

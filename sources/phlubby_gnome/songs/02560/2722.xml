@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2722">
+ <title>The Last Sun</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.2151</rating>
+ 
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 17:15:24</locked_until>
+ <lastplayed>2018-06-01 02:12:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>10456</pouetid>
+ <ytid>8Tmm050feI4</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  <group id="332">Ackerlight</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Death</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>tears</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8Tmm050feI4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/3336</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

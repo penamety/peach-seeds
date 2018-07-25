@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11893">
+ <title>Notice Me</title>
+ <status v="A">Active</status>
+ <bitrate>109</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.4375</rating>
+ 
+ <songlength>99</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 23:26:15</locked_until>
+ <lastplayed>2018-04-12 23:06:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

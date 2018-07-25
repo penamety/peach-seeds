@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18946">
+ <title>Black and White</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ 
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-08 20:40:43</locked_until>
+ <lastplayed>2017-07-01 20:36:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9141</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1684">Grubi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/116163/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

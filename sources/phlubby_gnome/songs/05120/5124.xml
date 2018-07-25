@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5124">
+ <title>Dizzy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.3125</rating>
+ <info>Uses a lot of the percussive sounds used in &#34;Collision&#34;, and starts with a nice/odd ambient intro. Also features angry/distorted vocals and all the crazy stuff!</info>
+ <songlength>333</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-09 08:28:26</locked_until>
+ <lastplayed>2018-06-15 07:42:59</lastplayed>
+ 
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="832">mv</artist>
+ </artists>
+ <groups>
+  <group id="16">Hellven</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

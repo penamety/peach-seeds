@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9101">
+ <title>Tristan&#39;s Tango</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="41">3.4146</rating>
+ 
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:13:38</locked_until>
+ <lastplayed>2018-05-25 13:27:04</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Tango</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2487">
+ <title>Poisonsweet</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.6071</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 23:07:21</locked_until>
+ <lastplayed>2018-05-11 08:38:58</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist><artist id="1285">Unreal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

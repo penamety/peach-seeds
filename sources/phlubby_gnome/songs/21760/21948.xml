@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21948">
+ <title>Bubble Bobble 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">2.8649</rating>
+ 
+ <songlength>368</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 12:17:29</locked_until>
+ <lastplayed>2017-10-29 00:13:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>22644</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2084">MSG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14499">
+ <title>Golgotan Lexxan 4</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ 
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 21:54:45</locked_until>
+ <lastplayed>2018-05-31 05:24:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2269">Badsnail</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OldSchool</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

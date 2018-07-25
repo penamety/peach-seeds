@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2310">
+ <title>Experience</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.1786</rating>
+ <info>&#34;This song is my contribution to ASM 98 multichannel music compo.&#34; --elwood
+
+It got 152# place on the compo. </info>
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:10:03</locked_until>
+ <lastplayed>2018-06-03 08:11:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="408">Elwood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

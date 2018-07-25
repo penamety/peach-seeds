@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2537">
+ <title>Arp madness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 22:48:55</locked_until>
+ <lastplayed>2017-11-28 10:34:23</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11196</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3959">Dextrous</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

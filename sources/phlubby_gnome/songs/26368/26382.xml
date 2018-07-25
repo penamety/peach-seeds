@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26382">
+ <title>Galways</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0</rating>
+ 
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 09:15:37</locked_until>
+ <lastplayed>2018-05-21 07:43:34</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50697</pouetid>
+ <ytid>fU7RWg7JR_o</ytid>
+ 
+ 
+ <artists>
+  <artist id="1480">Mixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Icons</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fU7RWg7JR_o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

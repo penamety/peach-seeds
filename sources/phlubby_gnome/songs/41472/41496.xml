@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41496">
+ <title>IMP51</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.0</rating>
+ <info>Dupe of [song]31824[/song]</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-01-07 21:21:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1933</pouetid>
+ <ytid>crfRLxrIHG0</ytid>
+ <ytoffset>233</ytoffset>
+ 
+ <artists>
+  <artist id="4667">IMP</artist>
+ </artists>
+ <groups>
+  <group id="532">Dream Makers Software</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

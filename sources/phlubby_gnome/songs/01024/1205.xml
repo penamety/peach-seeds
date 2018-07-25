@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1205">
+ <title>Blache Bleuche</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:37:45</locked_until>
+ <lastplayed>2018-05-31 05:19:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3043</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20952">
+ <title>The last ninja remix song6 atari st</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-26 11:54:31</locked_until>
+ <lastplayed>2018-03-04 03:08:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

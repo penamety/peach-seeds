@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36702">
+ <title>Smashing</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1053</rating>
+ 
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 16:17:00</locked_until>
+ <lastplayed>2018-03-28 10:49:32</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8874">
+ <title>Now I know how low U can go</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.5949</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 16:10:00</locked_until>
+ <lastplayed>2018-06-03 15:50:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56147</pouetid>
+ <ytid>nhie3QtFVd0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

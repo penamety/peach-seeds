@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1259">
+ <title>Kiulu</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.1</rating>
+ 
+ <songlength>317</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 14:23:10</locked_until>
+ <lastplayed>2018-02-05 02:00:40</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="224">CNCD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Ethnic</tag>
+  
+  <tag>Experimental</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

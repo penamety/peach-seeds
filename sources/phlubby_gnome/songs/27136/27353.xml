@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27353">
+ <title>Manchester United (manu2)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-01 11:38:32</locked_until>
+ <lastplayed>2017-07-06 03:20:26</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="750">Matt Furniss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>football</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

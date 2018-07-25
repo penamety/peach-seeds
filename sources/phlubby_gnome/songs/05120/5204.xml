@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5204">
+ <title>He&#39;s gone (Takeover 2001 edition)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>Placed 10 in mp3 compo @ takeover 2001
+
+http://www.pouet.net/party_results.php?which=42&amp;when=2001</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 20:18:07</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="848">Neo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

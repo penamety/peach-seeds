@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32814">
+ <title>The Dead Planet</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.1765</rating>
+ 
+ <songlength>308</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-16 15:24:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

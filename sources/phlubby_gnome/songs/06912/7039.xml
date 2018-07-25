@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7039">
+ <title>Gone Fishing</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3676</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:36:12</locked_until>
+ <lastplayed>2018-06-07 05:52:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist><artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

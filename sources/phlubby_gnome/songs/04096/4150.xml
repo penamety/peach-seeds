@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4150">
+ <title>Tango Dance</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ 
+ <songlength>55</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-04 17:25:00</locked_until>
+ <lastplayed>2017-08-30 11:52:30</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+  <tag>Tango</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

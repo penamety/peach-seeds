@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24546">
+ <title>SLL 7</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.5263</rating>
+ <info>Ultimate Soundtracker format.</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 07:50:17</locked_until>
+ <lastplayed>2018-06-05 17:00:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4723</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="252">7Up Crew</group><group id="251">Trilogy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

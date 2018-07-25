@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43822">
+ <title>The Phoenix Code (tune 4)</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.4444</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 20:28:03</locked_until>
+ <lastplayed>2018-06-08 16:37:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>68406</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="841">Bonzai</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

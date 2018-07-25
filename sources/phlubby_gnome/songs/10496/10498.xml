@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10498">
+ <title>Delta - Intro [Full]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="104">2.6731</rating>
+ <info>One of the greatest Hubbard pieces ever.</info>
+ <songlength>682</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 21:30:39</locked_until>
+ <lastplayed>2018-06-09 23:36:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>long</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=667</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

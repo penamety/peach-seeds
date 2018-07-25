@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40297">
+ <title>Reflections (party version)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.0</rating>
+ <info>1st @ Northcon Demoverse 2013, streaming music compo</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 01:46:54</locked_until>
+ <lastplayed>2017-10-03 03:26:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

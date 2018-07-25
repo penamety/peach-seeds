@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26654">
+ <title>No LoVe!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.3548</rating>
+ <info>Released for the Dectcompo 2006</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 06:07:37</locked_until>
+ <lastplayed>2018-06-07 17:17:28</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Dectcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33912">
+ <title>Digital SpaceRock</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0</rating>
+ <info>Entry for Demodays 2011 music compo.</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 06:50:18</locked_until>
+ <lastplayed>2018-03-18 11:59:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>oqllr0ndJLo</ytid>
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

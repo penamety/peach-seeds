@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3361">
+ <title>Next Decade</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.4286</rating>
+ 
+ <songlength>337</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 02:47:07</locked_until>
+ <lastplayed>2018-03-10 06:02:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3616</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33126">
+ <title>Streets of Tokyo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.9167</rating>
+ <info>Skale tracker tune, written for a Double Dragon style game I was developing. As usually, the game project fell through, but the music lived on! (I always preferred writing the tunes anyway! :) )</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-24 22:33:14</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2717">Fallout</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

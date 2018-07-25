@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32481">
+ <title>Summer</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.0</rating>
+ 
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 18:19:59</locked_until>
+ <lastplayed>2018-06-10 00:22:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1444">Leaderc</artist>
+ </artists>
+ <groups>
+  <group id="427">Castrum Doloris</group>
+ </groups>
+ 
+ <tags>
+  <tag>Sleepy</tag>
+  
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

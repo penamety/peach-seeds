@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28485">
+ <title>Defend Your Country</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="30">2.5333</rating>
+ 
+ <songlength>439</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-03 06:47:47</locked_until>
+ <lastplayed>2018-06-17 09:17:56</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>7774</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

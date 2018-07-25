@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24444">
+ <title>Raining in warszawa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ 
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 01:53:27</locked_until>
+ <lastplayed>2018-04-18 02:31:44</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

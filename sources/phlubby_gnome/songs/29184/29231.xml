@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29231">
+ <title>Bright Eyes (Rock&#39;N&#39;Roll mix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.037</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-23 17:13:23</locked_until>
+ <lastplayed>2017-07-15 09:05:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1688">Danger</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Western</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

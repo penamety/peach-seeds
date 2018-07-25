@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29794">
+ <title>Locomotion</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.186</rating>
+ <info>1st place in combined 64k compo at Assembly 2010</info>
+ <songlength>315</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 19:55:09</locked_until>
+ <lastplayed>2018-06-04 16:44:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55546</pouetid>
+ <ytid>OhAx2c0U5WA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OhAx2c0U5WA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

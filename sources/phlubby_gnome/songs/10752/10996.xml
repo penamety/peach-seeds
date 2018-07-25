@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10996">
+ <title>Orgasmic Chipper</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.186</rating>
+ 
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 06:20:48</locked_until>
+ <lastplayed>2018-06-12 08:45:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>26364</pouetid>
+ <ytid>Kj4iHkY-2xA</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

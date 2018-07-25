@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42788">
+ <title>Golden Reciver</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>52</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 00:36:53</locked_until>
+ <lastplayed>2018-03-26 02:08:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7600</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5645">Kootie</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

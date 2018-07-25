@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23127">
+ <title>Whirl</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ <info>Ranked 4th in the music compo at Juhla 1997.</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-19 07:36:02</locked_until>
+ <lastplayed>2017-06-13 17:32:08</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="544">Illusion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Juhla</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

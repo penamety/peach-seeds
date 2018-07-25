@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9846">
+ <title>PYM - Best Part Of The Creation [No Digi]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.1282</rating>
+ 
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 11:22:24</locked_until>
+ <lastplayed>2018-05-28 11:39:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

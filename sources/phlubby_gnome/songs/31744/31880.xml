@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31880">
+ <title>Delta</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">3.4902</rating>
+ 
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-17 17:25:32</locked_until>
+ <lastplayed>2017-10-11 00:04:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4677">Visa Röster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acapella</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

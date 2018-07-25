@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18848">
+ <title>Deep Kick</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.8333</rating>
+ 
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-13 05:02:27</lastplayed>
+ <platform id="25">POKEY</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

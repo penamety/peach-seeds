@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10479">
+ <title>Echoing</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.5161</rating>
+ 
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 22:36:38</locked_until>
+ <lastplayed>2018-06-14 08:53:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9132</pouetid>
+ <ytid>za0R3LcEp0E</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="89">Banana</artist>
+ </artists>
+ <groups>
+  <group id="396">World Of Wonders [WOW]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>Software</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IuEySzl9WqU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?166351</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

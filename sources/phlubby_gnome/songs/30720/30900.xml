@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30900">
+ <title>Blueberry Groove</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6923</rating>
+ <info>Taken from the mod file:
+
+&#39;blueberry groove&#39;
+zipp &amp; carlos
+
+remedy99
+fourchannel compo
+
+fourth place
+
+...short hi&#39;s to....
+erdol.ragoon.norfair
+hunz.silke.wayfinder
+nogsf.suxx.jim.acrid
+generic.manka.optic
+radiks.loonie+you!</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-04 15:02:07</locked_until>
+ <lastplayed>2017-11-11 13:56:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist><artist id="5607">Zipp [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

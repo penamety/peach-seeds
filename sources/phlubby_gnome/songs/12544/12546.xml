@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12546">
+ <title>Cold Sun</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7059</rating>
+ 
+ <songlength>112</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 19:41:02</locked_until>
+ <lastplayed>2018-06-06 05:40:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1998">Theo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>quiet</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

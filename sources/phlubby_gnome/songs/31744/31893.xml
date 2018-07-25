@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31893">
+ <title>Last Ninja 3 (Subtune 10)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">3.8592</rating>
+ 
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 14:52:51</locked_until>
+ <lastplayed>2018-05-05 05:15:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4677">Visa Röster</artist>
+ </artists>
+ <groups>
+  <group id="789">Visa Röster</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

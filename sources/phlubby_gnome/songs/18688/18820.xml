@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18820">
+ <title>Jam Session</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6316</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 09:10:04</locked_until>
+ <lastplayed>2018-04-20 17:59:55</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist><artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  <group id="290">Grayscale</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

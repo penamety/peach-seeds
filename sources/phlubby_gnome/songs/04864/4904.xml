@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4904">
+ <title>Livin&#39; Insanity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3676</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 01:32:11</locked_until>
+ <lastplayed>2018-06-14 14:44:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1477</pouetid>
+ <ytid>_5HacABiXUE</ytid>
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IEHXzJ9xu-Q</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=959</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/5784/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?49631</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

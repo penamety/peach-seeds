@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2084">
+ <title>No one home</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>Mod version of Roland U-110 demo tune.</info>
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-03 08:38:25</locked_until>
+ <lastplayed>2017-11-12 09:00:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3207</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

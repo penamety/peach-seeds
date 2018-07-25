@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25648">
+ <title>First Time</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.5556</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 01:13:13</locked_until>
+ <lastplayed>2017-06-24 23:46:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

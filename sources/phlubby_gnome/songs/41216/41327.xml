@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41327">
+ <title>Starfire</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Demo song, I&#39;m not sure but I composed this to demo group called Starfire or something like that. One of my last tunes....
+</info>
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 08:06:45</locked_until>
+ <lastplayed>2018-04-05 15:36:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>39723</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

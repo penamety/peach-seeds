@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21189">
+ <title>Musicbox</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.2143</rating>
+ 
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 14:58:10</locked_until>
+ <lastplayed>2018-06-14 15:42:03</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

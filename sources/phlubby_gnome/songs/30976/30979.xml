@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30979">
+ <title>Red Line</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ 
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 00:14:19</locked_until>
+ <lastplayed>2018-05-12 08:58:41</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>9110</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="760">MED</artist><artist id="1000">Red Ribbon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>laugh</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

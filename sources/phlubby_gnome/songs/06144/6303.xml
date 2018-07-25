@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6303">
+ <title>Daisy Chain 2</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.3433</rating>
+ 
+ <songlength>336</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:29:47</locked_until>
+ <lastplayed>2018-05-21 15:38:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3429</pouetid>
+ <ytid>trM50cgOZ2A</ytid>
+ <ytoffset>56</ytoffset>
+ 
+ <artists>
+  <artist id="1011">Rhesus Minus</artist>
+ </artists>
+ <groups>
+  <group id="104">Cryptoburners</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

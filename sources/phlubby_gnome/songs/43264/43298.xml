@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43298">
+ <title>When I Kissed the Teacher</title>
+ <status v="A">Active</status>
+ <bitrate>314</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>ABBA Gold - The Collection
+Future Composer 1.0</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-26 09:55:42</locked_until>
+ <lastplayed>2018-01-05 13:47:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>67094</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Abba</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=146701</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

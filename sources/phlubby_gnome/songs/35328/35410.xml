@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35410">
+ <title>Desert Breeze</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0357</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 22:56:26</locked_until>
+ <lastplayed>2018-04-16 23:33:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist><artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

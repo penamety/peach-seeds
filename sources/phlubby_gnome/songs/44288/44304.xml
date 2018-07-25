@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44304">
+ <title>Rise and Shine</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.1818</rating>
+ 
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 06:10:37</locked_until>
+ <lastplayed>2018-05-24 09:34:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>71742</pouetid>
+ <ytid>7liUfI46Weg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/177919/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

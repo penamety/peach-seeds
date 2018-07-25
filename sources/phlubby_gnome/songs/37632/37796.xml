@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37796">
+ <title>Outpost (Atari ST remix)</title>
+ <status v="A">Active</status>
+ <bitrate>193</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.25</rating>
+ <info>A remix of an awesome tune on the Commodore 64 by dEViLOCk/Arsenic. I stumbled into it accidentally while browsing through the High Voltage SID Collection and immediately fell in love. Thank you Peter for letting me remix it. The tune is included in my music demo Meet !Cube.
+Editor: maxYMiser
+Release date: SillyVenture 2012 </info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:03:32</locked_until>
+ <lastplayed>2018-06-15 03:57:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>60836</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>SillyVenture</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

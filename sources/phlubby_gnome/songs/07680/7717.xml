@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7717">
+ <title>Galiwm</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.5417</rating>
+ <info>2nd place in pc 4k compo at Breakpoint 2007</info>
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 08:02:35</locked_until>
+ <lastplayed>2018-06-08 04:35:47</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>30202</pouetid>
+ <ytid>-mcPQIisIq0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="471">Ümlaüt Design [UD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-mcPQIisIq0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

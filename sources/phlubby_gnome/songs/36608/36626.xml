@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36626">
+ <title>Fall Fuer 2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>My very first Song made with ProTracker.
+From the german TV-Series &#34;Ein Fall für zwei&#34;</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 00:39:12</locked_until>
+ <lastplayed>2017-11-26 04:32:44</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5161">Brane</artist>
+ </artists>
+ <groups>
+  <group id="693">Trygon</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

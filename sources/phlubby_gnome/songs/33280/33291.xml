@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33291">
+ <title>Knights of Xentar</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">1.2581</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-KNIGHTS_OF_XENTAR.mp3</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 07:30:39</locked_until>
+ <lastplayed>2018-01-24 01:41:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

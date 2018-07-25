@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36342">
+ <title>Happy Hamster Hop</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>Made with Extreme&#39;s Tracker, supposedly for the ASM&#39;94 music compo.</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 09:26:26</locked_until>
+ <lastplayed>2017-10-30 17:08:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="659">Leinad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

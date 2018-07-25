@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2837">
+ <title>Chin Chin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8276</rating>
+ <info>6th in the mp3 compo at Takeover 2000.</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:15:45</locked_until>
+ <lastplayed>2018-06-08 15:54:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="491">G. Hultink</artist>
+ </artists>
+ <groups>
+  <group id="875">GM Vision</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

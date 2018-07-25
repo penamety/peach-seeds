@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39280">
+ <title>Electronic Music</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Tracked with Renoise!</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 04:00:36</locked_until>
+ <lastplayed>2018-03-16 23:40:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5369">Dr Krall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

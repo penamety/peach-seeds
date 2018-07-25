@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43425">
+ <title>Täydellinen Nainen</title>
+ <status v="A">Active</status>
+ <bitrate>205</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.1667</rating>
+ <info>7th (the last place) at supersound compo, Byterapers 30y birthday party
+
+lyrics:
+perse, tissit, vagina, ihastuttava persoonallisuus, älykkyys, kauniit silmät, pitkä pinna ja säihkyvät sääret
+
+lyrics translated:
+a perfect woman (song title)
+
+ass, tits, vagina, a charming personality, intelligence, beautiful eyes, a long temper and brilliant legs</info>
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 15:43:19</locked_until>
+ <lastplayed>2018-05-07 07:57:00</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5056">Terwiz</artist>
+ </artists>
+ <groups>
+  <group id="829">Alumni</group>
+ </groups>
+ 
+ <tags>
+  <tag>Acapella</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/162553/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

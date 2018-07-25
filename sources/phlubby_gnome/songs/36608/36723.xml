@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36723">
+ <title>The Star</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>4-th place in MindResources &#39;99 multichannel compo.</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 09:11:16</locked_until>
+ <lastplayed>2018-06-14 02:35:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1998">Theo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>MindResources</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

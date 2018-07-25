@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23753">
+ <title>International Karate</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="112">4.0536</rating>
+ <info>Hubbard was influenced by a song from movie Merry Christmas, Mr. Lawrence (1983). The song was composed by Ryuichi Sakamoto. http://www.youtube.com/watch?v=NkWjsT_SJNI</info>
+ <songlength>644</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 00:45:58</locked_until>
+ <lastplayed>2018-06-13 22:03:02</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>9935</pouetid>
+ <ytid>6BOXR008V2I</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1315</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=16171</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

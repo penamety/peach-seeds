@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28716">
+ <title>Dubbelfel4</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">2.0227</rating>
+ <info>This is actually a mixed version of DJ Cats original &#34;Dubbelfel&#34;, released at Compusphere. Unfortunately the original isn&#39;t on Nectarine, and I can&#39;t seem to find it either.</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-04 14:02:08</locked_until>
+ <lastplayed>2018-06-15 10:08:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>SwedishSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

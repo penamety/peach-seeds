@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33370">
+ <title>Critical Error part 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-19 14:39:27</locked_until>
+ <lastplayed>2017-11-29 01:44:08</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56765</pouetid>
+ <ytid>M9IlURvstUo</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MchzKT_oufE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

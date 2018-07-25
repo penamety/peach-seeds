@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25576">
+ <title>3d demo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1053</rating>
+ 
+ <songlength>284</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 09:11:16</locked_until>
+ <lastplayed>2018-03-09 04:20:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>21792</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2834">GTS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Cebit</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

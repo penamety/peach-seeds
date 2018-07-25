@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5343">
+ <title>Powercuts</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0</rating>
+ 
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 10:55:15</locked_until>
+ <lastplayed>2018-04-02 00:30:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3517</pouetid>
+ <ytid>KP33rtR51xM</ytid>
+ <ytoffset>126</ytoffset>
+ 
+ <artists>
+  <artist id="870">Nork</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

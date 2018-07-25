@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34143">
+ <title>Pop Syndrome</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7576</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 03:02:29</locked_until>
+ <lastplayed>2018-05-11 23:19:36</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

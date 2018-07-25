@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28954">
+ <title>Mouth Song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.075</rating>
+ <info>No instruments. Every instrument made by my mouth and a mic. Some mixing, and voilla!</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 19:46:24</locked_until>
+ <lastplayed>2018-05-22 14:28:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2906">Jakub Husak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>burp</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

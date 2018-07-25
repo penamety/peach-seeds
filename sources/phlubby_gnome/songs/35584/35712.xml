@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35712">
+ <title>I is another</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>Entry for the 32kb newschool exeMusic compo at REVISION 2012.
+Ranked 5th.
+Made with own synth under development.
+Executable is 12ko uncompressed.</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-02 13:53:23</locked_until>
+ <lastplayed>2018-01-14 09:36:30</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

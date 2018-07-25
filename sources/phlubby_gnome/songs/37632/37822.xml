@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37822">
+ <title>Ba1 (xerxes remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.4912</rating>
+ 
+ <songlength>328</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:20:20</locked_until>
+ <lastplayed>2018-05-26 17:30:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11791">
+ <title>Mine Sweeper ST</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">3.7125</rating>
+ 
+ <songlength>414</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 21:12:27</locked_until>
+ <lastplayed>2018-06-03 13:42:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ <pouetid>61</pouetid>
+ <ytid>y8_9Y1yGfTw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=y8_9Y1yGfTw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.atarilegend.com/games/games_detail.php?game_id=3361</url>
+    <comment></comment>
+    <type id="6">
+        <name>Atari Legends</name>
+        <icon>/static/media/linkicons/atari-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/65435/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

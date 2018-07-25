@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32342">
+ <title>Digital Elite</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9688</rating>
+ 
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 02:53:59</locked_until>
+ <lastplayed>2018-03-13 05:52:23</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1007">Reptile</artist><artist id="4341">Sky (SE)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

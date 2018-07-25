@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29220">
+ <title>sorry-sorry-sorry</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.0</rating>
+ 
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 18:18:16</locked_until>
+ <lastplayed>2018-03-14 00:58:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1571">Vim!</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

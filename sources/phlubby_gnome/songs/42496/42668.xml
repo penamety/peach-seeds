@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42668">
+ <title>Live Your Own Life</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ <info>Old school Amiga tune</info>
+ <songlength>380</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-09 08:31:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1277">u4ia</artist>
+ </artists>
+ <groups>
+  <group id="279">MegaWatts</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

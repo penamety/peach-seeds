@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35389">
+ <title>The nada one</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.0909</rating>
+ <info>Released at Dreamhack 98, made in one hour.</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 09:31:39</locked_until>
+ <lastplayed>2017-09-30 21:04:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>58704</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="50">Andreas Viklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Dreamhack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

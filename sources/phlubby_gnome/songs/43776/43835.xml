@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43835">
+ <title>Silver Clouds</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.7143</rating>
+ 
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 11:34:51</locked_until>
+ <lastplayed>2018-05-18 10:26:54</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>27941</pouetid>
+ <ytid>pwsyVEZJ7ug</ytid>
+ 
+ 
+ <artists>
+  <artist id="5693">Daryl</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2154">
+ <title>Hy Super</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.4583</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 13:04:08</locked_until>
+ <lastplayed>2018-05-23 20:48:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1303</pouetid>
+ <ytid>qcaluWz4-10</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Intro</tag>
+  
+  <tag>minimalistic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

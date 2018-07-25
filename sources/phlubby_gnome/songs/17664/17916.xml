@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17916">
+ <title>Cool World</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-26 23:27:07</locked_until>
+ <lastplayed>2017-06-18 12:50:30</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1379">Essential Sound</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>electronic</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

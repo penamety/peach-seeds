@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4023">
+ <title>Doskpop Project</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2041</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 14:41:19</locked_until>
+ <lastplayed>2018-05-29 06:12:21</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

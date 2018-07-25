@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15461">
+ <title>Amiga is Still Cool!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.0588</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-28 13:36:05</locked_until>
+ <lastplayed>2017-11-07 03:40:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

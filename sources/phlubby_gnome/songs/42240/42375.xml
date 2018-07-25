@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42375">
+ <title>Stay (Mordi remix)</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>I originally had plans for another tune to submit to this compilation, but that didn&#39;t quite work out.
+A few weeks ago a swedish band called &#39;Shallow Sense&#39; posted four songs they wanted to have remixed.
+I then started playing around with the samples of one of those tracks, and pretty much in two-three days I made this.
+
+The choirs are actually done using samples. A friend of mine; Slaygon, recorded about two octaves of &#34;aaaaaaaa&#34;.
+I then edited his recordings and made them into a DirectWave preset. Then I copied about ten instances of it, and transposed each of them one note up.
+This way, the choir sounds very &#34;full&#34; and nice. Initally, the goal was to make it sound like 10cc&#39;s choirs in their track &#34;I&#39;m not in love&#34;.
+
+The acoustic guitar in the second half of the song were downloaded from a website with random guitar-samples. I changed the chords using Melodyne.
+The vocals were also quite tweaked, along with the other guitar-samples.
+
+In total I spent 12 hours in FL Studio and Melodyne.
+I do think it has it&#39;s flaws, but hopefully someone will enjoy it as much as I enjoyed making it!</info>
+ <songlength>374</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 22:22:17</locked_until>
+ <lastplayed>2018-06-13 16:38:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Enigma</tag>
+  
+  <tag>synth</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32755">
+ <title>Swansong</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.4833</rating>
+ 
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 22:14:38</locked_until>
+ <lastplayed>2018-05-26 08:54:47</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56886</pouetid>
+ <ytid>xHLOd2cNji0</ytid>
+ 
+ 
+ <artists>
+  <artist id="4072">Planet Boelex</artist>
+ </artists>
+ <groups>
+  <group id="100">Dekadence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xHLOd2cNji0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

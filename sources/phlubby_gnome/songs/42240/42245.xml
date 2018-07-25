@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42245">
+ <title>Ambient</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>Found on an old PC TEAM magazine CDROM.</info>
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-27 03:30:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1466">GTK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

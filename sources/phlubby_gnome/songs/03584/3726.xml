@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3726">
+ <title>Brain Pain</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.6</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 10:30:39</locked_until>
+ <lastplayed>2017-10-20 03:39:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="605">Kalma</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

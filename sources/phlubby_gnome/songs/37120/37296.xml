@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37296">
+ <title>Twice Door</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.1667</rating>
+ 
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 04:35:36</locked_until>
+ <lastplayed>2018-05-08 03:39:31</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5229">Sgt Slayer</artist>
+ </artists>
+ <groups>
+  <group id="704">XMen (fr)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

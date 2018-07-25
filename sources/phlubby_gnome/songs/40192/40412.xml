@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40412">
+ <title>The Wizard of Cos</title>
+ <status v="A">Active</status>
+ <bitrate>246</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ 
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 14:57:31</locked_until>
+ <lastplayed>2018-04-20 03:57:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62989</pouetid>
+ <ytid>BEG7rpuqU4o</ytid>
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist>
+ </artists>
+ <groups>
+  <group id="316">Panda Cube</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BEG7rpuqU4o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44456">
+ <title>digital touch</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.1429</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 03:24:49</locked_until>
+ <lastplayed>2018-05-15 06:42:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>17776</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

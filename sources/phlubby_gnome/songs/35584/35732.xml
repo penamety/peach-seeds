@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35732">
+ <title>Distorted Memories</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.3594</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 02:33:22</locked_until>
+ <lastplayed>2018-05-23 12:10:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59154</pouetid>
+ <ytid>cWHRrwwiT_k</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="5096">Dylte</artist><artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cWHRrwwiT_k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

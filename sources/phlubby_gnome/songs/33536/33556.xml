@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33556">
+ <title>Cliffs of Nintendover</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.28</rating>
+ <info>NES rendition of &#34;The Cliffs of Dover&#34; by Eric Johnson.
+
+Rejected by admin due to copyright infringement.</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-06-02 22:42:58</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1825">SLiVeR</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

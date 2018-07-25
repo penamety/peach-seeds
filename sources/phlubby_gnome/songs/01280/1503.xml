@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1503">
+ <title>Shadow of the Beast - Title</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.2941</rating>
+ 
+ <songlength>106</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 04:33:54</locked_until>
+ <lastplayed>2018-06-02 05:05:48</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>qipWqOwkceg</ytid>
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Fantasy</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>psygnosis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

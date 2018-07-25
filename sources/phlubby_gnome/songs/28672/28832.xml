@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28832">
+ <title>Indo Silver Club</title>
+ <status v="A">Active</status>
+ <bitrate>241</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.6111</rating>
+ 
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-27 09:42:10</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4152">Motone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

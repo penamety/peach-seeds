@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43863">
+ <title>Predator</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.0</rating>
+ <info>Hmm.. is this industrial? I don&#39;t know. A bit boring, but the beginning is kinda cool I guess.
+
+Download from futurecrew.com: http://www.futurecrew.com/skaven/song_files/oldies/PREDATOR.STM</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 01:06:36</locked_until>
+ <lastplayed>2018-04-18 05:00:28</lastplayed>
+ <platform id="42">STM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?155855</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

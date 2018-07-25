@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41712">
+ <title>The Six-Pac Man</title>
+ <status v="A">Active</status>
+ <bitrate>254</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>C64 Music Competition at X&#39;2004 :  #1
+
+Emulated recording, Grue6581R4AR_3488.</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 07:01:42</locked_until>
+ <lastplayed>2018-06-10 05:54:24</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group><group id="27">Maniacs of Noise</group><group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

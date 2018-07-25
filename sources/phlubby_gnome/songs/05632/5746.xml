@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5746">
+ <title>Shooting Star</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.9333</rating>
+ 
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-12 18:00:02</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

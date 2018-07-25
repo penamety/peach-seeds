@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8583">
+ <title>Suicide Barbie - Endtune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="139">4.5396</rating>
+ 
+ <songlength>268</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 09:37:27</locked_until>
+ <lastplayed>2018-06-17 04:56:32</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>30284</pouetid>
+ <ytid>zxaBHMNaPIY</ytid>
+ <ytoffset>296</ytoffset>
+ 
+ <artists>
+  <artist id="1630">Elusive</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>PlaystationPortable</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>suicide</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zxaBHMNaPIY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

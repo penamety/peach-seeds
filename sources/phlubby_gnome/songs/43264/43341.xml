@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43341">
+ <title>Neon Light Coronatus Stage</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.9615</rating>
+ <info>2nd at Assembly 2016 listening music compo</info>
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 00:50:11</locked_until>
+ <lastplayed>2018-05-31 10:14:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5678">Duality Vile</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Female</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/161624/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

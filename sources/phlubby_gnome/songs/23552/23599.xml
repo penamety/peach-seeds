@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23599">
+ <title>Third Dimension</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.2941</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 14:20:55</locked_until>
+ <lastplayed>2018-05-21 15:55:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1011">Rhesus Minus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

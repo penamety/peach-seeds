@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="461">
+ <title>Freedom of Blues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-03 11:16:06</locked_until>
+ <lastplayed>2017-08-27 07:09:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9140</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

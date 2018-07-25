@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34346">
+ <title>Nothing Can Stop Us</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.4082</rating>
+ <info>[url]http://www.malmen.org/[/url]
+
+http://malmen.org/wp-content/uploads/2011/08/Malmen_-_Nothing_Can_Stop_Us.mp3</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 13:40:13</locked_until>
+ <lastplayed>2018-06-12 06:51:47</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?171112</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

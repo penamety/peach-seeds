@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35360">
+ <title>Mid July</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.9</rating>
+ 
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 05:40:28</locked_until>
+ <lastplayed>2018-04-09 02:47:59</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  <group id="662">SHAPE</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

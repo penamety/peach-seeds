@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="401">
+ <title>Ancient Stories 2</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.3</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 20:58:08</locked_until>
+ <lastplayed>2018-05-19 06:05:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

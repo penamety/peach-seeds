@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="787">
+ <title>Flying Through the Moss</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.68</rating>
+ 
+ <songlength>299</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-08 01:46:15</locked_until>
+ <lastplayed>2018-01-19 23:01:29</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2503</pouetid>
+ <ytid>X605kioZxfc</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="4244">Breeze (.fi)</artist><artist id="3875">Spay</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

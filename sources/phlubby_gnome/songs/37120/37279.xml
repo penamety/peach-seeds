@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37279">
+ <title>Mongolian Wars</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5238</rating>
+ <info>1st place in demo compo at Main 2012</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 14:48:26</locked_until>
+ <lastplayed>2018-03-22 11:57:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60463</pouetid>
+ <ytid>3BL8b-JBDL8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32369">
+ <title>Sokuseki</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-25 19:02:58</locked_until>
+ <lastplayed>2018-03-07 08:11:31</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>31578</pouetid>
+ <ytid>BrClyvuh8Fk</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="3280">Neurokin</artist>
+ </artists>
+ <groups>
+  <group id="133">xplsv</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BrClyvuh8Fk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13031</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

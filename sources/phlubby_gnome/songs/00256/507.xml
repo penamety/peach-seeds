@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="507">
+ <title>Serene Lily</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6923</rating>
+ 
+ <songlength>480</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 19:17:00</locked_until>
+ <lastplayed>2018-03-08 16:03:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="80">Azazel</artist><artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

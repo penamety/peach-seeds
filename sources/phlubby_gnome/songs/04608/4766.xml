@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4766">
+ <title>Te-2r.</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.0469</rating>
+ 
+ <songlength>307</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 01:26:12</locked_until>
+ <lastplayed>2018-05-14 23:15:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6831</pouetid>
+ <ytid>HXRBzWk6HQg</ytid>
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Psychedelic</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HXRBzWk6HQg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HXRBzWk6HQg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

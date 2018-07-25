@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35332">
+ <title>All Up In This Bits!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ <info>strings All\ Up\ in\ This\ Bits\!.mp3 | more 
+vTIT2
+All Up in This Bits!
+TPE1
+Timothy Lamb / Trash80
+TDRC
+2002
+TCON
+Chiptune
+COMM
+www.trash80.net
+COMM
+engiTunNORM
+ 000002D3 000002D3 0000560D 0000560D 0000F2A1 0000F2A1 00008000 00008000 0000EB77 0000EB77
+
+TAGAll Up in This Bits!
+Timothy Lamb / Trash80
+2002
+</info>
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-13 03:23:45</locked_until>
+ <lastplayed>2018-02-21 01:10:57</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3782">Trash80</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

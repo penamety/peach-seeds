@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37219">
+ <title>Sidcompo III</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.5385</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-12 03:29:01</locked_until>
+ <lastplayed>2017-12-19 23:12:03</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=18775</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

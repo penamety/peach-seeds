@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44198">
+ <title>Boozembly 2017 (Invitation)</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ 
+ <songlength>399</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 08:46:54</locked_until>
+ <lastplayed>2018-03-01 22:38:22</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71266</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="248">Croaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Boozembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

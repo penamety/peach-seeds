@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2768">
+ <title>Melodious</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.4598</rating>
+ 
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 19:59:50</locked_until>
+ <lastplayed>2018-05-23 21:46:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>46915</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Rsti-_RwSQ0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

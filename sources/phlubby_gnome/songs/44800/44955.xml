@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44955">
+ <title>No Future</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.0</rating>
+ 
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 21:55:04</locked_until>
+ <lastplayed>2018-06-13 22:09:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21409</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

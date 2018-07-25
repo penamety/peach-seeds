@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1774">
+ <title>Johdattelupolska</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.8438</rating>
+ 
+ <songlength>65</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 00:43:26</locked_until>
+ <lastplayed>2018-06-14 09:31:19</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="332">Dizzy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Celtic</tag>
+  
+  <tag>Folk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

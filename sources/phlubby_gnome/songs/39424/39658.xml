@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39658">
+ <title>The Last Farewell</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.6</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;The Last Farewell&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Data ukonczenia:	
+008	02.11.1999	
+009		
+010	Piano used in this tu-	
+011	ne has been taken from	
+012	&#34;World of Unicorns&#34;	
+013	module created by	
+014	Lizardking/Triton.	
+015	Sorry, but I just	
+016	couldn&#39;t resist :-)	
+
+sample list:
+001	Lizard Piano 0	(16 bit - 44950)
+002	Lizard Piano 1	(16 bit - 33130)
+003	Lizard Piano 2	(16 bit - 31282)
+004	Lizard Piano 3	(16 bit - 33154)
+005	Lizard Piano 4	(16 bit - 27531)
+006	Lizard Piano 5	(16 bit - 20313)
+</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 07:35:40</locked_until>
+ <lastplayed>2017-12-17 06:27:48</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

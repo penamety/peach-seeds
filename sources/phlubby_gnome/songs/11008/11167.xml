@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11167">
+ <title>The Purple City</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.284</rating>
+ 
+ <songlength>371</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 22:02:38</locked_until>
+ <lastplayed>2018-05-21 16:24:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>Tribal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

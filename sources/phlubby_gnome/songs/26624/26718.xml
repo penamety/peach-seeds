@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26718">
+ <title>Keiniefunkie (Rob is jarig soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.4906</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 23:31:58</locked_until>
+ <lastplayed>2018-05-23 11:01:35</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>7084</pouetid>
+ <ytid>9JC2Vi_ZniA</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="180">Aardbei</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>song_people_dancing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9JC2Vi_ZniA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

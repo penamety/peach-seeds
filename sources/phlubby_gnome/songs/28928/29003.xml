@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29003">
+ <title>The Whispering Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.875</rating>
+ 
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-30 09:30:56</locked_until>
+ <lastplayed>2017-07-24 23:41:03</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="969">Quasian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>distortedguitar</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14995">
+ <title>Northstar and silents</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0</rating>
+ 
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-28 08:59:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>51848</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

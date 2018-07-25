@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23126">
+ <title>Canuun</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:58:16</locked_until>
+ <lastplayed>2018-05-11 05:13:11</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ <pouetid>14171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3440">Qwart</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

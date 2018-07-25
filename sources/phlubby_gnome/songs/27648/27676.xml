@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27676">
+ <title>Psychedelic Sally</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.4419</rating>
+ <info>Psychedelic Sally - Some bigbeat for the scene</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 10:15:38</locked_until>
+ <lastplayed>2018-05-01 14:19:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bigbeat</tag>
+  
+  <tag>Blues</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

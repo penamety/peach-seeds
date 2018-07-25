@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27450">
+ <title>Turrican 2 (world 5 remix)</title>
+ <status v="A">Active</status>
+ <bitrate>190</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.0612</rating>
+ 
+ <songlength>320</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 16:44:52</locked_until>
+ <lastplayed>2018-04-06 11:38:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1338">Cirdan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

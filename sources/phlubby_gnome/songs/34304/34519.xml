@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34519">
+ <title>Comtec 5</title>
+ <status v="I">Inactive</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.5556</rating>
+ <info>Some strange midi stuff from the forgotten past.</info>
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-01-03 17:43:21</lastplayed>
+ <platform id="43">MID</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

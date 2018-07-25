@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30747">
+ <title>hallospekko!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 05:42:46</locked_until>
+ <lastplayed>2018-05-23 21:23:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  <group id="246">Skrju</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

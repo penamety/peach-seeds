@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21952">
+ <title>Chuchu Rocket 09</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.1167</rating>
+ 
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 01:11:06</locked_until>
+ <lastplayed>2018-06-08 14:53:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2084">MSG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gameport</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

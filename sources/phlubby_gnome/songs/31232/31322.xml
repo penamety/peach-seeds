@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31322">
+ <title>Blinded Monarch</title>
+ <status v="A">Active</status>
+ <bitrate>140</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-15 02:13:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4323">Magma</artist><artist id="4607">Wabe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

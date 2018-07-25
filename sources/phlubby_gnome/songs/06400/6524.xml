@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6524">
+ <title>Rama Gardens v1.1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9688</rating>
+ <info>This tune has been inspired by several sources, but mainly by a SciFi book written by Arthur C. Clarke. Generally it&#39;s dance beat and new age music mixed.</info>
+ <songlength>291</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 02:36:59</locked_until>
+ <lastplayed>2018-06-03 12:05:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6516</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

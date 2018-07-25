@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2631">
+ <title>Try 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 16:31:55</locked_until>
+ <lastplayed>2018-06-05 02:31:05</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

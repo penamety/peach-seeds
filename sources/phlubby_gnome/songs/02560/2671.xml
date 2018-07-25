@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2671">
+ <title>Manic Electric</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0</rating>
+ 
+ <songlength>387</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 06:17:44</locked_until>
+ <lastplayed>2018-05-04 02:38:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10290</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="450">Flame</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

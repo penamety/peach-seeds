@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18167">
+ <title>Thalamusik (from Sanxion)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>355</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 08:29:15</locked_until>
+ <lastplayed>2017-10-23 23:17:16</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="442">Ferrara</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

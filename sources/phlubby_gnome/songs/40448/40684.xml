@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40684">
+ <title>Lei Lei</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.9643</rating>
+ <info>Combined demo entry on Euskal 2014.</info>
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 05:49:03</locked_until>
+ <lastplayed>2018-04-27 16:36:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>63809</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist><artist id="661">Leviathan [GR]</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>Progressive</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=G7dpLcIaUTs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

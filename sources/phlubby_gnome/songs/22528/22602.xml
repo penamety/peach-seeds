@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22602">
+ <title>Forbidden Forest</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.3077</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-06 07:03:40</locked_until>
+ <lastplayed>2018-01-16 14:25:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>Ee_LwDb_B20</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="3363">Paul Norman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1983</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>EarlySID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=954</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

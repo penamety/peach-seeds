@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41388">
+ <title>Schweinehaxe</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ <info>Entry for the Scenecompos #32 - AHX Compo - Placed 13</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 10:46:20</locked_until>
+ <lastplayed>2018-05-23 09:49:19</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

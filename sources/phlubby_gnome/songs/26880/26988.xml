@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26988">
+ <title>Sector99</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.4091</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 19:35:04</locked_until>
+ <lastplayed>2018-05-03 13:28:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18991</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2014">Oberheim</artist>
+ </artists>
+ <groups>
+  <group id="342">Vortex 42</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Mystic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

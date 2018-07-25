@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12977">
+ <title>Reflex Tune</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.3056</rating>
+ <info>Recorded using DeliPlayer
+
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 19:40:28</locked_until>
+ <lastplayed>2018-05-07 00:31:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1463</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="600">Reflex [RFX]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

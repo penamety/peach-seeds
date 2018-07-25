@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8428">
+ <title>Traxx</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6667</rating>
+ 
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:46:32</locked_until>
+ <lastplayed>2018-05-28 13:20:46</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9341</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

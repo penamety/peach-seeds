@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8765">
+ <title>Overarrow</title>
+ <status v="A">Active</status>
+ <bitrate>235</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.9412</rating>
+ <info>album: Dawn Metropolis</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 09:36:46</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1700">Anamanaguchi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Pop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=iBo2tVCEX2c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

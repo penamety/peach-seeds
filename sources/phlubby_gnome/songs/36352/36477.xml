@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36477">
+ <title>Workaholic</title>
+ <status v="A">Active</status>
+ <bitrate>140</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.85</rating>
+ <info>Released in the 1990s by The Sharks</info>
+ <songlength>59</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 04:21:39</locked_until>
+ <lastplayed>2017-10-31 21:47:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4368">Deadbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Rave</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=67935</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

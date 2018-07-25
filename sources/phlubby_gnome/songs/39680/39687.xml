@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39687">
+ <title>Fujiology Archivist</title>
+ <status v="A">Active</status>
+ <bitrate>420</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ <info>Look out for our upcoming Atari Demoscene Archive called FUJIOLOGY!
+
+Ranked 5th in Atari ST/STE YM2149 Music Compo at Silly Venture 2013.</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 17:06:29</locked_until>
+ <lastplayed>2017-12-17 22:47:08</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1458">Lotek Style</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

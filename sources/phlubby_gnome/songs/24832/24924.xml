@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24924">
+ <title>Abstrakt</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.4286</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 13:00:01</locked_until>
+ <lastplayed>2018-05-06 12:35:06</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist><artist id="1153">Stv</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

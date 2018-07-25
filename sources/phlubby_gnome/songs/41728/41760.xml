@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41760">
+ <title>Eggland</title>
+ <status v="A">Active</status>
+ <bitrate>257</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0909</rating>
+ <info>The ingame tune from &#39;Eggland&#39;:
+http://csdb.dk/release/?id=133918</info>
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 18:08:32</locked_until>
+ <lastplayed>2018-05-14 18:27:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

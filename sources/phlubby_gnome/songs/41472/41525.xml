@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41525">
+ <title>New1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 09:59:02</locked_until>
+ <lastplayed>2018-05-23 16:46:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2058">Amadeus Voxon</artist>
+ </artists>
+ <groups>
+  <group id="360">Flash Inc.</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

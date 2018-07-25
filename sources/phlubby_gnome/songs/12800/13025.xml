@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13025">
+ <title>Boremloza (shortened)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.4019</rating>
+ <info> N U M E N  demo.
+a TAQUART production in 2002.
+1st at Lato Ludzikow 2002.</info>
+ <songlength>444</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 05:45:53</locked_until>
+ <lastplayed>2018-06-10 18:27:10</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>9044</pouetid>
+ <ytid>bTCVpCPvfBM</ytid>
+ <ytoffset>42</ytoffset>
+ 
+ <artists>
+  <artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bTCVpCPvfBM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13322</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

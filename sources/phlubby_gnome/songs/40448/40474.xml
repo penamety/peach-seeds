@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40474">
+ <title>nanopower-end-ii</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ <info>first try at uploading a song since ages.
+please check result.
+
+MP3 created with OpenMPT, with Lame plugin (man, was hard to add ...)
+stereo - 320k</info>
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 13:12:43</locked_until>
+ <lastplayed>2018-01-30 03:14:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4030</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1200">The Master</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

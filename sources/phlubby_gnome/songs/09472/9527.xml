@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9527">
+ <title>Hillbilly Billybob</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.127</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:27:47</locked_until>
+ <lastplayed>2018-05-26 23:27:24</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Banjo</tag>
+  
+  <tag>bluegrass</tag>
+  
+  <tag>country</tag>
+  
+  <tag>harmonica</tag>
+  
+  <tag>HillBilly</tag>
+  
+  <tag>spoons</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

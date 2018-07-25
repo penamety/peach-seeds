@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23105">
+ <title>Mathematica tune 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8</rating>
+ 
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 01:35:37</locked_until>
+ <lastplayed>2018-05-05 14:18:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1464</pouetid>
+ <ytid>Zsd0RbD_7ac</ytid>
+ <ytoffset>18</ytoffset>
+ 
+ <artists>
+  <artist id="966">PVCF</artist>
+ </artists>
+ <groups>
+  <group id="600">Reflex [RFX]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

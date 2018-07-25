@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5903">
+ <title>Caroline</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.72</rating>
+ <info>For the music compo at The Gathering 1998.</info>
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 20:28:23</locked_until>
+ <lastplayed>2018-05-14 01:31:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="975">Radiance</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

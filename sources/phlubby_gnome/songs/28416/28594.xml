@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28594">
+ <title>The Last Currywurst</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="75">4.4</rating>
+ <info>9th @ Breakpoint 2010 Unofficial Tracked Music compo</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:35:20</locked_until>
+ <lastplayed>2018-05-26 02:44:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist><artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

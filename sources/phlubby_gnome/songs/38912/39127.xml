@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39127">
+ <title>Gremlinfunk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.3704</rating>
+ <info>5:th place at Baroque Floppy People SID compo.</info>
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 19:13:04</locked_until>
+ <lastplayed>2018-06-10 06:09:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>BaroqueFloppyPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

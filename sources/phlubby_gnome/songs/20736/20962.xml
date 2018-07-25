@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20962">
+ <title>Warp 05</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-19 07:22:17</locked_until>
+ <lastplayed>2017-07-11 12:44:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

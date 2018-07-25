@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12401">
+ <title>Funky Sushi</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="92">4.413</rating>
+ <info>by Mystra and Funky Fish
+
+Winner of Nectarine compo #2 (birthday theme) in october 2009.</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 08:08:00</locked_until>
+ <lastplayed>2018-05-28 02:05:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1388">Funky Fish</artist><artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

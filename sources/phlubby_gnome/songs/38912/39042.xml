@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39042">
+ <title>We are infinite</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0833</rating>
+ 
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 21:32:43</locked_until>
+ <lastplayed>2018-06-01 05:07:15</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39151">
+ <title>Horizon</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ <info>SID chipset: MOS6581R4</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 08:55:02</locked_until>
+ <lastplayed>2018-05-04 22:28:35</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

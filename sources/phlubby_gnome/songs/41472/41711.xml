@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41711">
+ <title>Coop 6581</title>
+ <status v="A">Active</status>
+ <bitrate>245</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>Tune made for Vandalism News #60. Emulated recording, filter setting: Grue6581R4AR_3488.</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:33:54</locked_until>
+ <lastplayed>2018-05-25 20:42:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group><group id="642">Wrath Designs</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

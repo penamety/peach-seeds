@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="948">
+ <title>Autumn Leaves</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.7222</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 03:15:05</locked_until>
+ <lastplayed>2018-06-02 11:01:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13322</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

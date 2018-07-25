@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4889">
+ <title>Elekfunk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="96">4.5</rating>
+ <info>Download link: http://modarchive.org/index.php?request=view_by_moduleid&amp;query=41528</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 03:02:41</locked_until>
+ <lastplayed>2018-05-22 08:20:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1477</pouetid>
+ <ytid>_5HacABiXUE</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_5HacABiXUE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

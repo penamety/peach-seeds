@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9933">
+ <title>Hybrid Song</title>
+ <status v="A">Active</status>
+ <bitrate>257</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">4.175</rating>
+ <info>From the ealbum reTracked Music Volume 2.
+Info: http://retracked.org/</info>
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 07:02:43</locked_until>
+ <lastplayed>2018-06-16 06:08:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>52465</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23420">
+ <title>Druid II (Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">3.7778</rating>
+ 
+ <songlength>509</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 07:48:35</locked_until>
+ <lastplayed>2018-05-13 11:14:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1004">Red Devil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>long</tag>
+  
+  <tag>midi</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21290">
+ <title>Disco Pcolo</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">1.9216</rating>
+ 
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-12-04 22:49:45</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3157">Maxsoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurodance</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>PolishSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

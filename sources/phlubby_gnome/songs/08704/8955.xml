@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8955">
+ <title>The Lyra II part 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0526</rating>
+ 
+ <songlength>337</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-22 15:24:34</locked_until>
+ <lastplayed>2017-10-14 08:49:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2121</pouetid>
+ <ytid>ohJiq1yIvAA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ohJiq1yIvAA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007538</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2861</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

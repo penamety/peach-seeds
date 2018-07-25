@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="491">
+ <title>Definitive Era</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.1714</rating>
+ 
+ <songlength>315</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 11:07:45</locked_until>
+ <lastplayed>2018-05-25 09:56:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>701</pouetid>
+ <ytid>IAsUvoHxV5I</ytid>
+ <ytoffset>139</ytoffset>
+ 
+ <artists>
+  <artist id="80">Azazel</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

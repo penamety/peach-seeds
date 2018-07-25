@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14631">
+ <title>Barymag intro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 04:16:34</locked_until>
+ <lastplayed>2018-05-31 20:32:55</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2277">Bartman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

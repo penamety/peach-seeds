@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22425">
+ <title>bbj.bup</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 02:35:33</locked_until>
+ <lastplayed>2017-10-06 13:26:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>54336</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1503">Omega</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

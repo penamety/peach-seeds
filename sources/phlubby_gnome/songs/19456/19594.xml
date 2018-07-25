@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19594">
+ <title>Savage</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="113">4.6903</rating>
+ 
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 17:18:41</locked_until>
+ <lastplayed>2018-06-16 10:09:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>22995</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Jingle</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2224</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

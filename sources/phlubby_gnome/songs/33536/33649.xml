@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33649">
+ <title>Spin</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">3.5422</rating>
+ <info>1st place in combined demo compo at Assembly 2011
+
+Lyrics:
+
+
+I am spinning out of control
+drinking my dark side on a moon patrol
+Dropping an anchor on a concrete floor
+the links are dragging me out of the door
+
+Can I close my eyes and see?
+Can I disappear and be?
+Can I play the absentee,
+In this cage I built for me?
+
+Can I stand up where I fell?
+Can I spiral in my shell?
+Can I cast a binding spell,
+On this winding road to hell?
+
+I am spinning against the wall
+grabbing on corners when I feel so small
+give into impulse as I drop the ball
+breaking the habits I cannot recall
+
+Can I close my eyes and see?
+Can I disappear and be?
+Can I play the absentee,
+In this cage I built for me?
+
+Can I stand up where I fell?
+Can I spiral in my shell?
+Can I cast a binding spell,
+On this winding road to hell?
+
+I am spinning and the world is still
+pointing the finger on the things I feel
+you find me exhausted and crawling uphill
+to colorful nightmares against my will
+
+
+Can I close my eyes and see?
+Can I disappear and be?
+Can I play the absentee,
+In this cage I built for me?
+
+Can I stand up where I fell?
+Can I spiral in my shell?
+Can I cast a binding spell,
+On this winding road to hell?
+
+Can I burn my wings and fly?
+Can I justify a lie?
+Can I turn my back and cry?
+can I be there when I die?</info>
+ <songlength>347</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 10:54:12</locked_until>
+ <lastplayed>2018-05-26 00:19:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57446</pouetid>
+ <ytid>T_U3Zdv8to8</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=T_U3Zdv8to8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

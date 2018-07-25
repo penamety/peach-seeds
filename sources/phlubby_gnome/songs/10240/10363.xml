@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10363">
+ <title>[Greed] Escape (no loops)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">2.2414</rating>
+ <info>&#34;Escape&#34; by Necros / FM
+for the channel7 game &#34;G R E E D&#34;</info>
+ <songlength>756</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 05:06:39</locked_until>
+ <lastplayed>2018-06-09 13:13:05</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5542">
+ <title>Camel without filter</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.2667</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 18:30:56</locked_until>
+ <lastplayed>2018-05-20 10:02:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="910">Pedro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>TripHop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

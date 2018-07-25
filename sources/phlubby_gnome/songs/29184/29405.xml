@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29405">
+ <title>Adieu Paris</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.9</rating>
+ <info>Amstrad CPC</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 17:28:52</locked_until>
+ <lastplayed>2018-06-04 14:10:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55996</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

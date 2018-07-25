@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="55">
+ <title>Cluster</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.5333</rating>
+ 
+ <songlength>347</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 18:00:24</locked_until>
+ <lastplayed>2018-06-13 08:06:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9091</pouetid>
+ <ytid>FHZ9muclPvY</ytid>
+ <ytoffset>155</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

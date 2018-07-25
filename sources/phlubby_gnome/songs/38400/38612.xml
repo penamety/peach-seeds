@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38612">
+ <title>Electrobody (ZX48 Cover)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8235</rating>
+ <info>ZX Spectrum 48K + AY-interface. 
+Software: SampleTracker.
+3 channels, 4-bit quality lo-fi micromusic.
+Recorded from real ZX Spectrum.
+
+It is a cover of classic Polish PC game&#39;s music: ElectroBody (by Daniel Kleczynski).</info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-15 06:16:51</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

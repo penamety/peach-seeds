@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13166">
+ <title>Among The Stars</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.3966</rating>
+ <info>Lamb wrote:
+The original title of this song is of course &#34;among the stars&#34;, but because of fact that I have decided to put it into &#34;day&#34; part of &#34;autumn leaf&#34; (see Pouet link) playlist, I have temporarily changed the title to &#34;among the clouds&#34; to keep some logical consistency. &#34;Stars&#34; at a bright autumn morning seemed a bit out of the spot for me.
+
+[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>127</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 04:10:54</locked_until>
+ <lastplayed>2018-06-13 23:30:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  <group id="467">Marsmellow</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Melodic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

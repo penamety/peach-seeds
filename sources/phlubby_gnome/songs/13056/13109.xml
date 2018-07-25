@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13109">
+ <title>Lightforce</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="104">4.0962</rating>
+ <info>FTL (faster than light), 1987
+
+This is an authentic 8580 (R5) SID recording from Stone Oakvalley&#39;s collection
+
+With R4 SID there may be slight problems after 5:35
+
+R2 and R5 have some differences after 4:30. R2 sounds more typical while R5 sounds a bit weird.</info>
+ <songlength>435</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:02:18</locked_until>
+ <lastplayed>2018-06-04 12:51:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>5745</pouetid>
+ <ytid>tWgXMVVOOKE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Psychedelic</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1522</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

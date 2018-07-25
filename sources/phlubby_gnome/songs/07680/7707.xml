@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7707">
+ <title>Valley of the Past</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">3.7204</rating>
+ <info>1st @ Assembly 2002 for Vocal Music Compo</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 18:54:07</locked_until>
+ <lastplayed>2018-06-10 07:31:16</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  <group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>opera</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

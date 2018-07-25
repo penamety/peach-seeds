@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4490">
+ <title>The Dream Company</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 22:23:02</locked_until>
+ <lastplayed>2018-05-14 06:09:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11507</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

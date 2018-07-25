@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28903">
+ <title>Kitey3 (Bitchard&#39;s Chordophonic Bit rmx)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.3333</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 05:34:11</locked_until>
+ <lastplayed>2018-05-20 18:22:38</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>31658</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="3176">Mel Funktion</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group>
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

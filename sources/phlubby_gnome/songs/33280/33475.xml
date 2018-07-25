@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33475">
+ <title>Je Zus</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.413</rating>
+ <info>From the family series. Last one!</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 23:33:17</locked_until>
+ <lastplayed>2018-05-20 22:44:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

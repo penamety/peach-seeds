@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26094">
+ <title>Axel F</title>
+ <status v="A">Active</status>
+ <bitrate>225</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">3.2639</rating>
+ 
+ <songlength>630</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 18:35:33</locked_until>
+ <lastplayed>2018-05-26 16:57:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12331</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  <group id="228">The Jungle Command (TJC)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>axel_foley</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

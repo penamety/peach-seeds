@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10308">
+ <title>From the Past</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.9412</rating>
+ 
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 20:19:25</locked_until>
+ <lastplayed>2018-04-24 03:24:45</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ <pouetid>47547</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

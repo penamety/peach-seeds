@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33924">
+ <title>Caterpillar Funk (Compo Cut)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>Ranked 10th in the mp3/ogg music compo at Evoke 2011.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-14 02:08:42</locked_until>
+ <lastplayed>2017-10-05 17:11:08</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1667">xni</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

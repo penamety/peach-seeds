@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39126">
+ <title>Robotics</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.9565</rating>
+ <info>5th in Dance Music competition at Assembly 2013.</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-17 03:26:32</locked_until>
+ <lastplayed>2017-12-30 00:45:57</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1663">Byproduct</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

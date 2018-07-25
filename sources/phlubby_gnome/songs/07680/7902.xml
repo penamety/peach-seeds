@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7902">
+ <title>Silent Rooms</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-20 05:09:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1440">KvAzAr</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

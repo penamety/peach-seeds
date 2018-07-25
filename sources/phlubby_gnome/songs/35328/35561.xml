@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35561">
+ <title>2nd Moment Beergarden Dub (subtune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>237</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.76</rating>
+ 
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 21:16:48</locked_until>
+ <lastplayed>2018-06-08 13:19:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>6376</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4293">SoNiC (de)</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=27579</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

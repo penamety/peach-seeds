@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13508">
+ <title>Hmmm Part 3</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.7273</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 10:41:14</locked_until>
+ <lastplayed>2017-09-28 23:42:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3192</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ErrorInLine</tag>
+  
+  <tag>Falcon</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

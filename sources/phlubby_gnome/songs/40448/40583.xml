@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40583">
+ <title>La Ville du Port Spatial</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.5</rating>
+ <info>After roaming several desperate months in the domains of low technology, the protagonist finally reaches a shining city where one can see huge cargo crafts landing and departing
+
+--
+information:
+-format: Impulse Tracker
+-tool: Schism Tracker
+-32 channels used
+-All the samples are emulated YM2612 instruments ripped from TFM Music Maker
+-The song was sent to Sundown 2014 tracked music compo but it sounded totally distorted on the stream for some reason, so I asked them to discard it</info>
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 21:51:32</locked_until>
+ <lastplayed>2017-11-16 03:51:35</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>ym2612</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

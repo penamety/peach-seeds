@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="981">
+ <title>The Four Seasons</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.3158</rating>
+ 
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 02:42:16</locked_until>
+ <lastplayed>2018-06-10 07:04:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9586</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="197">Christian Mæland</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>JurassicPack</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

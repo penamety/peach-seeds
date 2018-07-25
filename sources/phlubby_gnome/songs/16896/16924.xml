@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16924">
+ <title>Muna</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">1.7941</rating>
+ <info>1st place in pc demo compo at Scenario 1996</info>
+ <songlength>331</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-01-15 21:25:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>5390</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2553">Da Weirdo Hiphopaduud</artist>
+ </artists>
+ <groups>
+  <group id="531">HiRMU</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>scenario</tag>
+  
+  <tag>weird</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

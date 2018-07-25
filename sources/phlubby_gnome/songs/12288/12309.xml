@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12309">
+ <title>RFChip01</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.3778</rating>
+ <info>First and only co-op between Fairlight and Razor 1911.</info>
+ <songlength>97</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 12:04:44</locked_until>
+ <lastplayed>2018-05-21 02:53:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1323">Bliss</artist><artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

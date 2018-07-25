@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2717">
+ <title>Rebels</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0952</rating>
+ 
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 23:30:33</locked_until>
+ <lastplayed>2018-06-13 06:00:06</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27504">
+ <title>Community</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.3415</rating>
+ 
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 10:32:32</locked_until>
+ <lastplayed>2018-05-23 15:44:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3985">Cluster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Spacesynth</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

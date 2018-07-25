@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10697">
+ <title>Boráros tér 923</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">3.6126</rating>
+ <info>2nd place in pc 64k compo at Breakpoint 2008</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 04:32:43</locked_until>
+ <lastplayed>2018-06-02 15:20:35</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>50135</pouetid>
+ <ytid>m07152NHFhA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group><group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Beat</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=m07152NHFhA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

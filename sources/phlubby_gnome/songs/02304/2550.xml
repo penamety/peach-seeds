@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2550">
+ <title>Demo 05</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>Dupe of [song]243[/song]</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2017-07-19 18:08:00</locked_until>
+ <lastplayed>2017-07-14 17:58:27</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

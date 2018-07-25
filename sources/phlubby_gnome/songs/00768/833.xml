@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="833">
+ <title>Moods</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>Used in Team-X Elite-pack intros and Razor 1911 crack intros
+[url]http://janeway.exotica.org.uk/release.php?id=39823[/url]</info>
+ <songlength>66</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 09:45:17</locked_until>
+ <lastplayed>2018-06-10 14:57:21</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/98692/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

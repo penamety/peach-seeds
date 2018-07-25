@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33373">
+ <title>Kaminari</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.7143</rating>
+ <info>ZX Spectrum 48K with AY-interface. Italo-disco - good music for summer. 
+
+3 digital channels in 4-bit quality. I must admit I even like this one, as it&#39;s interesting impression to hear such a sound from a computer in size of a bigger calculator. 
+
+Soft used: SAMPLE-TRACKER. There is only about 34Kb for entire &#34;MOD&#34; song. Well, it&#39;s not a real MOD, as it has only 3 channels and also it has no volume-commands. To trick it, I made most of samples in two versions - louder and more silent, to achieve delays. Of course it took much more RAM, so I had to make the samples even more carefully. AY/YM chip isn&#39;t in fact supposed to play samples, so the procedure is based on CPU mostly. I managed here to make an impression of 4 channels by putting samples very nifty. 
+
+&#34;Kaminari&#34; comes from Japanese language and it means &#34;thunder&#34;. 
+
+Recorded from real hardware.</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 18:19:30</locked_until>
+ <lastplayed>2018-06-16 12:43:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56765</pouetid>
+ <ytid>Zg5pXed9ueY</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>48k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Italo-disco</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MchzKT_oufE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6883">
+ <title>XL-R8R</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">4.6082</rating>
+ 
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 22:23:32</locked_until>
+ <lastplayed>2018-05-23 05:32:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>6791</pouetid>
+ <ytid>squMWEd8PdU</ytid>
+ <ytoffset>18</ytoffset>
+ 
+ <artists>
+  <artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="495">Mad Onion</group>
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38428">
+ <title>Saudade</title>
+ <status v="A">Active</status>
+ <bitrate>303</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>Soundtrack from &#34;Saudade&#34; demo by Satori and Halcyon. 9th place in pc demo compo @ Revision 2013.
+
+Demo credits: 
+
+codeart creation visuals - ZDEN/SATORI
+concept graphics soundtrack - SHRINE/HALCYON
+audiomastering - DUNE/ORANGE</info>
+ <songlength>434</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 14:14:18</locked_until>
+ <lastplayed>2017-11-25 07:03:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61208</pouetid>
+ <ytid>Cmby65lzr8c</ytid>
+ 
+ 
+ <artists>
+  <artist id="5560">Shrine</artist>
+ </artists>
+ <groups>
+  <group id="415">Halcyon</group><group id="783">Satori</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Cmby65lzr8c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/59928/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

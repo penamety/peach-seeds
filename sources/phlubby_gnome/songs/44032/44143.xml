@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44143">
+ <title>Fred</title>
+ <status v="R">Rejected</status>
+ <bitrate>529</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.5</rating>
+ <info>Music from the game &#39;Fred&#39; released by L.K. Avalon in 1990.</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2017-06-27 05:26:27</locked_until>
+ <lastplayed>2017-06-24 19:42:03</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2914">Chaos [pl]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/125477/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

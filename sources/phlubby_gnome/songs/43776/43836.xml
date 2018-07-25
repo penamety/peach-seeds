@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43836">
+ <title>Did It Crack</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ 
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-31 17:13:26</locked_until>
+ <lastplayed>2017-12-12 01:34:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>33452</pouetid>
+ <ytid>LwQ3xw9UDBA</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1267">Turtle</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

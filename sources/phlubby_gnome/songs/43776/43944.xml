@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43944">
+ <title>Destiny</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Shazz/ Aurora Borealis
+-=-=-=-=-=-=-=-=-=-=-=
+Composed the 200995
+-=-=-=-=-=-=-=-=-=-=-=
+Samples : Vogue,LzK,
+PM and me.
+-=-=-=-=-=-=-=-=-=-=-=
+Never loose hope&amp;Love
+Sample : Vogue
+Sample : NB0
+Sample : LizardKing
+Sample : LizardKing
+Sample : NBO
+Sample : PM
+Sample : NB0</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 07:10:41</locked_until>
+ <lastplayed>2018-03-17 20:26:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5719">Shazz</artist>
+ </artists>
+ <groups>
+  <group id="863">Aurora Borealis</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?164948</url>
+    <comment>https://modarchive.org/index.php?request=view_by_moduleid&amp;query=164948</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

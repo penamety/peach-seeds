@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39320">
+ <title>Ai</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0333</rating>
+ <info>Just a small funky/jazzy song that comes from my 2013 album &#34;Microsongs&#34; that can be listened from here: http://cheapbeatsmusic.bandcamp.com/album/microsongs
+I made it for ZX Spectrum 16K with AY-interface but of course 16K is too small ram for a reasonable tracker, so the song has been composed on ZX Spectrum 48K + AY-interface (ZX SoundTracker 1.1).
+Recorded from real hardware.
+
+PS: &#34;Ai&#34; means &#34;Love&#34; in Japanese. :) The album has been released by Japan-based label CheapBeats (Tokyo). </info>
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 12:21:47</locked_until>
+ <lastplayed>2018-05-26 20:04:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>japanese</tag>
+  
+  <tag>Microsongs</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

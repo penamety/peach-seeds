@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33147">
+ <title>Phosphoric</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>420</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 08:22:41</locked_until>
+ <lastplayed>2017-11-10 00:35:55</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>17129</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4800">Crescent</artist>
+ </artists>
+ <groups>
+  <group id="633">Mindprobe</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

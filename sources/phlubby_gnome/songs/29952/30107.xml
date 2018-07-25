@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30107">
+ <title>Offworld</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="8">2.625</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-26 21:39:23</locked_until>
+ <lastplayed>2017-09-17 02:08:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13820</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1186">Tecon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

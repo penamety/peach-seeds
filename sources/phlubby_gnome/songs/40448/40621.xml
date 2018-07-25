@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40621">
+ <title>Happy Pokey Stomper</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>Sommarhack 2014 Compo Entry
+
+Tracked in RMT Raster Music Tracker. Native executable file runs on a stock A800XL with one Pokey.
+
+Ranked 5th Place</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-29 03:48:43</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>xB8u-dCWD18</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>8-bit</tag>
+  
+  <tag>800XL</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Sommarhack</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xB8u-dCWD18</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

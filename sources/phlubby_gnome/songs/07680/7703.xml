@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7703">
+ <title>Legomania</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="142">4.3169</rating>
+ <info>1st place in combined demo compo at Assembly 2003
+
+Lyrics:
+
+Fly fly brother red, close to home you will get,
+Boost boost more speed, just another sci-fi geek!
+Swim swim brother green, where have you been?
+Smile smile don&#39;t frown, or you might suddenly drawn!
+We are not like the others, we are the famous Lego brothers,
+Brother red green and blue, sticking together like glue,
+Drive drive brother blue, keep your hat on, don&#39;t catch the flue,
+Faster faster, keep the motor running, brick walls are very stunning!</info>
+ <songlength>477</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 18:50:24</locked_until>
+ <lastplayed>2018-05-20 13:49:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10540</pouetid>
+ <ytid>dv0g5gsDa7k</ytid>
+ 
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  <group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Matrix</tag>
+  
+  <tag>strings</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dv0g5gsDa7k</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

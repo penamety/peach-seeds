@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29400">
+ <title>The Day YM Killed Fakebit</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.2692</rating>
+ 
+ <songlength>384</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 03:53:02</locked_until>
+ <lastplayed>2018-05-18 18:56:11</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AtariST</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25996">
+ <title>PC Beat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-07 05:53:59</locked_until>
+ <lastplayed>2018-01-19 23:27:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12403</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2046">Ukulele</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

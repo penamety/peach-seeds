@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29121">
+ <title>Outsiders Remix (Fortnight intro)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0833</rating>
+ 
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 13:58:42</locked_until>
+ <lastplayed>2017-10-04 10:24:21</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4788</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1650">Dixan</artist>
+ </artists>
+ <groups>
+  <group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

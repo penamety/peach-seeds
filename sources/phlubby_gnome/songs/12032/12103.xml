@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12103">
+ <title>Rains</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.4375</rating>
+ <info>This is remake of the song of well known russian composer and singer: Игорь Корнелюк (Igor Kornelyuk) - &#34;Дожди&#34; (&#34;Rains&#34;).</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 19:16:57</locked_until>
+ <lastplayed>2018-06-15 04:38:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  <group id="85">Silicon Brains</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>russian</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

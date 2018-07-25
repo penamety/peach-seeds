@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41235">
+ <title>Odglosy z Marsa</title>
+ <status v="A">Active</status>
+ <bitrate>104</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 08:16:15</locked_until>
+ <lastplayed>2018-02-19 20:15:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2314">BLB</artist>
+ </artists>
+ <groups>
+  <group id="726">Cobra Team</group>
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+  <tag>fast</tag>
+  
+  <tag>pokey</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

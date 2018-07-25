@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30357">
+ <title>WarptYMe Intro</title>
+ <status v="A">Active</status>
+ <bitrate>96</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.3673</rating>
+ 
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 07:35:18</locked_until>
+ <lastplayed>2018-06-11 17:50:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>25855</pouetid>
+ <ytid>oT9fuk2Lh1w</ytid>
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=oT9fuk2Lh1w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

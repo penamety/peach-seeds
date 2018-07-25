@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7123">
+ <title>Grooving Malon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.0882</rating>
+ 
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 11:14:50</locked_until>
+ <lastplayed>2018-05-12 01:00:16</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>brass</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Maths</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

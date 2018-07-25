@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30422">
+ <title>Amarillo</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.6842</rating>
+ <info>6th in Assembly 1996 Multichannel music compo</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 19:25:10</locked_until>
+ <lastplayed>2018-04-29 10:48:47</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

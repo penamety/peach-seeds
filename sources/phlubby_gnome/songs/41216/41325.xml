@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41325">
+ <title>Victor Zsasz</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.2857</rating>
+ <info>► ASSAULT ON ARKHAM (Victor Zsasz)
+► Written by melcom
+► Composed with Schism Tracker in 2014
+
+more tracks @ [url]https://www.facebook.com/melcom2630[/url]
+
+► MP3 Download: [url]https://soundcloud.com/melcom/victor-zsasz[/url]
+► MP3 Download: [url]https://hearthis.at/melcom/melcom-victorzsasz/[/url]
+► Impulse Tracker (Schism) Song: [url]http://bit.ly/Victor_IT[/url]
+
+► Check out the Main Theme (Assault on Arkham)
+YT-Video: [url]https://www.youtube.com/watch?v=Vy9WD2T0cuw[/url]</info>
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-07-09 04:47:35</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>QhaLf70uYuE</ytid>
+ 
+ 
+ <artists>
+  <artist id="766">Melcom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arkham</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=QhaLf70uYuE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

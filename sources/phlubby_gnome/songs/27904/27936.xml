@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27936">
+ <title>47&#39;111.0</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.1311</rating>
+ <info>8th place in combined demo compo at Assembly 2004</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 23:16:49</locked_until>
+ <lastplayed>2018-06-09 17:01:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13048</pouetid>
+ <ytid>cL4PnFVR8tg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4025">Teel</artist>
+ </artists>
+ <groups>
+  <group id="464">Faktory</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4xIxFF-cAJo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cL4PnFVR8tg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

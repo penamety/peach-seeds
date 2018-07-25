@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8985">
+ <title>Hystanders 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.7727</rating>
+ 
+ <songlength>65</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-22 18:08:12</locked_until>
+ <lastplayed>2017-10-16 23:32:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>17351</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="357">Doclands</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

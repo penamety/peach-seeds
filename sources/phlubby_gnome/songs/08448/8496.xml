@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8496">
+ <title>747</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.1136</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 08:01:48</locked_until>
+ <lastplayed>2018-06-02 14:52:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>8856</pouetid>
+ <ytid>AhYqKFOU2s</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

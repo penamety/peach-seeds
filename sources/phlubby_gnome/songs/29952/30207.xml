@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30207">
+ <title>A Life For a Day</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.4719</rating>
+ <info>Upgrade from 192kbps to 320kbps.</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 05:45:05</locked_until>
+ <lastplayed>2018-06-14 08:54:59</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1346">Dafunk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>Emotional</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

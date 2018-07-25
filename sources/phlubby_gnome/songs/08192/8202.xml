@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8202">
+ <title>Debris</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="126">3.8016</rating>
+ <info>1st place in pc demo compo at Breakpoint 2007</info>
+ <songlength>429</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 23:08:08</locked_until>
+ <lastplayed>2018-06-07 10:24:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30244</pouetid>
+ <ytid>mxfmxi-boyo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=v0Eg3dBnsHk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mxfmxi-boyo</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

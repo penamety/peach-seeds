@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41003">
+ <title>Cosmos</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">4.05</rating>
+ <info>A Spacish Track...</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 16:30:08</locked_until>
+ <lastplayed>2018-05-18 23:33:37</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mbaWrCxWnPU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12969">
+ <title>Turtle Race!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="54">4.5185</rating>
+ <info>[url=http://www.antialias.se/chiptunes/mod/]download .mod[/url]</info>
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 14:29:30</locked_until>
+ <lastplayed>2018-05-26 01:55:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3215</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1674">Prime</artist><artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Mellow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

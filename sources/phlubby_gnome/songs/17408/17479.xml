@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17479">
+ <title>The Seeker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="90">4.2778</rating>
+ <info>1st place in pc demo compo at Intel Demo Competition 2008</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:59:34</locked_until>
+ <lastplayed>2018-06-14 19:01:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50867</pouetid>
+ <ytid>-uyVnBnrA_4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1863">DQ</artist>
+ </artists>
+ <groups>
+  <group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Violin</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-uyVnBnrA_4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31736">
+ <title>Media Error Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>311</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.2889</rating>
+ <info>3rd place in combined demo compo at Assembly 2007</info>
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:22:47</locked_until>
+ <lastplayed>2018-05-19 18:57:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31574</pouetid>
+ <ytid>cl2NjlTSyPU</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1159">Sulphur</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="3">Fairlight [FLT]</group><group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TripHop</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rRHYuep6mwQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cl2NjlTSyPU</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

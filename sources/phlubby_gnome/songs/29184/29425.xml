@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29425">
+ <title>Syltetøy</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 23:15:31</locked_until>
+ <lastplayed>2018-05-24 12:23:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Groovy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

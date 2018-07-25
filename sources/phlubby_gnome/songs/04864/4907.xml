@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4907">
+ <title>More Than Music 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.3934</rating>
+ 
+ <songlength>730</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 06:33:12</locked_until>
+ <lastplayed>2018-06-10 20:49:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9578</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>AwfulSaxophone</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

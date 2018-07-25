@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8811">
+ <title>Toejam</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.0429</rating>
+ 
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:25:56</locked_until>
+ <lastplayed>2018-06-07 16:55:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Genesis</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Tomato</tag>
+  
+  <tag>Tor</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

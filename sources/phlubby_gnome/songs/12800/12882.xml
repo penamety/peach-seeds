@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12882">
+ <title>Strikes Again (Copper Demo)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.1731</rating>
+ <info>Inspired by JCH&#39;s Strike Force AdLib conversion.</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 12:44:18</locked_until>
+ <lastplayed>2018-05-15 04:44:26</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="2">Demo</type>
+ <pouetid>2048</pouetid>
+ <ytid>Xa_LipSdcWQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1750">JO</artist>
+ </artists>
+ <groups>
+  <group id="116">Surprise!Productions [S!P]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>adlib</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

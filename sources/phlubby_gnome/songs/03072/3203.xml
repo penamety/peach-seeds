@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3203">
+ <title>Comic Bakery</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="151">4.3709</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 19:48:18</locked_until>
+ <lastplayed>2018-05-28 06:10:36</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="550">Instant Remedy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ComicBakery</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

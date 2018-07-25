@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8590">
+ <title>Hawk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8571</rating>
+ <info>3 songs in one. done for a demo 1992 never relased. later dedicated to a friend. a shame it was never used.</info>
+ <songlength>412</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 13:09:12</locked_until>
+ <lastplayed>2018-03-04 13:00:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1015">Ripguy</artist>
+ </artists>
+ <groups>
+  <group id="11">RISK</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

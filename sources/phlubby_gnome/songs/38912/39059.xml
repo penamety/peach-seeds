@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39059">
+ <title>PGS Intro at Fux Home</title>
+ <status v="A">Active</status>
+ <bitrate>1028</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>54</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 13:26:01</locked_until>
+ <lastplayed>2018-06-07 18:43:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/30013/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

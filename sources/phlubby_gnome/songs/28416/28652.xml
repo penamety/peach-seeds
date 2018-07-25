@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28652">
+ <title>Beat the BeatMARIO!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.0667</rating>
+ <info>12th in the unofficial tracked music compo @ breakpoint 2010</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 05:26:27</locked_until>
+ <lastplayed>2018-04-26 18:21:30</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4111">\slash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

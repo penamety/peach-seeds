@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42939">
+ <title>Grid (main)</title>
+ <status v="A">Active</status>
+ <bitrate>901</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>Main song from our 40k intro &#34;Grid&#34;, first place at Mekka &amp; Symposium 1999. The generated module is 1.4 MB.
+
+This is a slightly bugfixed version with a sample loop replayer bug removed.</info>
+ <songlength>368</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 08:02:14</locked_until>
+ <lastplayed>2018-04-28 19:49:07</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>2805</pouetid>
+ <ytid>2lmnaD1lFfk</ytid>
+ 
+ 
+ <artists>
+  <artist id="4373">Pipe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>softsynth</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2lmnaD1lFfk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

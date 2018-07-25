@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38592">
+ <title>Funky Soulution</title>
+ <status v="A">Active</status>
+ <bitrate>174</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ <info>This track was composed for the production Elemental II.</info>
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 10:35:01</locked_until>
+ <lastplayed>2018-03-15 05:10:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="727">The Doodles^Shock</group>
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

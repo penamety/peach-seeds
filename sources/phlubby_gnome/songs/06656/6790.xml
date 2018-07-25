@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6790">
+ <title>Sound o&#39; da Lunatic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="108">4.25</rating>
+ <info>Winner of the music compo at The Gathering 1994.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 09:02:09</locked_until>
+ <lastplayed>2018-05-22 00:29:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1165">$volkraq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

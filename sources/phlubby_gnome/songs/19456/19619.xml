@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19619">
+ <title>City Lights</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.7647</rating>
+ 
+ <songlength>472</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 07:17:42</locked_until>
+ <lastplayed>2018-06-03 09:23:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9180</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>boring</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

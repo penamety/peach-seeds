@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41236">
+ <title>Wintersleep</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>A little Chiptune created in 1993. Never released in a demoscene product.
+
+Got featured on the Soundtrack of a tiny little Freeware Game called &#34;Magic Vials&#34;.
+
+Game Download:
+http://www.portalprogramas.com/en/magic-vials/
+
+Free Soundtrack Download (Mp3 + Mods as a bonus):
+https://coucounetlabel.bandcamp.com/album/triace-magic-vials-ep-coucou029
+</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-27 03:20:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NVQXI4bjiGw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

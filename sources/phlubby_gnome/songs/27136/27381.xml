@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27381">
+ <title>Delta</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.0588</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 19:42:47</locked_until>
+ <lastplayed>2018-05-16 00:20:26</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="660">Lesnik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>harp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

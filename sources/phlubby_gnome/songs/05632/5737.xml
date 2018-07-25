@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5737">
+ <title>Can you feel it?</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.9474</rating>
+ <info>5th place in Assembly 1995 32-channel music competition</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 13:44:22</locked_until>
+ <lastplayed>2018-02-05 13:52:37</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

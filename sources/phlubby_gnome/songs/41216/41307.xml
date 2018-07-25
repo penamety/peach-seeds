@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41307">
+ <title>Face in the Sand</title>
+ <status v="A">Active</status>
+ <bitrate>231</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ <info>AHX cover of Iron Maidens tune &#34;Face in the Sand&#34; tracked for the Iron Maiden tribute chipmusicdisk released by Up-Rough, Titan and Insane at Compusphere 2014</info>
+ <songlength>348</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:36:17</locked_until>
+ <lastplayed>2018-06-07 02:13:57</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>64438</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group><group id="49">Titan</group><group id="762">Up Rough</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>ChipMetal</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Heavy</tag>
+  
+  <tag>IronMaiden</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

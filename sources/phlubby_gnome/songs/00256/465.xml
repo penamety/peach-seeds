@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="465">
+ <title>Messy Theme</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-06 23:59:10</locked_until>
+ <lastplayed>2017-08-30 22:00:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11188</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  <group id="503">Addonic</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

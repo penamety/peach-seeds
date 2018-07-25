@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35674">
+ <title>Sunreal</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.9474</rating>
+ 
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 09:05:01</locked_until>
+ <lastplayed>2018-05-29 16:29:02</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

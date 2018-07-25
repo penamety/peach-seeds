@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26577">
+ <title>Deliverance / Stormlord 2 [x-perimental cylon EBM disco mix]</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>Ifadeo used his alias &#34;X-Klang&#34; for this remix!</info>
+ <songlength>303</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 04:18:35</locked_until>
+ <lastplayed>2018-05-25 01:46:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3847">Ifadeo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=666</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

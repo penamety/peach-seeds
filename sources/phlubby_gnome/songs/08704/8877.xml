@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8877">
+ <title>Still got some oldskool</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9667</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 03:44:52</locked_until>
+ <lastplayed>2018-01-25 02:20:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

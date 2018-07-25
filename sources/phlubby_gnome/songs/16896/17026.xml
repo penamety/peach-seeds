@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17026">
+ <title>Hunger after dinner</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.75</rating>
+ 
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 05:22:44</locked_until>
+ <lastplayed>2018-02-20 17:37:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11397</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="313">Delta X</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Kraftwerk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1989">
+ <title>Blown</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9583</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 22:18:04</locked_until>
+ <lastplayed>2018-05-11 14:43:51</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>slapbass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

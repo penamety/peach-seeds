@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43952">
+ <title>Horus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Winner of 2015 Simulaatio listening music compo</info>
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 11:17:05</locked_until>
+ <lastplayed>2018-03-17 18:29:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Simulaatio</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/138367/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36809">
+ <title>Old Is Not Dead</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.2619</rating>
+ 
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 19:25:48</locked_until>
+ <lastplayed>2018-06-06 06:19:39</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59619</pouetid>
+ <ytid>iYD9ErLkxS4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1663">Byproduct</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group><group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

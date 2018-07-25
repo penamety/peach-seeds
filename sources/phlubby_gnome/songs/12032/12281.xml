@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12281">
+ <title>Funk the Bits</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.4706</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 05:41:07</locked_until>
+ <lastplayed>2018-05-29 09:15:37</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>53911</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist><artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11241">
+ <title>Into the Pink</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.0725</rating>
+ <info>2nd place in pc demo compo at NVScene 2008</info>
+ <songlength>388</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 13:02:52</locked_until>
+ <lastplayed>2017-12-07 00:24:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51454</pouetid>
+ <ytid>kjIo0zjEGUw</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1619">BLZ</artist>
+ </artists>
+ <groups>
+  <group id="181">Plastic</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kjIo0zjEGUw</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

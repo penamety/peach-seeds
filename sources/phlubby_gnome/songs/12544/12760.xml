@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12760">
+ <title>Lazersmoke</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.375</rating>
+ <info>[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 21:35:57</locked_until>
+ <lastplayed>2018-03-12 14:26:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

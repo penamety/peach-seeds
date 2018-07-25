@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5150">
+ <title>Stonecow</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8519</rating>
+ 
+ <songlength>376</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 06:44:40</locked_until>
+ <lastplayed>2018-04-13 22:51:54</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="834">MyVoice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

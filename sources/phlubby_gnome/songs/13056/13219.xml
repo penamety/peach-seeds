@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13219">
+ <title>Resonance II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">4.0</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 20:53:07</locked_until>
+ <lastplayed>2018-05-09 11:22:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3506</pouetid>
+ <ytid>EnPDc3bNPD4</ytid>
+ 
+ 
+ <artists>
+  <artist id="2130">Dr. Bully</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

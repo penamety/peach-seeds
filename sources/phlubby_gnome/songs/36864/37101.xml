@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37101">
+ <title>Amok Musicselector (tune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 22:22:00</locked_until>
+ <lastplayed>2017-11-05 00:33:31</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>43719</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4145">Guy Shavitt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=26793</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10104">
+ <title>DuClare Chateau</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.3333</rating>
+ <info>Dupe of [song]24417[/song]</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37865">
+ <title>We Are (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0833</rating>
+ 
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 06:54:43</locked_until>
+ <lastplayed>2018-03-29 03:06:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60881</pouetid>
+ <ytid>Z-BzEVT_auU</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="4114">xtrium</artist>
+ </artists>
+ <groups>
+  <group id="720">LNX</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

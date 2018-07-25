@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38107">
+ <title>Deadline Panic</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.8125</rating>
+ <info>Made in 2011 for a demo that was never done. Released at Tokyo demo fest 2013 (Remote)</info>
+ <songlength>294</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 02:33:35</locked_until>
+ <lastplayed>2018-03-25 00:22:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4105">Retrobot0r</artist>
+ </artists>
+ <groups>
+  <group id="695">3LN</group><group id="701">Digital Sounds System</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

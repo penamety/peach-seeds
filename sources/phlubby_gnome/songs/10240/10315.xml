@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10315">
+ <title>Windpipe</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.9</rating>
+ 
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-24 01:01:12</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ <pouetid>47547</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

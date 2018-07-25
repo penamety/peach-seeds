@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9199">
+ <title>Sippib</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ 
+ <songlength>53</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 13:36:47</locked_until>
+ <lastplayed>2018-05-19 05:22:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

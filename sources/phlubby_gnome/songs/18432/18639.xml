@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18639">
+ <title>Reactionary</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4667</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 06:39:55</locked_until>
+ <lastplayed>2017-11-16 20:38:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>16560</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="479">Genius</artist>
+ </artists>
+ <groups>
+  <group id="391">D-Mob</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

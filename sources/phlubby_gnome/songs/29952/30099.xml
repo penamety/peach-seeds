@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30099">
+ <title>NothingNew</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.0909</rating>
+ 
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-09 00:12:40</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>55837</pouetid>
+ <ytid>4LcJLolxdrk</ytid>
+ 
+ 
+ <artists>
+  <artist id="3838">mu6k</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

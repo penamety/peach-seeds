@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8970">
+ <title>Shock Megademo part 8</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4</rating>
+ <info>Remix of Here We Go Again by  Paradiso — [yt]N-z5g59ai7Q[/yt].</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 20:59:43</locked_until>
+ <lastplayed>2018-02-04 03:02:53</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2120</pouetid>
+ <ytid>UMQXN_sGc9c</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UMQXN_sGc9c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007726</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3276</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

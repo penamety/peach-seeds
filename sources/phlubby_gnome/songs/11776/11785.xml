@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11785">
+ <title>If Pigs Could Fly [endtune]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.4286</rating>
+ 
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 13:14:46</locked_until>
+ <lastplayed>2018-05-25 18:32:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11835</pouetid>
+ <ytid>LPEg5dhgZ5A</ytid>
+ <ytoffset>347</ytoffset>
+ 
+ <artists>
+  <artist id="1942">Frazer</artist>
+ </artists>
+ <groups>
+  <group id="530">The Syndicate [TSC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LPEg5dhgZ5A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/78489/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

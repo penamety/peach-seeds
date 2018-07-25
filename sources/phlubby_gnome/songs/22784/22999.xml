@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22999">
+ <title>Queen</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:14:54</locked_until>
+ <lastplayed>2018-06-03 02:29:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50351</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3424">Psimon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

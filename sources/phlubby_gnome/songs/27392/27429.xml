@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27429">
+ <title>Ninja Mayhem</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5714</rating>
+ <info>Lyrics:
+*scat*
+Do you know what it&#39;s like to be violated by a three-hundred pound Filipino skinhead named Gunther? It ain&#39;t no picnic!
+(Sgt Kabukiman N.Y.P.D. - http://www.badmovies.org/movies/sgtkabuki/sgtkabuki2.wav )
+A ninja does not allow himself to be swayed by emotion. You are not worthy!
+(9 Deaths of the Ninja - http://www.badmovies.org/movies/deathsninja/deathsninja1.wav )</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 07:06:26</locked_until>
+ <lastplayed>2017-10-30 22:00:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10741</pouetid>
+ <ytid>N_TJ78waV8Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="1289">Vae</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=N_TJ78waV8Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

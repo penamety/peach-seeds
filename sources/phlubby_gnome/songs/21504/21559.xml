@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21559">
+ <title>The Space Track</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>59</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 01:13:24</locked_until>
+ <lastplayed>2017-08-20 23:53:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>12751</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="776">Mem&#39;O&#39;Ree</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

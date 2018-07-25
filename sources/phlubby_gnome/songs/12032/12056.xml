@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12056">
+ <title>Ascend</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="39">4.0769</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 07:19:50</locked_until>
+ <lastplayed>2018-05-29 14:07:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3812</pouetid>
+ <ytid>xX8S3pt3RVo</ytid>
+ <ytoffset>34</ytoffset>
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  <group id="136">Anadune</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Satellite</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xX8S3pt3RVo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35875">
+ <title>Guilty as Charged - Stream 2012 Invitation (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.3214</rating>
+ 
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-18 14:29:38</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59207</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1562">The Hooligan</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Stream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

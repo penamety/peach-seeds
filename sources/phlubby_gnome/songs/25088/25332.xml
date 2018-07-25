@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25332">
+ <title>Moog Indigo</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-13 18:23:07</locked_until>
+ <lastplayed>2017-08-07 19:36:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3613</pouetid>
+ <ytid>hdLTPtfYCDQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

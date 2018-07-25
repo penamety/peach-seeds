@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38462">
+ <title>Nordlicht</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.9333</rating>
+ <info>Second song of the [url=http://csdb.dk/release/?id=117382]Nordlicht 2013 invitation[/url] demo by Arsenic, released at Revision Demoparty on 31/03/2013. 
+
+Devilock on soundcloud:
+https://soundcloud.com/devilock/nordlicht
+
+Nordlicht logo created by Alien of TiTAN.</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 05:58:45</locked_until>
+ <lastplayed>2017-10-02 01:54:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>61234</pouetid>
+ <ytid>Ba7AY6uROL8</ytid>
+ <ytoffset>214</ytoffset>
+ 
+ <artists>
+  <artist id="317">Devilock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Ba7AY6uROL8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=117382</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

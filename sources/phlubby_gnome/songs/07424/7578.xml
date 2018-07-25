@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7578">
+ <title>Biotransfix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-07 08:08:58</locked_until>
+ <lastplayed>2017-06-28 20:55:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3062</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="603">Kalachnikov</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/58287/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

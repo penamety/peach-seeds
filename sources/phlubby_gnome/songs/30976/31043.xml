@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31043">
+ <title>Tavor</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.7727</rating>
+ 
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 23:25:56</locked_until>
+ <lastplayed>2018-06-10 14:36:38</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>1085</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="638">Kritix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

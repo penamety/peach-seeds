@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38622">
+ <title>Tchernobyl&#39;s Tears</title>
+ <status v="A">Active</status>
+ <bitrate>166</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ <info>R5 recording from Stone Oakvalley site</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-01 17:04:14</locked_until>
+ <lastplayed>2017-06-26 19:17:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>36409</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3338">Orcan</artist>
+ </artists>
+ <groups>
+  <group id="73">React</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=11077</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

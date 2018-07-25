@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40028">
+ <title>DOTT</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ 
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 20:26:56</locked_until>
+ <lastplayed>2018-06-04 09:15:07</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61601</pouetid>
+ <ytid>3IwLjIkzU7g</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

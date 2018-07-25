@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39880">
+ <title>Qualitaet MinusMinus CompoVersion 0.5</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Compo entry for tUM 2013</info>
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-11 14:16:38</locked_until>
+ <lastplayed>2017-09-04 05:06:06</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4105">Retrobot0r</artist>
+ </artists>
+ <groups>
+  <group id="695">3LN</group><group id="701">Digital Sounds System</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38437">
+ <title>Kohlenstoffeinheit</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>[b][i]Demoscene Passivist&#39;s comments:[/i][/b]
+Life is complex - It has real and imaginary components.
+A 10th anniversary celebration of &#34;Protozoa&#34; in 4096 bytes.
+
+Special thanks to:
+kali (from fractalforums.com) for the xray marching idea and organic ifs
+knighty, syntopia and all others on fractalforums.com for providing an endless source of awesomeness
+Laurent/Ctrl-Alt-Test for sharing/developing Shader Minifier
+Mentor/TBC and Blueberry/Loonies for sharing/developing Crinkler
+Gopher+pOWL of Alcatraz for sharing/developing 4klang
+</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 14:49:12</locked_until>
+ <lastplayed>2018-05-08 07:46:12</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61181</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5090">Demoscene Passivist</artist>
+ </artists>
+ <groups>
+  <group id="676">Akronyme Analogiker</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FQwfRLYP9uA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

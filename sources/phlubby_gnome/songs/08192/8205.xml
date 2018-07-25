@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8205">
+ <title>fr-019: poemtoahorse</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.0694</rating>
+ <info>1st place in pc64k compo at Mekka &amp; Symposium 2002</info>
+ <songlength>334</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 17:18:33</locked_until>
+ <lastplayed>2018-04-24 00:37:52</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>5569</pouetid>
+ <ytid>8is4WTh4YLM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8is4WTh4YLM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

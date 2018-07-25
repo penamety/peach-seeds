@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1133">
+ <title>Switch back2</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.1</rating>
+ 
+ <songlength>124</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2744</pouetid>
+ <ytid>4UAF-b4xzzw</ytid>
+ <ytoffset>221</ytoffset>
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

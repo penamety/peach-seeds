@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28897">
+ <title>Aces of Space</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.25</rating>
+ 
+ <songlength>309</songlength>
+ <locked>True</locked>
+ <locked_until>2017-08-15 04:29:00</locked_until>
+ <lastplayed>2017-08-10 17:53:06</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4162">Everdune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Renoise</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

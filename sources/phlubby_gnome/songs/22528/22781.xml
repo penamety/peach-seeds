@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22781">
+ <title>Pink velvet</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ 
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 09:04:19</locked_until>
+ <lastplayed>2017-10-28 15:06:17</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3391">Pink velvet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

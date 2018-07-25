@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42413">
+ <title>Papercut</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.1</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 02:39:10</locked_until>
+ <lastplayed>2018-05-14 00:34:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66373</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

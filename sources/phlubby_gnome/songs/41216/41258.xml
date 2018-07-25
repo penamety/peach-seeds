@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41258">
+ <title>Play it again</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.4</rating>
+ <info>Tune from the Nintendo DS Music disc MoDS Vol. 1 by Desire and Resistance</info>
+ <songlength>233</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-26 01:29:43</locked_until>
+ <lastplayed>2018-02-02 00:34:59</lastplayed>
+ <platform id="11">Nintendo DS</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>63734</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

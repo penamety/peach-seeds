@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12221">
+ <title>Creating the Future</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.6667</rating>
+ <info>18 track in album &#34;8 bit is enuff&#34; AY-Riders (ayriders.prv.pl)
+</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 08:35:35</locked_until>
+ <lastplayed>2018-06-14 06:47:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2000">C-jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

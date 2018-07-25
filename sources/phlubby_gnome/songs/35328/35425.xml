@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35425">
+ <title>Trick Bag</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.3261</rating>
+ 
+ <songlength>345</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:36:15</locked_until>
+ <lastplayed>2018-05-29 01:50:10</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1364">DJ Skitz</artist><artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

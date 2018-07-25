@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42630">
+ <title>Natural Cause Of Death</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ <info>C64 Music Competition at The SID Compo IV :  #1
+</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-05 17:40:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

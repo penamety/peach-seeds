@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22944">
+ <title>Horde 2007 invitation</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-07 22:07:03</locked_until>
+ <lastplayed>2018-02-15 01:30:39</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>31083</pouetid>
+ <ytid>iri5CgLglkk</ytid>
+ 
+ 
+ <artists>
+  <artist id="2039">pOWL </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>horde</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15201">
+ <title>Dr Snuggles</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.2459</rating>
+ 
+ <songlength>42</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 17:50:09</locked_until>
+ <lastplayed>2018-05-21 12:05:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>Cartoon</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

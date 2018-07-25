@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31867">
+ <title>Lamerz Must Die</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.8824</rating>
+ <info>Epilogue track from &#34;TRASHe&#34; - ZX Spectrum demo by E-Mage, audiovisual art on 8bit machine.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 03:52:35</locked_until>
+ <lastplayed>2018-04-19 23:28:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2122</pouetid>
+ <ytid>5iTVMnFcmKE</ytid>
+ <ytoffset>297</ytoffset>
+ 
+ <artists>
+  <artist id="4668">Scratcher</artist>
+ </artists>
+ <groups>
+  <group id="444">E-Mage</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GLUPiM2ICQI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3440</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

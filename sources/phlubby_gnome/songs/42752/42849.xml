@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42849">
+ <title>Eva</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.2143</rating>
+ <info>All acoustic guitar samples played &amp; sampled by me. Most of the other samples are also custom samples (or ripped).</info>
+ <songlength>393</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 06:39:05</locked_until>
+ <lastplayed>2018-05-22 19:29:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2675">Elijah</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Mystic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?166713</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

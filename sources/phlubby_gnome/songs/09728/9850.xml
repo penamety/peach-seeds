@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9850">
+ <title>Chip Romance</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.5128</rating>
+ 
+ <songlength>77</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 02:04:07</locked_until>
+ <lastplayed>2018-05-23 17:45:37</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>3604</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="398">Edzes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

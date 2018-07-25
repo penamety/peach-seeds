@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42557">
+ <title>Confirmasse jingle</title>
+ <status v="J">Jingle</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0833</rating>
+ <info>Nectarine jinglecompo&#39;s winner
+
+Vous écoutez Nectarine. Confirmasse, confirmasse ?</info>
+ <songlength>12</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-11-25 07:14:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="66">Arrakis</artist><artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FrenchSpeak</tag>
+  
+  <tag>Jingle</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

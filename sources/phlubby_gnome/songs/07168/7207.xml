@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7207">
+ <title>Mobfers</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8276</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-04 15:28:26</locked_until>
+ <lastplayed>2017-12-17 04:56:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3179</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44134">
+ <title>Illusive</title>
+ <status v="A">Active</status>
+ <bitrate>1058</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>6th in the Silly Venture 2013 Atari XL/XE Music competition</info>
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 06:17:19</locked_until>
+ <lastplayed>2018-05-07 04:26:57</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/93780/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

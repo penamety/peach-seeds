@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37004">
+ <title>Blue Candy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 19:23:00</locked_until>
+ <lastplayed>2018-03-14 01:35:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14378</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5201">Spiff</artist>
+ </artists>
+ <groups>
+  <group id="267">Instinct</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>norsktoppen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

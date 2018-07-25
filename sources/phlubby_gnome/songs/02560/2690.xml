@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2690">
+ <title>Neptune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 03:18:26</locked_until>
+ <lastplayed>2018-05-30 07:45:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>23236</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

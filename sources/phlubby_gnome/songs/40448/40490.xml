@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40490">
+ <title>spellbound</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 05:55:02</locked_until>
+ <lastplayed>2018-04-01 16:48:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>25317</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5336">Earthling</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

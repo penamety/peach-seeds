@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29314">
+ <title>One man and his droid</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.3043</rating>
+ 
+ <songlength>268</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 02:50:02</locked_until>
+ <lastplayed>2018-06-11 04:48:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4253">Dummy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

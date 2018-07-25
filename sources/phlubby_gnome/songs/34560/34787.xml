@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34787">
+ <title>Synthetic Voice</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.6364</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 04:54:36</locked_until>
+ <lastplayed>2017-07-11 16:26:07</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2129">rockmonitor</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Pop</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

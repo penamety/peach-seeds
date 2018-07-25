@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22202">
+ <title>Enigma Year</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.2222</rating>
+ 
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 18:57:23</locked_until>
+ <lastplayed>2018-06-01 23:56:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9297</pouetid>
+ <ytid>UEmE0MLVrtc</ytid>
+ <ytoffset>32</ytoffset>
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>chill</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>strings</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

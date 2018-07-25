@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31843">
+ <title>I-can-make-it</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.8286</rating>
+ <info>The recordning was looped twice :)
+
+/pwl</info>
+ <songlength>93</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 01:05:51</locked_until>
+ <lastplayed>2018-04-26 13:00:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9386</pouetid>
+ <ytid>DTh5toEWjNI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DTh5toEWjNI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

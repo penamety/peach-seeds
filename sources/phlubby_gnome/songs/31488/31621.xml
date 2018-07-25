@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31621">
+ <title>Every time I wish</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>all music composed in renoise and then converted with Xrns2XMOD</info>
+ <songlength>302</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 17:37:55</locked_until>
+ <lastplayed>2017-11-19 22:32:57</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4644">Zenon</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

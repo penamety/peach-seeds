@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15908">
+ <title>Brother in the Sky</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ <info>Winner of the streamin music compo at Mekka &amp; Symposium 2000.</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-29 12:54:16</locked_until>
+ <lastplayed>2017-11-10 01:34:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

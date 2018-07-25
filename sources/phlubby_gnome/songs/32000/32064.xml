@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32064">
+ <title>Flash!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="58">3.8621</rating>
+ <info>Cover of &#34;Flash In The Night&#34; by Secret Service.</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 16:45:16</locked_until>
+ <lastplayed>2018-06-10 08:52:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2058">Amadeus Voxon</artist>
+ </artists>
+ <groups>
+  <group id="360">Flash Inc.</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=5928</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

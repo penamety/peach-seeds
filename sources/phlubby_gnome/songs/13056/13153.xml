@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13153">
+ <title>Beyond the Zero</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.3333</rating>
+ <info>MOS6581R4
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 04:21:49</locked_until>
+ <lastplayed>2018-06-12 11:41:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>35368</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2083">Markus Schneider</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

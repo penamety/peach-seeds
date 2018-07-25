@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39561">
+ <title>Love at first sight</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>Remedy 2001 multichannel entry</info>
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 01:50:45</locked_until>
+ <lastplayed>2018-03-05 02:57:06</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  <group id="189">Even</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

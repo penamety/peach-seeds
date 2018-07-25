@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16908">
+ <title>Rygar</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-13 13:03:05</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

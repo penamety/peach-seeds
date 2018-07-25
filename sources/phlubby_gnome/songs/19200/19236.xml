@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19236">
+ <title>Idea</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ 
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 18:11:59</locked_until>
+ <lastplayed>2017-12-10 02:43:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>14481</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2885">Ian</artist><artist id="4204">Mic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

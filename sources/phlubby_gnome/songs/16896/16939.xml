@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16939">
+ <title>Deathly Turbulens</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ 
+ <songlength>345</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 11:16:24</locked_until>
+ <lastplayed>2018-04-10 05:23:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31150</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="298">Dean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Slideshow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

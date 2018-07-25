@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2235">
+ <title>Jesus on E&#39;s 09</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.0667</rating>
+ 
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 08:32:06</locked_until>
+ <lastplayed>2018-03-06 09:42:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5265</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="395">Echo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

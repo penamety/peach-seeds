@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31964">
+ <title>Someone Help Me</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.1538</rating>
+ <info>Available for download at
+http://grimnorth.se/~noname/?section=music
+
+Vocals programmed with festival&#39;s &#34;awesome&#34; singing capabilities.</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 07:36:40</locked_until>
+ <lastplayed>2018-04-30 08:57:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4685">Noname</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>autotune</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

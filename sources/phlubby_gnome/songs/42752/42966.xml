@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42966">
+ <title>Tiikerihai</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ 
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-03 03:24:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>20429</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2078">AMJ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Schlager</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

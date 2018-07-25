@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36964">
+ <title>picking a mushroom</title>
+ <status v="A">Active</status>
+ <bitrate>142</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">4.0</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-19 01:22:07</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>30221</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  <group id="337">CoolPHat</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

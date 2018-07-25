@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40483">
+ <title>Zoolook</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 15:00:13</locked_until>
+ <lastplayed>2017-10-28 08:07:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="881">Odkin</artist>
+ </artists>
+ <groups>
+  <group id="614">2000 A.D. [AD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Jarre</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38608">
+ <title>Astral Combat</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.9615</rating>
+ <info>ZX Spectrum 48K + AY-interface. 
+Software: SampleTracker.
+3 channels, 4-bit quality lo-fi micromusic.
+Recorded from real ZX Spectrum.
+
+A teaser for my new ZX48 digital album &#34;Astral Combat&#34;.</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 03:22:19</locked_until>
+ <lastplayed>2018-06-11 11:42:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4180">
+ <title>Wild King Arthur</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9091</rating>
+ 
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 05:36:13</locked_until>
+ <lastplayed>2018-04-12 09:27:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18817">
+ <title>Gray Set Willy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7368</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 13:13:07</locked_until>
+ <lastplayed>2018-04-22 07:26:51</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist><artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  <group id="290">Grayscale</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

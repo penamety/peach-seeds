@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39795">
+ <title>Hey music lover-mix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">1.7895</rating>
+ 
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 17:15:31</locked_until>
+ <lastplayed>2018-05-14 06:32:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13883</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5445">Soundscan</artist>
+ </artists>
+ <groups>
+  <group id="776">Wizzcat</group>
+ </groups>
+ 
+ <tags>
+  <tag>cheesy</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

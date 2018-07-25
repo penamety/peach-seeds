@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39554">
+ <title>Fwrryman to Nowhere</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>from demo Yawn by Suspend</info>
+ <songlength>274</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-04 03:27:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6580</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2527">Dan</artist>
+ </artists>
+ <groups>
+  <group id="485">Suspend [spd]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

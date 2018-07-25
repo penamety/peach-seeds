@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11665">
+ <title>Jammin&#39; Cindy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.7778</rating>
+ <info>1:st place at The Gathering 1993 4ch music compo</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-05 01:53:14</locked_until>
+ <lastplayed>2017-07-30 06:55:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1878">Vinnie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

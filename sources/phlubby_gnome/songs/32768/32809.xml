@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32809">
+ <title>The Networks</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.9444</rating>
+ <info>Song made for a Wild Demo in Xuventude Party 2001</info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-09 17:30:53</locked_until>
+ <lastplayed>2017-11-22 03:15:47</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2332">
+ <title>The Only One Left</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.8654</rating>
+ <info>&#34;This is actually the last .XM module I finished on FT2, rendered to an MP3.&#34; --Elwood</info>
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 09:15:23</locked_until>
+ <lastplayed>2018-05-07 09:37:24</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="408">Elwood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

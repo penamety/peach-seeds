@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35596">
+ <title>Snakebite</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="41">4.0488</rating>
+ <info>3rd place at Outline 2009 in Oldskool / Executable Music.</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 10:41:48</locked_until>
+ <lastplayed>2018-04-29 20:17:19</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="472">Gasman</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15287/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

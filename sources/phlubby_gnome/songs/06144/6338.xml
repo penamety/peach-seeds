@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6338">
+ <title>A Common Threat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7667</rating>
+ 
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 13:46:22</locked_until>
+ <lastplayed>2018-06-14 08:16:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4300</pouetid>
+ <ytid>mD4xXM5lpUw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37049">
+ <title>Contest Demo (part 4)</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.2083</rating>
+ 
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 11:47:17</locked_until>
+ <lastplayed>2018-05-30 18:28:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>43088</pouetid>
+ <ytid>HgSaIHNU-pM</ytid>
+ <ytoffset>785</ytoffset>
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

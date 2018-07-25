@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41926">
+ <title>Secret society</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.1071</rating>
+ <info>Coming from Atari/Amiga DemoScene (1988-1996) mainly coding demo in assembly code with Devpack ;-) 
+I have restart demoscene some years ago with my first 3D engine based on DirectX 9 (started in 2010). 
+and release the Project 2401 at Evoke 2014. Of course with family/children/work that&#39;s not easy to
+work full time on it ;-)
+
+At the begining of this year, i have found Cinder Framework and ShaderToy.com website, with a lot of great shader effect remember me old school demo coding on my Amiga in asm :-p
+
+And that&#39;s it.. first little demo with this new great tools... 
+Of course that&#39;s not the greatest/smallest/Brillant demo like Cocoon/Mercury/Fairlight but just for me some way to make dreams and make some &#34;artistic expression&#34;...
+
+Difficult to explain on all people around me that you can make Computer Art as Developper...
+
+Personal Greetz flying to : Mike, Autopsy, JMZ, JoSsS, IQ, Frafra, Renaud, Phil &amp; some other people 
+i have meet during these years... 
+
+Enjoy &amp; CU for a next Release...
+</info>
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:14:40</locked_until>
+ <lastplayed>2018-05-26 16:37:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65399</pouetid>
+ <ytid>OzHr7Eg3LPM</ytid>
+ 
+ 
+ <artists>
+  <artist id="3828">Unix</artist>
+ </artists>
+ <groups>
+  <group id="402">Hoodlum (HLM)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Quote</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OzHr7Eg3LPM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

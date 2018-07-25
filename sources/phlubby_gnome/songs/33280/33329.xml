@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33329">
+ <title>For Shazz</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.6857</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 18:44:53</locked_until>
+ <lastplayed>2018-06-13 00:32:46</lastplayed>
+ <platform id="12">XBOX</platform>
+ 
+ <pouetid>30305</pouetid>
+ <ytid>BVzQDKuRCG8</ytid>
+ <ytoffset>83</ytoffset>
+ 
+ <artists>
+  <artist id="1522">Rebb</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

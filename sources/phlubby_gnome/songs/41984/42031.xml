@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42031">
+ <title>Cool Ballad</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.0</rating>
+ 
+ <songlength>263</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 19:25:50</locked_until>
+ <lastplayed>2017-10-04 05:22:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13401</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1948">Unknown Artist</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

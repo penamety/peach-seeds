@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7155">
+ <title>Shad - Part 4</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5</rating>
+ 
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 08:27:43</locked_until>
+ <lastplayed>2018-03-31 05:25:21</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>304</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>multipart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20028">
+ <title>Palav88 [amstrad]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>95</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-23 07:12:00</locked_until>
+ <lastplayed>2017-07-15 05:35:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

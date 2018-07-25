@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31860">
+ <title>Ignition, Set, GO!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">4.2738</rating>
+ <info>Track nr: 6/18, made using Thor.
+
+UBI020, 11.02.2011, http://ubiktune.org/releases/ubi020</info>
+ <songlength>311</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 05:07:58</locked_until>
+ <lastplayed>2018-05-21 00:43:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4673">Bomb Boy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>FM</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

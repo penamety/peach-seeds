@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7788">
+ <title>Lost in Legoland</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>99</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 15:14:21</locked_until>
+ <lastplayed>2018-04-04 19:59:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>7650</pouetid>
+ <ytid>NsUqTNaUuLk</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="553">Interphace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

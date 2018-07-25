@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44861">
+ <title>Chaotic Dance</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.0</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 18:56:04</locked_until>
+ <lastplayed>2018-05-29 04:35:09</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=15024</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

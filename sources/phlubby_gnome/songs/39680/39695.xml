@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39695">
+ <title>Manta Ray</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-25 18:43:50</locked_until>
+ <lastplayed>2018-01-07 17:38:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group><group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

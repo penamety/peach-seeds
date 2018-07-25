@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15261">
+ <title>Hunchback</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ 
+ <songlength>74</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-18 19:09:12</locked_until>
+ <lastplayed>2018-02-24 05:30:42</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Bleepy</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

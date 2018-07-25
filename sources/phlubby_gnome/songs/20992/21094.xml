@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21094">
+ <title>Joyride [Calypso tune]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2963</rating>
+ 
+ <songlength>231</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 18:50:26</locked_until>
+ <lastplayed>2018-04-13 21:59:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1621</pouetid>
+ <ytid>oztnjtyrlRw</ytid>
+ <ytoffset>41</ytoffset>
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

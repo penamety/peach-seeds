@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26861">
+ <title>The Last Ninja - Burning Yellow Eyes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ 
+ <songlength>370</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 08:12:47</locked_until>
+ <lastplayed>2018-03-24 05:14:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1455">LoadError</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

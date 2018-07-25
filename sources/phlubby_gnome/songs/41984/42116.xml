@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42116">
+ <title>Square Disco</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ <info>Made for ZX81 demo by Andy Rea. :)</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 01:28:26</locked_until>
+ <lastplayed>2018-05-30 04:12:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

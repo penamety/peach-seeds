@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38583">
+ <title>Black-Dawn 3</title>
+ <status v="A">Active</status>
+ <bitrate>153</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>One of my favourites. It has a nice ambience and in the end it happens stuff! Highly recommended :)</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 22:00:45</locked_until>
+ <lastplayed>2017-06-05 03:54:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>protracker</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

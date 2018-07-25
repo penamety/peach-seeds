@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37901">
+ <title>Kyoto</title>
+ <status v="A">Active</status>
+ <bitrate>119</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ 
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 09:37:39</locked_until>
+ <lastplayed>2018-05-21 17:40:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>60273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1258">Traymuss</artist>
+ </artists>
+ <groups>
+  <group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Hugi</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

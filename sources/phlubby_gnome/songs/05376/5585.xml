@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5585">
+ <title>Spasm95 (Demo version)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.6429</rating>
+ 
+ <songlength>419</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 11:00:37</locked_until>
+ <lastplayed>2017-12-15 17:32:38</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2753</pouetid>
+ <ytid>x8eT_1-6WDQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="926">Phoenix [US]</artist>
+ </artists>
+ <groups>
+  <group id="167">Kosmic Free Music Foundation [KFMF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

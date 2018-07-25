@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37413">
+ <title>Ninja Mixup</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ <info>A song i made inspired by The Last Ninja 2 music</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-11 22:03:31</lastplayed>
+ <platform id="4">AHX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

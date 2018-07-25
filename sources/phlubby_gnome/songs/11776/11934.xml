@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11934">
+ <title>Dragon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 03:53:38</locked_until>
+ <lastplayed>2018-04-01 09:47:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1840">PsyPuls</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

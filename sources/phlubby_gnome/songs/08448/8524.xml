@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8524">
+ <title>Hotbuttered (Atari ST edit)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 10:56:18</locked_until>
+ <lastplayed>2017-11-27 22:40:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7715">
+ <title>Artificial Sweetener</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="136">4.6618</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 23:39:37</locked_until>
+ <lastplayed>2018-06-06 09:46:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24950</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1388">Funky Fish</artist><artist id="1520">raina</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>BigChipcompo</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37547">
+ <title>Oldskool Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 05:09:06</locked_until>
+ <lastplayed>2018-06-08 03:29:39</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

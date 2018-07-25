@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37024">
+ <title>Super Turrican 1 - Steam and Pressure</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.3333</rating>
+ <info>Remix from Level 2 of Super Turrican 1, coop by Rapture and Jan Zottmann, Guitars by Nugel Bros</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 01:16:28</locked_until>
+ <lastplayed>2018-06-07 09:01:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5206">Jan Zottmann</artist><artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

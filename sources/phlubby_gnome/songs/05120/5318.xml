@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5318">
+ <title>Dreamplay</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.3095</rating>
+ 
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 18:29:17</locked_until>
+ <lastplayed>2018-06-11 16:21:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  <group id="167">Kosmic Free Music Foundation [KFMF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19982">
+ <title>Elmar64 [amstrad]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ 
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-13 20:43:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

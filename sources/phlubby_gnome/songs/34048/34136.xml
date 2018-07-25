@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34136">
+ <title>Ode To Mr. Mocca</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>Heavily reduced samplequality - trying to get the size down to a minimum. Cant remember if it was supposed to be used in a 64k intro...</info>
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 23:05:00</locked_until>
+ <lastplayed>2018-06-14 01:59:58</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

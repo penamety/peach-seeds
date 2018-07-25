@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17643">
+ <title>Sonni</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">3.8772</rating>
+ <info>The soundtrack to The Party 1995 PC demo compo winner Caero by Plant &amp; EMF. The actual module (sonni.s3m) is untitled.</info>
+ <songlength>415</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 11:47:45</locked_until>
+ <lastplayed>2018-06-10 13:11:02</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2163</pouetid>
+ <ytid>Ov1P_jCtOJg</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="206">Electromotive Force</group><group id="207">Plant</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Ov1P_jCtOJg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

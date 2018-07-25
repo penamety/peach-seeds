@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25990">
+ <title>Kolme muskettikoiraa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5806</rating>
+ 
+ <songlength>41</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 01:40:29</locked_until>
+ <lastplayed>2018-05-12 14:39:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2046">Ukulele</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Cartoon</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

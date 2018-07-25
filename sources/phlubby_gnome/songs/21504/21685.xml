@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21685">
+ <title>Sunday Drivers Dance</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ 
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-03 10:02:39</locked_until>
+ <lastplayed>2017-09-26 03:39:30</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3209">Miker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

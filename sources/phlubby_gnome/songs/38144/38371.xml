@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38371">
+ <title>This Is House</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="44">2.2727</rating>
+ 
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 17:56:37</locked_until>
+ <lastplayed>2018-05-24 08:53:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>19710</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5318">Jack</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>House</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

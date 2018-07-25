@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30384">
+ <title>Techno Fantasia</title>
+ <status v="A">Active</status>
+ <bitrate>251</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>A more generic title you may not find, yet this was evidence of what was possible with Atari&#39;s STe... a wicked machine. Octalyzer STe, of course.</info>
+ <songlength>394</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-18 01:28:56</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>electronica</tag>
+  
+  <tag>octalyser</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

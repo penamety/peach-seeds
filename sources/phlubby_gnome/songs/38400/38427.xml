@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38427">
+ <title>Road To Revision</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.6</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 15:30:27</locked_until>
+ <lastplayed>2018-03-12 10:09:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

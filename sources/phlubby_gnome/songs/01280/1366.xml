@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1366">
+ <title>Windwalker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ 
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-27 09:06:09</locked_until>
+ <lastplayed>2017-12-09 08:24:05</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

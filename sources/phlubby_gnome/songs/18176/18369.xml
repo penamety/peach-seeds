@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18369">
+ <title>Angie&#39;s</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">2.9118</rating>
+ 
+ <songlength>262</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 12:43:31</locked_until>
+ <lastplayed>2018-03-07 05:14:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7067</pouetid>
+ <ytid>7vNNQ9b0wvQ</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="2015">Frog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

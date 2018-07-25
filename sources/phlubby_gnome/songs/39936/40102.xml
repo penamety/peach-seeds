@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40102">
+ <title>Break Over</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 02:08:59</locked_until>
+ <lastplayed>2017-12-08 17:06:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62539</pouetid>
+ <ytid>5mDwVSfY-EE</ytid>
+ 
+ 
+ <artists>
+  <artist id="5475">T_S</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

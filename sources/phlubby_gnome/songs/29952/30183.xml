@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30183">
+ <title>Wasted Years OST</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.4</rating>
+ <info>Soundtrack to the 2nd ranking Amiga 64k intro of Breakpoint 2009</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 08:02:32</locked_until>
+ <lastplayed>2018-05-31 22:16:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>53043</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3551">Selectanovel</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>IronMaiden</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13702</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

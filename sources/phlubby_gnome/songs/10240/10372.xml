@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10372">
+ <title>Melancholy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>this is what the original mod was based on (what is now circle.s3m)
+this is also sorta unfinished so don&#39;t mind the stupid ending :)
+</info>
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 23:29:59</locked_until>
+ <lastplayed>2017-12-19 12:33:17</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="655">Psychic Monks</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3094">
+ <title>Jamming in the Wind</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.0513</rating>
+ 
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 09:12:58</locked_until>
+ <lastplayed>2018-06-03 10:43:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2126">Braintumour</artist><artist id="2127">Heywood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Swing</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

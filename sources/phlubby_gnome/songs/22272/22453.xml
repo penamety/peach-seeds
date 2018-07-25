@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22453">
+ <title>Back To Melody</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.2537</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 19:39:24</locked_until>
+ <lastplayed>2018-05-26 16:24:35</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3338">Orcan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

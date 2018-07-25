@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36109">
+ <title>Alpha Dream</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">1.8182</rating>
+ <info>Used in http://bitworld.bitfellas.org/demo.php?id=23852</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 16:40:28</locked_until>
+ <lastplayed>2018-03-28 12:00:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5122">Mad Phantom</artist>
+ </artists>
+ <groups>
+  <group id="685">Cybernetix</group>
+ </groups>
+ 
+ <tags>
+  <tag>Dream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

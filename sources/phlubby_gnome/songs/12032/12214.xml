@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12214">
+ <title>Mr Pat&#39;s Cat</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.6061</rating>
+ 
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 03:01:08</locked_until>
+ <lastplayed>2017-10-28 00:23:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

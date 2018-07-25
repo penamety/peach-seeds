@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18089">
+ <title>Aural Sea [edit]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.9655</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 02:54:57</locked_until>
+ <lastplayed>2018-06-11 12:25:42</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist><artist id="627">KeyG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?138052</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

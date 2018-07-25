@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39656">
+ <title>RAINY CITY</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;RAINY CITY&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Tune completed:	
+008	07.06.1999	
+009		
+010		
+011		
+012		
+013		
+014		
+015		
+016		
+
+sample list:
+001	Fusion Synth	(8 bit - 63849)
+002	Slowstr	(16 bit - 18191)
+003	Propats Fretless	(16 bit - 81423)
+004	Sweeper	(16 bit - 31205)
+005	Propats Fantasia	(16 bit - 21012)
+006	Rain Sfx	(8 bit - 52615)
+007	Pulse Synth	(8 bit - 68243)
+008	GUS PnP Celeste	(16 bit - 3387)
+009	SC Kick1	(16 bit - 8159)
+010	SC Cymcrash	(16 bit - 57886)
+011	SBL Hihatcl	(16 bit - 2603)
+012	SBL Hihatop	(16 bit - 24501)
+013	Thunder Left	(16 bit - 252172)
+014	Thunder Right	(16 bit - 252172)
+015	Snare1	(16 bit - 16520)
+016	SC Cymride1	(16 bit - 61463)
+</info>
+ <songlength>483</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 05:57:36</locked_until>
+ <lastplayed>2018-03-01 12:06:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

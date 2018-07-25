@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29929">
+ <title>Abell 2029</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.0896</rating>
+ <info>Winner of the mp3/ogg music compo at Evoke 2010.</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 11:24:22</locked_until>
+ <lastplayed>2018-06-12 06:00:48</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43292">
+ <title>Hortus Zoologicus remix</title>
+ <status v="A">Active</status>
+ <bitrate>187</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ <info>Original song by Ari-Pekka Paljakka (Zardax)</info>
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-28 05:34:55</locked_until>
+ <lastplayed>2018-02-10 06:26:34</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5YQ1egSqx2s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27209">
+ <title>Captive Theme</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.8889</rating>
+ <info>The music played during the introduction on the Amiga is titled &#34;git5&#34;. When the author was asked the meaning of this title, he simply replied &#34;The title git5 was just something quick and easy to type, as I had made loads of tunes over a few months when I first got some tracker software, and was running out of short titles to store them as. So git5 was next on the list.&#34;</info>
+ <songlength>266</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-24 23:27:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>LwXeEaczMGQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="3954">SuperCC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2927</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

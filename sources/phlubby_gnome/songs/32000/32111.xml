@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32111">
+ <title>First Flight</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.6129</rating>
+ <info>http://ubiktune.org/releases/ubi019/</info>
+ <songlength>336</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 20:20:11</locked_until>
+ <lastplayed>2018-04-13 19:00:22</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>NES</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

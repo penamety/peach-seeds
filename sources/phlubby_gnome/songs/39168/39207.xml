@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39207">
+ <title>Apophenia</title>
+ <status v="A">Active</status>
+ <bitrate>225</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>Soundtrack for the browser demo &#34;Apophenia&#34; by trbl, released at Evoke 2013.</info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-18 01:36:53</locked_until>
+ <lastplayed>2017-09-10 21:19:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

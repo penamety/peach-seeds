@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3603">
+ <title>Max velocity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3158</rating>
+ 
+ <songlength>410</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 18:07:48</locked_until>
+ <lastplayed>2018-04-20 08:09:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4036</pouetid>
+ <ytid>8u8BvmeJyhQ</ytid>
+ <ytoffset>38</ytoffset>
+ 
+ <artists>
+  <artist id="594">Jol005x</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

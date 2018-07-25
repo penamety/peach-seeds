@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12560">
+ <title>Crapman #12</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-18 16:49:36</locked_until>
+ <lastplayed>2018-02-28 05:40:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>752</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

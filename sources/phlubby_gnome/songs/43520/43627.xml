@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43627">
+ <title>Tun2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 11:39:22</locked_until>
+ <lastplayed>2018-05-09 11:20:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

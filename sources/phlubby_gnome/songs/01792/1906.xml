@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1906">
+ <title>Gimme Some Stuff</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 20:48:04</locked_until>
+ <lastplayed>2018-04-03 00:10:34</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="364">Don Cato</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

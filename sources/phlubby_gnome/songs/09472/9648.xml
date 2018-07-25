@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9648">
+ <title>Bombo (tune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.9737</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 16:53:22</locked_until>
+ <lastplayed>2018-06-11 03:49:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>UIFusC5ZLh0</ytid>
+ 
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=336</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

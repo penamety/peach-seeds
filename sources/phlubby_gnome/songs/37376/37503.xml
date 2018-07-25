@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37503">
+ <title>Departure I</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.2188</rating>
+ 
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-28 20:41:59</locked_until>
+ <lastplayed>2018-04-26 10:45:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>60619</pouetid>
+ <ytid>qFv9lwE29Ak</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>video</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

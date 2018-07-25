@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37471">
+ <title>Never Never Land</title>
+ <status v="A">Active</status>
+ <bitrate>123</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 14:33:27</locked_until>
+ <lastplayed>2018-03-19 00:08:13</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1793</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="106">Beek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

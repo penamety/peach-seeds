@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36910">
+ <title>Shake it with NES</title>
+ <status v="A">Active</status>
+ <bitrate>274</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-26 02:44:00</locked_until>
+ <lastplayed>2017-06-18 15:11:10</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5189">Zimbaland</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>NES</tag>
+  
+  <tag>Reggaeton</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

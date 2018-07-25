@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31904">
+ <title>RAF Megademo - Turn Disk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>This one is a cover of the tune that you can hear when you insert Disk 2 of the Royal Amiga Force Megademo. If anyone knows its original name or composer, please drop me a line! </info>
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 20:40:13</locked_until>
+ <lastplayed>2018-03-25 20:54:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

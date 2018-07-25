@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22481">
+ <title>Artcore vibes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ 
+ <songlength>436</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-24 01:09:58</locked_until>
+ <lastplayed>2017-09-15 23:57:22</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="894">Oxbow</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>distortedguitar</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

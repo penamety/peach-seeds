@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44858">
+ <title>EuroLight Orchestra</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.0</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 03:30:04</locked_until>
+ <lastplayed>2018-05-24 04:07:56</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>StarTrek</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=92082</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

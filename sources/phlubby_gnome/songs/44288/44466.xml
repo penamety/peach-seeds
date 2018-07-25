@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44466">
+ <title>Dark Apocalypse</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.625</rating>
+ 
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 21:35:10</locked_until>
+ <lastplayed>2018-05-25 05:19:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>57111</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=44877</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

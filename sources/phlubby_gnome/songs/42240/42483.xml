@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42483">
+ <title>Rainy Day</title>
+ <status v="A">Active</status>
+ <bitrate>307</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.1364</rating>
+ <info>Future Composer 1.0 tune.
+SID 6581R3
+
+Achievements :
+C64 Music Competition at ZOO 2015 :  #3</info>
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 06:31:35</locked_until>
+ <lastplayed>2018-05-02 06:46:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=142320</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=142320</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44226">
+ <title>Moonshine Reggae</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.625</rating>
+ <info>7th at Assembly 2017 listening music competition</info>
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 08:56:30</locked_until>
+ <lastplayed>2018-03-10 11:29:55</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Reggae</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

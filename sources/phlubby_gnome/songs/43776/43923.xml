@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43923">
+ <title>What Are You Syncing About?</title>
+ <status v="A">Active</status>
+ <bitrate>227</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0769</rating>
+ <info>Browser demo, played on Opera 44.0.2510.1159 / Windows 10</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 18:37:37</locked_until>
+ <lastplayed>2018-05-27 02:23:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>69705</pouetid>
+ <ytid>B9BnM4qz9DM</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="5717">Sigveseb</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=B9BnM4qz9DM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

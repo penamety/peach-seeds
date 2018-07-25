@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44118">
+ <title>Rob Hubbard&#39;s Thalamusik (Pokeyed)</title>
+ <status v="R">Rejected</status>
+ <bitrate>482</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.0</rating>
+ <info>POKEY remix of famous &#34;Sanxion [Loader[&#34; by Rob Hubbard</info>
+ <songlength>297</songlength>
+ <locked>True</locked>
+ <locked_until>2017-07-02 05:32:05</locked_until>
+ <lastplayed>2017-06-26 08:46:55</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/161311/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

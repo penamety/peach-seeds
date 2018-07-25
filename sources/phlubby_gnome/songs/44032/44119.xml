@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44119">
+ <title>Someday, somewhere (Neverland)</title>
+ <status v="A">Active</status>
+ <bitrate>470</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 10:31:42</locked_until>
+ <lastplayed>2018-04-28 14:43:25</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/164026/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

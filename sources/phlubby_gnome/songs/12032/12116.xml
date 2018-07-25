@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12116">
+ <title>Mixture (the AMP burner)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.4462</rating>
+ <info>Came 3rd in Sundown 2007  synth compo, and burned their amplifiers :D</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 15:38:24</locked_until>
+ <lastplayed>2018-05-31 15:10:17</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

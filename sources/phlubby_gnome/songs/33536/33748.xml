@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33748">
+ <title>14 Years Later</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.9118</rating>
+ <info>&#34;This was my first tune in 14 years, hence the title. I started working on it August 4th and finished it August 6th at LCP. Thanks to Ed for helping me putting a player on it!&#34;.
+
+C64 Music Competition at LCP 2011 : #3</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 14:52:51</locked_until>
+ <lastplayed>2018-06-16 15:50:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5215">Kristian Røstøen</artist>
+ </artists>
+ <groups>
+  <group id="357">Blues Muz&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

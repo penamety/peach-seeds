@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5256">
+ <title>High Adventure</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.1</rating>
+ <info>&#34;for multi-channel compo at Compusphere 8&#34;
+</info>
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-29 09:45:54</locked_until>
+ <lastplayed>2017-12-08 04:01:08</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Compusphere</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

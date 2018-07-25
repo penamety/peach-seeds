@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38578">
+ <title>Split-Vision</title>
+ <status v="A">Active</status>
+ <bitrate>172</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>This tune was composed for a diskmag published by Midway.</info>
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-10 22:10:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

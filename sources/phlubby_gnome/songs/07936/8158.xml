@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8158">
+ <title>Odd Norton</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>From a Mac OS X (10.4) 64k intro by the same name. Some of the instruments fail to render on newer OS X versions and the music is left very shallow.</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-27 16:40:12</locked_until>
+ <lastplayed>2018-02-08 08:53:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>31653</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1520">raina</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

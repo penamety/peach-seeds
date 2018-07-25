@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33064">
+ <title>If Bach was a DJ</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.1695</rating>
+ <info>Ranked 6th in the dance music compo at Stream 2011.</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 21:15:46</locked_until>
+ <lastplayed>2018-05-19 19:30:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

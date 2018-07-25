@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40634">
+ <title>Raiser</title>
+ <status v="A">Active</status>
+ <bitrate>2822</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.4</rating>
+ <info>leftovertrack</info>
+ <songlength>57</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 13:14:21</locked_until>
+ <lastplayed>2018-04-08 14:14:53</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4917">Zeerios</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>PC</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27623">
+ <title>Still in Motion</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ <info>Early tune by Treks</info>
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-25 21:54:21</locked_until>
+ <lastplayed>2017-08-15 00:13:06</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3972">Treks</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

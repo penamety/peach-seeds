@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38227">
+ <title>Parting Song</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.0</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 22:30:14</locked_until>
+ <lastplayed>2018-05-08 03:37:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>6548</pouetid>
+ <ytid>UWR23Kp8Bec</ytid>
+ <ytoffset>672</ytoffset>
+ 
+ <artists>
+  <artist id="1581">Watchman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

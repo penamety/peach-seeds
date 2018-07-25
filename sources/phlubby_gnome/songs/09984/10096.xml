@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10096">
+ <title>Fair Play to the Queen</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="119">4.3866</rating>
+ <info>1st place in combined demo compo at Birdie 2005
+
+Lyrics:
+Heaven let your light shine down...</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 07:53:21</locked_until>
+ <lastplayed>2018-05-28 19:27:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>17088</pouetid>
+ <ytid>amz3rFaSRgM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  <group id="96">Candela</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Banjo</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6swlIH1x19Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=amz3rFaSRgM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

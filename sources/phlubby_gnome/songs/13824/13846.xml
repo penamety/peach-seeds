@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13846">
+ <title>Doom</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.375</rating>
+ 
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-20 20:20:49</locked_until>
+ <lastplayed>2017-11-26 13:22:50</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2165">Airworx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

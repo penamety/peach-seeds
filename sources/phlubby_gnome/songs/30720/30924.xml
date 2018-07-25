@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30924">
+ <title>Do it Better</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">1.3871</rating>
+ 
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-04-27 07:44:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>299</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1244">Towerx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_singing</tag>
+  
+  <tag>opera</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42700">
+ <title>Northern Star</title>
+ <status v="A">Active</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ 
+ <songlength>451</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 09:49:22</locked_until>
+ <lastplayed>2018-03-01 06:42:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=178669</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=144097</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

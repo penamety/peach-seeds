@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35064">
+ <title>Disambiguation</title>
+ <status v="A">Active</status>
+ <bitrate>133</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">4.0</rating>
+ <info>2nd place at TMDC14 2011</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 05:23:45</locked_until>
+ <lastplayed>2018-04-09 18:46:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58420</pouetid>
+ <ytid>vn0U7Wp7thw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5002">Akole</artist>
+ </artists>
+ <groups>
+  <group id="296">npli</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>TMDC</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vn0U7Wp7thw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

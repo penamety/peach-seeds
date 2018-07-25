@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6329">
+ <title>Thing on a Spring</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.1707</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 08:21:29</locked_until>
+ <lastplayed>2018-05-28 01:57:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>XgPBZd8wknA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3016">
+ <title>Shining</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.6053</rating>
+ 
+ <songlength>387</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 11:58:04</locked_until>
+ <lastplayed>2018-05-22 13:45:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9389</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Maggy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

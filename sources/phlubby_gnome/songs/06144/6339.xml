@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6339">
+ <title>Beat to the Pulp</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.6154</rating>
+ 
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 10:10:32</locked_until>
+ <lastplayed>2018-06-08 13:03:58</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>10421</pouetid>
+ <ytid>O2TJIqEotY0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="580">Amiga Industries [AI]</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

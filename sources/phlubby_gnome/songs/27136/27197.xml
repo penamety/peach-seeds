@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27197">
+ <title>Jakarta</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.45</rating>
+ 
+ <songlength>327</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-17 21:08:32</locked_until>
+ <lastplayed>2017-08-10 19:07:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>19705</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3948">Comajim</artist>
+ </artists>
+ <groups>
+  <group id="107">Pure Metal Coders</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

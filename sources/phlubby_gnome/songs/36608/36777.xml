@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36777">
+ <title>It is Fantastic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-25 18:54:30</locked_until>
+ <lastplayed>2018-03-05 03:10:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7824</pouetid>
+ <ytid>Vu3kDft4jUI</ytid>
+ <ytoffset>225</ytoffset>
+ 
+ <artists>
+  <artist id="1018">Roberts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>IntelOutside</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Vu3kDft4jUI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

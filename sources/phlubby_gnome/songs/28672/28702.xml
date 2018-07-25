@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28702">
+ <title>No Tomorrow</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6667</rating>
+ <info>7th @ BreakPoint 2010 - Executable Music oldschool</info>
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 00:43:15</locked_until>
+ <lastplayed>2017-10-29 04:03:15</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1915">Curt Cool</artist>
+ </artists>
+ <groups>
+  <group id="162">Depth</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

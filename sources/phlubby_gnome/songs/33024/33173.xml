@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33173">
+ <title>The Journey</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.3833</rating>
+ <info>VIP 2011 demo party - 1st place</info>
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 17:25:09</locked_until>
+ <lastplayed>2018-06-08 05:00:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

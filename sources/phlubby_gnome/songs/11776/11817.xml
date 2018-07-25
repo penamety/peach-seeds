@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11817">
+ <title>Exocooper</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.9412</rating>
+ 
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 08:41:28</locked_until>
+ <lastplayed>2018-03-29 21:52:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

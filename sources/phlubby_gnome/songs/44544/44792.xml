@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44792">
+ <title>Wesley Bitcrusher</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="5">3.0</rating>
+ <info>12th in Revision 2018 oldskool music compo
+
+Pretracker 0.6 BETA</info>
+ <songlength>138</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:29:15</locked_until>
+ <lastplayed>2018-06-04 07:18:10</lastplayed>
+ 
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  <group id="256">Abyss</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/185136/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

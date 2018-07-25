@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33104">
+ <title>The Seven Gates of Jambala - Ingame 2 - Subsong 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0417</rating>
+ <info>Subsong 2 in [url]http://files.exotica.org.uk/modland/?file=pub/modules/Hippel/Jochen%20Hippel/the%20seven%20gates%20of%20jambala%20%28ingame%202%29.hip[/url]
+</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-05-27 22:25:13</locked_until>
+ <lastplayed>2017-05-26 21:01:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1881</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

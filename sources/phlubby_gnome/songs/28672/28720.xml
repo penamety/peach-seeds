@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28720">
+ <title>Breakpoint is Indestructable</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ <info>8th @ BreakPoint 2010 - Executable Music newschool
+
+Executable music for Linux and Windows</info>
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-12 00:50:18</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4114">xtrium</artist>
+ </artists>
+ <groups>
+  <group id="302">Trolls In The Shadow</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

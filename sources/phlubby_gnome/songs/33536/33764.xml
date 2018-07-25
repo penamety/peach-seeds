@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33764">
+ <title>Gravelrash</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.5882</rating>
+ <info>Winner of the streaming music compo at Evoke 2011.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 15:10:23</locked_until>
+ <lastplayed>2018-06-04 20:51:18</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

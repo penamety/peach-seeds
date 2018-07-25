@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30619">
+ <title>...og der var ørepropper i infodesken</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.6471</rating>
+ <info>Winning 16k executable music entry from TRSAC 2010</info>
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-09 02:39:00</locked_until>
+ <lastplayed>2018-02-18 02:54:23</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

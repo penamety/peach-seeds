@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21640">
+ <title>The Way</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ 
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 07:09:38</locked_until>
+ <lastplayed>2017-08-23 06:34:23</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8847</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Lobotomia</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

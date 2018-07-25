@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26628">
+ <title>Lithography</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>36</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-19 20:33:45</locked_until>
+ <lastplayed>2017-12-31 13:08:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>27002</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

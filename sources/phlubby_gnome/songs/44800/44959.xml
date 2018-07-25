@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44959">
+ <title>Megasong 3: Next Destination</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.0</rating>
+ <info>Megasong 3: Next Destination
+============================
+
+Description:
+
+The Megasong Project is a demoscene music project initiated by Fabian Del Priore aka Rapture to bring together talented demoscene musicians and trackers from all over the world, combining their forces in one big music piece, which they bring together in collaboration; each participant is working on a part of the song (each one working on a few patterns or so), before it&#39;s the turn of the next participant and the tune is handed to him. The end result is a massive coop tune, but sounding as homogeneous and consistent as possible.
+
+The third Megasong is made in Synthwave style with a spacey theme (a bit like Laserdance/Koto), but thinkable for the future are all kinds of styles with different musicians, different song length, different software to work with and so on, so the whole project is flexible to the max!
+
+In general, I would define the Megasong stating the following basic features:
+
+Style: Whatever the given group of musicians can agree on, everything is possible: Chipmusic, Demomusic, Gamemusic, Soundtracker ST-01 / Earlymod, Techno, Trance, German folk musik, experimental, whatever... Mainthing is working together on a FUN project! :)
+
+Length: Minimum 10 minutes, maximum 30 minutes
+
+Number of participants: Minimum 5 participants, maximum: Open end, but we shouldn&#39;t exaggerate here or else organising it will be complicated. ;)
+
+Platform/Software: Depends. Could be anything from any tracker to any DAW (Digital Audio Workstation / music studio environment) like Steinberg Cubase or Renoise. The music group must have roughly the same experience on the same platform. For DAW&#39;s like Renoise or Cubase, only freeware VST Plugins will be used (no commercial plugins) so they can be exchanged between the group, thus every composer of the group can take part on the project without any hassle!
+
+For the third Megasong project, the following talented demo scene musicians could be engaged:
+
+- Elrinth (Nicklas Holmgren)
+- Rapture (Fabian Del Priore)
+- Serpent (Touko Väre)
+- Shinobi aka Triton (Marcus Andre Rousseau)
+- Silok (Robert Katsenos)
+- Spiral (Mats Antonsson)
+
+Every demo scene musican who feels talented and motivated enough is invited for exciting future Megasong projects! Send me your ideas and some music snippets! :)
+
+Have fun listening and drop me a comment! You can reach us on the Nectarine Demoscene Radio: www.scenemusic.net :)
+
+Cheers,
+Rapture
+
+--
+
+Details &amp; specs on Megasong 3:
+
+Song Name - Megasong 3: Next Destination
+
+DAW/Tracker used - Renoise 2.8.0 x64
+Style - Synthwave/Spacesynth
+Number of participants - 6
+Length - 14:57
+
+--
+
+Structure of Song:
+
+Rapture - 0:00 - 1:32
+Silok - 1:33 - 3:43
+Rapture - 3:44 - 4:40
+Shinobi - 4:40 - 7:43
+Serpent - 7:44 - 9:46
+Spiral - 9:47 - 11:57
+Elrinth - 11:57 - 13:58
+Rapture - 13:59 - 14:55
+
+* Lyrics from the vocoders part by Spiral:
+
+Shinobi part Vocoders:
+
+Leaving Earth, in our spaceship!
+Destination unknown
+
+You and I
+We leave together now
+Destination unknown
+
+Spiral part Vocoders:
+
+You and I
+Among the stars
+On our way
+To a galaxy far
+
+Planets go by
+Flying through space
+To a new World
+To our new home
+
+Elrinth part vocoders:
+
+Landing on our new
+Home
+Tonight
+:Among the new stars:
+
+We&#39;ve reached our new goal
+Among the
+New stars tonight</info>
+ <songlength>897</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 04:30:59</locked_until>
+ <lastplayed>2018-05-19 23:03:56</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="2711">Rapture</artist><artist id="1627">serpent</artist><artist id="2134">Shinobi</artist><artist id="4070">Silok</artist><artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

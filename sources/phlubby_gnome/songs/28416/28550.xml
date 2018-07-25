@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28550">
+ <title>Slashing</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>Ranked 3rd in the 4 channel music compo at Rush Hours 1998.</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-04 21:25:38</locked_until>
+ <lastplayed>2017-05-30 20:24:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1103">X-Ceed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>RushHours</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

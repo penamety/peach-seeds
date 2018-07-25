@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1014">
+ <title>Megamix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.4016</rating>
+ 
+ <songlength>442</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 11:10:39</locked_until>
+ <lastplayed>2018-05-31 18:31:08</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

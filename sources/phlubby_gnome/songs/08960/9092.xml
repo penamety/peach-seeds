@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9092">
+ <title>Moors of Ireland</title>
+ <status v="A">Active</status>
+ <bitrate>194</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="79">4.3291</rating>
+ 
+ <songlength>314</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:41:14</locked_until>
+ <lastplayed>2018-06-13 03:49:16</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>Folk</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Irish</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

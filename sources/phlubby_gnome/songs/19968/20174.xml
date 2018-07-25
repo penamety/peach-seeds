@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20174">
+ <title>Wisdom and Euphoria</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.6667</rating>
+ <info>Ranked 6th in the multichannel compo at The Party 1995.</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 15:19:17</locked_until>
+ <lastplayed>2018-06-12 12:47:06</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

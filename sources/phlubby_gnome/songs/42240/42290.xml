@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42290">
+ <title>Scored</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>4ch mod from demo released at Assembly 2015. 6th position. Amigaaaaa!</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 00:41:25</locked_until>
+ <lastplayed>2018-01-26 01:25:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>66129</pouetid>
+ <ytid>ZVGH3keXNko</ytid>
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17749">
+ <title>Einsteinium 5</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ 
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 04:39:14</locked_until>
+ <lastplayed>2018-05-25 03:12:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11089</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="401">Einstein</artist>
+ </artists>
+ <groups>
+  <group id="225">Betrayal</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

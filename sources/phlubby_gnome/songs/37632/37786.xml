@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37786">
+ <title>Do Me</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.037</rating>
+ <info>Some of the instruments strongly influenced from Geir Tjelta, sorry about that :) Nothing fancy, just a small tuna.</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:44:39</locked_until>
+ <lastplayed>2018-06-13 16:11:10</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

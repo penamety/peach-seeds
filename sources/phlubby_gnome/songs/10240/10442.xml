@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10442">
+ <title>Synth Sample III - Track 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.3864</rating>
+ <info>Rob&#39;s own version of Ronda Alla Turca, SID style!!</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 14:40:40</locked_until>
+ <lastplayed>2017-10-11 11:22:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Classical</tag>
+  
+  <tag>mozart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

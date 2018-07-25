@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39762">
+ <title>Chukotsky Rap From Nigeria</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>46</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 10:06:50</locked_until>
+ <lastplayed>2018-06-06 01:13:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>54353</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funny</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>joke</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

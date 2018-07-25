@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43921">
+ <title>No ambition</title>
+ <status v="A">Active</status>
+ <bitrate>227</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 21:20:02</locked_until>
+ <lastplayed>2018-04-28 15:34:57</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170926/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EOYsP0_YJ0A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

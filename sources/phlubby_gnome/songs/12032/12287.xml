@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12287">
+ <title>Menthol Airwaves</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.4706</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-04 09:58:13</lastplayed>
+ <platform id="19">Gameboy</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2006">Lo-bat.</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

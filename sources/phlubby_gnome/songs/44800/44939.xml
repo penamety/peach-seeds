@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44939">
+ <title>es gibt reis</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">3.0</rating>
+ 
+ <songlength>46</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 06:50:08</locked_until>
+ <lastplayed>2018-05-28 06:33:06</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5797">Dusty (US)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=126867</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

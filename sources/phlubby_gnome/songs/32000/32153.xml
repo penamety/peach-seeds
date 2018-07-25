@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32153">
+ <title>Threespace</title>
+ <status v="A">Active</status>
+ <bitrate>428</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-02 10:35:41</locked_until>
+ <lastplayed>2017-11-14 03:34:19</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>30232</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

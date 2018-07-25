@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40396">
+ <title>Scroller</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.0</rating>
+ 
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 01:23:15</locked_until>
+ <lastplayed>2018-05-23 17:46:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist><artist id="5373">SaVannaH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

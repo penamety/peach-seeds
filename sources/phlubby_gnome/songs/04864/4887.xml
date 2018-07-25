@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4887">
+ <title>Dragons Funk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">4.2062</rating>
+ 
+ <songlength>341</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 11:31:20</locked_until>
+ <lastplayed>2018-05-24 11:53:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3422</pouetid>
+ <ytid>5CUUOlYxlZ8</ytid>
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="416">Angels</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NMRUj5nDewI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

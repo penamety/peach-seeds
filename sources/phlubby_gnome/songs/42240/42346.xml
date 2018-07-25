@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42346">
+ <title>Commando (this is the end)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ 
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 20:23:58</locked_until>
+ <lastplayed>2018-05-30 00:29:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1994">Mano</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41211">
+ <title>Runes of Virtue</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>Adapted from the SNES game Runes of Virtue 2, originally compoesd by Martin Galway.</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 11:05:21</locked_until>
+ <lastplayed>2018-05-04 04:26:29</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

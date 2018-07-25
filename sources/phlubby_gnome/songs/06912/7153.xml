@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7153">
+ <title>Shad - Part 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 01:08:00</locked_until>
+ <lastplayed>2018-03-31 05:19:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>304</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>multipart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

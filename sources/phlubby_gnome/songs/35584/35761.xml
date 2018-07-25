@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35761">
+ <title>Golden Axe (In Game / Piano)</title>
+ <status v="R">Rejected</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.2857</rating>
+ 
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-11-11 12:23:45</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4538">Patrick Nevian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

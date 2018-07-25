@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12841">
+ <title>Embold</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.3953</rating>
+ <info>MOS6581R4.
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 11:48:55</locked_until>
+ <lastplayed>2018-05-30 05:47:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>34518</pouetid>
+ <ytid>XemFB-D5Wjs</ytid>
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist><artist id="4357">Stormbringer</artist>
+ </artists>
+ <groups>
+  <group id="357">Blues Muz&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

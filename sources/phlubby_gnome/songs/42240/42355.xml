@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42355">
+ <title>Ninkasi</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>Used in &#39;ninkasi&#39; (ranked 1st in alternative demo compo, Evoke 2015).</info>
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 21:13:45</locked_until>
+ <lastplayed>2018-03-13 05:09:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>66100</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/143399/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38466">
+ <title>Holy Crap!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ <info>http://csdb.dk/release/?id=105056</info>
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 10:08:09</locked_until>
+ <lastplayed>2018-06-12 21:55:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5347">Redcrab</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

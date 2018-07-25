@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37290">
+ <title>X Invit</title>
+ <status v="A">Active</status>
+ <bitrate>157</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.3214</rating>
+ 
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 08:37:44</locked_until>
+ <lastplayed>2018-05-24 09:46:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60277</pouetid>
+ <ytid>3RXDDDO4tPg</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3RXDDDO4tPg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

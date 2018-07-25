@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5650">
+ <title>Kids</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 12:11:53</locked_until>
+ <lastplayed>2018-01-17 01:29:43</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>19200</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

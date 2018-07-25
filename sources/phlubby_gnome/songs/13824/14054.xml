@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14054">
+ <title>The Second Face</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.0556</rating>
+ 
+ <songlength>309</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 00:48:59</locked_until>
+ <lastplayed>2018-06-11 07:47:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>33684</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2224">Andreas Starr</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

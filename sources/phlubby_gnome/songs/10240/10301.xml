@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10301">
+ <title>Dig Deep</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7826</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 00:23:07</locked_until>
+ <lastplayed>2018-06-09 05:19:23</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ <pouetid>47547</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

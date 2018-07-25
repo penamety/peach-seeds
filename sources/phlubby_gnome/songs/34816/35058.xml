@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35058">
+ <title>Läntinen Yhdystie - Prologi</title>
+ <status v="A">Active</status>
+ <bitrate>248</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">2.68</rating>
+ 
+ <songlength>371</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 00:56:05</locked_until>
+ <lastplayed>2018-06-08 18:07:30</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4988">codehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

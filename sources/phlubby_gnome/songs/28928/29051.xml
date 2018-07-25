@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29051">
+ <title>Major Release</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">3.8353</rating>
+ <info>BPM 123</info>
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:58:21</locked_until>
+ <lastplayed>2018-05-26 10:47:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13022</pouetid>
+ <ytid>rTjTC6yDlIg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1296">Vesuri</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rTjTC6yDlIg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

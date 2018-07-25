@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21471">
+ <title>The Icepalace</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7778</rating>
+ 
+ <songlength>297</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 06:08:36</locked_until>
+ <lastplayed>2018-05-30 07:04:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>2374</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="770">Melomaniac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

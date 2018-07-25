@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31865">
+ <title>TRASHe</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="46">3.8261</rating>
+ <info>A first soundtrack from &#34;TRASHe&#34; - ZX Spectrum demo by E-Mage, audiovisual art on 8bit machine.</info>
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 22:40:26</locked_until>
+ <lastplayed>2018-06-09 04:38:19</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2122</pouetid>
+ <ytid>5iTVMnFcmKE</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="4668">Scratcher</artist>
+ </artists>
+ <groups>
+  <group id="444">E-Mage</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Trackmo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GLUPiM2ICQI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3440</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5iTVMnFcmKE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5397">
+ <title>Hazey Waves</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9167</rating>
+ 
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-18 20:10:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>12453</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group><group id="128">Flash Production [FP]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8183">
+ <title>Nemesis the Warlock [Live at the Church]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="180">4.6167</rating>
+ 
+ <songlength>421</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 04:35:49</locked_until>
+ <lastplayed>2018-06-13 02:45:06</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

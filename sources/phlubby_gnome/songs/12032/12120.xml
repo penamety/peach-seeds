@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12120">
+ <title>Go Funk Yourself</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="47">3.9574</rating>
+ 
+ <songlength>350</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:55:04</locked_until>
+ <lastplayed>2018-06-08 05:50:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1980">Blue Fox</artist><artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

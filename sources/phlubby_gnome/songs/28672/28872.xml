@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28872">
+ <title>Horf 5000</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.6545</rating>
+ <info>For a 8BC compo.</info>
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 03:11:29</locked_until>
+ <lastplayed>2018-06-05 19:41:36</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4071">xaimus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>technically-awesome</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

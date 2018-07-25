@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35974">
+ <title>I Swore a Vow on My Dying Breath</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>C64 Music Competition at The SID Compo VI :  #2</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 18:42:45</locked_until>
+ <lastplayed>2018-01-10 11:37:17</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group><group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=17254</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

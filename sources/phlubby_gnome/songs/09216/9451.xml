@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9451">
+ <title>Angel Project</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.2927</rating>
+ <info>4th at C64 Music Competition at Assembly 2000</info>
+ <songlength>126</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 16:15:40</locked_until>
+ <lastplayed>2018-05-31 19:01:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

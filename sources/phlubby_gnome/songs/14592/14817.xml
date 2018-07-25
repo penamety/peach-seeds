@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14817">
+ <title>Conspiration</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.0</rating>
+ 
+ <songlength>321</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 10:36:34</locked_until>
+ <lastplayed>2017-12-14 13:23:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33354</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2295">Bethoven</artist>
+ </artists>
+ <groups>
+  <group id="110">Technology [THG]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

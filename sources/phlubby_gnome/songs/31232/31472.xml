@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31472">
+ <title>The Cycle</title>
+ <status v="A">Active</status>
+ <bitrate>264</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.3519</rating>
+ <info>2nd in the streamed music compo @ tUM 2010.</info>
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 11:24:20</locked_until>
+ <lastplayed>2018-06-16 17:35:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>adlib</tag>
+  
+  <tag>OK</tag>
+  
+  <tag>Spacesynth</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

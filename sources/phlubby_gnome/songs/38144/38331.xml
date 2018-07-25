@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38331">
+ <title>[PONG] Atari Style</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">3.7656</rating>
+ <info>Winner music from the Forever 14 Atari music compo. 8 channels (stereo). Composed in Raster Music Tracker 1.28.
+Recorded from the real Atari 130 XE.</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 05:40:37</locked_until>
+ <lastplayed>2018-05-29 01:06:36</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Gangnam</tag>
+  
+  <tag>PSY</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26554/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

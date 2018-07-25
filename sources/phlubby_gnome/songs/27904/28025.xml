@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28025">
+ <title>Jeskola For President</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.625</rating>
+ 
+ <songlength>365</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 16:33:32</locked_until>
+ <lastplayed>2018-06-09 22:26:33</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4040">Slice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Goa</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

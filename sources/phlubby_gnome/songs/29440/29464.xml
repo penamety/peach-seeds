@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29464">
+ <title>The Happy Sprite</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.6538</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 13:14:50</locked_until>
+ <lastplayed>2018-06-02 08:36:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12211</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="347">Northstar</group>
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

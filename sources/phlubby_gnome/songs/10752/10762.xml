@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10762">
+ <title>Ocean Loader</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.6389</rating>
+ <info>Created using Soundmon v2.0</info>
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 06:05:21</locked_until>
+ <lastplayed>2018-05-27 08:23:09</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

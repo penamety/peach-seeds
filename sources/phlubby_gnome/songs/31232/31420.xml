@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31420">
+ <title>Odysseus</title>
+ <status v="A">Active</status>
+ <bitrate>364</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>Released @MAIN 2009</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 19:05:16</locked_until>
+ <lastplayed>2018-03-26 04:11:13</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4583">Sgun</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

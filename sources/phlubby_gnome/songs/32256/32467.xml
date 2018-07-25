@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32467">
+ <title>Last Minute Hack</title>
+ <status v="A">Active</status>
+ <bitrate>157</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ 
+ <songlength>96</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 01:22:30</locked_until>
+ <lastplayed>2018-05-16 10:23:05</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32742</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

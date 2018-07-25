@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41403">
+ <title>Supreme</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>1st place in pc demo compo at Hype demoparty &#39;98</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 00:25:31</locked_until>
+ <lastplayed>2018-05-21 05:05:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3163</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1323">Bliss</artist><artist id="2054">Evade</artist>
+ </artists>
+ <groups>
+  <group id="137">Outbreak</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Hype</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

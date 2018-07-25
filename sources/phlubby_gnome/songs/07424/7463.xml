@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7463">
+ <title>Starstruck</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="165">4.6242</rating>
+ 
+ <songlength>364</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 05:12:44</locked_until>
+ <lastplayed>2018-06-07 06:13:23</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>25778</pouetid>
+ <ytid>bBzdPtJumEE</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-wtMEBPWeMo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bBzdPtJumEE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12631</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/25001/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

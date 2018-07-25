@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="255">
+ <title>Arkanoid funk c64</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.9286</rating>
+ 
+ <songlength>26</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 12:58:26</locked_until>
+ <lastplayed>2018-04-13 05:34:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="45">Anak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

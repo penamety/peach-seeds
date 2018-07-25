@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39848">
+ <title>Preset Beat</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">1.4167</rating>
+ <info>This is a new placeholder for what to be done in the future!
+I think it&#39;s sounding maf like :-)</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-12-17 03:53:13</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5014">Space</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

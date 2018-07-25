@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11224">
+ <title>Megademo Reset</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.6061</rating>
+ 
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 23:13:03</locked_until>
+ <lastplayed>2018-06-12 03:36:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>752</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  <group id="10">Synergy</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

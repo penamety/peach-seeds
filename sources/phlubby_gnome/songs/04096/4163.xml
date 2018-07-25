@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4163">
+ <title>Transatlantic</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="142">4.7324</rating>
+ 
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 01:23:33</locked_until>
+ <lastplayed>2018-05-23 20:50:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>462</pouetid>
+ <ytid>b3GUfM7qkCw</ytid>
+ <ytoffset>314</ytoffset>
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

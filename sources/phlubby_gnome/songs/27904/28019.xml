@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28019">
+ <title>FM/AM_LP</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Released under &#34;Unity&#34; project</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-05 03:35:21</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4037">Rust</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

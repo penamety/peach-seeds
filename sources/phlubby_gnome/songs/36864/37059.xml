@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37059">
+ <title>Canes</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ 
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 00:00:05</locked_until>
+ <lastplayed>2018-04-03 22:01:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>47746</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1048">Scortia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=26616</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

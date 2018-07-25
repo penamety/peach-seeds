@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3977">
+ <title>1942</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.5</rating>
+ 
+ <songlength>40</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 08:55:06</locked_until>
+ <lastplayed>2018-05-26 03:55:55</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist><artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

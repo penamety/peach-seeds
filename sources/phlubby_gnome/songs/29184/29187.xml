@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29187">
+ <title>Amiga Tribute</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="192">4.6563</rating>
+ <info>Renoise + Reason + Atari ST running maxYMiser in MIDI sync mode. Made for Nectarine Compo #05. Originals are Enigma, Elysium, Space Debris, Red Sector Theme.</info>
+ <songlength>435</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:12:51</locked_until>
+ <lastplayed>2018-06-17 15:42:03</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>megamix</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>newschool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9087">
+ <title>Ghosts&#39;n Goblins Ingame</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.5077</rating>
+ 
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 03:28:10</locked_until>
+ <lastplayed>2018-04-08 18:19:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>W6wnGk5-mcI</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1669">Mark Cooksey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=W6wnGk5-mcI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

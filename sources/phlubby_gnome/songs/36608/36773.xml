@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36773">
+ <title>Hassubasso</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.5522</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 19:17:35</locked_until>
+ <lastplayed>2018-05-24 11:05:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

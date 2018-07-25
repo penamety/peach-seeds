@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31037">
+ <title>Hero</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">2.9167</rating>
+ 
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 05:06:09</locked_until>
+ <lastplayed>2018-03-09 03:09:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3134</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1245">Toxic Child</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>SceneEvent</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

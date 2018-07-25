@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42498">
+ <title>Low Level Brainscan</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ <info>SUCC&#39;92 Music Compo 1st
+---
+[url]http://teque.planet-d.net/mod/LOWLEVEL.MOD[/url]</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 10:26:47</locked_until>
+ <lastplayed>2018-04-27 12:13:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="212">Armada</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

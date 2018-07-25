@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43011">
+ <title>Starchild</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0833</rating>
+ <info>3rd at Revision 2016 tracked music compo
+
+Also used in Lemon.&#39;s short demo &#34;120 Hours&#34;, which was released at the same party and placed 5th place in Amiga demo compo.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 00:00:38</locked_until>
+ <lastplayed>2018-06-10 09:12:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>67144</pouetid>
+ <ytid>Wnvc20PIF9c</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

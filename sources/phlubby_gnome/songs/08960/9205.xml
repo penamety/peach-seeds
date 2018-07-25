@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9205">
+ <title>The Silk Road</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.1791</rating>
+ 
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 19:23:02</locked_until>
+ <lastplayed>2018-05-15 22:57:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

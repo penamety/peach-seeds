@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25888">
+ <title>Alive</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">1.56</rating>
+ 
+ <songlength>335</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-02-08 00:34:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3799">Patient Zero</artist><artist id="3800">Troll</artist>
+ </artists>
+ <groups>
+  <group id="690">Phluid</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

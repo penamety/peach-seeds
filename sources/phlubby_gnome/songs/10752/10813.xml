@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10813">
+ <title>Subterranean</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.9375</rating>
+ <info>Subterranean
+Chuck Biscuits Kosmic apr95
+.. my kosmic debut ..
+Samples from george/traxx, hunz, basehead, I.Q. and my own sample collection.
+</info>
+ <songlength>531</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 21:14:55</locked_until>
+ <lastplayed>2018-06-06 20:59:42</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1843">Chuck Biscuits</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

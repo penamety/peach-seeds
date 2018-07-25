@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31061">
+ <title>Chlorothetikal</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.8235</rating>
+ <info>Made for Matrix&#39;s &#39;R.A.W.&#39; Demo. Released at Digital&#39;s &#39;The Main Event&#39; Party in the UK, 1991</info>
+ <songlength>381</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 08:44:17</locked_until>
+ <lastplayed>2018-03-29 14:29:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19189</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4543">daZe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>TheMainEvent</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

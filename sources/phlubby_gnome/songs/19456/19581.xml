@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19581">
+ <title>Kinetix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.803</rating>
+ <info>http://www.c64.com/?type=1&amp;id=2240</info>
+ <songlength>744</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 03:50:20</locked_until>
+ <lastplayed>2018-05-14 08:22:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>35927</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

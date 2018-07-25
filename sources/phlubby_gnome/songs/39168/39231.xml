@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39231">
+ <title>AC/DC - Fire Your Guns</title>
+ <status v="R">Rejected</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">3.0</rating>
+ <info>Done for Strelka 14HB gift.</info>
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>Ltj5A5uZmPg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5416">Tayle</artist>
+ </artists>
+ <groups>
+  <group id="759">Team Site</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Ltj5A5uZmPg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

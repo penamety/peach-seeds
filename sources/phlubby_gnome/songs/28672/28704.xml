@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28704">
+ <title>The Genesis Experiment II</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0833</rating>
+ <info>13th @ BreakPoint 2010 - Executable Music oldschool</info>
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 08:17:37</locked_until>
+ <lastplayed>2017-11-25 17:42:47</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2119">Oerg866</artist><artist id="4131">Xiny6581 </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

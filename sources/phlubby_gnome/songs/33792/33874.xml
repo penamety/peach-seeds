@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33874">
+ <title>Ireland</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.3243</rating>
+ 
+ <songlength>285</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 17:45:50</locked_until>
+ <lastplayed>2018-05-31 11:53:07</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4865">GOnDaR</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35382">
+ <title>Heimcomputer (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.9828</rating>
+ <info>Remix of a Kraftwerk song.</info>
+ <songlength>281</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 19:59:21</locked_until>
+ <lastplayed>2018-06-04 07:32:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="5044">Gem Tos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>Kraftwerk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1328">
+ <title>Another with Sauce</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0455</rating>
+ <info>This song is made by Feather / TPOLM.
+He did however get advice and samples from Croaker.
+Released at Juhla IVb and it came 2nd in music competition.</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 09:26:30</locked_until>
+ <lastplayed>2018-05-11 13:22:49</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1807">Feather</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Juhla</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

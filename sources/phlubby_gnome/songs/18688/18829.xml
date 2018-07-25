@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18829">
+ <title>Join Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.381</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 09:37:50</locked_until>
+ <lastplayed>2017-08-22 03:33:28</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2819">Greed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

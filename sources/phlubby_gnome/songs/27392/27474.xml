@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27474">
+ <title>Hej Tomtegubbar</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">1.8095</rating>
+ 
+ <songlength>52</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-27 20:12:11</locked_until>
+ <lastplayed>2018-04-08 07:57:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

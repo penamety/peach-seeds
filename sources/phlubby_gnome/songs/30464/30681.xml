@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30681">
+ <title>Zwieback</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.8125</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 21:20:51</locked_until>
+ <lastplayed>2018-05-24 15:55:27</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="563">Jason</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

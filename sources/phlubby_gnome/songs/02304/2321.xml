@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2321">
+ <title>Memorize</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="144">4.5347</rating>
+ 
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 19:08:02</locked_until>
+ <lastplayed>2018-05-22 07:09:55</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="408">Elwood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

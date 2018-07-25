@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30358">
+ <title>Jesus Christ Motocross</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">3.3258</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 22:34:34</locked_until>
+ <lastplayed>2018-06-13 03:26:26</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>52968</pouetid>
+ <ytid>g6nRHNDY2Kw</ytid>
+ 
+ 
+ <artists>
+  <artist id="4462">Esau</artist><artist id="4464">Lance</artist><artist id="4463">zickbone</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group><group id="371">Traktor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Nature</tag>
+  
+  <tag>Punk</tag>
+  
+  <tag>Religion</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=g6nRHNDY2Kw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

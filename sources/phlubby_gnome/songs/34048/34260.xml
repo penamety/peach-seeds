@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34260">
+ <title>Lost Wobble</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.8182</rating>
+ <info>Last night before the compo deadline I decided to enter. Having never used Renoise before, I downloaded the demo version and made this &#34;song&#34;, which was indeed a remix of Lost Patrol :)
+Sorry for quality loss. This is because I had didn&#39;t have full version of Renoise to save wav file out to for mp3 encoding. 
+Samples used are all stock Renoise samples.
+Need to re-encode and improve this song overall :)
+</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-27 16:35:31</locked_until>
+ <lastplayed>2017-06-18 14:19:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4909">Sensei</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

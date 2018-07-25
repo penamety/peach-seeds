@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39149">
+ <title>Banu Theme</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ <info>SID chipset: MOS6581R2</info>
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 21:32:42</locked_until>
+ <lastplayed>2018-04-27 21:13:52</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

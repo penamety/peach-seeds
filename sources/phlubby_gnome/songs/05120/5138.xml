@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5138">
+ <title>System Override</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.1228</rating>
+ <info>Lyrics:
+No time to find
+System override
+(x4)
+
+Compo version, and a winner of Summer Encounter 1998.</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 05:36:51</locked_until>
+ <lastplayed>2018-05-29 02:44:54</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>21</pouetid>
+ <ytid>Dw7p5YAohL0</ytid>
+ 
+ 
+ <artists>
+  <artist id="833">Mystical</artist>
+ </artists>
+ <groups>
+  <group id="103">Purple</group>
+ </groups>
+ 
+ <tags>
+  <tag>Lyrics</tag>
+  
+  <tag>robotic</tag>
+  
+  <tag>video</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

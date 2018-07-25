@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36489">
+ <title>Jingle Bells</title>
+ <status v="A">Active</status>
+ <bitrate>79</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">1.7619</rating>
+ 
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 19:00:25</locked_until>
+ <lastplayed>2018-05-12 01:38:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="400">eha</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

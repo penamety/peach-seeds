@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23147">
+ <title>Amiga</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.4</rating>
+ 
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 16:32:54</locked_until>
+ <lastplayed>2018-02-11 12:47:05</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>8chn</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2454">
+ <title>Nicole</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.1935</rating>
+ <info>Ranked 5th in the 4 channel music compo at The Party 1992.</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-13 17:38:19</locked_until>
+ <lastplayed>2017-11-22 14:28:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="425">Fabian</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43707">
+ <title>Chopper (Arctic Circle Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>[url=http://remix.kwed.org/download.php/2568/DeeS%20-%20Chopper%20%28Arctic%20Circle%20Remix%29.mp3]download @ RKO[/url]</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 13:33:58</locked_until>
+ <lastplayed>2018-03-07 06:30:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1351">DeeS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=134209</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

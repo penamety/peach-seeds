@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42815">
+ <title>fwd: Captain Future</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>This is a cover version of the German Captain Future theme, originally composed by Christian Bruhn &amp; performed by Lady Lily.
+
+Composing Software: Renoise, Cubase &amp; Vocaloid
+
+Released 2013-03-21</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-07 12:28:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5647">Artfx!</artist><artist id="2059">Dualtrax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44492">
+ <title>My Way to the Stars</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ <info>Originally featured on Party Demo (Demo) by Double Density Crew released on the Amiga in January 1989.
+
+[url]http://janeway.exotica.org.uk/release.php?id=771[/url]
+
+The module was also ported to the Acorn Archimedes and featured in the Brothers in ARM demo !Sister.. 
+
+[yt]https://www.youtube.com/watch?v=iCdc0ATVgLQ[/yt]
+
+The demo featured a SoundTracker playroutine written in ARM assembler by Hugo Fiennes which was the first to be written on the Archimedes platform.
+
+Many years later Hugo went on to head the iPhone 4 hardware design team at Apple!!</info>
+ <songlength>320</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 18:18:16</locked_until>
+ <lastplayed>2018-06-10 12:55:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5696">Music-Steve</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

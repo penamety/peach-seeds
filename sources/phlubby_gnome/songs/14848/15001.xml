@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15001">
+ <title>Setup 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-29 02:23:47</locked_until>
+ <lastplayed>2017-09-23 02:48:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9248</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

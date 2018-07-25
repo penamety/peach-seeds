@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26613">
+ <title>Cat&#39;s Cradle</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.3243</rating>
+ <info>5th place at Evoke 2009 PC Demo Compo</info>
+ <songlength>282</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 15:52:17</locked_until>
+ <lastplayed>2017-10-31 04:13:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53591</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="570">Jean9</artist>
+ </artists>
+ <groups>
+  <group id="141">Matt Current</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39712">
+ <title>The Santa Goat</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 04:32:50</locked_until>
+ <lastplayed>2018-06-13 19:39:35</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist><artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

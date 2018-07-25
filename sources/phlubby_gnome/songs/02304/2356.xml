@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2356">
+ <title>Starlight Symphony</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.0667</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 14:00:13</locked_until>
+ <lastplayed>2018-05-14 01:23:37</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="410">Emax [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>synthlead</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

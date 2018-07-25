@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39566">
+ <title>The Suitcase</title>
+ <status v="A">Active</status>
+ <bitrate>323</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>Ranked 9th in the newschool music compo at Solskogen 2009.</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-10 02:10:00</locked_until>
+ <lastplayed>2017-06-16 22:13:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1667">xni</artist>
+ </artists>
+ <groups>
+  <group id="258">Rave Network Overscan [RNO]</group><group id="259">Tufs</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>80s</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

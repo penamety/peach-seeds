@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32174">
+ <title>Help Me</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.4615</rating>
+ <info>Download link:
+[url=ftp://ftp.untergrund.net/users/atzAdmin/jhv/Virgill_-_Help_me.mp3]ftp.untergrund.net[/url]
+[url=ftp://ftp.scene.org/pub/demos/groups/alcatraz/music/virgill_-_help_me.mp3]scene.org[/url]</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 21:42:37</locked_until>
+ <lastplayed>2018-04-19 03:25:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>51760</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

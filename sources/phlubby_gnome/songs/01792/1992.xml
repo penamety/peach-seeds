@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1992">
+ <title>Bridge</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>Dupe of [song]1993[/song]</info>
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-02-19 18:17:20</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

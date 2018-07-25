@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18810">
+ <title>Warhawk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 05:18:19</locked_until>
+ <lastplayed>2017-12-23 00:42:03</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2816">Graff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

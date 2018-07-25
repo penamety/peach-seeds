@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9545">
+ <title>Bangkok Knights Loader</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7059</rating>
+ <info>Download Link: http://www.f1-software.com/mp3/Mad_Max-Bangkok_Knights.mp3
+
+This is a cover of Matt Gray&#39;s C64 version of the Bangkok Knights loader ( \MUSICIANS\G\Gray_Matt\Bangkok_Knights_Loader.sid for all SID buffs listening at home )</info>
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 21:55:23</locked_until>
+ <lastplayed>2017-11-23 22:46:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

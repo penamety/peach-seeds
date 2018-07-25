@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30387">
+ <title>Final Stand</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">2.7</rating>
+ <info>An 8-channel RPG-style module presenting our hero&#39;s stand before the battle that decides the fate of the universe.
+
+What else?</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-13 11:24:37</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>Orchestral</tag>
+  
+  <tag>soundtrack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

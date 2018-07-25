@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33025">
+ <title>Batman Forever</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">3.6761</rating>
+ <info>1st place in cpc demo compo at Forever 2011</info>
+ <songlength>657</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 09:02:56</locked_until>
+ <lastplayed>2018-06-08 20:15:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56761</pouetid>
+ <ytid>YJosZfm560Q</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1725">Factor6</artist><artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="479">Batman Group</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>long</tag>
+  
+  <tag>thunder</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dqjZNnjNu3Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

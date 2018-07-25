@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3086">
+ <title>Can&#39;t be</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">3.9753</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 16:35:29</locked_until>
+ <lastplayed>2018-05-17 13:24:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9124</pouetid>
+ <ytid>Va4rcoGVFz4</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="513">Hein Design</artist>
+ </artists>
+ <groups>
+  <group id="541">Vision</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

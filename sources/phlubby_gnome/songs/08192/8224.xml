@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8224">
+ <title>Symbiosis - Synergy Megademo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="112">4.5268</rating>
+ <info>Soundtrack from &#34;Synergy Megademo - Symbiosis Screen&#34; demo by Odyssey aka &#34;Megademo Odyssey&#34;</info>
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 23:50:54</locked_until>
+ <lastplayed>2018-05-23 12:06:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>752</pouetid>
+ <ytid>Cc7LCkFRirk</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  <group id="10">Synergy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>megademo</tag>
+  
+  <tag>Odyssey</tag>
+  
+  <tag>Synergy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Cc7LCkFRirk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/3790/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/72345/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

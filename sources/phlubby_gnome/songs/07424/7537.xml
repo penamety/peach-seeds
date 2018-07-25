@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7537">
+ <title>Rush</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="174">4.4885</rating>
+ <info>5h place in wild demo compo at Breakpoint 2008</info>
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 02:33:40</locked_until>
+ <lastplayed>2018-05-21 15:23:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50183</pouetid>
+ <ytid>knZyPXcelYM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1346">Dafunk</artist>
+ </artists>
+ <groups>
+  <group id="742">Singular Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=knZyPXcelYM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

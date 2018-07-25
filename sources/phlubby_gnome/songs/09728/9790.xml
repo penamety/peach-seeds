@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9790">
+ <title>Planet M</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8824</rating>
+ 
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-22 08:47:38</locked_until>
+ <lastplayed>2017-07-13 06:58:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4951</pouetid>
+ <ytid>40EWOjbN0XY</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

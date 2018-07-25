@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40764">
+ <title>Reflection</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.3333</rating>
+ <info>Just a simple experiment into the synthwave genre.</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 13:20:11</locked_until>
+ <lastplayed>2018-06-11 17:30:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>63844</pouetid>
+ <ytid>drvJEHvxNDI</ytid>
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>80s</tag>
+  
+  <tag>Pop</tag>
+  
+  <tag>synth</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37349/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

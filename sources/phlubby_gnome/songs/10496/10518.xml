@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10518">
+ <title>Bacardi</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ <info>Note from the author:
+
+&#34;The whole TGM team met at the house of our graphic artist Dennis (can’t remember his code name) and drank a lot (guess what :) ).&#34;</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-27 12:34:47</locked_until>
+ <lastplayed>2018-05-03 23:12:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

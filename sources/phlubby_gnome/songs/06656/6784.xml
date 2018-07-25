@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6784">
+ <title>Crimson moon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ <info>Ranked 2nd in the 4 channel music compo at Rush Hours 1998.</info>
+ <songlength>355</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-29 15:34:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>3733</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1161">SuperFML</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>1999</tag>
+  
+  <tag>apocalypse</tag>
+  
+  <tag>RushHours</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

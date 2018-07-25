@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14805">
+ <title>Revolution soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-03 13:54:53</locked_until>
+ <lastplayed>2017-06-07 06:54:15</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>5998</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="107">benJam</artist>
+ </artists>
+ <groups>
+  <group id="319">Vacuum [VAC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

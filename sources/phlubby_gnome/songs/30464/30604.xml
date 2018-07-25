@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30604">
+ <title>Area Unstable</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.98</rating>
+ 
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 19:08:20</locked_until>
+ <lastplayed>2018-05-27 10:08:37</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56106</pouetid>
+ <ytid>4dwqQwcIGfo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="599">Badsquare</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>ALARM</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

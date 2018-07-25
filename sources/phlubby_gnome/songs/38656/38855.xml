@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38855">
+ <title>Lasertime</title>
+ <status v="A">Active</status>
+ <bitrate>203</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.7778</rating>
+ <info>&#34; porno on ihan jees &#34;
+                .____
+        _____   |   /. _____         ____         ____   _____
+        \    \  |    |_\_.  \_ ____ / _  \_ ____ / _  \__\_.  \_
+         \    \/\    :  \|   /.\   \\//   /.\   \\//      \|   /.
+          \______________|    :_____\/_____|_____\/________|    : g6
+     --------------------|____|----------------------------|____|-------
+
+                         wAMMA oldskool section 2007
+                                   presents
+
+                           [  L A S E R T I M E  ]
+
+
+                       a 4k trackmo for the Atari 2600
+
+
+  &#34;Scientists from Berkeley Lab have generated 300-femtosecond pulses of
+   bend-magnet synchrotron radiation at the Advanced Light Source (ALS)
+   with the aid of a laser &#34;time-slicing&#34; technique. Their
+   proof-of-principle experiment demonstrates that this technique is a
+   viable one for producing ultrashort pulses of x-rays. An ALS
+   bend-magnet beamline will soon be commissioned that will be dedicated
+   to time-resolved x-ray diffraction, EXAFS, and other techniques capable
+   of probing the long-range and local structure of matter on a
+   femtosecond time scale.&#34;
+
+                       _______________________________
+                      -                               -
+                     |         [code] visy             |
+                     |       [design] pahamoka         |
+                     |    [add. code] ilmarque + tatu  |
+                     |  [gfx &amp; music] ilmarque         |
+                     |         [font] inkoddi + paaris |
+                     |  [hw. support] muto + cosmo +   |
+                     |                Little Bitchard  |
+                     |                                 |
+                     |        :parts:                  |
+                     |                                 |
+                     |         [main] visy             |
+                     |   [wAMMA logo] visy             |
+                     |    [atarigirl] visy + ilmarque  |
+                     |      [3d road] visy + ilmarque  |
+                     | [field rotate] ilmarque         |
+                     | [bend + water] ilmarque         |
+                     |   [x-scroller] tatu + ilmarque  |
+                     |      [credits] visy             |
+                     | [1-bit plasma] ilmarque         |
+                     |    [atarilogo] visy + ilmarque  |
+                      -_______________________________- 
+
+
+                          * 128 bytes RAM, 4k ROM *
+
+
+                     This production was developed with
+                Stella, Z26, a custom-made cart, a few EPROMs
+                             and an Atari 2600 jr.
+
+                        (and copious amounts of beer)
+
+                          _           _           _
+                    _,.-*` &#39;*-.,_,.-*` &#39;*-.,_,.-*` &#39;*-.,_
+
+                       greetings to all retrofarts in:
+
+                       aspekt, moonhazard, pwp, damones,
+                          matt current, flo, ISO, RNO,
+                          wAMMA newskool section, fit,
+                       dekadence, traction, ananasmurska,
+                        hedelmae, fairlight, oetoekaet,
+                     nalleperhe, byterapers &amp; dragon magic
+
+                                      -
+
+                        Paul Slocum for Music Kit 2.0
+
+                                     and
+
+                        the people at AtariAge forums          
+
+                                      -
+
+                     special greetings &amp; thanks to nosfe
+                     for his continuing love and support
+                           towards atari computers
+
+                          _           _           _
+                    _,.-*` &#39;*-.,_,.-*` &#39;*-.,_,.-*` &#39;*-.,_
+
+                                .nfo by visy
+
+                  [ Atari 2600  -  30 years of pure love! ]</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 23:18:19</locked_until>
+ <lastplayed>2018-05-12 06:58:18</lastplayed>
+ <platform id="46">Atari VCS (2600)</platform>
+ <type id="2">Demo</type>
+ <pouetid>29738</pouetid>
+ <ytid>iE1mAQ8zQ8o</ytid>
+ 
+ 
+ <artists>
+  <artist id="2108">Ilmarque</artist>
+ </artists>
+ <groups>
+  <group id="101">wAMMA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Icons</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=iE1mAQ8zQ8o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

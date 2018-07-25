@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39890">
+ <title>tAAt 2014</title>
+ <status v="A">Active</status>
+ <bitrate>194</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0</rating>
+ <info>A short soundtrack to our annual new year&#39;s production. First attempt at dubstep of any kind as well as using Ableton Live for composing. Took a bit longer than I expected due to Ableton Live being a bit different from what I&#39;m used to.</info>
+ <songlength>75</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 13:06:51</locked_until>
+ <lastplayed>2018-06-02 07:53:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62346</pouetid>
+ <ytid>BwUXFqjNcNI</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4187">vEiVi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Ableton</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>soundtrack</tag>
+  
+  <tag>synth</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BwUXFqjNcNI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

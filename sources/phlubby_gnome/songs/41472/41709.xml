@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41709">
+ <title>The Creation of Gaia</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>&#34; T h e   C r e a t i o n   o f   G a i a &#34;
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+April 6, 1996
+From ZaStaR (Sherman Wu)
+
+...........................................
+
+&#34;Picture the creation of a newly grown
+
+ garden, green overrunning a barren land..&#34;
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+&#34;It is true that it takes only one seed to
+
+ grow a garden.  Whether it be a rose or
+
+ a weed is up to us.&#34;
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Well, thanks for the coffee *again* ArtIce.
+
+And thanks Jeffrey Lim for the
+ best tracker on the planet ;)
+
+___________________________________________
+Comments? Questions? Howz the song anyway?
+
+I&#39;m at  zastar@uclink4.berkeley.edu
+     Warining: I answer ;)
+
+___________________________________________________________________________
+
+(Press Down/PgDn to see more)
+
+This song requires quite a powerful computer to play it (because it gets
+to 44 channels) unless you have a Gravis UltraSound. If your computer
+can&#39;t handle this, then you will need to play around with the command line
+switches.
+
+ /Lxx will limit the number of channels that can be allocated. 
+ /Mxxxxx will set the &#39;mixing&#39; speed to use.
+
+Example: IT /L32 will limit the program to 32-note polyphony (still more
+than some MIDI soundcards)
+
+The mixing speed is the number of calculations per second that the program
+has to make for each note. If you have a SB16, the default is 44kHz (ie.
+44 THOUSAND calculations per second per note playing.) Reducing the mixing
+speed reduces the quality of the sound, but increases the number of
+channels that you can play.
+
+Example: IT /M32000 will set the mixing speed to 32000 calculations per
+second.
+
+Of course, you can combine these as such:
+
+IT /M32000 /L16
+
+The final commandline switch worth knowing is /R which reverses left and
+right output channels.
+
+                                                     - Jeffrey Lim
+                                                       Pulse/PoP</info>
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 11:43:11</locked_until>
+ <lastplayed>2017-10-22 22:04:27</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1756">Zastar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

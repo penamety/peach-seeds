@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10403">
+ <title>Scavenger 3</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ <info>Origanal theme by Scavenger from Atari ST.</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:22:14</locked_until>
+ <lastplayed>2018-05-24 20:47:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1728">X-Agon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

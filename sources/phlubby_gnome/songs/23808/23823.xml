@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23823">
+ <title>RSI - Hard</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.5625</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 15:00:10</locked_until>
+ <lastplayed>2018-03-10 03:13:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3119</pouetid>
+ <ytid>jcnqcF0b2xw</ytid>
+ <ytoffset>119</ytoffset>
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/3884/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

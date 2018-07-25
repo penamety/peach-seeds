@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37479">
+ <title>Surface Tension</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 19:31:55</locked_until>
+ <lastplayed>2017-10-23 02:00:44</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1793</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1776">Reptile [hu]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

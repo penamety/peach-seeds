@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11264">
+ <title>Eqinoxe V</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.1579</rating>
+ <info>AY-cover of the famous instrumental song of Jean Michel Jarre - &#34;Equinoxe 5&#34;.</info>
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 21:47:06</locked_until>
+ <lastplayed>2018-05-21 21:18:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>26731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chiptuneremix</tag>
+  
+  <tag>Jarre</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

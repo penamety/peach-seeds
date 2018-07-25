@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11656">
+ <title>Einstein c7</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0323</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-11 10:25:43</locked_until>
+ <lastplayed>2018-02-22 01:15:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9060</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="401">Einstein</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

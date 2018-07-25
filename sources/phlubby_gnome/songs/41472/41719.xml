@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41719">
+ <title>Cyclopez</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.0</rating>
+ <info>Technical info:
+Load address:$0F00
+Init address:$1000
+Play address:$1006
+Number of songs:1
+Default song:1
+SID model:	6581
+Clock speed:PAL
+Data size:11282 ($2C12)
+</info>
+ <songlength>423</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 02:08:17</locked_until>
+ <lastplayed>2017-12-06 02:02:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4835">Zenox</artist>
+ </artists>
+ <groups>
+  <group id="487">Starion [STR]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=32712</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

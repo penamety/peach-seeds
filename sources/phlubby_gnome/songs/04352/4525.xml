@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4525">
+ <title>Princess of dawn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9524</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-16 09:10:39</locked_until>
+ <lastplayed>2018-02-26 13:35:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3023</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

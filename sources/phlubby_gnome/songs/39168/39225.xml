@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39225">
+ <title>T&#39;was A Spooky Night In Castle Dondolis</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.5385</rating>
+ <info>An 8-channel beeper track. Participated in this BotB one-hour compo: http://battleofthebits.org/arena/OHC/1534/</info>
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-18 02:10:13</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5416">Tayle</artist>
+ </artists>
+ <groups>
+  <group id="759">Team Site</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

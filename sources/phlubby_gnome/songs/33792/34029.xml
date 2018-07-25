@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34029">
+ <title>Versus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ 
+ <songlength>316</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-15 15:21:31</locked_until>
+ <lastplayed>2018-01-26 21:44:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33330">
+ <title>Ping Flood</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.4194</rating>
+ <info>Released at outline 2011.
+Became 4th</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:14:20</locked_until>
+ <lastplayed>2018-06-17 08:25:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

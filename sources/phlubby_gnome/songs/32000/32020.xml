@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32020">
+ <title>Gemini</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.48</rating>
+ <info>▲</info>
+ <songlength>247</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 22:25:50</locked_until>
+ <lastplayed>2018-03-10 12:20:35</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4158">Smiletron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>noise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

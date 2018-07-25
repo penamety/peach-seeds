@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42907">
+ <title>Sweet Simplicity</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>Track 5 from &#34;Just Musix 3&#34; Atari Falcon music disk by DHS</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-31 15:17:55</locked_until>
+ <lastplayed>2018-01-10 03:59:45</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1007</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3773">Toodeloo</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

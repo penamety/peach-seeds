@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22668">
+ <title>1980-1989</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-24 09:38:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>15465</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="925">Phaser</artist>
+ </artists>
+ <groups>
+  <group id="607">David Hasselhoff Fan Club [DHFC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

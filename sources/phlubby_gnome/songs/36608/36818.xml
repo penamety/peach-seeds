@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36818">
+ <title>To Pirate in Good Spirits</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.0909</rating>
+ <info>Winner of the Listenning music compo at Assembly 2012</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-22 12:09:13</locked_until>
+ <lastplayed>2018-02-05 01:28:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4786">King Thrill</artist>
+ </artists>
+ <groups>
+  <group id="593">Tekotuotanto</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>pirates</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

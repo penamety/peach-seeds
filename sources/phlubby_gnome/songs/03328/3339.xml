@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3339">
+ <title>Jt42</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.4286</rating>
+ <info>Partially based on a song &#34;Running In The Family&#34; (1987) by Level 42</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 12:03:02</locked_until>
+ <lastplayed>2018-06-01 14:01:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>45341</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

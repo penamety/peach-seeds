@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26699">
+ <title>Ambient Power</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="96">4.625</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 20:33:18</locked_until>
+ <lastplayed>2018-05-25 00:20:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>462</pouetid>
+ <ytid>hhbNNB_gUCE</ytid>
+ <ytoffset>169</ytoffset>
+ 
+ <artists>
+  <artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hhbNNB_gUCE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

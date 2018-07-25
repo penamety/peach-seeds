@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38635">
+ <title>Newsong</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.3</rating>
+ <info>Apparently an early version of the Crystal Hammer title tune.</info>
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 19:51:33</locked_until>
+ <lastplayed>2018-05-28 20:10:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>Xa6VeL4xNmk</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

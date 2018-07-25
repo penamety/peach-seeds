@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39120">
+ <title>Happy To Be Slightly Slower</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.2581</rating>
+ <info>9th in Listening Music competition at Assembly 2013.</info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 00:03:03</locked_until>
+ <lastplayed>2018-05-30 15:05:17</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

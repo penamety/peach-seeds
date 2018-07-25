@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27678">
+ <title>Cutoff</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 00:50:47</locked_until>
+ <lastplayed>2018-05-31 07:53:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>20209</pouetid>
+ <ytid>CtJ9DJt1huA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CtJ9DJt1huA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

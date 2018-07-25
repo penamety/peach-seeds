@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18595">
+ <title>Staatsfreund nr 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.6452</rating>
+ 
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 01:41:30</locked_until>
+ <lastplayed>2018-06-08 22:45:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>10740</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="89">Banana</artist><artist id="1395">Genetic Gemini</artist>
+ </artists>
+ <groups>
+  <group id="311">Rheingold</group><group id="343">The Electronic Knights [TEK]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EBM</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

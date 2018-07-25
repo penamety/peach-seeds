@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13949">
+ <title>Z2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5</rating>
+ 
+ <songlength>247</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 14:02:54</locked_until>
+ <lastplayed>2018-03-25 18:08:37</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Minimal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7691">
+ <title>Welcome to 4sceners</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="138">4.5145</rating>
+ <info>1st place in pc demo compo at Buenzli 2005.
+Tracked in Skaletracker 0.76w (60MB sized module)</info>
+ <songlength>329</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 07:59:21</locked_until>
+ <lastplayed>2018-06-15 14:59:48</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>18629</pouetid>
+ <ytid>oc-qYLV6glQ</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  <group id="473">4Sceners.de</group><group id="475">Marshals [MRS]</group><group id="474">Merregnon Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=oc-qYLV6glQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1140">
+ <title>Whammer Slammer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5833</rating>
+ 
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 18:43:43</locked_until>
+ <lastplayed>2018-06-12 00:04:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2746</pouetid>
+ <ytid>gUB-uxQOHIU</ytid>
+ <ytoffset>80</ytoffset>
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  <group id="165">Polka Brothers</group><group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

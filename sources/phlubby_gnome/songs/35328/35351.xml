@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35351">
+ <title>Oh Come Little Children</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">2.3966</rating>
+ 
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 21:01:57</locked_until>
+ <lastplayed>2018-06-06 17:16:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56428</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

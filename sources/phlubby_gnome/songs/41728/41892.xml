@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41892">
+ <title>Up and away</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.0769</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 16:30:00</locked_until>
+ <lastplayed>2018-03-03 11:12:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5591">shx</artist>
+ </artists>
+ <groups>
+  <group id="823">K2</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

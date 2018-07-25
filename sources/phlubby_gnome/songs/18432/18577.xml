@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18577">
+ <title>New Song</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.7931</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-10 18:41:59</locked_until>
+ <lastplayed>2017-06-05 02:20:15</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

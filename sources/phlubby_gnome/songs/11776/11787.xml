@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11787">
+ <title>Virtual Escape End</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.3871</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 22:12:04</locked_until>
+ <lastplayed>2018-05-05 13:16:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>109</pouetid>
+ <ytid>UeokXJEvc_Q</ytid>
+ <ytoffset>376</ytoffset>
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="17">The Exceptions</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UeokXJEvc_Q</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8944">
+ <title>One Lap to Go</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.4078</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>341</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 22:19:43</locked_until>
+ <lastplayed>2018-06-12 11:13:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

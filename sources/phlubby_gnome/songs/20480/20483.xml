@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20483">
+ <title>Digital Magician</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 18:36:36</locked_until>
+ <lastplayed>2018-05-24 01:47:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>33562</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="658">Legend</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

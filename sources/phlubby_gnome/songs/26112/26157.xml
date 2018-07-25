@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26157">
+ <title>Get Down</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">2.7241</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 20:09:28</locked_until>
+ <lastplayed>2018-04-17 06:14:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19695</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4801">Anchoret</artist>
+ </artists>
+ <groups>
+  <group id="395">Share and Enjoy [SAE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>catlead</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>getdown</tag>
+  
+  <tag>meow</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1934">
+ <title>Party Sux</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.58</rating>
+ <info>Released at event TP95 in the m4ch division and ranked 20</info>
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 06:39:14</locked_until>
+ <lastplayed>2018-05-08 18:27:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="370">Dreamer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>HillBilly</tag>
+  
+  <tag>Sheep</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

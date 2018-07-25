@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7285">
+ <title>Blue Stars</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.3333</rating>
+ 
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 09:40:04</locked_until>
+ <lastplayed>2018-05-22 09:58:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9165</pouetid>
+ <ytid>vHknoHvlqcM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist><artist id="1833">Vortex</artist>
+ </artists>
+ <groups>
+  <group id="104">Cryptoburners</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

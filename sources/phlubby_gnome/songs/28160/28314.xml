@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28314">
+ <title>A Rainy Day</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.975</rating>
+ <info>Wild entry as animation at the Evoke06 from Scoopex / Deviance.
+
+3rd place
+
+ Since 25.12.06 Deviance is dead. More info at http://deviance.untergrund.net/</info>
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 17:00:25</locked_until>
+ <lastplayed>2018-05-28 02:02:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>25854</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12650</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

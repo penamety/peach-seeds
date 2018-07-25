@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10428">
+ <title>Battle of Britain</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7576</rating>
+ 
+ <songlength>231</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 04:27:26</locked_until>
+ <lastplayed>2018-03-27 13:13:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

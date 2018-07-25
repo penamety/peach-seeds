@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8063">
+ <title>Traveler</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2653</rating>
+ <info>10th in the streamed music compo @ Breakpoint 2007.</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 00:44:50</locked_until>
+ <lastplayed>2018-06-05 18:40:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

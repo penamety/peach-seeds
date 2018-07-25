@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24563">
+ <title>Doin Damage</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-28 03:05:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>17256</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3601">Sly</artist>
+ </artists>
+ <groups>
+  <group id="612">Sceptic</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

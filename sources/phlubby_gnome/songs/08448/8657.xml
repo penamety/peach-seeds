@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8657">
+ <title>When Time Slips Away</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.5645</rating>
+ <info>[url=http://archive.assembly.org/2001/mp3-music/when-time-slips-away-by-firestorm-waypoint]When Time Slips Away by Firestorm / Waypoint – Assembly Archive[/url]</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:36:22</locked_until>
+ <lastplayed>2018-06-15 08:25:36</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Cello</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/25912/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

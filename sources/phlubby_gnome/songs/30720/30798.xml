@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30798">
+ <title>The Other Live</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="34">4.2647</rating>
+ <info>http://amp.dascene.net/modules/A/Archon/MOD.the_other_live..gz</info>
+ <songlength>91</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 02:17:15</locked_until>
+ <lastplayed>2018-05-10 23:59:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>42062</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2060">Archon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

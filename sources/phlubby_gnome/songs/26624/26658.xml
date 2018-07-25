@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26658">
+ <title>The Rewind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.0127</rating>
+ <info>1st place in combined 64k compo at Main 2009</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 22:58:47</locked_until>
+ <lastplayed>2018-05-19 01:38:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53938</pouetid>
+ <ytid>VBxuiYQ1KqI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>riddim</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VBxuiYQ1KqI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

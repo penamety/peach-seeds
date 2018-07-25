@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31988">
+ <title>cdak</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.125</rating>
+ <info>1st place in combined 64k/4k compo at Chaos Constructions 2010.
+
+Winner of Scene.org Award:
+Best 4k Intro 2010</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:18:00</locked_until>
+ <lastplayed>2018-06-09 02:06:14</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>55758</pouetid>
+ <ytid>RCh3Q08HMfs</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="144">Brothomstates</artist>
+ </artists>
+ <groups>
+  <group id="94">Orange</group><group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RCh3Q08HMfs</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

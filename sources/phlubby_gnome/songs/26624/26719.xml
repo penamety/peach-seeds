@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26719">
+ <title>Departure</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.4308</rating>
+ 
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 14:44:53</locked_until>
+ <lastplayed>2018-05-25 17:05:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3011</pouetid>
+ <ytid>N5LD8rPI6Mg</ytid>
+ 
+ 
+ <artists>
+  <artist id="3185">Mempheria</artist>
+ </artists>
+ <groups>
+  <group id="491">Alpha Millenium Crew [AMC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remedy</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

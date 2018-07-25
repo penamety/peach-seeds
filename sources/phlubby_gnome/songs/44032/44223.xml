@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44223">
+ <title>pcpc</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">1.5</rating>
+ <info>Samples translated:
+
+&#34;Sinulle joka olet kiinnostunut kotimikrosta, siis PC:stä&#34; - &#34;For you who has been interested in a home computer, PC I mean&#34;
+
+&#34;PC sinulle tutuksi&#34; - &#34;You get familiar with the PC&#34;
+
+&#34;Helpottaa PC maailmaan astumista&#34; - &#34;Makes it easier to step into the PC world&#34;
+</info>
+ <songlength>38</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 13:09:24</locked_until>
+ <lastplayed>2018-05-02 08:34:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5746">Tapani</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?95170</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

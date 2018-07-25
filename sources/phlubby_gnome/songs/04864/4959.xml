@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4959">
+ <title>Backfire</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.9</rating>
+ <info>6th in No Limits 1990 music compo</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 08:07:11</locked_until>
+ <lastplayed>2018-05-24 08:18:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12402</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="821">Mr Man</artist>
+ </artists>
+ <groups>
+  <group id="117">Absence</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

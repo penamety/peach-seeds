@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35602">
+ <title>Legendary DUNEs</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="25">4.0</rating>
+ <info>Soundtrack from &#34;Burn The Lighter #1&#34; by [group]759[/group].</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 22:07:40</locked_until>
+ <lastplayed>2018-05-19 12:34:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>58337</pouetid>
+ <ytid>7zS8HGWTEFo</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>BurnTheLighter</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=7zS8HGWTEFo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

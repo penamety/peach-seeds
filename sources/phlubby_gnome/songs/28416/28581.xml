@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28581">
+ <title>No Tomorrow</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0909</rating>
+ <info>8th @ Breakpoint 2010 Streaming music compo
+
+Lyrics:
+There are many imitators but we are the true creators. We are back.
+~from &#34;We are Back&#34; by LFO</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 09:24:25</locked_until>
+ <lastplayed>2018-03-13 23:58:04</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>samples</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

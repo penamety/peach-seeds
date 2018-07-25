@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23778">
+ <title>Last Ninja 2</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.2308</rating>
+ <info>Production from outside Demoscene.
+Whole album: 
+http://robotnicka.org/eng/spectreenvue.html</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-06-26 01:44:50</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3502">Robotnicka</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>Ninja</tag>
+  
+  <tag>Punk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

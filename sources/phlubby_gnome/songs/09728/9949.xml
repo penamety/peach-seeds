@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9949">
+ <title>Deep</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.2959</rating>
+ <info>This is nice SID arrangement of the instrumental piano &#34;Psalm 77&#34; composed by David Nevue.</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 22:14:54</locked_until>
+ <lastplayed>2018-06-11 21:29:35</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>25672</pouetid>
+ <ytid>M6ENGusKmjw</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="442">Chorus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Arok</tag>
+  
+  <tag>Ballad</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>deep</tag>
+  
+  <tag>Emotional</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>Slideshow</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=M6ENGusKmjw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

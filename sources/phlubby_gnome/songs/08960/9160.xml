@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9160">
+ <title>30 minut (a cover, org. t.A.T.u)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.35</rating>
+ <info>2003. An AY ZX Spectrum chiptune from AY-RIDERS album &#34;Do you remember?&#34;. 
+Download link: http://ay-riders.speccy.cz/download/do_you_remember/19-Yerzmyey-30minut_Remix(org_TATU).mp3
+The song was the main promotion tune of the independent American animation movie &#34;We are the strange&#34;. </info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 06:00:50</locked_until>
+ <lastplayed>2018-06-14 09:14:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>10531</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

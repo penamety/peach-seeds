@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7105">
+ <title>Perfect Circle</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.3361</rating>
+ 
+ <songlength>349</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 01:37:20</locked_until>
+ <lastplayed>2018-06-14 01:23:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2007</pouetid>
+ <ytid>WbbFfwmZMxY</ytid>
+ <ytoffset>25</ytoffset>
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group><group id="84">Trauma Child Genesis [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WbbFfwmZMxY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31316">
+ <title>RatF</title>
+ <status v="A">Active</status>
+ <bitrate>205</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.9444</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 16:16:48</locked_until>
+ <lastplayed>2018-06-06 20:16:48</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4742</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2028">tEiS</artist>
+ </artists>
+ <groups>
+  <group id="507">bypass [BPS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

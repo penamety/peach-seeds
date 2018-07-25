@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44999">
+ <title>Windy City of Oslo</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.5</rating>
+ <info>Placed 2nd in Dekadence 20v music compo, later featured in Chiperia #8.</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 08:15:16</locked_until>
+ <lastplayed>2018-06-08 18:08:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>72476</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/janne-suni/windy-city-of-oslo</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=147633</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

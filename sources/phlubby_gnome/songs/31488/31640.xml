@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31640">
+ <title>One Must Fall 2097 (Reconstructed)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.25</rating>
+ <info>This is a complete revision of the One Must Fall 2097 theme song from 1994. Feeling nostalgic one day, I went on Youtube and searched for One Must Fall. To my surprise, I&#39;ve found a lot of positive comments and remixes to my OMF2097 songs. That was when I decided to &#39;reconstruct&#39; the theme song as a weekend project for everyone. Enjoy!
+
+Full mix can be downloaded through my SoundCloud page:
+
+http://soundcloud.com/neoj1n/one-must-fall-2097-reconstructed</info>
+ <songlength>285</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:38:01</locked_until>
+ <lastplayed>2018-05-23 17:36:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>UvlVaQl7kEk</ytid>
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UvlVaQl7kEk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

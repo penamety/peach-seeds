@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3349">
+ <title>Fields of Green</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.4167</rating>
+ 
+ <songlength>531</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 08:15:01</locked_until>
+ <lastplayed>2018-06-03 16:37:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3212</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

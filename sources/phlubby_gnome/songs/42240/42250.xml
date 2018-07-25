@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42250">
+ <title>Hippopotalamus</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">2.4118</rating>
+ <info>Found on an old PC TEAM magazine CDROM</info>
+ <songlength>432</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 16:43:49</locked_until>
+ <lastplayed>2018-05-13 08:34:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1466">GTK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

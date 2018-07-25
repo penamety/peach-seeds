@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39354">
+ <title>Tune to Offence</title>
+ <status v="A">Active</status>
+ <bitrate>193</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>From Scoopex Derp 2014 invitation intro. The module is old but unreleased. This is the special version with &#34;cat-sounds&#34; used in the invitro.</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 19:04:42</locked_until>
+ <lastplayed>2018-05-09 10:38:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>61868</pouetid>
+ <ytid>y-oLnw86nuc</ytid>
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=y-oLnw86nuc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

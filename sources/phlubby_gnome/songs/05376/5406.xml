@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5406">
+ <title>Liberation</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.4082</rating>
+ 
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 04:29:57</locked_until>
+ <lastplayed>2018-05-31 20:19:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bass</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35008">
+ <title>Kulomäki</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ 
+ <songlength>335</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-22 23:21:27</locked_until>
+ <lastplayed>2018-02-02 20:04:17</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4988">codehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

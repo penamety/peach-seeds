@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17235">
+ <title>Airplanes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.3409</rating>
+ <info>[url=ftp://ftp.scene.org/pub/music/artists/keio/moonove/moon002-airplaines.ogg]Download .OGG[/url]</info>
+ <songlength>277</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 22:03:58</locked_until>
+ <lastplayed>2018-06-02 00:46:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1876">Moonove</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>flying</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

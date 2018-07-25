@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38914">
+ <title>Astral Heroine</title>
+ <status v="A">Active</status>
+ <bitrate>235</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-15 02:59:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

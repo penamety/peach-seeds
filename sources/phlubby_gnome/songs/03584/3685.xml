@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3685">
+ <title>Takila</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 12:08:27</locked_until>
+ <lastplayed>2017-10-05 21:30:57</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>5583</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="602">Kaktus</artist><artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25815">
+ <title>Jessus</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">1.5</rating>
+ <info>12th at Gathering &#39;91 music compo (in which Captain&#39;s &#34;Beyond Music&#34; was the winner)</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-03 12:49:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3783">Trashman</artist>
+ </artists>
+ <groups>
+  <group id="161">Accession</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>OddStuffFromOldNecta</tag>
+  
+  <tag>Religion</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

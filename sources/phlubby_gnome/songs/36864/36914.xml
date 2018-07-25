@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36914">
+ <title>Prime Number Minister</title>
+ <status v="A">Active</status>
+ <bitrate>115</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ <info>4th in the Real Wild compo at Assembly 2012.</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 03:32:40</locked_until>
+ <lastplayed>2018-03-14 19:10:54</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59601</pouetid>
+ <ytid>PiYl-PYI93A</ytid>
+ 
+ 
+ <artists>
+  <artist id="1445">Leaphion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>House</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PiYl-PYI93A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

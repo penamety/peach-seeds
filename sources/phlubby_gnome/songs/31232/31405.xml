@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31405">
+ <title>Mr Heli</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 18:21:26</locked_until>
+ <lastplayed>2018-05-11 23:38:18</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>CjNQrH_5qkE</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

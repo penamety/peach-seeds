@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8307">
+ <title>303</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">2.7717</rating>
+ <info>30 channels, Polytracker
+
+Lyrics:
+Nothing is as hard as me
+Hiding in the dark you&#39;ll see
+That every turn I take is passed
+Every move cannot be surpassed
+
+Chill like you never
+feel like you never
+live like you never
+did before
+
+Every moment will be lost
+Only I can know the cost
+I am pulling all the strings
+I can make you do these things
+
+Want you know what I control
+I have power over your soul
+At last you see that all I do
+Can never be surpassed by you</info>
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 04:02:10</locked_until>
+ <lastplayed>2018-05-18 11:25:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>44</pouetid>
+ <ytid>hcadJ2OllBs</ytid>
+ 
+ 
+ <artists>
+  <artist id="1298">Vic</artist>
+ </artists>
+ <groups>
+  <group id="172">Acme</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>DrunkSinging</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hcadJ2OllBs</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

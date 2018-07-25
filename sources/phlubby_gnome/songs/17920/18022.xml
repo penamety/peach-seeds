@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18022">
+ <title>Nightfall</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.4545</rating>
+ <info>Done on my Yamaha PSR-500 in 1993 (when I was 15yo).</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 10:58:17</locked_until>
+ <lastplayed>2018-05-22 16:03:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>OutOfSync</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32172">
+ <title>Miumau</title>
+ <status v="A">Active</status>
+ <bitrate>152</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.4667</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-12 05:08:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56118</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2983">Kaba</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>gamestyle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

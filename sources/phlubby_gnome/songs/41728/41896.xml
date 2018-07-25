@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41896">
+ <title>Road to Revision</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.3158</rating>
+ 
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 17:01:07</locked_until>
+ <lastplayed>2018-05-23 18:50:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  <group id="735">Ghostown</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

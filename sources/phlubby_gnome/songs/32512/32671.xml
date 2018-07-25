@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32671">
+ <title>Carl den Tredje</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.8889</rating>
+ <info>2nd in combined demo at Kindergarden 2009</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 19:49:18</locked_until>
+ <lastplayed>2018-06-10 21:55:54</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54115</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

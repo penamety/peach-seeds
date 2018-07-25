@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="435">
+ <title>Rack Timeline</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0625</rating>
+ 
+ <songlength>276</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 18:59:00</locked_until>
+ <lastplayed>2018-03-01 05:43:22</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18733">
+ <title>Popcorn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.4474</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 20:11:56</locked_until>
+ <lastplayed>2018-04-07 19:36:37</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2806">Gluemaster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Popcorn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

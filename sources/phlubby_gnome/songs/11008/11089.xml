@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11089">
+ <title>super mario world.</title>
+ <status v="A">Active</status>
+ <bitrate>229</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.7143</rating>
+ 
+ <songlength>34</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-28 13:10:16</locked_until>
+ <lastplayed>2017-07-18 22:21:57</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

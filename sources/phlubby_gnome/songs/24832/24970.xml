@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24970">
+ <title>Super Mario Land - Ending Theme</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.5926</rating>
+ 
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-08-17 17:32:17</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>gi5f5MVYjh8</ytid>
+ <ytoffset>34</ytoffset>
+ 
+ <artists>
+  <artist id="1407">Hip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

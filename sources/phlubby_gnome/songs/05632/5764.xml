@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5764">
+ <title>Oldskool</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:16:12</locked_until>
+ <lastplayed>2018-06-08 01:12:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  <group id="325">Oops! [OPS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

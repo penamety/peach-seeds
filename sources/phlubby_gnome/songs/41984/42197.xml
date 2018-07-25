@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42197">
+ <title>Time Out</title>
+ <status v="A">Active</status>
+ <bitrate>994</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 11:18:49</locked_until>
+ <lastplayed>2018-06-07 22:19:51</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="6">Commercial CD</type>
+ <pouetid>19253</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2000">C-jeff</artist>
+ </artists>
+ <groups>
+  <group id="389">Brainwave [ru]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/7986/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40174">
+ <title>Unreal Superhero 3</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ 
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 00:55:51</locked_until>
+ <lastplayed>2018-05-17 00:47:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2523">Dalezy</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

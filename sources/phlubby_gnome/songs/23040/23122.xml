@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23122">
+ <title>Acid Bells</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.5455</rating>
+ <info>Ranked 18th in the multichannel music compo at Mekka&amp;Symposium 1999.</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-02 17:45:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3438">Quazz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

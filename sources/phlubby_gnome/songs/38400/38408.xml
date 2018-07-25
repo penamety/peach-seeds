@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38408">
+ <title>Arvenius goes medieval</title>
+ <status v="A">Active</status>
+ <bitrate>194</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.6</rating>
+ 
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 14:37:55</locked_until>
+ <lastplayed>2018-04-09 15:42:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2211">Alk</artist><artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

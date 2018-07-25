@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28296">
+ <title>[Xixit] Visionary</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">4.15</rating>
+ 
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 19:41:45</locked_until>
+ <lastplayed>2018-03-01 20:59:02</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ <pouetid>6636</pouetid>
+ <ytid>1V1X0C20J0E</ytid>
+ <ytoffset>45</ytoffset>
+ 
+ <artists>
+  <artist id="846">Nemesis</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+  <tag>Xixit</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

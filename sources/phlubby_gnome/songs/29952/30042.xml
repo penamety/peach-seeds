@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30042">
+ <title>Delta (Live)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="40">3.825</rating>
+ <info>Played on the amazing [url=http://www.linusakesson.net/chipophone/index.php]Chipophone[/url]</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 01:01:12</locked_until>
+ <lastplayed>2018-05-17 11:16:49</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="10">Live Act</type>
+ 
+ <ytid>Jn2h6f1EO2k</ytid>
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chipophone</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Horse</tag>
+  
+  <tag>Live</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Jn2h6f1EO2k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=m1pchpDD5EU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Jn2h6f1EO2k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

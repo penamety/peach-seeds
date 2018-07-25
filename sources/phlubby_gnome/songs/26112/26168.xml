@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26168">
+ <title>Journey</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.1379</rating>
+ 
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 21:08:26</locked_until>
+ <lastplayed>2018-05-17 10:10:49</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>18936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="533">Dr. Nobody</artist>
+ </artists>
+ <groups>
+  <group id="224">High Quality Crackings (HQC)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

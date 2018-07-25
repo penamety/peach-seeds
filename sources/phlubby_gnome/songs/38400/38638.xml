@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38638">
+ <title>Lobothomy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>ZX Spectrum 128 AY-3-8912 song, SQ-Tracker. Made in about 1998.
+
+2nd at Phat0 Music competition.</info>
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 01:36:34</locked_until>
+ <lastplayed>2018-05-20 18:33:34</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Phat</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=4057</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43484">
+ <title>Uraputki</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5</rating>
+ <info>7th at C64 music compo, Assembly 1997
+
+released by Suolahappo
+
+R5 recording from Stone Oakvalley&#39;s site
+</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 05:41:37</locked_until>
+ <lastplayed>2018-03-26 11:21:14</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4988">codehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=94784</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

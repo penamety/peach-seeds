@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5166">
+ <title>A Space Journey</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.9259</rating>
+ 
+ <songlength>86</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 07:20:51</locked_until>
+ <lastplayed>2018-03-15 00:37:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>23797</pouetid>
+ <ytid>7S238EpfqbA</ytid>
+ 
+ 
+ <artists>
+  <artist id="841">Nao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=7S238EpfqbA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

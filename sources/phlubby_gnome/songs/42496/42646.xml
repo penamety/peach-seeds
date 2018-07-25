@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42646">
+ <title>Mad Man Who Says</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.1579</rating>
+ <info>Techno banger from &#39;95
+Dance! Watch out for the happy chords!</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 21:38:07</locked_until>
+ <lastplayed>2018-05-31 18:56:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1277">u4ia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?170487</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

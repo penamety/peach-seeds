@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37445">
+ <title>Holding Danishes</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="28">3.7857</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 21:57:42</locked_until>
+ <lastplayed>2018-03-10 20:14:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>RadixStyle</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

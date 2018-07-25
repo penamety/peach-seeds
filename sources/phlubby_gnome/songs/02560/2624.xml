@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2624">
+ <title>Thalion (aka &#34;R.S.I. theme&#34;)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1897</rating>
+ <info>Composed with Future Composer
+
+Used in many cracktros
+
+recording from stone oakvalley
+http://www.paula8364.com</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 09:51:28</locked_until>
+ <lastplayed>2018-05-16 14:21:14</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>15963</pouetid>
+ <ytid>-injcVmkPto</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>FutureComposer</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

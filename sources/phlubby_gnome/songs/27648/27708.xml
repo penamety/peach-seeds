@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27708">
+ <title>Indiana Jones (non vocal ethno revenge)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">3.7167</rating>
+ <info>Based on a SID, download [url=http://gallium.prg.dtu.dk/HVSC/C64Music/GAMES/G-L/Indiana_Jones_Temple_Doom.sid]here[/url].</info>
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-01 15:27:49</locked_until>
+ <lastplayed>2018-02-10 19:30:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1213">Thomas Detert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

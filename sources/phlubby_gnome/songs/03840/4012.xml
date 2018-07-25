@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4012">
+ <title>Compulsion to Obey</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.2836</rating>
+ <info>Winner of the 4 channel music compo at Assembly 1994.</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 16:08:31</locked_until>
+ <lastplayed>2018-05-29 11:20:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>7973</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12482">
+ <title>Fred Gray Medley</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="138">4.6304</rating>
+ <info>Download: [url=http://remix.kwed.org/download.php/4241/Jogeir%20Liljedahl%20-%20Fred%20Gray%20Medley.mp3]MP3[/url]</info>
+ <songlength>583</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 06:53:36</locked_until>
+ <lastplayed>2018-06-08 05:37:34</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

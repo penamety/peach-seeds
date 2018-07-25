@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11017">
+ <title>Ben and his Atari</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.2581</rating>
+ <info>From Simulaatio &#39;05, 1st place.
+
+Rapumies is also known as Mike/Wamma but the MP3 had Rapumies embedded as the artist.</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 17:46:54</locked_until>
+ <lastplayed>2018-05-20 05:49:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1901">Rapumies</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>brass</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

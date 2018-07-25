@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38738">
+ <title>CrazyLove #1 (final version)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.2121</rating>
+ <info>The soundtrack to the main part of the &#34;Crazy Love&#34; demo by Power Group, 8th place at FunTop 1998.
+It is the final (not a demo) version of song.</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:55:19</locked_until>
+ <lastplayed>2018-05-27 18:06:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>c90_pxzb6AQ</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="5289">Ishma</artist>
+ </artists>
+ <groups>
+  <group id="722">Power Group</group>
+ </groups>
+ 
+ <tags>
+  <tag>FunTop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=c90_pxzb6AQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2378</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/27541/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

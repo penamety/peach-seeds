@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40381">
+ <title>Arc</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0909</rating>
+ <info>2nd in streaming music competition at Revision 2014</info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 20:58:39</locked_until>
+ <lastplayed>2017-07-01 00:19:13</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

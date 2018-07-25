@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10408">
+ <title>I Have Been Waiting (XM)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 19:43:31</locked_until>
+ <lastplayed>2018-04-20 04:02:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

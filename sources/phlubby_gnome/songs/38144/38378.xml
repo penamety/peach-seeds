@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38378">
+ <title>Turn Me Up [AY Remake]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1579</rating>
+ <info>AY 3-8912 Soundchip version of Turn Me Up by Benny Benassi. Recorded from the original Sinclair ZX Spectrum 128K.</info>
+ <songlength>287</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:00:37</locked_until>
+ <lastplayed>2018-05-11 22:13:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

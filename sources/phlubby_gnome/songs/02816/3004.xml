@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3004">
+ <title>Robotit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">1.7191</rating>
+ <info>Original lyrics &amp; translation:
+
+Silloin robotit ensimmäistä kertaa kysyivät &#34;miksi&#34;?
+Puhutko sinä robottikieltä? Oletko sinä robotti? Onko sinulla päässä prosessori?
+Oletko sinä tekotyhmäpää? (Olet)
+
+At that time robots asked for the first time: why?
+Do you speak robot language? Are you a robot? Do you have a processor in your head?
+Are you a fake-stupid-head? (You are)</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-06 17:22:18</locked_until>
+ <lastplayed>2018-06-15 09:12:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>robotic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

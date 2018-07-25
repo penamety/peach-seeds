@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7497">
+ <title>Echoes</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.3636</rating>
+ 
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 22:33:19</locked_until>
+ <lastplayed>2018-05-31 08:09:32</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>51453</pouetid>
+ <ytid>s8zG83K9fDI</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="136">Anadune</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13610</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=s8zG83K9fDI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

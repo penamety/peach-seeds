@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2866">
+ <title>Clarke2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.931</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 07:45:00</locked_until>
+ <lastplayed>2018-04-19 03:34:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>8680</pouetid>
+ <ytid>Ydb7-mk6PVM</ytid>
+ 
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

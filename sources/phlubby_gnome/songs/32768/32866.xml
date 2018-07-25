@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32866">
+ <title>Scyphozoa</title>
+ <status v="A">Active</status>
+ <bitrate>183</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5</rating>
+ 
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-31 21:41:49</locked_until>
+ <lastplayed>2018-06-16 01:36:33</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ <pouetid>33721</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

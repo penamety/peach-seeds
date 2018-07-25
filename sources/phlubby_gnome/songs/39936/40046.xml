@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40046">
+ <title>Bouncin Chips</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.4375</rating>
+ <info>Protracker Chiptune remotely competed in the GERP 2013 Chiptune Compo. Only Entry so it was first and last place at the same time :D [yt]yWx21WnbcfY[/yt]</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 02:46:28</locked_until>
+ <lastplayed>2018-05-12 05:23:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>yWx21WnbcfY</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yWx21WnbcfY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

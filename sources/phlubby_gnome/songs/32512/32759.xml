@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32759">
+ <title>Sumu (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>182</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.1379</rating>
+ <info>2nd place in PC 4K compo at Revision 2011
+
+
+[url=http://dl.dropbox.com/u/2116169/4flak/sumu_bufferdump.flac]download flac[/url]</info>
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-20 09:46:38</locked_until>
+ <lastplayed>2017-12-03 02:18:37</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56859</pouetid>
+ <ytid>gVpjs8ENPRI</ytid>
+ 
+ 
+ <artists>
+  <artist id="4755">JuhoAP</artist>
+ </artists>
+ <groups>
+  <group id="641">Cubicle</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gVpjs8ENPRI</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2288">
+ <title>Betrayal sineintro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0645</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 01:28:22</locked_until>
+ <lastplayed>2018-05-28 11:03:22</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="401">Einstein</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

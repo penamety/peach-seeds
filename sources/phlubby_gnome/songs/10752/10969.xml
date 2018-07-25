@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10969">
+ <title>Parkbank</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.4375</rating>
+ 
+ <songlength>74</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-24 10:04:05</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>30862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13264">
+ <title>Lazy Jones - Subgame: Star Dust</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.0833</rating>
+ <info>In 1999 German group Zombie Nation used this riff as a basis for their song &#34;Kernkraft 400&#34;. They used the riff first without consulting Whittaker but later paid some compensations to him. The song was number one hit in several countries and is used often in sport events especially in the USA.</info>
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 12:28:20</locked_until>
+ <lastplayed>2018-05-29 07:10:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1984</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>EarlySID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1499</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

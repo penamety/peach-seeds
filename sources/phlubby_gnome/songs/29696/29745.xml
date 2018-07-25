@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29745">
+ <title>Booth Jam</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ 
+ <songlength>114</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 00:20:35</locked_until>
+ <lastplayed>2018-06-15 03:34:47</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>55530</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

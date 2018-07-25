@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42893">
+ <title>Punish your Machine</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>kenet.ribbon.96
+
+original by Big Alec!
+on ST sure :)
+used in the Main Menu
+of the
+Punish you Machine
+(ICC #2 result)
+by Delta Force.
+
+Union Ruuulleeeezzz!</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 12:30:26</locked_until>
+ <lastplayed>2018-04-14 00:26:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="619">Kenet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?68060</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

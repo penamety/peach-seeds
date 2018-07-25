@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12111">
+ <title>Tomorrow</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.9444</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-18 00:48:04</locked_until>
+ <lastplayed>2017-06-09 06:19:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

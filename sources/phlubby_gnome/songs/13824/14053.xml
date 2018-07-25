@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14053">
+ <title>Riff</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ 
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 22:45:27</locked_until>
+ <lastplayed>2018-06-11 06:17:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>31239</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2224">Andreas Starr</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

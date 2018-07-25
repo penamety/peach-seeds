@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40962">
+ <title>2nd wave</title>
+ <status v="A">Active</status>
+ <bitrate>226</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">4.2222</rating>
+ <info>From the Amiga demo Second wave by Pacific. Shared 1:st place in Amiga demo compo at Gerp 2014.</info>
+ <songlength>271</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 02:39:36</locked_until>
+ <lastplayed>2018-03-30 15:40:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>64077</pouetid>
+ <ytid>_WgKZIDKagA</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_WgKZIDKagA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_WgKZIDKagA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

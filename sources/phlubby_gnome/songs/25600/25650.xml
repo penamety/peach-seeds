@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25650">
+ <title>Magnetic Fields IV</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ 
+ <songlength>306</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 05:48:24</locked_until>
+ <lastplayed>2017-10-24 00:05:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Jarre</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

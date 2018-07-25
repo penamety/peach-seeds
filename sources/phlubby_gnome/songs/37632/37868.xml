@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37868">
+ <title>Ode to C64</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.2083</rating>
+ <info>R2 Recording from Stone Oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 10:14:27</locked_until>
+ <lastplayed>2018-06-15 16:55:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12680</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

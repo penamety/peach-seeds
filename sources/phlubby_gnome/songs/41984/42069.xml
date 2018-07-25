@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42069">
+ <title>Revolved</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.1471</rating>
+ <info>Soundtrack from REVOLVED demo by TRIAD.
+
+1st place at Datastorm 2013 in C64 demo compo.
+</info>
+ <songlength>599</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 10:57:19</locked_until>
+ <lastplayed>2018-05-17 20:21:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>61004</pouetid>
+ <ytid>lsNRWwFjz3Q</ytid>
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=P0bhxT06aaQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=48304</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/51953/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

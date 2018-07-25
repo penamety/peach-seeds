@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22276">
+ <title>Axl Rose</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.0612</rating>
+ <info>Sweet child o Mine cover</info>
+ <songlength>313</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 13:42:01</locked_until>
+ <lastplayed>2018-03-14 13:49:36</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3294">Nobuyuki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

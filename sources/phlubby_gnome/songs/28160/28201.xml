@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28201">
+ <title>[Deus Ex] Versalife</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4</rating>
+ 
+ <songlength>88</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 13:40:05</locked_until>
+ <lastplayed>2018-01-08 06:16:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DeusEx</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37389">
+ <title>E2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.125</rating>
+ 
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 16:17:31</locked_until>
+ <lastplayed>2018-03-18 08:57:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>27226</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="441">TSM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

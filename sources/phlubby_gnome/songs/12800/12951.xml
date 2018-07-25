@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12951">
+ <title>Nothing Else Matters</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">3.8875</rating>
+ <info>Remix of the song of the same name by Metallica. 
+2nd place at Demobit&#39;95 (held in Bratislava, Slovakia) in the music-in-interrupt compo (Sinclair ZX Spectrum).</info>
+ <songlength>276</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:22:40</locked_until>
+ <lastplayed>2018-06-09 00:49:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2077">Matej Kovalčík</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demobit</tag>
+  
+  <tag>metallica</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3554</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

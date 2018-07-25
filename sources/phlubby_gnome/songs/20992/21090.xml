@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21090">
+ <title>2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.9333</rating>
+ 
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-29 11:47:22</locked_until>
+ <lastplayed>2017-07-17 15:49:21</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3125">Mantequilla Roja</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

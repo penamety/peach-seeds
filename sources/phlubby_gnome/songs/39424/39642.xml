@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39642">
+ <title>Hissez haut, Santiano</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">2.4444</rating>
+ <info>A tribute to [url=http://en.wikipedia.org/wiki/Hugues_Auffray]Hugues Auffray[/url].</info>
+ <songlength>55</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-01 17:38:52</locked_until>
+ <lastplayed>2018-06-15 23:03:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

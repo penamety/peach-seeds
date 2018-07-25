@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13173">
+ <title>A Long Goodbye</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.2553</rating>
+ <info>[url=http://www.antialias.se/chiptunes/mod/]download .mod[/url]</info>
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 16:47:47</locked_until>
+ <lastplayed>2018-06-01 08:34:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>14887</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1790">Technix </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

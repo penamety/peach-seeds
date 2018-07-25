@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43858">
+ <title>Highways</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Rock &#39;n&#39; roll or something like that. Pretty groovy, actually.</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 08:53:18</locked_until>
+ <lastplayed>2018-04-11 20:03:13</lastplayed>
+ <platform id="42">STM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?155858</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

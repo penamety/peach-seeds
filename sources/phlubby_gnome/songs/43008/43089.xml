@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43089">
+ <title>Let It Go!</title>
+ <status v="A">Active</status>
+ <bitrate>244</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ <info>2nd in the TRSAC 2015 4k intro competition</info>
+ <songlength>129</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:25:36</locked_until>
+ <lastplayed>2018-06-02 06:32:12</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>66501</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="777">Poo-brain [PB]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

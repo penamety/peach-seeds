@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8738">
+ <title>Wizball [live in the church]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="107">4.4019</rating>
+ <info>A great Wizball remix by Reyn.
+http://www.youtube.com/watch?v=PTSUR3RHh9M</info>
+ <songlength>384</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 16:34:53</locked_until>
+ <lastplayed>2018-05-26 02:33:59</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>PTSUR3RHh9M</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

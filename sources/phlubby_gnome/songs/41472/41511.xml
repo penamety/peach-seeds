@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41511">
+ <title>Binary Love - Main</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ <info>Main soundtrack from &#34;Binary Love&#34; demo by Digital Reality.
+
+2nd place in ZX Demo compo @ Enlight 1997.</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:35:26</locked_until>
+ <lastplayed>2018-05-30 10:38:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1576</pouetid>
+ <ytid>pfbOxPk7Cec</ytid>
+ <ytoffset>43</ytoffset>
+ 
+ <artists>
+  <artist id="590">Joe</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mnff1BocmbI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13290</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/12707/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

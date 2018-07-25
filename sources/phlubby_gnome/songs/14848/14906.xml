@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14906">
+ <title>Tritax</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.2143</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 11:53:29</locked_until>
+ <lastplayed>2018-03-31 12:32:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9685</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

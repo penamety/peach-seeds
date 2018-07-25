@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2639">
+ <title>Heihachi Beats</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ 
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 21:49:54</locked_until>
+ <lastplayed>2018-02-28 00:49:50</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="440">Felix Lindgren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

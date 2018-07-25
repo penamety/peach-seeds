@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13045">
+ <title>Sinuun Vain</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">4.1429</rating>
+ <info>Original lyrics:
+&#34;Rakastuin sinuun vain&#34;
+
+Translation:
+&#34;I fell in love just with you&#34;</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 23:54:49</locked_until>
+ <lastplayed>2018-05-29 17:21:47</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2108">Ilmarque</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16676">
+ <title>One year again</title>
+ <status v="B">Banned</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">1.5</rating>
+ 
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-06-28 19:31:13</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist><artist id="4416">Esej Band</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_singing</tag>
+  
+  <tag>birthday</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

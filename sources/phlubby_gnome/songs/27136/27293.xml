@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27293">
+ <title>Ella</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="78">4.359</rating>
+ <info>Cover of France Gall&#39;s song.
+Mod 4 chan.</info>
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 16:05:11</locked_until>
+ <lastplayed>2018-06-10 06:15:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="153">Northern Dragons</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

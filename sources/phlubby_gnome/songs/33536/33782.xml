@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33782">
+ <title>Kaljaa Ainiaan</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">2.9394</rating>
+ <info>12th place in music competition at Assembly 2000</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:33:28</locked_until>
+ <lastplayed>2018-05-25 19:23:16</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4861">Vilunen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

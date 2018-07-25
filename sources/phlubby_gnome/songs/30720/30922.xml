@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30922">
+ <title>Mutha 2 Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.2857</rating>
+ 
+ <songlength>271</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 19:42:59</locked_until>
+ <lastplayed>2017-10-23 02:19:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>560</pouetid>
+ <ytid>u1PG4EQrllU</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="1776">Reptile [hu]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=u1PG4EQrllU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

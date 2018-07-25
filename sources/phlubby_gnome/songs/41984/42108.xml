@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42108">
+ <title>Yerzmix Part 6</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>Made for ZX81 16Kb with an AY-interface.</info>
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 05:44:35</locked_until>
+ <lastplayed>2018-06-12 19:25:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38305">
+ <title>Rasterizer</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ <info>Winner ATARI music compo music from FOReVER XIII demoparty in Horna Suca, Slovakia, March 2012.</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:01:24</locked_until>
+ <lastplayed>2018-05-31 16:30:12</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Forever</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26453/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

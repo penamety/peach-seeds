@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37232">
+ <title>Commando HiScoce - Ver 1.0</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="1">5.0</rating>
+ 
+ <songlength>61</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4092">Android</artist>
+ </artists>
+ <groups>
+  <group id="293">3 Little Elks</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

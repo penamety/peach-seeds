@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34940">
+ <title>you bore</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>The SNDH file does not play correctly in any player I found, so this was saved to mp3 using hatari 1.6 and the original prod.</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 21:43:01</locked_until>
+ <lastplayed>2018-05-02 05:37:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>29067</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XJPjUrRj7KY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

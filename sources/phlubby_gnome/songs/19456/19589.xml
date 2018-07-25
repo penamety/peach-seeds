@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19589">
+ <title>Onslaught - Ingame</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.7231</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:41:43</locked_until>
+ <lastplayed>2018-05-21 06:33:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ <pouetid>57423</pouetid>
+ <ytid>9n7U-2-Hrag</ytid>
+ 
+ 
+ <artists>
+  <artist id="1782">Future Freak</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2306</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

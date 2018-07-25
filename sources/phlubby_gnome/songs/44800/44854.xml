@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44854">
+ <title>what da funk?!?</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">2.6667</rating>
+ <info>Made for a PC demo called &#34;Dissident&#34; that I can&#39;t find...</info>
+ <songlength>138</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 13:35:56</locked_until>
+ <lastplayed>2018-05-24 04:01:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5315">Omen </artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=51804</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

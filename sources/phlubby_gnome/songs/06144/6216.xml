@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6216">
+ <title>Elephantism</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.1389</rating>
+ 
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 18:44:47</locked_until>
+ <lastplayed>2018-06-06 06:55:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

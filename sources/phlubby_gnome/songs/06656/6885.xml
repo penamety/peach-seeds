@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6885">
+ <title>Delta</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">3.5098</rating>
+ 
+ <songlength>334</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 19:18:16</locked_until>
+ <lastplayed>2018-03-12 05:22:43</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1192">Terminal Storm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

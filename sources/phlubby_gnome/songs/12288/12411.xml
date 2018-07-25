@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12411">
+ <title>Fødselsdagen</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.2286</rating>
+ <info>2nd cp02</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 22:22:54</locked_until>
+ <lastplayed>2018-05-24 09:45:27</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>birthday</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

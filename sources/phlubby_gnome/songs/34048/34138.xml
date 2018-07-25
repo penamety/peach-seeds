@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34138">
+ <title>Geologic Funk</title>
+ <status v="A">Active</status>
+ <bitrate>100</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 06:29:08</locked_until>
+ <lastplayed>2017-06-06 04:37:20</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

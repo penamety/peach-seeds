@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27422">
+ <title>Duck Tales (Duck Blur)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.0933</rating>
+ 
+ <songlength>315</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 02:24:16</locked_until>
+ <lastplayed>2018-06-05 08:28:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3977">Star Salzman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>ocremix</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/437</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

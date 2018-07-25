@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43617">
+ <title>Doskboyz &amp; Scrollers</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4</rating>
+ <info>Music from the Insane Demo &#34;Four Scrollers&#34; released at Compusphere 2016.
+
+Ingredients:
+- 1993 Samples
+- Drawing a chip sample for the lead
+- Good mood
+- 2 friends inspiring each other
+- much much love for oldskool doskpop
+- and Aaaaaaaaamiiiigaaaaaaahhhhh
+
+Tracked with my mate Vedder; the music nearly composed itself within about a week</info>
+ <songlength>468</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 05:37:08</locked_until>
+ <lastplayed>2018-03-17 11:03:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>68564</pouetid>
+ <ytid>d6u_iNYRCag</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist><artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=d6u_iNYRCag</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/165580/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

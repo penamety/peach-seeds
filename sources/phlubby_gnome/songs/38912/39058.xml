@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39058">
+ <title>Lost In Sound!</title>
+ <status v="A">Active</status>
+ <bitrate>984</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.5625</rating>
+ 
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 15:30:28</locked_until>
+ <lastplayed>2018-06-16 11:28:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=1807</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/16369/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

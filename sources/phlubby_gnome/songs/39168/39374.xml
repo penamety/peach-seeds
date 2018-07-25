@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39374">
+ <title>SabreWulf</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ <info>Hoffman &amp; Ferris - SabreWulf
+
+Winner of the Newschool Executable Music compo at Sundown 2013</info>
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 12:15:15</locked_until>
+ <lastplayed>2018-06-13 19:09:19</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist><artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9899">
+ <title>ARTe soundTrack outro</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.871</rating>
+ 
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 07:21:45</locked_until>
+ <lastplayed>2018-06-07 22:30:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14193</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

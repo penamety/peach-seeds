@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3739">
+ <title>Bluesong</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.5918</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 21:08:34</locked_until>
+ <lastplayed>2018-05-06 08:38:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>27128</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  <group id="249">Bamiga Sector One (BS1)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=7TTvEVd_xjI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

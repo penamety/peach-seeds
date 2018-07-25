@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44429">
+ <title>2 And 1/2 Men</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 02:44:42</locked_until>
+ <lastplayed>2018-03-31 10:18:08</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71134</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5754">Slimey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Nordlicht</tag>
+  
+  <tag>PICO-8</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

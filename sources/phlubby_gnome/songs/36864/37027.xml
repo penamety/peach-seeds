@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37027">
+ <title>Deary (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>196</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.1034</rating>
+ <info>3rd place in combined 64k/4k compo.
+
+The demo is 32kb in size</info>
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-26 22:53:02</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>59913</pouetid>
+ <ytid>R8jUTkpoQ6Y</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="312">SquoQuo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=R8jUTkpoQ6Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

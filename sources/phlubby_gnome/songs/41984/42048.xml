@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42048">
+ <title>Sushi Boyz (demo version)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.4419</rating>
+ <info>[b]Protracker 4-channel module made for Amiga 500 demo with the same title.[/b]
+
+[u][i]Mod info:[/i][/u]
+
+by jazzcat
+(c) ghostown 2015
+
+&#34;sushi boyz&#34; demo
+soundtrack
+
+it&#39;s about 150kb
+smaller than the
+sushi boyz (cmp ver)
+released in tracker
+compo at revision
+
+use xmplay in mono
+mode if playing on pc</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 01:21:36</locked_until>
+ <lastplayed>2018-06-17 10:55:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>65405</pouetid>
+ <ytid>msRTT5f8BGg</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZQ3-nnoXGng</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/136336/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15638">
+ <title>Dragonwars</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.6757</rating>
+ 
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 08:56:08</locked_until>
+ <lastplayed>2018-06-13 08:59:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5415</pouetid>
+ <ytid>KGOFzoS5kx8</ytid>
+ <ytoffset>22</ytoffset>
+ 
+ <artists>
+  <artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

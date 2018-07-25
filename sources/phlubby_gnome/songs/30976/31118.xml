@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31118">
+ <title>Xmas Tunes</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">3.1667</rating>
+ <info>GoatTracker - SID 6581.</info>
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:34:36</locked_until>
+ <lastplayed>2018-06-06 03:52:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

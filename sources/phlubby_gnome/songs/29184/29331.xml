@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29331">
+ <title>Afterstorm</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 06:37:57</locked_until>
+ <lastplayed>2017-12-04 23:31:47</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>50212</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  <group id="470">ukscene allstars</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

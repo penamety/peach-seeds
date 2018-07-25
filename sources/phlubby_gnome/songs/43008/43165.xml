@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43165">
+ <title>Over the Ocean II</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.8125</rating>
+ 
+ <songlength>459</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 10:23:13</locked_until>
+ <lastplayed>2018-05-09 04:59:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3463">Rave-N</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?53445</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

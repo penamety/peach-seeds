@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6813">
+ <title>Chip Wars</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8824</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-07 14:50:00</locked_until>
+ <lastplayed>2017-06-05 00:42:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="725">Manx</artist>
+ </artists>
+ <groups>
+  <group id="866">Never</group><group id="867">TAME</group>
+ </groups>
+ 
+ <tags>
+  <tag>StarWars</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38668">
+ <title>Archaic Groove</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9355</rating>
+ <info>http://csdb.dk/release/?id=118380</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 21:45:08</locked_until>
+ <lastplayed>2018-05-29 10:24:46</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

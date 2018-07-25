@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3291">
+ <title>Axel F.unk</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7</rating>
+ 
+ <songlength>41</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 23:27:20</locked_until>
+ <lastplayed>2018-03-28 14:23:02</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>3406</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>axel_foley</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

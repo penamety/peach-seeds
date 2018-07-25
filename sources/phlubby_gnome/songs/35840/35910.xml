@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35910">
+ <title>Another Spring</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.7</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 12:12:35</locked_until>
+ <lastplayed>2018-04-29 22:54:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59160</pouetid>
+ <ytid>O7-vytMs_n8</ytid>
+ 
+ 
+ <artists>
+  <artist id="5110">Cly/Suva</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Java</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=O7-vytMs_n8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

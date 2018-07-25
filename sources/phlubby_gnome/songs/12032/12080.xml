@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12080">
+ <title>Paranoimia Cracktro Music</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">4.4945</rating>
+ 
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 05:52:02</locked_until>
+ <lastplayed>2018-05-28 13:21:38</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>4023</pouetid>
+ <ytid>91Z18nraze4</ytid>
+ 
+ 
+ <artists>
+  <artist id="441">TSM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>two_channels</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=uBkZBgaWKV4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

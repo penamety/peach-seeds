@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38762">
+ <title>Paradize introtune</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>Atari Protracker tune written for Paradize&#39;s &#34;Hello&#34; 96k Atari STe intro, released at Outline 2013.</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-11 19:20:08</locked_until>
+ <lastplayed>2017-11-20 21:07:34</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61388</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

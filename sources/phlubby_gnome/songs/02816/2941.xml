@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2941">
+ <title>Dreaming 29h a Day</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.6818</rating>
+ 
+ <songlength>88</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 23:25:38</locked_until>
+ <lastplayed>2018-04-18 02:12:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>20059</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="546">sonic pc</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

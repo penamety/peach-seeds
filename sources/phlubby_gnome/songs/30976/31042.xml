@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31042">
+ <title>TE-2RX</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="1">5.0</rating>
+ 
+ <songlength>307</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6831</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

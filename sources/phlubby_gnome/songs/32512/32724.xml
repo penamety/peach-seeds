@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32724">
+ <title>I am a Robot</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">3.7368</rating>
+ <info>9th place in streaming compo at Revision 2011</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 02:23:27</locked_until>
+ <lastplayed>2018-03-29 16:05:07</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35618">
+ <title>For Marie</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.3</rating>
+ 
+ <songlength>329</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 23:27:45</locked_until>
+ <lastplayed>2018-05-30 17:45:15</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4646">Kepler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Mellow</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

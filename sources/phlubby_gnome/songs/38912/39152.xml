@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39152">
+ <title>Lovers</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ <info>ZX Spectrum AY soundchip track, written with Vortex Tracker II Version 1.2 improved RC 2 for Chaos Constructions 2013 demoparty.
+
+The image is taken from [url=http://pouet.net/prod.php?which=54378]&#34;A true story from the life of a lonely cell&#34;[/url], a ZX Spectrum intro by [group]246[/group] and [group]554[/group].</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 02:07:34</locked_until>
+ <lastplayed>2018-06-08 21:31:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2000">C-jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/31051/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

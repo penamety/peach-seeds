@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23732">
+ <title>Dazzler</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0417</rating>
+ 
+ <songlength>52</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 19:01:58</locked_until>
+ <lastplayed>2018-05-03 03:35:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>2894</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

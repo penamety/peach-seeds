@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12878">
+ <title>You Am I You Am the Robot</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.2857</rating>
+ <info>The Soundtrack to Orange&#39;s winner PC 64k intro from The Gathering 1996. The actual module (hormo2.mod) is untitled.</info>
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 00:07:03</locked_until>
+ <lastplayed>2018-05-15 16:54:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>554</pouetid>
+ <ytid>w-U8PGPJCOM</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=w-U8PGPJCOM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

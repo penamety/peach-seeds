@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1761">
+ <title>Allnite Groove</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.0893</rating>
+ <info>Ranked 5th in the 4 channel music compo at Assembly 1994.</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:33:09</locked_until>
+ <lastplayed>2018-06-11 10:29:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="332">Dizzy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Groovy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

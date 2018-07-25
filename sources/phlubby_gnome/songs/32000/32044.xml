@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32044">
+ <title>Funeral of a Dragon Slayer</title>
+ <status v="A">Active</status>
+ <bitrate>253</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.093</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 10:14:48</locked_until>
+ <lastplayed>2018-04-12 00:48:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

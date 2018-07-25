@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38641">
+ <title>Hemisphere</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>platform : Amiga OCS/ECS
+type :	demo
+release date :  november 1990
+release party : Amiga Halloween Conference 1990
+compo : amiga demo
+ranked : 2nd</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 09:11:56</locked_until>
+ <lastplayed>2018-03-08 05:11:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>26196</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5370">Twister</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22620">
+ <title>Miami Vice Loader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.5185</rating>
+ 
+ <songlength>303</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 10:42:33</locked_until>
+ <lastplayed>2018-03-10 05:07:33</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3366">Peacemaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

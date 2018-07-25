@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4203">
+ <title>Longstabben</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.9286</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:18:57</locked_until>
+ <lastplayed>2018-06-05 06:54:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist><artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42541">
+ <title>Back to the Past (Beat to the Pulp)</title>
+ <status v="A">Active</status>
+ <bitrate>857</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4667</rating>
+ <info>For the SAM Coupé (SAA1099), recorded using SimCoupe.</info>
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 12:28:25</locked_until>
+ <lastplayed>2018-05-05 23:42:54</lastplayed>
+ <platform id="51">Philips SAA</platform>
+ <type id="2">Demo</type>
+ <pouetid>66504</pouetid>
+ <ytid>m_QuFKcYk0Y</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

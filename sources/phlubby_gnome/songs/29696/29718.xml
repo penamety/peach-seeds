@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29718">
+ <title>Robotic Warrior</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.2</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 18:25:16</locked_until>
+ <lastplayed>2018-05-01 03:46:53</lastplayed>
+ <platform id="26">VIC-20</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>8549</pouetid>
+ <ytid>BiN2F1o2qwY</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1576">Viznut</artist>
+ </artists>
+ <groups>
+  <group id="149">Pers&#39; Wastaiset Produktiot</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

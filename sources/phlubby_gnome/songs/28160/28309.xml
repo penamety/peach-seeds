@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28309">
+ <title>Loader tune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ <info>Made and recorded on a Atari 1040STe avec musicmon 2.5e </info>
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 20:30:00</locked_until>
+ <lastplayed>2018-04-11 17:46:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

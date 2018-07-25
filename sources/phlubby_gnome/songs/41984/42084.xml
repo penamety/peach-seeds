@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42084">
+ <title>Dots &amp; Pixels Tsunami</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.75</rating>
+ 
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 00:10:17</locked_until>
+ <lastplayed>2018-06-01 18:43:12</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  <group id="362">Ctrl-Alt-Test</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30466">
+ <title>Spooky</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ 
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 18:48:28</locked_until>
+ <lastplayed>2018-06-12 13:39:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>56081</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>SameOldSaxSample</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>shutup</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

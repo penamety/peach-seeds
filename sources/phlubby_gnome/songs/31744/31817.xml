@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31817">
+ <title>Narcotic Trance</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">3.6154</rating>
+ <info>Intro tune from &#34;Power Up&#34; - ZX Spectrum (pentagon clone) demo by MegaCode/Extreme, audiovisual art on 8bit machine.
+3rd at Enlight&#39;97 Demo competition.</info>
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 09:59:52</locked_until>
+ <lastplayed>2018-05-24 21:52:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1907</pouetid>
+ <ytid>EDhqn02iOKo</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1730">Visual</artist>
+ </artists>
+ <groups>
+  <group id="247">Extreme Entertainment [XTM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FunTop</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sDIAE7C9uc8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3144</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1551">
+ <title>Fishnet Mix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6667</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 21:05:26</locked_until>
+ <lastplayed>2018-04-02 00:49:39</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="310">DeLorean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

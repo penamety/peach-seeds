@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6558">
+ <title>Bursting Bailey</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6</rating>
+ 
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-10 13:51:01</locked_until>
+ <lastplayed>2017-06-04 08:41:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9019</pouetid>
+ <ytid>gcGAP1zD8b4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1091">Slide</artist>
+ </artists>
+ <groups>
+  <group id="165">Polka Brothers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SouthSealandParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gcGAP1zD8b4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

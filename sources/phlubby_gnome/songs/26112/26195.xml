@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26195">
+ <title>Musik</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.5806</rating>
+ 
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 22:16:20</locked_until>
+ <lastplayed>2018-06-07 06:43:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>51612</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4948">The Doze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

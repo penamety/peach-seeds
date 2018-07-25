@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="443">
+ <title>The Last Cowboy</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1538</rating>
+ 
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-23 18:41:59</locked_until>
+ <lastplayed>2017-08-19 02:20:10</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

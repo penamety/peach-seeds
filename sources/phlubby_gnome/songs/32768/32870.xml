@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32870">
+ <title>I am Back</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.7674</rating>
+ 
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 14:08:27</locked_until>
+ <lastplayed>2018-06-12 07:13:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1774">Sky (DK)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

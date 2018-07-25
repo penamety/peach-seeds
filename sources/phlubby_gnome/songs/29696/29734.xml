@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29734">
+ <title>ANT Musical Fly Bij</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5161</rating>
+ <info>&#34;The Ant&#34; Music disc</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 04:36:45</locked_until>
+ <lastplayed>2018-05-09 04:10:12</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5380">BDD</artist>
+ </artists>
+ <groups>
+  <group id="353">Impact (MSX)</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

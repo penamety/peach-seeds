@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28193">
+ <title>[Deus Ex] Mission Eight</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.037</rating>
+ 
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-14 19:38:48</locked_until>
+ <lastplayed>2018-02-25 02:30:00</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DeusEx</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

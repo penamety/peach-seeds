@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40160">
+ <title>Outpost</title>
+ <status v="A">Active</status>
+ <bitrate>157</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.15</rating>
+ <info>Outpost was composed in August/September 2011 by dEViLOCk on a C64 with an old SID Chip 6581 in SID DUZZ&#39;IT. This MP3 version is directly sampled from a C64 with &#39;84 SID 6581 chipset. Used in the C64 One-File Demo &#34;Waste Of RAM&#34; by Arsenic: [url]http://noname.c64.org/csdb/release/?id=105927[/url]</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 16:13:24</locked_until>
+ <lastplayed>2018-05-23 16:59:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="317">Devilock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

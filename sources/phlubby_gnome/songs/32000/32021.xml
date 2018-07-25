@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32021">
+ <title>Ophelia</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1569</rating>
+ <info>For love lost, and found, and lost again. </info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 21:39:21</locked_until>
+ <lastplayed>2018-05-14 23:55:54</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4158">Smiletron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

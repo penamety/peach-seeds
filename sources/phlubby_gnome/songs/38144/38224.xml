@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38224">
+ <title>PC-03: Panda Trance</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8571</rating>
+ 
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 22:23:46</locked_until>
+ <lastplayed>2018-05-19 16:22:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53013</pouetid>
+ <ytid>k31kDB5eT54</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="5311">Oliver Beach</artist>
+ </artists>
+ <groups>
+  <group id="316">Panda Cube</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=k31kDB5eT54</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

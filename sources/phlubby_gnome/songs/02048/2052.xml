@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2052">
+ <title>Jammit short</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 04:53:24</locked_until>
+ <lastplayed>2017-09-18 02:01:46</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>14749</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

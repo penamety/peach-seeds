@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4648">
+ <title>Margueritte</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-10 07:07:43</locked_until>
+ <lastplayed>2017-09-02 05:51:00</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="760">MED</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Orchestral</tag>
+  
+  <tag>Symphony</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

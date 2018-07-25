@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44703">
+ <title>disc0-kent</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.0</rating>
+ <info>Used in Amiga AGA demo by Nature called Data Delight, released at Gerp 2016.
+This upload is normalized and monofied.</info>
+ <songlength>285</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:34:28</locked_until>
+ <lastplayed>2018-06-09 10:20:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>68073</pouetid>
+ <ytid>jc1vVr1Eomg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>AGA</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jc1vVr1Eomg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

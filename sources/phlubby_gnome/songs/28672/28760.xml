@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28760">
+ <title>Leeways intro tune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-05 09:34:47</locked_until>
+ <lastplayed>2017-08-29 18:15:07</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3986">Arne</artist>
+ </artists>
+ <groups>
+  <group id="270">Alpha Flight [AFL]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

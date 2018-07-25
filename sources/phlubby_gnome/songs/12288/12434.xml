@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12434">
+ <title>Garfield [Amiga]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>The Edge, 1988
+
+(The long fade out is not added but belongs to the song)</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 15:55:22</locked_until>
+ <lastplayed>2018-04-28 03:35:21</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2697</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24363">
+ <title>Inferno</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.2778</rating>
+ <info>8 Channel FastTracker module.</info>
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 10:09:59</locked_until>
+ <lastplayed>2018-05-24 05:10:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6517</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3573">Silent Mode</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>8chn</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

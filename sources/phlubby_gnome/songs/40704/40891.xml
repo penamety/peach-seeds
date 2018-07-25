@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40891">
+ <title>Aurora</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="4">4.5</rating>
+ <info>Dupe of [song]2722[/song]</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2014-08-28 23:01:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

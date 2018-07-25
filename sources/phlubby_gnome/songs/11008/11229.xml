@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11229">
+ <title>MozicART</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.1667</rating>
+ <info>Download from ay-riders.speccy.cz: http://ay-riders.speccy.cz/download/8bits_is_enuff/16-X-agon-MozicART_C64.mp3</info>
+ <songlength>71</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 18:54:39</locked_until>
+ <lastplayed>2018-05-29 18:05:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1728">X-Agon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

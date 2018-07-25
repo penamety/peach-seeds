@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23574">
+ <title>Last Ninja 3 - Title Music</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.5281</rating>
+ 
+ <songlength>287</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 02:14:53</locked_until>
+ <lastplayed>2018-06-14 13:41:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>fGORGhA6JLA</ytid>
+ <ytoffset>70</ytoffset>
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1490</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

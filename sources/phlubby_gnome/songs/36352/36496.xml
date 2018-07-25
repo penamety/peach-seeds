@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36496">
+ <title>Jingle Bells (spencerhill edit)</title>
+ <status v="A">Active</status>
+ <bitrate>78</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">2.3784</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-31 17:04:18</locked_until>
+ <lastplayed>2018-06-14 16:06:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15036</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5017">Seismic</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

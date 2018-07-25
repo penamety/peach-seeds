@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18169">
+ <title>Be Yourself</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">2.6</rating>
+ <info>Winner of the PC demo compo at Breakpoint 2004</info>
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 21:46:33</locked_until>
+ <lastplayed>2018-05-23 09:21:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>12029</pouetid>
+ <ytid>GH1jGL7FX_w</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="2728">FieserWolf</artist>
+ </artists>
+ <groups>
+  <group id="536">Metalvotze</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DelayLama</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Moaning</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

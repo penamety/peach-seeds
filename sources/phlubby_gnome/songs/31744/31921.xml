@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31921">
+ <title>Oskari the Heimfanker</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.6</rating>
+ 
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 08:40:50</locked_until>
+ <lastplayed>2018-04-27 22:36:26</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3106">Madbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>FM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

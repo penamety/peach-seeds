@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6497">
+ <title>Crystal Dragon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.377</rating>
+ <info>Intriguing samples-comments :
+[code]Note: Originally made in
+mono (ST3 didn&#39;t have
+panning back then)
+
+An oversized, heavy tune
+made for just the fun of
+it... or maybe not.[/code]
+
+This oversized tune was inspired by... money! There was a little music compo in Finland, and I participated with this song. The music&#39;s style is somewhat medieval and very heavy indeed.</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 13:18:22</locked_until>
+ <lastplayed>2018-05-29 04:07:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6516</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>medieval</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36565">
+ <title>New Move</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.7</rating>
+ <info>From SummerTime Demo</info>
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 15:35:57</locked_until>
+ <lastplayed>2017-12-19 23:20:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4316">Darkstar</artist>
+ </artists>
+ <groups>
+  <group id="693">Trygon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

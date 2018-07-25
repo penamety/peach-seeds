@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10858">
+ <title>In The Pipe</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Using samples from the &#34;Aliens&#34; dropship sequence.
+
+Original mod available from:
+http://amp.dascene.net/detail.php?detail=modules&amp;view=2666
+</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 04:58:56</locked_until>
+ <lastplayed>2017-11-01 07:20:11</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="439">FeekZoid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

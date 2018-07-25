@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12307">
+ <title>Melo</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="109">4.6055</rating>
+ <info>Listen and buy (name your price) here:
+http://mosaik.se/album/leandi
+</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 10:24:27</locked_until>
+ <lastplayed>2018-05-26 10:56:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

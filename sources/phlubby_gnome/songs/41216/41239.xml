@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41239">
+ <title>Place in the Space</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 10:10:36</locked_until>
+ <lastplayed>2018-03-31 16:23:22</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2314">BLB</artist>
+ </artists>
+ <groups>
+  <group id="726">Cobra Team</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

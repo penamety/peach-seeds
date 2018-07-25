@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34821">
+ <title>Truck is Jarig</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="46">4.3478</rating>
+ <info>6th place in pc 64k compo at the Ultimate Meeting 2011</info>
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:28:05</locked_until>
+ <lastplayed>2018-05-24 12:23:16</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>58255</pouetid>
+ <ytid>t2-YZRoO0Dg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=t2-YZRoO0Dg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

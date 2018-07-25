@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11985">
+ <title>Luminagia Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6538</rating>
+ <info>luminagia soundtrack from breakpoint&#39;09
+4k intro competition from Loonies</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 14:27:19</locked_until>
+ <lastplayed>2018-06-06 15:35:28</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>52965</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1957">Maytz</artist>
+ </artists>
+ <groups>
+  <group id="82">Loonies</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

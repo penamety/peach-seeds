@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18503">
+ <title>Incantations 3 (original by Mike Oldfield)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-05 03:16:21</locked_until>
+ <lastplayed>2017-09-26 22:24:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="472">Gasman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

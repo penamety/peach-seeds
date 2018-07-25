@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13137">
+ <title>Think Twice III</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.3</rating>
+ <info>[url=http://www.antialias.se/chiptunes/fc/]download .fc[/url]
+
+Apparently this is often being mislabeled as being Bug&#39;s tune.
+
+----------------------------
+comment:
+The fact that it&#39;s written &#34;Music by Bug&#34; in the scrolltext could have something to do with it.
+
+/pwl
+----------------------------</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 12:00:06</locked_until>
+ <lastplayed>2018-05-21 13:42:27</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>10477</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1666">Ziphoid</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

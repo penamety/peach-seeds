@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39341">
+ <title>Resistance</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 20:50:28</locked_until>
+ <lastplayed>2018-03-13 06:03:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61878</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Function</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

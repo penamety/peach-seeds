@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8902">
+ <title>Peeling a Feeling</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.5833</rating>
+ <info>Ranked 3rd in the 4 channel mod compo at Sundown 2008.</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 16:47:07</locked_until>
+ <lastplayed>2017-10-02 08:49:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

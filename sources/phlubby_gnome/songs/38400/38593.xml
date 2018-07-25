@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38593">
+ <title>Hubba-hopp</title>
+ <status v="A">Active</status>
+ <bitrate>174</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ <info>This tune was used by drutten &amp; gena in coca-cola intro.</info>
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 14:52:33</locked_until>
+ <lastplayed>2018-04-30 05:37:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="728">Akropolis</group>
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4404">
+ <title>Castlevania 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">3.0957</rating>
+ 
+ <songlength>757</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 09:18:01</locked_until>
+ <lastplayed>2018-05-21 13:30:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist><artist id="4132">Natan1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

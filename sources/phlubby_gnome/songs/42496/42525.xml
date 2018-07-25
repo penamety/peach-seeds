@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42525">
+ <title>X-Place</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>4th @ Digital Nexus 2001 music compo 
+
+instrument list:
+001	Amigo/The Lab	
+002	. . . X-Place . . .	
+003		
+004	This is the remix of	
+005	the original module	
+006	called &#34;The Place&#34;.	
+007		
+008	Duration 4:12	
+</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 17:06:03</locked_until>
+ <lastplayed>2018-06-07 05:07:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist>
+ </artists>
+ <groups>
+  <group id="835">The Lab</group>
+ </groups>
+ 
+ <tags>
+  <tag>DigitalNexus</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/53209/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

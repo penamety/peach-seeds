@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2864">
+ <title>Biomechanoid</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="101">4.5347</rating>
+ 
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:58:35</locked_until>
+ <lastplayed>2018-06-14 15:34:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1468</pouetid>
+ <ytid>sKryjPnByyE</ytid>
+ <ytoffset>85</ytoffset>
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

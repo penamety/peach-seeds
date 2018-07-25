@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4580">
+ <title>Enlight the Surreal</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ <info>9th place in pc demo compo at Assembly 2000.
+http://www.youtube.com/watch?v=nHA6ezTIgJQ</info>
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 07:18:40</locked_until>
+ <lastplayed>2018-05-23 13:23:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>124</pouetid>
+ <ytid>nHA6ezTIgJQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="2054">Evade</artist><artist id="740">Martyn</artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41648">
+ <title>Space World 3</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ <info>Done for the &#34;Generation-X&#34; demo (Amiga AGA) by Haujobb, done in cooperation with Jazz / Haujobb using ProTracker, 4ch.
+
+The demo won the Nexus 1995 party.</info>
+ <songlength>374</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-18 11:48:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2366</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

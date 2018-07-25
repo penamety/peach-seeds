@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25656">
+ <title>Dawn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>Ranked 5th in the music compo at Theatre and Network 1990.</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-17 02:34:14</locked_until>
+ <lastplayed>2017-12-28 22:14:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1905">Timewalker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>TheatreAndNetwork</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

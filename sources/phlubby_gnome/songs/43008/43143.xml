@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43143">
+ <title>Happy with Amiga</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.4706</rating>
+ 
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 14:33:45</locked_until>
+ <lastplayed>2018-06-01 21:03:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="103">Beathawk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?44748</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

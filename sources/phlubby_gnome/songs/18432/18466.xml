@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18466">
+ <title>Shinelight</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.8929</rating>
+ 
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 14:47:34</locked_until>
+ <lastplayed>2018-06-11 16:44:03</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>12781</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist><artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneEvent</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

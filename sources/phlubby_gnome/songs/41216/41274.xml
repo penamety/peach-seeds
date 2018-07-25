@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41274">
+ <title>The Challenge</title>
+ <status v="A">Active</status>
+ <bitrate>147</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-17 00:20:30</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4433">Nebularia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

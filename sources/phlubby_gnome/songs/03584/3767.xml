@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3767">
+ <title>fr-08 main</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="197">4.5888</rating>
+ <info>1st place in pc 64k compo at The Party 2000</info>
+ <songlength>317</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 13:02:59</locked_until>
+ <lastplayed>2018-06-17 09:33:04</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>1221</pouetid>
+ <ytid>Y3n3c_8Nn2Y</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Y3n3c_8Nn2Y</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28421">
+ <title>Breakpoint</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2571</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 05:47:21</locked_until>
+ <lastplayed>2018-05-06 02:08:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>8161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3338">Orcan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

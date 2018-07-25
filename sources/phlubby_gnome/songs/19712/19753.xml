@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19753">
+ <title>Kisakuikka</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.3846</rating>
+ <info>Note from [user]oview[/user]:
+
+Actual song name is &#34;Kisakuikka&#34; [&#34;kuikka&#34; being the bird sounds in the songs]. Pretty much all sites have wrong song name.
+
+Released at Gathering 1991 (finland) music compo.
+</info>
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 18:23:40</locked_until>
+ <lastplayed>2018-05-26 19:13:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="594">Jol005x</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

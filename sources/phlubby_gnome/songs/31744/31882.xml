@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31882">
+ <title>Formula 1 Simulator</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.0556</rating>
+ 
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 09:01:30</locked_until>
+ <lastplayed>2018-05-31 21:55:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4677">Visa Röster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acapella</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

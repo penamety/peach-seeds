@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5306">
+ <title>DreamPiece</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 10:08:25</locked_until>
+ <lastplayed>2017-10-27 23:59:40</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="866">NogSF</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

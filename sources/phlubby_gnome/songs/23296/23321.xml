@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23321">
+ <title>Harpie Gypsy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 22:37:52</locked_until>
+ <lastplayed>2018-05-02 17:11:12</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3457">Ranger Rick</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>harpsichord</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

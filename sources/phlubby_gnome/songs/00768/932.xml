@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="932">
+ <title>Disconnected</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ 
+ <songlength>321</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 17:02:25</locked_until>
+ <lastplayed>2018-06-10 00:02:10</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="188">Chimera</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>Sleepy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

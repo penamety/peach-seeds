@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31119">
+ <title>Moonlight Shadow</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="51">3.7647</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-28 01:52:56</locked_until>
+ <lastplayed>2017-06-03 12:15:18</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ <pouetid>57867</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2056">AdDe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Oldfield</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

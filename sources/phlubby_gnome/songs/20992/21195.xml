@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21195">
+ <title>Poliamber</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0625</rating>
+ 
+ <songlength>84</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 11:11:21</locked_until>
+ <lastplayed>2018-05-28 21:08:26</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>electronic</tag>
+  
+  <tag>moody</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

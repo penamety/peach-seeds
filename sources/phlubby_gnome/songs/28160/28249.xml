@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28249">
+ <title>Unknown Phuture 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0476</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 19:18:13</locked_until>
+ <lastplayed>2018-05-13 01:24:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1354">D Fast</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>fast</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

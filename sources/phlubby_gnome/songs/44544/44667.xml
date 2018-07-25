@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44667">
+ <title>Outcast</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.0</rating>
+ <info>Ranked 1st in the PC 4K intro competition at Assembly 2016</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:34:03</locked_until>
+ <lastplayed>2018-06-06 08:40:02</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>67932</pouetid>
+ <ytid>rOub2J80Was</ytid>
+ 
+ 
+ <artists>
+  <artist id="5777">Demwemitels</artist>
+ </artists>
+ <groups>
+  <group id="529">Unknown Artists [UA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>clinkster</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rOub2J80Was</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/161574/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18875">
+ <title>Toxic cream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 06:21:49</locked_until>
+ <lastplayed>2018-03-04 01:09:09</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist>
+ </artists>
+ <groups>
+  <group id="290">Grayscale</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

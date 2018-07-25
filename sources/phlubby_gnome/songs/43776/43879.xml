@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43879">
+ <title>Pinball Prelude Medley</title>
+ <status v="A">Active</status>
+ <bitrate>194</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ 
+ <songlength>800</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 21:37:04</locked_until>
+ <lastplayed>2018-05-30 02:11:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>soundfx</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

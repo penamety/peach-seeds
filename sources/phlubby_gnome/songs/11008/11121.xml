@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11121">
+ <title>Favorite Astronaut</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">3.1167</rating>
+ <info>Lyrics:
+
+It&#39;ll be harder than you thought,
+so choose your favorite astronaut,
+buckle up and get in gear
+as Mother Earth will need you here.
+
+So get up and pick your weapon of choice,
+like C++ and similar toys.
+Bring your spaceships and all your friends,
+this is where the competition begins.</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 14:04:33</locked_until>
+ <lastplayed>2018-03-18 12:54:31</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4910">
+ <title>Progressive Funk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.6809</rating>
+ 
+ <songlength>702</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 22:55:09</locked_until>
+ <lastplayed>2018-06-05 13:29:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9396</pouetid>
+ <ytid>AZiwvG9sZNs</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="622">Impact Inc</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Progressive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

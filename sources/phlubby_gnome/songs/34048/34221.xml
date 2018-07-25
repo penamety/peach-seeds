@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34221">
+ <title>The Alibi (Cover version)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.2899</rating>
+ <info>Cover version from c64-theme &#34;The Alibi&#34;, original theme by Laxity</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 08:38:36</locked_until>
+ <lastplayed>2018-05-29 04:00:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>GuitarSolo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

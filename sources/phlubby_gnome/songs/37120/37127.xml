@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37127">
+ <title>1.5 Years Faces: 2nd Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.25</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-03 15:23:21</locked_until>
+ <lastplayed>2017-11-13 00:22:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>30395</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5217">Greg</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=13227</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

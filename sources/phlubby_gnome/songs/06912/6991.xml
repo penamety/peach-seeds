@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6991">
+ <title>Vaxjo by Night</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>43</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-05 11:45:21</locked_until>
+ <lastplayed>2017-09-27 12:43:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3418</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

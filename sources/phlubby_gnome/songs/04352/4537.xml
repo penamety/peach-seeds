@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4537">
+ <title>Yummy Gap</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.122</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 12:05:07</locked_until>
+ <lastplayed>2018-05-08 08:34:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3097</pouetid>
+ <ytid>kYOcoCa7ivU</ytid>
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

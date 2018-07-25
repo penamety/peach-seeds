@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8027">
+ <title>Loell</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">4.5773</rating>
+ <info>Download album
+MP3: http://download.mosaik.se/mosaik--minutes--kahvi108.zip
+FLAC: http://download.mosaik.se/mosaik--minutes--kahvi108-flac.zip</info>
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 03:35:54</locked_until>
+ <lastplayed>2018-06-14 06:01:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

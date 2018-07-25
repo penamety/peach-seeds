@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34018">
+ <title>MDMA</title>
+ <status v="A">Active</status>
+ <bitrate>199</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7813</rating>
+ <info>2nd place in combined demo compo at Euskal 2002</info>
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 21:37:00</locked_until>
+ <lastplayed>2018-05-21 00:05:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>7083</pouetid>
+ <ytid>UBR3oOhheVQ</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4482">AMB</artist>
+ </artists>
+ <groups>
+  <group id="621">Threepixels [3PX]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UBR3oOhheVQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

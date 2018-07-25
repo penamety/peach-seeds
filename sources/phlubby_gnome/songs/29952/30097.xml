@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30097">
+ <title>Think Twice III (Live)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="43">4.0</rating>
+ <info>Played on the amazing [url=http://www.linusakesson.net/chipophone/index.php]Chipophone[/url].
+
+Info from Linus: &#34;The C64 demo Think Twice III, released by The Judges in 1987, is perhaps best known for its soundtrack by Jeroen Kimmel (Red). This is my Chipophone interpretation of the classic SID power ballad.&#34;</info>
+ <songlength>378</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 23:12:31</locked_until>
+ <lastplayed>2018-03-25 16:29:41</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chipophone</tag>
+  
+  <tag>Live</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=i2nhC_5H8gQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33992">
+ <title>Intruder</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ <info>Ranked 4th in the newschool music compo at Riverwash 2011.</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 13:33:37</locked_until>
+ <lastplayed>2017-10-28 04:21:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="981">Raiden</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Riverwash</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36427">
+ <title>ZX81</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0909</rating>
+ <info>Made on ZX81 with ZXpand and two stereo AY-modules (YM2149) in ZonX standard. 
+This is my very first song made entirely on ZX81 (in original case, with original touch-sense keyboard!! :) :) ). 
+I used ZX81 SoundTracker made by Andy Rea. All the modern hardware (ZXpand with AY-Module and Mr-X) made by Sir Morris and Sascha2000.
+Supported by RWAP and Moggy. 
+The work was pretty harsh because ZX81 likes to reset itself without reason. :) But still, it was a great pleasure to work with the machine and surely it&#39;s not the last ZX81 chiptune from me. :) </info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 21:18:07</locked_until>
+ <lastplayed>2018-05-24 06:40:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZX81</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18849/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

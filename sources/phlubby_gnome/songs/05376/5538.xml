@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5538">
+ <title>Hybris [ingame]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.5</rating>
+ 
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 21:54:33</locked_until>
+ <lastplayed>2018-05-24 11:40:44</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>9QBStOhiIzA</ytid>
+ <ytoffset>59</ytoffset>
+ 
+ <artists>
+  <artist id="909">Paul van der Valk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/767</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28874">
+ <title>Rock &#39;n Roll - Lovely Feelings</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3971</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 02:55:18</locked_until>
+ <lastplayed>2018-06-11 18:12:22</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>VXA9umL0kZc</ytid>
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1266</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

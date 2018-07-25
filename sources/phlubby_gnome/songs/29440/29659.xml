@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29659">
+ <title>Turbo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.4177</rating>
+ <info>Ranked 1st in ZX Spectrum AY/TurboAY-Music compo @ DiHalt 2007.</info>
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 16:58:04</locked_until>
+ <lastplayed>2018-05-28 05:22:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

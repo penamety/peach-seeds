@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44783">
+ <title>Nicolas Cache</title>
+ <status v="A">Active</status>
+ <bitrate>1536</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="7">4.0</rating>
+ <info>Revision 2018 Oldskool Music compo. 
+
+Made with Pretracker.</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 01:29:34</locked_until>
+ <lastplayed>2018-05-29 05:05:27</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

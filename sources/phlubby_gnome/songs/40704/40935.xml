@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40935">
+ <title>Lime</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.05</rating>
+ 
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 08:30:26</locked_until>
+ <lastplayed>2018-05-23 18:44:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="66">Arrakis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

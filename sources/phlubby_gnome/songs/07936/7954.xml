@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7954">
+ <title>Kitfaced Downs</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">2.9362</rating>
+ <info>This is the soundtrack of part 2 of the demo. 
+The soundtrack for part 1 was made by Dixan.</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:17:30</locked_until>
+ <lastplayed>2018-05-14 16:40:20</lastplayed>
+ <platform id="34">GBA</platform>
+ <type id="2">Demo</type>
+ <pouetid>30299</pouetid>
+ <ytid>9lQl4aN2HGw</ytid>
+ <ytoffset>158</ytoffset>
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="505">Shitfaced Clowns</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9lQl4aN2HGw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12950</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34146">
+ <title>Knald Out</title>
+ <status v="A">Active</status>
+ <bitrate>109</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ <info>Used in the PC demo &#34;Realtime&#34; by Impact Studios in 1993.</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-30 02:43:00</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="2">Demo</type>
+ <pouetid>2830</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="526">Impact Studios</group><group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

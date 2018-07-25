@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22685">
+ <title>Estoy Bombero Tranquilo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ <info>For the instrumental music compo at Assembly 2003, but it did not make it throught the pre-selection.</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 00:43:18</locked_until>
+ <lastplayed>2018-03-29 06:35:01</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="925">Phaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

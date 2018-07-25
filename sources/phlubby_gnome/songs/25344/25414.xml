@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25414">
+ <title>Perdre la raison</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ <info>Winner of the tracked music compo @ Mekka&amp;Symposium 2002.</info>
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-05 02:46:59</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3707">Teajay</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

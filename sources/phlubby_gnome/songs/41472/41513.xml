@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41513">
+ <title>Unreal (T)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>One of the tunes from the Unreal 1995 Tech Demo.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-11 01:24:47</locked_until>
+ <lastplayed>2017-06-14 06:59:16</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Unreal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

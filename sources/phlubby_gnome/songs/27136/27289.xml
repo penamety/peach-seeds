@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27289">
+ <title>Walking Side by Side</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>Ranked 7th in the MultiChannel Music Compo at Bytefall &#39;97.</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 00:04:40</locked_until>
+ <lastplayed>2018-06-14 02:21:20</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3958">Earth Dweller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>ByteFall</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

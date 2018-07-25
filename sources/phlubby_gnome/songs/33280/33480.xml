@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33480">
+ <title>Swedish Hits Chip Medley</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="76">3.9737</rating>
+ <info>Remix medley of the following tunes:
+
+- Robyn: Hang With Me
+- Peter, Björn and John: Young Folks
+- Teddybears STHLM: Punkrocker
+- Lykke Li: Get Some
+- Cardigans: My Favourite Game
+- The Sounds: Living in America
+- The Hives: Idiot Walk
+- Erik Hassle: Hurtful
+- The Knife: We Share Our Mother&#39;s Health
+- Swedish House Maffia: One
+- In Flames: Mirror&#39;s Truth
+ </info>
+ <songlength>553</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 08:28:39</locked_until>
+ <lastplayed>2018-06-15 23:16:43</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17683">
+ <title>Space Camel</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ 
+ <songlength>106</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 09:19:58</locked_until>
+ <lastplayed>2018-04-20 22:54:27</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="397">Edge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

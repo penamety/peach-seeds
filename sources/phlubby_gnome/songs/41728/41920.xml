@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41920">
+ <title>Mutant Chestnut Attack</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2857</rating>
+ <info>ATTENTION! It eats Amigas and shoots DUBSTEP! :O
+
+SAVE YOURSELF.</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-04 20:11:40</locked_until>
+ <lastplayed>2017-12-19 00:08:58</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  <group id="310">Appendix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136076/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43760">
+ <title>Pattern Me Nuts</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.4</rating>
+ <info>When your patterns go nuts....my Contribution to the Datastorm 2017 Amiga Chip Music Compo.
+
+Details:
+- Size: 19 k
+- 2:15 minutes long in 6 patterns
+- Speech Samples in 22khz
+- some &#34;not-that-normal&#34; pattern jumps</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 01:24:48</locked_until>
+ <lastplayed>2018-04-14 05:29:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>IfXo9tMBNc0</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Desire</tag>
+  
+  <tag>Insane</tag>
+  
+  <tag>mod</tag>
+  
+  <tag>PatternsPlayedBackwards</tag>
+  
+  <tag>protracker</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IfXo9tMBNc0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/168055/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

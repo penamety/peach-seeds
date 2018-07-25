@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40587">
+ <title>Copycat (aka Cute One)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>MOS6581R2</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 17:37:54</locked_until>
+ <lastplayed>2018-05-08 02:51:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5484">Fegolhuzz</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

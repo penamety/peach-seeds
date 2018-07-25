@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24834">
+ <title>Dune Variation</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.4024</rating>
+ <info>From the Dune: Spice Opera Album</info>
+ <songlength>382</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 17:44:59</locked_until>
+ <lastplayed>2018-05-27 03:55:23</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1141">Stéphane Picq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

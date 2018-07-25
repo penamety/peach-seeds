@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4886">
+ <title>Deep Space</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ 
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 21:33:56</locked_until>
+ <lastplayed>2017-11-01 07:50:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>398</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="499">Greg [CH]</artist><artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35599">
+ <title>Cool GFX (ReMmcMix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">4.2</rating>
+ 
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 02:36:48</locked_until>
+ <lastplayed>2018-05-27 10:36:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

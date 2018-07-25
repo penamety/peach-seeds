@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31285">
+ <title>Nemesis the Warlock</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.2584</rating>
+ 
+ <songlength>350</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 11:56:25</locked_until>
+ <lastplayed>2018-05-24 21:29:55</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1480">Mixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

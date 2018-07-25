@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43768">
+ <title>Captured Sun</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>Traditional power synth pop.
+
+** Deep Space Traffic **
+
+ By Skaven / Future Crew
+
+          -1992-
+
+    Composed for the ICE
+  people, to be used in
+  their disk mag.
+
+  Greetings go to every-
+ body who have survived
+ the heat &amp; the beat of
+ the world.</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 22:37:25</locked_until>
+ <lastplayed>2017-12-13 18:56:26</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?73928</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

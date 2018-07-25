@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22229">
+ <title>Frozen Rain</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.1935</rating>
+ <info>12th in the streamed music compo @ Breakpoint 2008.</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 21:11:11</locked_until>
+ <lastplayed>2018-06-15 01:03:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

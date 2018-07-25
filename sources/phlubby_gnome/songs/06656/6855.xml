@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6855">
+ <title>Cutesy 1 v2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-03 16:03:20</locked_until>
+ <lastplayed>2018-01-16 03:10:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3613</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

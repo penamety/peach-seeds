@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5142">
+ <title>Dragons Legend</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.1324</rating>
+ 
+ <songlength>376</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:51:16</locked_until>
+ <lastplayed>2018-06-03 21:11:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="834">MyVoice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Koto</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

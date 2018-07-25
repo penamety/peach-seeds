@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1374">
+ <title>Cutting Through</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ 
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-11 07:29:59</locked_until>
+ <lastplayed>2017-08-05 06:08:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

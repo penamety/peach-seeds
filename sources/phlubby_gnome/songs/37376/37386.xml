@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37386">
+ <title>Mistral</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">2.3889</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-16 14:44:32</locked_until>
+ <lastplayed>2017-10-05 23:45:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14576</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5242">The White Duke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

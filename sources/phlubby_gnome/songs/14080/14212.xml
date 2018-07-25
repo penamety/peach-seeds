@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14212">
+ <title>Dopus</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.4769</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 13:28:54</locked_until>
+ <lastplayed>2018-05-17 10:00:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8078</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2060">Archon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>demostyle</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

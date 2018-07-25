@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9333">
+ <title>Teenage Riot 3</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.2558</rating>
+ <info>Used in a demo as suggested by Dubmood</info>
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:35:47</locked_until>
+ <lastplayed>2018-06-10 05:50:50</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8377</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  <group id="264">Fyllecell</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dreamhack</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>riot</tag>
+  
+  <tag>teenage</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

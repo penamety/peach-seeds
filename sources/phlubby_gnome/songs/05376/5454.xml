@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5454">
+ <title>Up in yer Vorteks</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.1538</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-13 02:30:49</locked_until>
+ <lastplayed>2018-02-16 03:30:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Rave</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

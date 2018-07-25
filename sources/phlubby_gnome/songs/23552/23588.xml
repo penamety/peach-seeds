@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23588">
+ <title>Kenzalol</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0952</rating>
+ <info>Originally tracked in 2002 and included in Rebels chipdisk #2.
+Later it was used as a main track for GLrez.</info>
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 09:25:38</locked_until>
+ <lastplayed>2018-03-27 01:46:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>16327</pouetid>
+ <ytid>4BSQ5nMLQP8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="206">
+ <title>Discord</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8</rating>
+ 
+ <songlength>306</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 21:23:26</locked_until>
+ <lastplayed>2018-02-23 02:00:32</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

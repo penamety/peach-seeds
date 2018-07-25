@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8274">
+ <title>Candyflip</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.4833</rating>
+ <info>Edzez &amp; Malmen used artist name &#34;Starlight Project&#34; for this particular song
+
+The Gathering 2008, HiQuality music compo, ranked 4th</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 14:04:13</locked_until>
+ <lastplayed>2018-05-28 18:18:57</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="398">Edzes</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Gathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

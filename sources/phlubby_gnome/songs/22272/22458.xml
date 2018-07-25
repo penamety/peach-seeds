@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22458">
+ <title>It&#39;s Red Outside</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.5507</rating>
+ <info>11th place in combined demo compo at Assembly 2007.
+
+[url=http://www.scene.org/file_dl.php?url=ftp://ftp.scene.org/pub/parties/2007/assembly07/demo/its_red_outside_by_unknown_artists.zip&amp;id=380704]Download production with mp3[/url]</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:17:21</locked_until>
+ <lastplayed>2018-06-03 12:54:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31577</pouetid>
+ <ytid>2C4F8I8zS4E</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="3342">Osmic</artist>
+ </artists>
+ <groups>
+  <group id="529">Unknown Artists [UA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2C4F8I8zS4E</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

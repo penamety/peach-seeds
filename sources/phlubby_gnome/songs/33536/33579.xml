@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33579">
+ <title>The Butterfly Effect</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="99">3.9192</rating>
+ <info>demo entry on Euskal 2011
+
+vocals by katya
+
+Lyrics:
+Who would you rather kiss
+on the very first date if you had to chose?
+How big a bet you&#39;d make
+on your very first game if you couldn&#39;t lose?
+What would you rather wear
+on the very first dance with the one you like?
+And how would you really sing
+on a difficult song with a broken mike?
+
+Small decisions,
+life incisions,
+big in retrospect
+Bracing gently,
+consequently,
+the butterfly effect.
+
+Where would you rather go
+on your very last June that you spent apart?
+What would you leave behind
+on your very last smile before you depart?
+Who would you rather kiss
+on your very last chance of another start?
+And how would you rise again
+on a difficult slope with a broken heart?
+
+Small decisions,
+life incisions
+big in retrospect.
+Scopeless seeding,
+always feeding,
+the butterfly effect. </info>
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 21:39:13</locked_until>
+ <lastplayed>2018-06-01 20:54:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57350</pouetid>
+ <ytid>A8x0KrWoQ3I</ytid>
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=A8x0KrWoQ3I</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

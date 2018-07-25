@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30312">
+ <title>Alltime Classics</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="0">None</rating>
+ <info>Dupe!</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

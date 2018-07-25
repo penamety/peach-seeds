@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3220">
+ <title>Butterfly Syndrome</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">4.5195</rating>
+ <info>Used in Andromedas &#34;Seven Seas&#34; Slideshow.
+
+Also contribued at Rendez-Vous&#39;93 4ch music compo and got 3:rd place in it.</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 03:21:16</locked_until>
+ <lastplayed>2018-05-04 16:13:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>5373</pouetid>
+ <ytid>LBS9GlxceTY</ytid>
+ <ytoffset>220</ytoffset>
+ 
+ <artists>
+  <artist id="553">Interphace</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>lounge</tag>
+  
+  <tag>Rendezvous</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15673">
+ <title>The Motheballed</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-21 16:31:50</locked_until>
+ <lastplayed>2017-10-13 16:59:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4236</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FCI</tag>
+  
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

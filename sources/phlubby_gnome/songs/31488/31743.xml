@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31743">
+ <title>Greenhouse</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>86</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-26 01:06:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

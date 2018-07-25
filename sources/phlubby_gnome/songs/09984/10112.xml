@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10112">
+ <title>Megaherz</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.4444</rating>
+ <info>Main theme from &#34;Lech/Left Gift&#34; by Phantasy 31.05.1997</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 18:54:44</locked_until>
+ <lastplayed>2018-05-15 08:45:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="558">Jaan</artist>
+ </artists>
+ <groups>
+  <group id="71">Phantasy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Trackmo</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

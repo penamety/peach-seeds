@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27439">
+ <title>Early Fall</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.3333</rating>
+ <info>S3M for &#34;Hacker&#34; e-mag. Probably the most famous module by Tangerine.</info>
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 02:28:23</locked_until>
+ <lastplayed>2018-06-16 10:00:06</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>32957</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3974">Tangerine</artist>
+ </artists>
+ <groups>
+  <group id="231">T-Rex [TRX]</group><group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

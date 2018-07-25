@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26738">
+ <title>DNA</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1333</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 15:59:31</locked_until>
+ <lastplayed>2018-06-17 07:34:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>5686</pouetid>
+ <ytid>B9WiO4W0RWg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  <group id="182">Ozone (PC)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

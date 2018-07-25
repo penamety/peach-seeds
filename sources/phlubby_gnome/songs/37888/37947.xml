@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37947">
+ <title>Pancerne Trampki</title>
+ <status v="A">Active</status>
+ <bitrate>133</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.9545</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 00:00:06</locked_until>
+ <lastplayed>2017-10-29 03:56:10</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

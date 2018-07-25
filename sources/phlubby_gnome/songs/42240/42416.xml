@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42416">
+ <title>Umpivaara</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>#humppaventti/triad</info>
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-01 16:31:51</locked_until>
+ <lastplayed>2018-02-12 03:32:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66373</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5141">Vent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

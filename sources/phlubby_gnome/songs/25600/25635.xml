@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25635">
+ <title>Junkie 2149</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.4583</rating>
+ 
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 16:35:40</locked_until>
+ <lastplayed>2018-05-30 18:07:48</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>25855</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1563">Timbral</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>ym2149-pcm</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/60222/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

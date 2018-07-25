@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31238">
+ <title>HuSIC demo #001</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-16 12:08:16</locked_until>
+ <lastplayed>2017-09-11 06:58:57</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3264">Naruto</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11243">
+ <title>Phantasmagoria (also called X)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="116">4.5776</rating>
+ <info>From the demo &#34;Phantasmagoria&#34; by Anarchy
+
+1st place at Share And Enjoy Amiga Conference 1990 in Croydon, London, UK.</info>
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 04:24:07</locked_until>
+ <lastplayed>2018-06-11 23:36:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9204</pouetid>
+ <ytid>t-SOlaAerc0</ytid>
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=t-SOlaAerc0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

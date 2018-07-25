@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7637">
+ <title>Songs from the Cell</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3382</rating>
+ 
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 08:23:13</locked_until>
+ <lastplayed>2018-06-16 13:36:22</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

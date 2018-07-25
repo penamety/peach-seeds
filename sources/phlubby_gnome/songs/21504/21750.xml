@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21750">
+ <title>2 good 2 be true</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.9552</rating>
+ 
+ <songlength>627</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 07:47:36</locked_until>
+ <lastplayed>2018-06-09 13:13:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Sleepy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

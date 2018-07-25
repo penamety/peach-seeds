@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="232">
+ <title>Thesmophoria</title>
+ <status v="A">Active</status>
+ <bitrate>235</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.2157</rating>
+ 
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 02:32:29</locked_until>
+ <lastplayed>2018-06-16 20:26:07</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

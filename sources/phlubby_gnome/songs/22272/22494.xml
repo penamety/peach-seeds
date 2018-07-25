@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22494">
+ <title>Tre Nox</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">1.6667</rating>
+ 
+ <songlength>373</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-12-04 15:46:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>4496</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3353">PAM</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>TechHouse</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

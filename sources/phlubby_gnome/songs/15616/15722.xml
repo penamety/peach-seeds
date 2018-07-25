@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15722">
+ <title>Apidya - End 3 tfmx 7v</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.5556</rating>
+ 
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-07 01:12:15</locked_until>
+ <lastplayed>2017-07-28 06:29:03</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>pachelbel</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

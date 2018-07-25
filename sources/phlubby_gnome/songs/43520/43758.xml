@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43758">
+ <title>Humppaleka</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>C64 version of &#34;Humppaleka&#34; by Eläkeläiset which is a humppa style cover of &#34;Viva Las Vegas&#34; (written by D. Pomus &amp; M. Shuman in 1963, recorded by Elvis)</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-08 08:17:10</locked_until>
+ <lastplayed>2018-04-29 11:58:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Humppa</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=190383</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=153736</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

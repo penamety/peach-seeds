@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26391">
+ <title>One</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">2.1724</rating>
+ <info>Remix of Metallica&#39;s One</info>
+ <songlength>449</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 07:57:05</locked_until>
+ <lastplayed>2017-09-25 15:53:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>metallica</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

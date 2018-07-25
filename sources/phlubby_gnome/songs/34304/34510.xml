@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34510">
+ <title>Wishful Seedling</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8696</rating>
+ <info>1st place in pc intro compo at Kindergarden 2011</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-20 16:03:35</locked_until>
+ <lastplayed>2018-03-02 09:42:04</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>58015</pouetid>
+ <ytid>2QvPmCgnjnw</ytid>
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2QvPmCgnjnw</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8960">
+ <title>The Lyra II part 7 (digital)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.1429</rating>
+ 
+ <songlength>54</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-15 03:37:42</locked_until>
+ <lastplayed>2017-12-21 01:56:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2121</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007538</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2861</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32041">
+ <title>Saved the Best for Last</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.4545</rating>
+ 
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 22:12:32</locked_until>
+ <lastplayed>2018-05-25 00:47:42</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

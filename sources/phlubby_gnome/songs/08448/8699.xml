@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8699">
+ <title>International Karate (80s remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.9118</rating>
+ 
+ <songlength>247</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 06:10:14</locked_until>
+ <lastplayed>2018-05-18 01:45:55</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="574">Jeroen Breebaart</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

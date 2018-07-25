@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33871">
+ <title>James Bond jr. Main Theme</title>
+ <status v="A">Active</status>
+ <bitrate>100</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 15:39:49</lastplayed>
+ <platform id="17">NES</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1938">Neil Baldwin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

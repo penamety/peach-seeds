@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33741">
+ <title>One Must Fall 2037 (1986 remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="64">3.9219</rating>
+ <info>NES version of One Must Fall 2097 title music created in FamiTracker for FamiCompo mini vol. 7 (15th place). Original song by Kenny Chou.</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 19:04:49</locked_until>
+ <lastplayed>2018-05-16 01:12:45</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>OqGyAf0M3Hs</ytid>
+ 
+ 
+ <artists>
+  <artist id="4858">Robot2037</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OqGyAf0M3Hs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

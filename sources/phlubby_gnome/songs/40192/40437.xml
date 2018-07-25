@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40437">
+ <title>Wipe Out </title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>My entry for the 60&#39;s Chiptune Cover Compilation by CouCou Micromusic Netlabel made in a hurry with Renoise.
+
+Remix/Cover of The Surfaris well known surf-rock song &#34;Wipe Out&#34; with a little chip-twist :)</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-07 04:16:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>CouCou</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>SurfMusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41284">
+ <title>Scarabaeus</title>
+ <status v="A">Active</status>
+ <bitrate>267</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6667</rating>
+ <info>Won the oldschool music compo at Compusphere 2014.</info>
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 03:47:12</locked_until>
+ <lastplayed>2018-05-27 04:36:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

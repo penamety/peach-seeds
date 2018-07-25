@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25694">
+ <title>Lemmings - Tim 2</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.7143</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-07-25 06:22:03</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43495">
+ <title>Spacerider</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>3rd place in the &#34;oldschool music competition&#34; at Outline 2016 
+
+4ch, ProTracker
+Original file size approx. 38kb
+
+</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-14 21:40:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>lQZ-BnTDRCM</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ <labels>
+  <label id="13">Data Airlines</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lQZ-BnTDRCM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

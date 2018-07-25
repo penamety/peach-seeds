@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37971">
+ <title>Inside a Game</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.2692</rating>
+ <info>From the nfo:
+
+This is my third Falcon song (10 channels, DHS-Tracker). I had only **3** days to make _anything_ for SillyVenture, so this time it&#39;s nothing special - just another dance music. But with some funny 8-bit feeling. ;) 
+Surely should be called &#39;Another non-winning song&#39;. 
+
+Author: YERZMYEY
+
+Title: &#34;Inside a game&#34;
+
+Time: 2:52.
+
+(C) 2012 for Silly Venture 2012 party. 
+Atari Falcon 030 MUSIC COMPO. 
+
+1) File: INSIDE.DTM
+2) File: Yerzmyey-Inside_a_game.mp3 - an MP3 recorded from real hardware, for all guys who don&#39;t own Falcon. 
+
+It&#39;s a 10-channels song made on DHS-Tracker (Digital Home Studio).
+
+Computers used: 
+Atari Falcon 030 (main work and everything - almost ;) ),
+Atari 520ST (for samples),
+ZX Spectrum 48K with AY-interface (for samples).
+
+Synthesizers used for samples: 
+Yamaha E423
+
+Software: 
+Main editor - on Falcon - DHS-Tracker (Digital Home Studio)
+MusicMon V2.5e on Atari 520ST (samples-making)
+SoundTracker 1.1 on ZX Spectrum 48K (samples-making).</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 04:13:28</locked_until>
+ <lastplayed>2018-05-09 22:57:17</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>EyTGMQddE1k</ytid>
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Falcon</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EyTGMQddE1k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

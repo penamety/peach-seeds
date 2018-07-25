@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40722">
+ <title>Miami Spice</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.2222</rating>
+ <info>Mice &amp; Buzzer coop tune. 5th place in Assembly 2014 listening music compo.</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 12:09:00</locked_until>
+ <lastplayed>2018-05-10 23:44:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist><artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

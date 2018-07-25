@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2455">
+ <title>In The Beginning</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2653</rating>
+ <info>Equipment used:
+Korg X3 - internal hardware sequencer used for recording
+Kurzweil K2000 - connected to the X3 as an additional external sound source
+Sony DTC-790 Dat Recorder - that&#39;s about it
+
+-Rapture</info>
+ <songlength>361</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 23:51:23</locked_until>
+ <lastplayed>2018-06-09 13:06:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

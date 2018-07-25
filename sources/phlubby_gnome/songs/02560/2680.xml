@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2680">
+ <title>Tiny Piano Song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.45</rating>
+ 
+ <songlength>290</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-14 22:57:49</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="451">Flamingo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

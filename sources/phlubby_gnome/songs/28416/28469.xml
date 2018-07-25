@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28469">
+ <title>Smurf-esque &#39;98</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.2273</rating>
+ <info>The demotune from the demo/intro &#34;Frums mit kindern&#34;. 1st at combined demo competition at Compusphere &#39;96</info>
+ <songlength>97</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 09:58:03</locked_until>
+ <lastplayed>2018-03-09 15:56:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>30893</pouetid>
+ <ytid>6RoQFgC9-yQ</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4092">Android</artist>
+ </artists>
+ <groups>
+  <group id="293">3 Little Elks</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6RoQFgC9-yQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

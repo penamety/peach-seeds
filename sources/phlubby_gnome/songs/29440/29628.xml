@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29628">
+ <title>Potato Goa</title>
+ <status v="A">Active</status>
+ <bitrate>249</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>My entry for the Solskogen 16K executable music compo.</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-09 02:44:59</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

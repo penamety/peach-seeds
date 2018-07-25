@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30051">
+ <title>Caramel Condition</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.5079</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 18:14:11</locked_until>
+ <lastplayed>2018-06-16 07:54:08</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>55738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>RadixStyle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

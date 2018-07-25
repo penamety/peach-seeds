@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37789">
+ <title>Back to Basics</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.1875</rating>
+ <info>2nd in the olschool music competition at Assembly 2006.
+Editor: maxYMiser
+Release date: Assembly 2006 </info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 13:19:38</locked_until>
+ <lastplayed>2018-05-29 16:06:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>60836</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

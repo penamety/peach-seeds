@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18372">
+ <title>Frog 28 new</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-07 16:17:15</locked_until>
+ <lastplayed>2018-01-17 03:30:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>48691</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2015">Frog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

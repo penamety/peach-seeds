@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15010">
+ <title>Swawolny dyzio</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5882</rating>
+ 
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 16:18:38</locked_until>
+ <lastplayed>2017-12-17 10:38:15</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2314">BLB</artist>
+ </artists>
+ <groups>
+  <group id="726">Cobra Team</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

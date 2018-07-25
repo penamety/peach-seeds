@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35132">
+ <title>Elevator Music</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>[url]http://www.textfiles.com/artscene/music/mods/XM/MODLAND/Ghidorah/elevator%20music.xm[/url]</info>
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 12:08:52</locked_until>
+ <lastplayed>2018-03-07 01:59:49</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ElevatorMusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

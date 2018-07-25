@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43038">
+ <title>Megastar</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0909</rating>
+ <info>5th in the tracked music compo at Revision 2016.</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 20:12:48</locked_until>
+ <lastplayed>2018-06-07 07:08:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>80s</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154931/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178321</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

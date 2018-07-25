@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43398">
+ <title>One Little Rose</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.4444</rating>
+ 
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 02:00:59</locked_until>
+ <lastplayed>2018-06-09 01:41:17</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

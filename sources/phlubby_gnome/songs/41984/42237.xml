@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42237">
+ <title>ATTACK</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">1.8</rating>
+ 
+ <songlength>279</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-27 12:34:38</locked_until>
+ <lastplayed>2017-11-01 07:15:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1466">GTK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

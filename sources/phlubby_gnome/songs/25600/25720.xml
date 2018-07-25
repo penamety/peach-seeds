@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25720">
+ <title>Good Thing</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7059</rating>
+ 
+ <songlength>146</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:15:33</locked_until>
+ <lastplayed>2018-06-08 11:45:58</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6986">
+ <title>A Final Hyperbase - Enigma (aka musiklinjen)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="265">4.7849</rating>
+ 
+ <songlength>333</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 22:35:06</locked_until>
+ <lastplayed>2018-06-09 07:11:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>394</pouetid>
+ <ytid>19vh3eEEDjk</ytid>
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AnarchyEasterParty</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=19vh3eEEDjk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=3553</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/9805/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8326">
+ <title>Flowerguy&#39;s Pool Party</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">4.567</rating>
+ 
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 13:54:20</locked_until>
+ <lastplayed>2018-06-09 12:04:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>3604</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11313">
+ <title>Comic Bakery</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">2.9531</rating>
+ 
+ <songlength>381</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 08:00:36</locked_until>
+ <lastplayed>2018-02-28 08:05:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ComicBakery</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

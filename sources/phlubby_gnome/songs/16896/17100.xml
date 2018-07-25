@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17100">
+ <title>Llamusic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.2927</rating>
+ <info>The original song is from Ari-Pekka Paljakka (Zardax).</info>
+ <songlength>357</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 17:24:30</locked_until>
+ <lastplayed>2018-05-09 00:54:40</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="325">Digital Sanyo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

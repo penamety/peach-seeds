@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10238">
+ <title>Mimosa</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="45">3.7111</rating>
+ 
+ <songlength>506</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 17:31:40</locked_until>
+ <lastplayed>2018-06-16 12:30:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9072</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

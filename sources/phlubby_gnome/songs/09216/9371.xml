@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9371">
+ <title>Lonely Wolf</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.8462</rating>
+ <info>Used in Digital Disco 2 by Chrome. The _main_ tune from the music disk. Uses a few super-old italo disco samples, since this tune itself is from 1991 and those funny samples much much older :)</info>
+ <songlength>269</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 00:18:01</locked_until>
+ <lastplayed>2018-05-30 02:46:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18724</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="209">Chrome</group>
+ </groups>
+ 
+ <tags>
+  <tag>italo</tag>
+  
+  <tag>OutOfSync</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

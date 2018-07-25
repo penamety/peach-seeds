@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9129">
+ <title>Dynamo</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">2.4444</rating>
+ <info>The epic comeback!</info>
+ <songlength>78</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 06:21:45</locked_until>
+ <lastplayed>2018-05-31 23:12:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1649">Syniphas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

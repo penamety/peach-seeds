@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25749">
+ <title>Landscape</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.625</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-21 23:12:31</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>27484</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3768">Tomasz Liebich</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

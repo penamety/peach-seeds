@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19392">
+ <title>Rest in Peace</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-10 21:56:26</lastplayed>
+ <platform id="35">TFMX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2913">Jan Krolzig</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

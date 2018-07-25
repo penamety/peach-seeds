@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25693">
+ <title>Lemmings - Lemming 1</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.2727</rating>
+ 
+ <songlength>114</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-11-19 22:38:42</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

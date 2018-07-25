@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29782">
+ <title>Arcade Intro</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">4.4588</rating>
+ <info>the recording is from stone oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>374</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 22:57:45</locked_until>
+ <lastplayed>2018-05-27 19:27:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>35437</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4358">Tim Kleinert</artist>
+ </artists>
+ <groups>
+  <group id="716">Modern Arts [MDA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

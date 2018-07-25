@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28729">
+ <title>Fairy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.1154</rating>
+ <info>11th @ BreakPoint 2010 - Executable Music oldschool
+
+The tracker has been started several years ago and is still under development. It is bundled with the music as an alpha demonstration. It features variable rate instrument, SID voice and sample support.
+
+ 
+
+Feel free to contact me: Zik@cpcscene.com
+
+
+
+Special thanks to Grimmy for packing (I will buy you a 1kg M&amp;Ms pack)! </info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 05:00:34</locked_until>
+ <lastplayed>2018-04-30 05:00:58</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4129">Zik</artist>
+ </artists>
+ <groups>
+  <group id="306">Futurs&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

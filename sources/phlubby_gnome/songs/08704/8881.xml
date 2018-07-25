@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8881">
+ <title>IRPARP</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8667</rating>
+ <info>From the demo Riprap by Exceed.
+
+Spoken text (incomplete):
+
+Ah hello, having no idea, huh? No problem! Why should you make anything, when you can rip!  And now, come to the world of ____ !</info>
+ <songlength>304</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 00:38:52</locked_until>
+ <lastplayed>2018-05-19 18:31:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>306</pouetid>
+ <ytid>HxIOppgqrYs</ytid>
+ <ytoffset>19</ytoffset>
+ 
+ <artists>
+  <artist id="1058">Shaman</artist>
+ </artists>
+ <groups>
+  <group id="8">Exceed</group>
+ </groups>
+ 
+ <tags>
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HxIOppgqrYs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

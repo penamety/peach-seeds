@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12919">
+ <title>FriendChip</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ 
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-20 08:50:48</locked_until>
+ <lastplayed>2017-11-29 18:50:59</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

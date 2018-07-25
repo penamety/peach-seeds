@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36485">
+ <title>Oh Betlehem du kleine Stadt</title>
+ <status v="A">Active</status>
+ <bitrate>66</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">2.4286</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 05:47:37</locked_until>
+ <lastplayed>2018-06-12 09:16:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8255</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

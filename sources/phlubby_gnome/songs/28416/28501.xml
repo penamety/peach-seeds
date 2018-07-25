@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28501">
+ <title>080808</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.7609</rating>
+ <info>Winner of tiny tracking music compo at Evoke&#39;08.</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 07:48:24</locked_until>
+ <lastplayed>2018-06-15 09:51:29</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2211">Alk</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

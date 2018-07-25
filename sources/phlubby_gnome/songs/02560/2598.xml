@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2598">
+ <title>Waterproof</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.2203</rating>
+ <info>format: Future Composer 1.3</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 02:57:06</locked_until>
+ <lastplayed>2018-05-30 14:24:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11196</pouetid>
+ <ytid>dHAXVFJsLxM</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="626">Keo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

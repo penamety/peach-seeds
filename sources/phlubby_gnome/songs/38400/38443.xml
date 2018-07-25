@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38443">
+ <title>The City</title>
+ <status v="A">Active</status>
+ <bitrate>230</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>[b][i]Slack&#39;s comments:[/i][/b]
+It feels good to be back! I missed last year&#39;s Revision and I needed to have something on the bigscreen again. I feel I&#39;m getting too used to 4klang now. I should go back to coding my own synths again or people won&#39;t believe I&#39;m a coder X-)</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-10 07:45:44</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61180</pouetid>
+ <ytid>p1soAX2gQcc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5340">Slack</artist>
+ </artists>
+ <groups>
+  <group id="746">Collapse [CLP]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=p1soAX2gQcc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

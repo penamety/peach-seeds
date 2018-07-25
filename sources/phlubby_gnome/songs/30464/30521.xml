@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30521">
+ <title>Thor&#39;s Magic Bathtub</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="34">3.5882</rating>
+ <info>This is the soundtrack to sin(x) by Dawn3 (now TDA).
+
+---
+
+distance/lackluster
+distance@mindless.com
+
+24.11.97 18.12 + 02.02.98
+
+[#tpolm]
+you can sit in it
+it tends to eat people
+dune survived it but grew
+horns in the process
+xmas hitpresent in sweden
+[/#tpolm]
+
+---
+
+Code by Brainpower (Paulo Cadavez). Graphics by Ruptuh. Music by Distance.
+3rd Place at The Gathering&#39;98 intro-competition
+
+&#34;Released in April 1998 at The Gathering &#39;98 demoparty. Finished 3rd in the 64KB intro compo. Code: Brainpower Music: Distance (NOT DJ DISTANCE, NOT DISTANCE ON PLANET-MU, instead Distance/Lackluster - aka esa ruoho) Graphics: Data Disrupter Platform: Pentium 166MHz, 32MB RAM, VGA, GUS/SB, MS-DOS &#34;</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:54:12</locked_until>
+ <lastplayed>2018-05-15 15:18:23</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>2976</pouetid>
+ <ytid>DQJhqYzsJjc</ytid>
+ 
+ 
+ <artists>
+  <artist id="331">Distance</artist>
+ </artists>
+ <groups>
+  <group id="377">The Digital Artists [TDA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Melancholic</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DQJhqYzsJjc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

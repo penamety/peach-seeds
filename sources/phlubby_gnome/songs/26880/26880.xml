@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26880">
+ <title>Bad Seed</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.0769</rating>
+ <info>Winner of the music compo at Stream 2009.</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 16:07:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Stream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

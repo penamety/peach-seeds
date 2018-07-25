@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31181">
+ <title>Pixel Discoteque</title>
+ <status v="A">Active</status>
+ <bitrate>229</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ <info>From the &#34;Back to the sources&#34; musicdisk.
+Made with SunVox.</info>
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 04:12:59</locked_until>
+ <lastplayed>2018-04-11 13:51:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52834</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4573">NightRadio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>SunVox</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

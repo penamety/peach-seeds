@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26943">
+ <title>Unspoken Love</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">4.0</rating>
+ 
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:29:03</locked_until>
+ <lastplayed>2018-06-11 19:00:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1980">Blue Fox</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

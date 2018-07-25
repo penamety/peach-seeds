@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24020">
+ <title>Flipo demo intro</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5238</rating>
+ 
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-02-14 15:36:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ <pouetid>110</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

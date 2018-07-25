@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39122">
+ <title>Da Cheese Cut</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>1:st place in SID-compo at Bfp 2013.</info>
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 11:51:02</locked_until>
+ <lastplayed>2018-03-20 14:01:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5411">Scarzix</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>BaroqueFloppyPeople</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

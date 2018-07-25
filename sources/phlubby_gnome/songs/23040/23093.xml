@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23093">
+ <title>Ambivalence</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.2603</rating>
+ 
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 21:59:00</locked_until>
+ <lastplayed>2018-05-31 16:31:58</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32742</pouetid>
+ <ytid>D-60ld8Spdw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>4k</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

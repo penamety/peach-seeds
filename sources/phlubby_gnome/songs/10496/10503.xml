@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10503">
+ <title>Electric Gumpop</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="99">4.4545</rating>
+ <info>Ranked 7th in the music compo at Scenecon 2009.</info>
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 06:54:11</locked_until>
+ <lastplayed>2018-06-03 06:25:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1846">Sinatra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>SceneCON</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40115">
+ <title>Mini Tune 1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.7</rating>
+ <info>Used in the Hidden Part of Sonical Fantasia.</info>
+ <songlength>62</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 20:38:04</locked_until>
+ <lastplayed>2018-06-12 21:24:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>14941</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="137">Breeze</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

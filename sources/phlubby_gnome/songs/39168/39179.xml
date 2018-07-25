@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39179">
+ <title>Overdrive</title>
+ <status v="A">Active</status>
+ <bitrate>878</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1765</rating>
+ 
+ <songlength>348</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 20:43:02</locked_until>
+ <lastplayed>2018-05-12 23:37:36</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>61724</pouetid>
+ <ytid>iQqJm14sHRY</ytid>
+ <ytoffset>34</ytoffset>
+ 
+ <artists>
+  <artist id="2092">Strobe</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>SegaGenesis</tag>
+  
+  <tag>sequel</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ym2612</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=iQqJm14sHRY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

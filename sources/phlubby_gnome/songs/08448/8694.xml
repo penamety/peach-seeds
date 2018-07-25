@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8694">
+ <title>Nuts on the Go</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="162">3.5432</rating>
+ 
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 09:40:23</locked_until>
+ <lastplayed>2018-05-18 08:46:16</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>Comedy</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>nuts</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>polarizing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

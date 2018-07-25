@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43916">
+ <title>Chapter7</title>
+ <status v="A">Active</status>
+ <bitrate>119</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 03:37:18</locked_until>
+ <lastplayed>2018-03-09 23:53:37</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>69700</pouetid>
+ <ytid>UK0mAnP28xM</ytid>
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UK0mAnP28xM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

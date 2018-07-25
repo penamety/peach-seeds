@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2082">
+ <title>Now What?</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">3.6102</rating>
+ 
+ <songlength>589</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 10:32:07</locked_until>
+ <lastplayed>2018-06-09 13:28:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9071</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+  <tag>nowwhat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

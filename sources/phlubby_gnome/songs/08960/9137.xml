@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9137">
+ <title>Under the Autumn Tree</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9375</rating>
+ <info>This tune was made as a rural village theme for a game called SoulWorks.</info>
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:02:23</locked_until>
+ <lastplayed>2018-05-31 05:26:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="59">Aragorn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Folk</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

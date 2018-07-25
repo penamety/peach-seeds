@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32771">
+ <title>Cloudy With a Chance of Metaballs</title>
+ <status v="A">Active</status>
+ <bitrate>185</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-22 00:39:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56905</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4646">Kepler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

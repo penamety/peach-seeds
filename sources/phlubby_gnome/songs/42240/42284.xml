@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42284">
+ <title>D159</title>
+ <status v="A">Active</status>
+ <bitrate>241</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">3.3333</rating>
+ <info>Android mobile demo &#34;d159&#34;, first at NVScene 2015.</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 23:40:26</locked_until>
+ <lastplayed>2018-06-12 12:50:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>65249</pouetid>
+ <ytid>JsIl7Tp2RV4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>NVScene</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JsIl7Tp2RV4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

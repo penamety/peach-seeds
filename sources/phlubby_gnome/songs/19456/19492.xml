@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19492">
+ <title>Strike Force</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.2778</rating>
+ <info>Converted from JCH&#39;s own version of the Strike Force theme on the C64, which in itself was a conversion of Diflex&#39;s original intro tune.</info>
+ <songlength>82</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 00:55:26</locked_until>
+ <lastplayed>2018-06-03 06:24:16</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

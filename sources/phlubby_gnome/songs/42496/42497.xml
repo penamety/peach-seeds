@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42497">
+ <title>For Ever Tonight</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.4783</rating>
+ <info>Original by Jan Hammer</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 01:39:20</locked_until>
+ <lastplayed>2018-05-15 13:20:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12331</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="734">Mark II</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

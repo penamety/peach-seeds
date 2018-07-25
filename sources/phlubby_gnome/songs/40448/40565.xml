@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40565">
+ <title>Just Another Day</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ 
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-17 18:39:30</locked_until>
+ <lastplayed>2017-08-12 02:04:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>63539</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="442">Ferrara</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

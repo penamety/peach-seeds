@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18708">
+ <title>Fusion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.35</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-02 08:08:54</locked_until>
+ <lastplayed>2017-12-12 23:33:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>4405</pouetid>
+ <ytid>aUuds9bXFnY</ytid>
+ <ytoffset>80</ytoffset>
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="443">Resource [RSC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>video</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

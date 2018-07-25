@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34170">
+ <title>1 2 Polizei</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="2">1.0</rating>
+ <info>Eins zwei Polizei
+drei vier Grenadier
+fünf sechs alte Gags
+sieben acht gute Nacht
+
+Ja ja ja was ist los was ist das
+ja ja ja was ist los was ist das
+ja ja ja was ist los was ist das
+ja ja ja was ist los was ist das</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="824">Mr. Stewe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

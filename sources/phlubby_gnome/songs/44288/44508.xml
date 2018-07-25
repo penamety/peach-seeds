@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44508">
+ <title>Famicom Bees</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="0">None</rating>
+ <info>This is a Famicom Version of :Beesmix, an inspired mix of :Bees by Lesnik
+
+For more Chiptunes check Advertise Play over your favorite search engine!</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2193">Advertise Play</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

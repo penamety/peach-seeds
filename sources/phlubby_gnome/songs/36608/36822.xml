@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36822">
+ <title>Floating</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.5714</rating>
+ <info>Track is taken from CD Out of Silence by Jogeir Liljedahl, uploaded with permission from Jogeir.</info>
+ <songlength>308</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:12:00</locked_until>
+ <lastplayed>2018-06-08 11:28:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ <pouetid>51760</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

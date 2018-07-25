@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32953">
+ <title>In Space (Metal Twolegs Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>209</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.4286</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 09:29:19</locked_until>
+ <lastplayed>2018-05-27 15:52:26</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

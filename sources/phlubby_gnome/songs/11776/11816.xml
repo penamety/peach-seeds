@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11816">
+ <title>Cybernetic Dancer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.0811</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 01:18:48</locked_until>
+ <lastplayed>2018-06-08 08:31:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>9454</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="441">Sector One [SCT1]</group><group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>dance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

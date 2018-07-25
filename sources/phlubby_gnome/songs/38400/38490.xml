@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38490">
+ <title>I Won&#39;t Forget</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.6818</rating>
+ <info>2nd place in fast remix compo at The Gathering 2013</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 02:50:27</locked_until>
+ <lastplayed>2018-06-09 00:16:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4891">Chimeric</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>FastRemixCompo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

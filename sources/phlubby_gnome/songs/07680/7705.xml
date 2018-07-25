@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7705">
+ <title>Music Box of the Damned</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.9508</rating>
+ <info>3rd place in Instrumental Music competition @ Assembly 2004</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 08:58:44</locked_until>
+ <lastplayed>2018-05-27 20:46:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  <group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>DannyElfman</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6218">
+ <title>Funkacider</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.1618</rating>
+ <info>Winner of the multichannel compo @ Assembly 2001.</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 12:23:29</locked_until>
+ <lastplayed>2018-06-07 10:46:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>itaVBIOe6Xk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

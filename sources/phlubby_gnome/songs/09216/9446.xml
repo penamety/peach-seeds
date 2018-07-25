@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9446">
+ <title>Crosswords</title>
+ <status v="A">Active</status>
+ <bitrate>253</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.2</rating>
+ 
+ <songlength>369</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 21:50:21</locked_until>
+ <lastplayed>2018-05-29 19:27:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>44476</pouetid>
+ <ytid>G-rJvk1g50s</ytid>
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="487">Starion [STR]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

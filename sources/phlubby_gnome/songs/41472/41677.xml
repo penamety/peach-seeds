@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41677">
+ <title>Done for Me Lately</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ <info>4th at TokyoDemofest 2015 combined music compo</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 03:36:36</locked_until>
+ <lastplayed>2018-06-07 20:57:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5585">Wilsynth</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133224/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

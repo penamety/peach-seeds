@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36507">
+ <title>Mao</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5789</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 22:56:42</locked_until>
+ <lastplayed>2018-05-08 15:00:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57774</pouetid>
+ <ytid>-2f6IhYhj60</ytid>
+ 
+ 
+ <artists>
+  <artist id="5285">Gabriel Dream</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-2f6IhYhj60</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

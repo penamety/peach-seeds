@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32570">
+ <title>AY is Not a Doorbell</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.6216</rating>
+ 
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 18:17:56</locked_until>
+ <lastplayed>2018-05-19 12:22:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

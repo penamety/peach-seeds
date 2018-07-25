@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34509">
+ <title>Wuthering Bits</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.8776</rating>
+ <info>Wuthering Heights in a 8bitty version with alot of ay and sid</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 00:50:38</locked_until>
+ <lastplayed>2018-04-14 22:16:54</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3276">
+ <title>Ninja 2 Music v6</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.0</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 13:57:20</locked_until>
+ <lastplayed>2018-03-17 16:16:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="563">Jason</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

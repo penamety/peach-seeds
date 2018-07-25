@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11444">
+ <title>Muddy Light</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.1163</rating>
+ 
+ <songlength>323</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 14:49:50</locked_until>
+ <lastplayed>2018-05-13 00:56:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>26802</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  <group id="582">Division Zero</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

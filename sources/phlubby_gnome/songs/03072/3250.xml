@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3250">
+ <title>Spoongirl</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.5294</rating>
+ 
+ <songlength>349</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-27 10:17:57</locked_until>
+ <lastplayed>2017-09-17 00:30:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="555">Iso</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

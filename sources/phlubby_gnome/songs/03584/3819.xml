@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3819">
+ <title>Funky Bubbles</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.1176</rating>
+ 
+ <songlength>54</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 07:37:54</locked_until>
+ <lastplayed>2018-02-16 16:53:56</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>5095</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="619">Kenet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Synthesis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

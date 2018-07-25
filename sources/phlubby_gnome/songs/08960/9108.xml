@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9108">
+ <title>Reflecter</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.1667</rating>
+ <info>TheParty &#39;94 SS&amp;A Music Compo Winner</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 16:52:07</locked_until>
+ <lastplayed>2018-05-04 17:11:00</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1755">Zodiak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

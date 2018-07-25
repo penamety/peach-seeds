@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43390">
+ <title>Green Skinned Girl</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ 
+ <songlength>292</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 08:52:31</locked_until>
+ <lastplayed>2018-05-15 04:14:50</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

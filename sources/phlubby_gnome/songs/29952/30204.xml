@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30204">
+ <title>Behind the Walls</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="42">4.3333</rating>
+ <info>by martin wall
+mantronix/razor 1911
+december 1990.
+for cascade.....</info>
+ <songlength>58</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 06:50:37</locked_until>
+ <lastplayed>2018-05-24 11:16:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11093</pouetid>
+ <ytid>1GaMySOT2yk</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=1GaMySOT2yk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

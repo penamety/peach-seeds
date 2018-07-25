@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9081">
+ <title>Cumulus</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0938</rating>
+ <info>Download album:
+MP3: http://download.mosaik.se/mosaik--apologies--kahvi205.zip
+FLAC: http://download.mosaik.se/mosaik--apologies--kahvi205-flac.zip</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 17:57:37</locked_until>
+ <lastplayed>2018-05-17 11:08:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22070">
+ <title>Holiday</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.0909</rating>
+ <info>Remix of Madonna&#39;s Holiday</info>
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-19 18:23:00</locked_until>
+ <lastplayed>2017-12-29 07:06:31</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3261">Najdin Korsakov</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>madonna</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

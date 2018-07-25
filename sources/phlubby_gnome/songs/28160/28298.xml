@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28298">
+ <title>Lightforce</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.2647</rating>
+ <info>A remix of Lightforce from Rob Hubbard.
+WEB: http://www.puffy64.de
+
+The 128kbps is direct from the website. I don&#39;t own or found a better one.
+</info>
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 07:09:03</locked_until>
+ <lastplayed>2018-04-17 00:31:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="958">Puffy64</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

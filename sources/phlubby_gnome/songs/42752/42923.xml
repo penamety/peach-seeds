@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42923">
+ <title>Hades Nebula</title>
+ <status v="A">Active</status>
+ <bitrate>96</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>format: Mark II Soundsystem</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 23:44:38</locked_until>
+ <lastplayed>2018-05-04 07:05:31</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>27914</pouetid>
+ <ytid>QUHKE77ksoo</ytid>
+ 
+ 
+ <artists>
+  <artist id="734">Mark II</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

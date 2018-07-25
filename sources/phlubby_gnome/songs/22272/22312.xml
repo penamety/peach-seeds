@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22312">
+ <title>Vic Viper Repair</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 08:19:19</locked_until>
+ <lastplayed>2018-03-03 11:37:20</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3294">Nobuyuki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>xkcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

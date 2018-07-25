@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35631">
+ <title>XM8</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">2.7</rating>
+ <info>Tracked music compo entry @ Revision 2012</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 13:53:58</locked_until>
+ <lastplayed>2018-05-21 09:49:50</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?172251</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

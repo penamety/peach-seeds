@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5314">
+ <title>A Kind of Beauty (Live Evil)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="83">3.6867</rating>
+ 
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 18:15:51</locked_until>
+ <lastplayed>2018-05-19 00:01:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>297</pouetid>
+ <ytid>Gy_9C7dR4w8</ytid>
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist><artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  <group id="476">Mandula</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=6278</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

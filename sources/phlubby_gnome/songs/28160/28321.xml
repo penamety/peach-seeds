@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28321">
+ <title>Slacker Groove</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1579</rating>
+ 
+ <songlength>97</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 21:03:57</locked_until>
+ <lastplayed>2018-05-03 06:28:14</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4075">Tommy [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

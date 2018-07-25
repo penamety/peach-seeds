@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38761">
+ <title>Lindstrøm - Vōs-sākō-rv (Bitbear&#39;s Beatport Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>217</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.9167</rating>
+ 
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-20 11:22:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>gNIREIDmrWo</ytid>
+ 
+ 
+ <artists>
+  <artist id="5379">Bitbear</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gNIREIDmrWo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

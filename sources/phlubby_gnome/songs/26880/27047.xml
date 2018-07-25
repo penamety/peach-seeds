@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27047">
+ <title>Positrons</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>From the Evoke 2008 64k tracked music compo.</info>
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-16 11:13:38</locked_until>
+ <lastplayed>2017-07-10 17:37:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3000">Kenny Beltrey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>glitch</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

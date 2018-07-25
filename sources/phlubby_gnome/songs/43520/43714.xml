@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43714">
+ <title>Beside You</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info> compo by siatek
+ ---------------------
+ siatek_bloklan.org.pl
+  ---------------------
+ siatek/clasp! &amp; dimness</info>
+ <songlength>283</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-18 00:28:31</locked_until>
+ <lastplayed>2018-01-28 02:57:24</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1540">Siatek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?156177</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

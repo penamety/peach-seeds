@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42795">
+ <title>Planeton</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Amiga Octamed,midi augmented module with external hardware instruments</info>
+ <songlength>279</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 11:11:32</locked_until>
+ <lastplayed>2017-11-26 01:04:51</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4475">M.A.F</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>midi</tag>
+  
+  <tag>octamed</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40567">
+ <title>The Ink Test</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3158</rating>
+ <info>NVScene 2014 : The Ink Test by CNCD &amp; Fairlight
+
+The real time PC invitation demo for NVScene 2014: http://nv.scene.org </info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 20:03:56</locked_until>
+ <lastplayed>2018-06-14 17:32:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62824</pouetid>
+ <ytid>TYOBq4NLjtY</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TYOBq4NLjtY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/103547/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

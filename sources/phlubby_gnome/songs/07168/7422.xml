@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7422">
+ <title>Afternoon Stroll</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="143">4.2727</rating>
+ <info>3rd place in PC demo compo at NVScene 2008.
+Lyrics/vocals by Matilda and Roscoe.
+
+&#34;And here I am once again, all on my own, feeling cold and tired and lonely. So I open my eyes, and decide to go on the midnight run...&#34;
+
+In Greek:
+
+Δέκα χιλιάδες αστέρια μπροστά μου
+Γαλάζιες πινέζες κρατούν τα όνειρά μου
+Αλήθινα
+Ανέμελα
+
+Στα δόντια κρατάω δύο φύλλα από δυόσμο
+Τα μάτια μου κλείνω και βλέπω τον κόσμο
+Με χρώματα
+Διάφανα
+
+Ίσως είμαι..
+Ακτίδα φωτός, ξεχασμένος θεός
+Αέρας Σιρόκος, της Αύρας εχθρός
+
+Ίσως έχω..
+Αφήσει ένα χτύπο καρδιάς να χαθεί
+Στα χέρια σου μέσα ξανά κοιμηθεί
+
+English Translation:
+
+Ten thousand stars in front of me
+light-blue drawing pins keeping my dreams
+True
+Carefree
+
+Between my lips I hold a piece of spearmint
+I close my eyes and see the world
+With colors
+Transparent
+
+Maybe I am..
+a ray of light, a forgotten god
+the air of Scirocco, Aura&#39;s enemy
+
+Maybe I have..
+Let a heart beat get lost
+fallen asleep in your arms again</info>
+ <songlength>263</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 12:07:16</locked_until>
+ <lastplayed>2018-05-20 09:55:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51450</pouetid>
+ <ytid>gg0PjTybVJM</ytid>
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GreekSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gg0PjTybVJM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

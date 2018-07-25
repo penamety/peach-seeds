@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38614">
+ <title>Gospel Ekstase</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">2.1905</rating>
+ <info>Lyrics:
+
+&#34;Hallelujah alle sammen! Hallelujah alle sammen! Vi  er hippe og kule! Vi er hippe og kule!&#34;
+
+&#34;Hallelujah everybody! Hallelujah everybody! We are hip and cool! We are hip and cool!&#34;</info>
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 20:35:43</locked_until>
+ <lastplayed>2018-01-23 18:21:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14119</pouetid>
+ <ytid>P5QXlLDyfIw</ytid>
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>NorwegianSpeak</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=P5QXlLDyfIw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28956">
+ <title>8-bit kids with dreams</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="36">3.6944</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 15:02:23</locked_until>
+ <lastplayed>2018-03-10 04:04:00</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4133">Skyline</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10500">
+ <title>Thrust</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">3.8971</rating>
+ <info>1986 Firebird.</info>
+ <songlength>391</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 21:05:07</locked_until>
+ <lastplayed>2018-05-27 16:26:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>34620</pouetid>
+ <ytid>HOl2swTtheM</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2641</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

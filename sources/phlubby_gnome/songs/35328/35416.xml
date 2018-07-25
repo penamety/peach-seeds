@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35416">
+ <title>My Speech Is Now</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-24 02:04:48</locked_until>
+ <lastplayed>2017-07-16 14:40:49</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4223">Kjell Nordbø</artist>
+ </artists>
+ <groups>
+  <group id="357">Blues Muz&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Rhapsodic</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

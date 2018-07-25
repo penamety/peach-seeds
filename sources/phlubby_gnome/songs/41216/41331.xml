@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41331">
+ <title>Ice-Cold PT1</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.9286</rating>
+ <info>From the demo Ice-Cold by Finnish Gold.</info>
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 12:46:17</locked_until>
+ <lastplayed>2018-04-12 05:22:31</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>43092</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

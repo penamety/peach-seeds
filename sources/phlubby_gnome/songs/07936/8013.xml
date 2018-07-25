@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8013">
+ <title>99er</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.1111</rating>
+ <info>1st place in wild demo compo at Assembly 2008</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 10:49:51</locked_until>
+ <lastplayed>2018-06-02 19:49:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51118</pouetid>
+ <ytid>VUFgWJYf-gg</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="5555">minomus</artist>
+ </artists>
+ <groups>
+  <group id="356">Evoflash</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VUFgWJYf-gg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28117">
+ <title>Artillery - Hidden Subtune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.4792</rating>
+ <info>Composed in 2008. Shuffle beat, later the main melody was used in Echoes as straight 4/4.</info>
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 23:10:37</locked_until>
+ <lastplayed>2018-06-11 02:50:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55770</pouetid>
+ <ytid>KizXwKeL2pA</ytid>
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

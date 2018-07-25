@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11937">
+ <title>SODN</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>SODN = Shadow Of Da Ninja [Blue Shadow / Shadow of the ninja]</info>
+ <songlength>53</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-31 19:29:18</locked_until>
+ <lastplayed>2017-07-25 03:34:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1840">PsyPuls</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

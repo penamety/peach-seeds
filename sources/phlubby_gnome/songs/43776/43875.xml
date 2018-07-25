@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43875">
+ <title>Time of Glass</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.5</rating>
+ 
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 11:11:51</locked_until>
+ <lastplayed>2018-06-10 04:59:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>69482</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5713">The Red Baron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

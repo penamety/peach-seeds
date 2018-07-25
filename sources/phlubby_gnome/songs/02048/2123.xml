@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2123">
+ <title>Tranze Seven</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.7778</rating>
+ <info>Winner of the music compo at Theatre and Network 1990.</info>
+ <songlength>404</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:40:59</locked_until>
+ <lastplayed>2018-05-21 13:00:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>5501</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Enigma</tag>
+  
+  <tag>TheatreAndNetwork</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

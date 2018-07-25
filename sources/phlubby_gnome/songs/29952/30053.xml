@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30053">
+ <title>Jazzfactory Deluxe</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ 
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 12:22:44</locked_until>
+ <lastplayed>2017-11-03 15:06:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>55738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

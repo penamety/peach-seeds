@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39250">
+ <title>Y11 Spiral Hands On IV MyVoice - Nosmo King</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0476</rating>
+ 
+ <songlength>323</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 19:55:43</locked_until>
+ <lastplayed>2018-04-24 02:21:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>Koto</tag>
+  
+  <tag>Spacesynth</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38975">
+ <title>Luminator</title>
+ <status v="A">Active</status>
+ <bitrate>425</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.2188</rating>
+ <info>All the lovely music from the Australian demoparty &#34;Flashback 2013&#34;.
+As always the songs has been recorded from real hardware:
+Commodore 64 SID 8580R5
+Commodore 64 SID 6581R4AR
+No normalizing, EQ, Compressor or Phase corrections! Just straight from the C-64er to the computer.
+(D)2013 Dees Productions</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:54:50</locked_until>
+ <lastplayed>2018-06-07 13:31:02</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5391">Flex</artist><artist id="5392">Juzdie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Flashback</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

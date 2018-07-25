@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29404">
+ <title>A Tribute to Nothing</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.5234</rating>
+ <info>Atari STe</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 15:48:07</locked_until>
+ <lastplayed>2018-05-22 03:46:38</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ <ytid>l0ap_PG6l28</ytid>
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=l0ap_PG6l28</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

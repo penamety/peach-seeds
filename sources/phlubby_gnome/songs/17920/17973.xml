@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17973">
+ <title>EQ</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.2</rating>
+ 
+ <songlength>88</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-26 16:28:10</locked_until>
+ <lastplayed>2017-11-01 19:45:34</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="259">Cybelius</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>distortedguitar</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

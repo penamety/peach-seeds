@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4092">
+ <title>Marsinvaders ggmix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ 
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 20:05:28</locked_until>
+ <lastplayed>2017-12-21 14:19:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

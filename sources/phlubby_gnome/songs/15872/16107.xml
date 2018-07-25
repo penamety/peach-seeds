@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16107">
+ <title>Wielka Porazka Listonosza</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.0</rating>
+ 
+ <songlength>50</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 11:39:15</locked_until>
+ <lastplayed>2018-05-18 08:29:36</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2439">core-nick</artist><artist id="432">Falcon</artist><artist id="627">KeyG</artist><artist id="3878">Singer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

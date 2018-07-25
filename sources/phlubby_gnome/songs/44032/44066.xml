@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44066">
+ <title>Surprisingly NOT Four Twenty</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>File format:	AY
+Sound format:	Beeper
+Party:	Multimatograf X (2, Beeper music compo)
+
+Info from ViThor about &#34;Tritone engine&#34;:
+
+[i]Tritone Beeper Engine
+
+This engine, developed by Shiru, has three tone channels with a further channel of interrupting drums. Eight levels of skew (sound loop duty cycle) values are available on a per-note basis. Individual note detuning is also available which can be used to generate a variety of effects.
+
+There are two slightly different versions of this engine availabel in Beepola. The standard Tritone engine provides different volume levels for each channel (channel 1 is the quietest channel 3 is approximately twice the volume of channel 1, and channel 2 is between them). There is also a &#34;Tritone (equal volumes)&#34; variant which provides the same level of volumes on all three channels.
+
+At the start of a new pattern, unless otherwise specified, the skew value for each channel will effectively be 1 (no skew - providing a clean tone). If the skew value is changed for a particular channel, that skew value will remain in effect for the remainder of the pattern until it is changed. This saves time when editing patterns as, for a group of notes that are to use the same skew, you need only enter it once against the first note rather than against every note in the run of notes.
+
+The lowest standard note value is C-1 and the highest is F-6.  12bit frequency counters are used. Using the note detune column, an octave 0 can be used but is quite difficult to hear due to the low frequency, and has some slight tuning issues[/i]</info>
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 04:48:07</locked_until>
+ <lastplayed>2018-03-17 09:32:01</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5525">Raphaelgoulart</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>beeper</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>tritone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

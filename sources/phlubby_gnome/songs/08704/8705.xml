@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8705">
+ <title>ZINE 12 Headlines</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.4722</rating>
+ 
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 17:47:09</locked_until>
+ <lastplayed>2018-05-21 22:59:58</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>31375</pouetid>
+ <ytid>pC5gyKVSFBQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group><group id="285">BitFellas</group><group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+  <tag>zine</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pC5gyKVSFBQ</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

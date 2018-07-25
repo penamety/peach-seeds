@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36712">
+ <title>Orbital</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>87</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 02:32:35</locked_until>
+ <lastplayed>2017-11-01 16:14:22</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>30504</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

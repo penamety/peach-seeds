@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36144">
+ <title>2011 - A Press Space Odyssey - Tune 06</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.0</rating>
+ 
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 19:49:10</locked_until>
+ <lastplayed>2018-05-24 10:27:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58203</pouetid>
+ <ytid>MUa3tYhi-1o</ytid>
+ <ytoffset>1131</ytoffset>
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MUa3tYhi-1o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42212">
+ <title>Pritoptat</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4737</rating>
+ <info>Soundtrack from &#34;RELIEGION&#34; ZX-Demo by thesuper.
+
+1st place in Combined 8-Bit Demo compo at DiHalt 2015.
+
+PS: Original song &#34;Притоптать&#34; (translated from Russian as &#34;Stamp Down&#34;) is performed by Нейромонах Феофан (&#34;Neuro-monk Theophane&#34;).</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 07:13:51</locked_until>
+ <lastplayed>2018-05-07 19:18:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>65912</pouetid>
+ <ytid>XZKPoWeyiNU</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="5069">Nick Roll</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>FolkDance</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XZKPoWeyiNU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31850">
+ <title>Condommed Track 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>Track 2 from &#34;Condommed&#34; - ZX Spectrum (pentagon clone) demo by E-Mage, audiovisual art on 8bit machine.</info>
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 14:43:12</locked_until>
+ <lastplayed>2018-04-20 22:11:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2118</pouetid>
+ <ytid>8RWD44zl378</ytid>
+ <ytoffset>438</ytoffset>
+ 
+ <artists>
+  <artist id="4668">Scratcher</artist>
+ </artists>
+ <groups>
+  <group id="444">E-Mage</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8RWD44zl378</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2362</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

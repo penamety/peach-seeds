@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39875">
+ <title>Harbinger</title>
+ <status v="A">Active</status>
+ <bitrate>508</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3043</rating>
+ <info>For tUM 2013 streamed music compo, placed 4th.</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 21:50:33</locked_until>
+ <lastplayed>2018-03-11 21:42:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

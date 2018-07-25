@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19515">
+ <title>Robots of the world unite</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4118</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 01:21:11</locked_until>
+ <lastplayed>2018-03-12 03:55:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>17663</pouetid>
+ <ytid>nrEiRNj7ZXU</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="570">Jean9</artist>
+ </artists>
+ <groups>
+  <group id="141">Matt Current</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nrEiRNj7ZXU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13331</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

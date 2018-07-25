@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34905">
+ <title>The Orange Guy</title>
+ <status v="A">Active</status>
+ <bitrate>229</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>First Demo at Numerica Artparty 2009</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-24 00:17:49</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>52780</pouetid>
+ <ytid>H-vIe3i4aBg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4807">Wullon</artist>
+ </artists>
+ <groups>
+  <group id="433">Adinpsz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>NumericaArtparty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=H-vIe3i4aBg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

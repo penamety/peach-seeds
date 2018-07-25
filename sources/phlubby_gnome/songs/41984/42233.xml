@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42233">
+ <title>Raise The Dead</title>
+ <status v="A">Active</status>
+ <bitrate>1139</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>Bitbear&#39;s entry to Kindergarden 2014&#39;s Dance Music Competition. Placed 5th.
+
+</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 17:55:25</locked_until>
+ <lastplayed>2018-03-23 05:22:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5379">Bitbear</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/125633/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

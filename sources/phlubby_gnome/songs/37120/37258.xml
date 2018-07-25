@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37258">
+ <title>Trapsturbation</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">2.9</rating>
+ <info>2nd place in combined demo compo at Function 2012
+</info>
+ <songlength>65</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 16:58:35</locked_until>
+ <lastplayed>2018-06-10 14:47:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60399</pouetid>
+ <ytid>SJCMOOCGGf4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="188">Nazareth</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SJCMOOCGGf4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7034">
+ <title>Vodka Polka</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.697</rating>
+ 
+ <songlength>49</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 07:56:00</locked_until>
+ <lastplayed>2018-04-19 09:49:56</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>polka</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

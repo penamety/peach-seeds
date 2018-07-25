@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17839">
+ <title>Limited Electronic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.2692</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 13:23:34</locked_until>
+ <lastplayed>2018-05-11 16:54:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9196</pouetid>
+ <ytid>3xcByyWuMOI</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="410">Emax [de]</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

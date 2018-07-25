@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3605">
+ <title>Blowaway</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.8421</rating>
+ 
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-14 09:49:53</locked_until>
+ <lastplayed>2017-11-26 07:16:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3837</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="595">Jugi</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

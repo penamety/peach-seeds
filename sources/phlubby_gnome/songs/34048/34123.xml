@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34123">
+ <title>Camels Of Camelot</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-19 22:38:41</locked_until>
+ <lastplayed>2017-10-10 14:51:30</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="87">Analogue</group><group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29234">
+ <title>Zipf and Chips Emomix</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5714</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 07:20:36</locked_until>
+ <lastplayed>2018-06-02 16:19:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

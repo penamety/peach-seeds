@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34487">
+ <title>When they came back for me</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0741</rating>
+ <info>2nd place in 32k executable music at Kindergarden 2011</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 13:33:08</locked_until>
+ <lastplayed>2018-03-11 06:55:54</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

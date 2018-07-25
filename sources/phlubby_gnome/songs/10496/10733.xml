@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10733">
+ <title>Parallax</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="151">2.6093</rating>
+ <info>&#34;http://www.hardsid.com/s.php?Parallax%2036a1&#34;</info>
+ <songlength>681</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 13:12:10</locked_until>
+ <lastplayed>2018-06-02 16:52:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>long</tag>
+  
+  <tag>monotone</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1889</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

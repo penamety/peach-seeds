@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18851">
+ <title>Expectancy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.8</rating>
+ 
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-26 18:17:51</locked_until>
+ <lastplayed>2017-06-17 11:53:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist>
+ </artists>
+ <groups>
+  <group id="290">Grayscale</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

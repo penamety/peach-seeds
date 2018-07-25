@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38379">
+ <title>We are Alive! - Intro</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">2.5</rating>
+ <info>Soundtrack from the intro of &#34;We are alive!&#34; demo by Gemba Boys.
+1st place in ZX Demo compo at FOREVER 2013.</info>
+ <songlength>50</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 04:46:41</locked_until>
+ <lastplayed>2018-03-04 05:09:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>61159</pouetid>
+ <ytid>7gmoPuF3_VM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=7gmoPuF3_VM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

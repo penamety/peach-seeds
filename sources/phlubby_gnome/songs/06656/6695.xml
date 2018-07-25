@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6695">
+ <title>Phase1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="45">4.0222</rating>
+ 
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 04:15:52</locked_until>
+ <lastplayed>2018-04-14 01:19:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5201</pouetid>
+ <ytid>4JcEzgSOKlw</ytid>
+ <ytoffset>19</ytoffset>
+ 
+ <artists>
+  <artist id="1134">Stax</artist>
+ </artists>
+ <groups>
+  <group id="429">Lazer</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Falcon</tag>
+  
+  <tag>Lazer</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

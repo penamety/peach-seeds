@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43593">
+ <title>Extazy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.3333</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 08:40:50</locked_until>
+ <lastplayed>2018-03-11 14:04:57</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>52663</pouetid>
+ <ytid>RfsOj3MtyDw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5694">BTB</artist>
+ </artists>
+ <groups>
+  <group id="854">Top Swap</group>
+ </groups>
+ 
+ <tags>
+  <tag>Acid</tag>
+  
+  <tag>Ah-Ha</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RfsOj3MtyDw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

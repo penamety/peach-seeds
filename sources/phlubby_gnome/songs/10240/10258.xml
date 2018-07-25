@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10258">
+ <title>Crime Story</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Releaser: Galicya</info>
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 23:14:34</locked_until>
+ <lastplayed>2018-03-13 10:24:29</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1835">Praiser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

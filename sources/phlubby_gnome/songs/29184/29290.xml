@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29290">
+ <title>Bodykiss</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ 
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 19:31:12</locked_until>
+ <lastplayed>2017-10-03 07:15:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4033</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="906">Pat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

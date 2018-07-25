@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="45001">
+ <title>Shower of Love</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">3.5</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 17:34:48</locked_until>
+ <lastplayed>2018-06-09 06:14:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>61833</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1806">Abaddon</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=49060</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://soundcloud.com/drvector/shower-of-love-c64-version-by-abaddontriad</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

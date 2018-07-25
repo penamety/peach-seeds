@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1376">
+ <title>Eurochart 15</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ <info>Eurochart issue 15 diskmag BGM</info>
+ <songlength>331</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-03 19:36:40</locked_until>
+ <lastplayed>2017-06-27 21:30:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11084</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>diskmag</tag>
+  
+  <tag>Eurochart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

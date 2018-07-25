@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7701">
+ <title>Conflict</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">4.3095</rating>
+ <info>[url=http://archive.assembly.org/2002/instrumental-music/conflict-by-firestorm-doomsday]Conflict by Firestorm / Doomsday – Assembly Archive[/url]</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 15:12:48</locked_until>
+ <lastplayed>2018-05-20 20:37:42</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/61718/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

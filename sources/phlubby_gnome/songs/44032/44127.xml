@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44127">
+ <title>UnMEC (main part)</title>
+ <status v="A">Active</status>
+ <bitrate>510</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.625</rating>
+ <info>Main theme from the &#34;UnMEC&#34; demo (1st place at Silly Venture 2k16 Atari 8-bit demo compo)</info>
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 14:40:59</locked_until>
+ <lastplayed>2018-03-04 17:38:39</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>68486</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5563">stRing</artist>
+ </artists>
+ <groups>
+  <group id="869">Agenda</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170670/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

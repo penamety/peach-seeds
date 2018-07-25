@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33959">
+ <title>Forbidden Places</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.8571</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-04 07:14:25</locked_until>
+ <lastplayed>2018-04-01 03:57:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>57665</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4226">Matrix (SE)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=joTbxWk39EE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

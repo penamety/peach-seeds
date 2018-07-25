@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32023">
+ <title>Disco Just Won&#39;t Cut It This Time</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.8723</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 05:39:00</locked_until>
+ <lastplayed>2018-01-17 22:24:28</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4046">MisfitChris</artist><artist id="4158">Smiletron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chippop</tag>
+  
+  <tag>hairkid</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

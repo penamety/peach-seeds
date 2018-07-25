@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30119">
+ <title>Inexplicable Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.5556</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-17 10:05:47</locked_until>
+ <lastplayed>2017-06-10 22:58:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>31986</pouetid>
+ <ytid>DfJAp6kxzTc</ytid>
+ 
+ 
+ <artists>
+  <artist id="409">El Loco</artist><artist id="3870">Sundance Kid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DfJAp6kxzTc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

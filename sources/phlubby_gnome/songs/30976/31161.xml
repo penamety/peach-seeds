@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31161">
+ <title>Root Directory</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>From the musicdisk &#34;Bits &#39;n&#39; Pieces&#34;.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 01:34:51</locked_until>
+ <lastplayed>2018-03-04 13:06:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52065</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2072">Mr. Gamer</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

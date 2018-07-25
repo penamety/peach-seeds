@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10439">
+ <title>Sanxion Remix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.7551</rating>
+ <info>Rob&#39;s own remix of his Sanxion track</info>
+ <songlength>363</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 12:42:16</locked_until>
+ <lastplayed>2018-04-06 22:54:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>47823</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

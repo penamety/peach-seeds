@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38672">
+ <title>Sussudio (alpha conspiracy mix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.0</rating>
+ <info>Glitching live at AMODA 2003</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 19:45:35</locked_until>
+ <lastplayed>2018-04-05 02:51:51</lastplayed>
+ 
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30893">
+ <title>Turrican 2 L1</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8485</rating>
+ 
+ <songlength>252</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 05:43:15</locked_until>
+ <lastplayed>2018-04-01 04:58:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23043">
+ <title>Death Rally Black Market</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.88</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 11:03:26</locked_until>
+ <lastplayed>2018-05-22 05:32:06</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

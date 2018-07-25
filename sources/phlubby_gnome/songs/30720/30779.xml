@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30779">
+ <title>Aeon 5</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">3.8851</rating>
+ 
+ <songlength>549</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 09:27:25</locked_until>
+ <lastplayed>2018-06-12 01:46:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56104</pouetid>
+ <ytid>ubKE-Es3r2g</ytid>
+ 
+ 
+ <artists>
+  <artist id="4502">Hidden</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>goth</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ubKE-Es3r2g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

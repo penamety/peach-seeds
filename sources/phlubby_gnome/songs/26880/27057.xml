@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27057">
+ <title>Road to the Sea</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Released on ChipYxa#2 (2004) Yeah! This pop-style 80-s...
+
+XM: ftp://ftp.scenesp.org/pub/modulez/bitl/roadsea.zip</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 07:33:27</locked_until>
+ <lastplayed>2018-03-11 19:33:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>ChipYxa</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39543">
+ <title>Galactic - Ingame</title>
+ <status v="A">Active</status>
+ <bitrate>167</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>Stavros Fasoulas (who made Sanxion, Delta &amp; Quedex for C64) finally released his Amiga game Galactic as the cover disk of The One magazine (issue #1 of 1994, sold already in December1993)
+
+Recording from Stone Oakvalley&#39;s site</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-17 20:14:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>NWokFtgpIF0</ytid>
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NWokFtgpIF0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/2689</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

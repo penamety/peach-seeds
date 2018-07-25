@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5356">
+ <title>Acid Jazz (Part 2)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.6571</rating>
+ 
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 00:21:27</locked_until>
+ <lastplayed>2018-05-21 23:29:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>3503</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

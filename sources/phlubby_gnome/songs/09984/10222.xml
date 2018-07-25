@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10222">
+ <title>Breitbandkatze (tune 2)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.6</rating>
+ <info>Year: 1997
+Releaser: Reflex</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 02:07:41</locked_until>
+ <lastplayed>2018-04-30 03:18:09</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1835">Praiser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15834">
+ <title>Hipster</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.75</rating>
+ 
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-10 13:13:14</locked_until>
+ <lastplayed>2017-10-01 02:13:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9560</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  <group id="88">Gate</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

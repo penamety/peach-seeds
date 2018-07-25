@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29577">
+ <title>Bombo (bombossimo mix)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ 
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 12:36:54</locked_until>
+ <lastplayed>2018-06-10 04:43:59</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4327">7an</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39638">
+ <title>Out of Order</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0</rating>
+ <info>The original idea/outline of the work and the instruments were made by SuperNoise.
+Then I joined in :) I compressed Supernoise&#39;s 5 minutes into 2 minutes, re-arranged everything, reworked drums, piano.
+
+Then I added a dubstep interlude ;D
+
+The worst thing was to come up with the outro - I lacked ideas.
+That&#39;s why it is IMO the weakest part of the song.
+
+- AceMan
+
+All samples based on sound synthesis.
+VST instrument used for sound generation: Zebra2, Z3ta+, ARP2600, uTonic, Analog Warfare 2.5, Arch Avenger Pro, Massive, TyrellN6, FM8, V-Station, Moog Modular.
+DSP Chain: Renoise DSP plugins, Classic Auto-Filter, Classic Delay, TLs2095-LA,MEqualizer, TLs-3127, TAL Reverb 2, D-16 Redoptor, Reacomp.
+
+This tune got #2 place in streaming music competition @ WeCan 2013.</info>
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 16:21:13</locked_until>
+ <lastplayed>2018-05-06 06:48:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

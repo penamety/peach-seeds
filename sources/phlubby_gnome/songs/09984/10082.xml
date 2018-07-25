@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10082">
+ <title>JT 42</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.2368</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 21:25:53</locked_until>
+ <lastplayed>2018-04-26 17:25:20</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="878">O2</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3218">
+ <title>Project Ozma</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.3333</rating>
+ 
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 19:30:01</locked_until>
+ <lastplayed>2018-04-01 22:41:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="551">Intelligence</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

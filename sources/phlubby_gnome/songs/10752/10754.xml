@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10754">
+ <title>State of the Art</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3043</rating>
+ 
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 13:54:32</locked_until>
+ <lastplayed>2017-11-20 00:38:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

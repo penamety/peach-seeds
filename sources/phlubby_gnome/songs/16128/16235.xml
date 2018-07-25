@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16235">
+ <title>Bag of Tricks</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.3182</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 10:48:45</locked_until>
+ <lastplayed>2018-04-10 10:00:03</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="250">Crux</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Assembly</tag>
+  
+  <tag>Bagpipes</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="955">
+ <title>Crossroads</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 07:17:54</locked_until>
+ <lastplayed>2018-05-29 20:34:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1158</pouetid>
+ <ytid>qFnWBylO6LE</ytid>
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist><artist id="1066">Sid</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>show</tag>
+  
+  <tag>TheHammering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qFnWBylO6LE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=9385</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/9715/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

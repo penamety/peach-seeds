@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44532">
+ <title>Elusive Groove</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.4444</rating>
+ <info>Winner of the YM2149-music competition at Silly Venture 2017. Nothing special as I composed the track in a haste during the last week before the party.
+Editor: maxYMiser
+Release date: 10-12-2017 </info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 15:20:46</locked_until>
+ <lastplayed>2018-06-11 01:51:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>maxYMiser</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/180912/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

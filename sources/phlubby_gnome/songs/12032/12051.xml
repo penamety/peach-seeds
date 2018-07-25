@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12051">
+ <title>Variform (Beta)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.6571</rating>
+ <info>Track #14 of Variform Remixed.
+
+curly on the keys here... this is the first time i&#39;ve coded a player for a music disk and i must say the process was really different from coding the actual demo. variform&#39;s effects took weeks or even months to code, whereas i&#39;ve spend an hour or so on these &#34;effects&#34; you&#39;re seeing on the background. the rest of the time was spent on all the little details like keyboard controls and such... ... i like doing demos that are music-driven, with tight synchs and visuals that are made explicitly for a certain tune. variform is a perfect example of great demo making process where the music inspires to make better and better visuals (and hopefully the other way around too). doing variform was great fun but also a real pain because of it&#39;s lenght (6++ mins) and the fact that it was coded from scratch without _any_ engine code or anything. and a final words for all the &#34;fans&#34; out there: stop comparing our other demos with variform, you fucking assholes! and fuckings to everyone [;)] hmmkaythxbye. .. .. .. .. .. Bitchard on the keys, AGAIN! I thought that it&#39;d be a fun idea to include this beta version to the release.. Like, shed some insight to how the song changed throughout the process. This particular version was the first full-length layout sketch of the overall &#39;parts&#39; or &#39;themes&#39; (what one might want to call them) for Curly to start shaping the demo, placing the effects to the song etc etc. To sum up some of the differences, this version still has more complex drum programming (derived directly from the original .it), some quickly sequenced rebirth synth lines and clips recorded from my CS-01 monosynth thrown in. On the final version most of the synth stuff was replaced with new ones recorded from Access Virus B. The song sequences were structured in Acid 3. .. .. .. .. .. This scroller will now repeat .. .. .. </info>
+ <songlength>377</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 06:10:07</locked_until>
+ <lastplayed>2018-05-26 14:28:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>20435</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="3176">Mel Funktion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

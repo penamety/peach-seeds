@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43502">
+ <title>Pictogram</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 14:53:15</locked_until>
+ <lastplayed>2018-06-15 03:42:23</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>67384</pouetid>
+ <ytid>i4vf8kpQ3hA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="471">Ümlaüt Design [UD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>QBParty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=i4vf8kpQ3hA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

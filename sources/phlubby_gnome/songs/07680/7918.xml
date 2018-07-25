@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7918">
+ <title>The Hardware Chiptune Project Song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.4722</rating>
+ 
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 05:48:15</locked_until>
+ <lastplayed>2018-06-01 11:51:55</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>30785</pouetid>
+ <ytid>_uU4BzSQQmY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>technically-awesome</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

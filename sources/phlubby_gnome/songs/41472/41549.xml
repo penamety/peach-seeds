@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41549">
+ <title>Poehler</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>Mod I did for the &#34;Happy 2015&#34; intro by Desire (web-based).
+
+Original size: 38k
+Done using PT2.3d
+4ch
+
+Remastering for the web-version of that intro done using Renoise (just decent Reverb on leads, Compressor and EQ on bass and drums).
+
+Tracked in January 2015</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-11 00:34:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>64878</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

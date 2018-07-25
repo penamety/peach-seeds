@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7213">
+ <title>Take a Chance</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.4667</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 01:02:09</locked_until>
+ <lastplayed>2017-11-15 09:57:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3179</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>shuffle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

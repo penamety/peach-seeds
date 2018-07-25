@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32037">
+ <title>The Icemachine</title>
+ <status v="A">Active</status>
+ <bitrate>387</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Second 64k Entry @ Breakpoint 2004</info>
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 13:47:42</locked_until>
+ <lastplayed>2018-02-10 14:53:26</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>12073</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

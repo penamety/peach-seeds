@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35997">
+ <title>Chute</title>
+ <status v="A">Active</status>
+ <bitrate>175</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ <info>Made for the PC 64k intro Chute by Nature, using custom buildt synthesizer-, drums- and effects engine, by Pezac/Nature.
+
+Mastered with some extra compressor- and EQ work.
+
+Download &amp; stream:
+http://dvibe.se/lofi_chute.html</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 23:37:32</locked_until>
+ <lastplayed>2018-05-28 08:55:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54230</pouetid>
+ <ytid>xmgxS-e57d0</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>GREP</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Nature</tag>
+  
+  <tag>Synthesis</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xmgxS-e57d0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

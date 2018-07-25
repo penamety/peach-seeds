@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42479">
+ <title>A Trip</title>
+ <status v="A">Active</status>
+ <bitrate>313</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0909</rating>
+ <info>My 3rd tune with C64 and FC 1.0 after being away from the scene 25 years.
+
+This tune is the second part of the 4Stori3s. All the songs of that story are linked together so thats why the endings and beginnings may sound somehow odd.
+
+Mixed Music Competition at RetroKomp/LOAD ERROR 2015 :  #6
+
+</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-11 19:36:25</locked_until>
+ <lastplayed>2017-09-07 02:18:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=142128</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

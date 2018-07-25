@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5612">
+ <title>Combat Game</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-21 13:04:48</locked_until>
+ <lastplayed>2017-09-14 05:20:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>5612</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

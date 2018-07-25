@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26695">
+ <title>Acid Rain</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.2917</rating>
+ 
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 22:19:14</locked_until>
+ <lastplayed>2018-05-06 06:10:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54100</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="772">Melwyn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

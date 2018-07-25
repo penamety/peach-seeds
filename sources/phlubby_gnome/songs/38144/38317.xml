@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38317">
+ <title>Ibunda</title>
+ <status v="A">Active</status>
+ <bitrate>202</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-09 17:10:31</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>8AYj3lj-AD4</ytid>
+ 
+ 
+ <artists>
+  <artist id="5329">Sexton</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8AYj3lj-AD4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

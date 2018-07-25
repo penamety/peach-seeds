@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2943">
+ <title>Electric Drug</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.8158</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 02:44:47</locked_until>
+ <lastplayed>2018-04-18 12:05:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31969</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

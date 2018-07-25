@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43750">
+ <title>Hamsterball</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">2.7143</rating>
+ <info>A music suite for Hamster Ball, a zany action game by Raptisoft (released thru RealArcade). Uses DirectX effects. Contains multiple parts.
+
+Download link: http://www.futurecrew.com/skaven/song_files/HamsterBall.it.zip</info>
+ <songlength>34</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 05:04:42</locked_until>
+ <lastplayed>2018-04-19 06:11:01</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

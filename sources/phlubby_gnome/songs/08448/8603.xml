@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8603">
+ <title>Kookoo (Some Bookprint and a Broken Heart)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="127">4.5748</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 16:30:42</locked_until>
+ <lastplayed>2018-05-22 12:58:36</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9</pouetid>
+ <ytid>pyx672XSzn8</ytid>
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist><artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fis3gkGP9OA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

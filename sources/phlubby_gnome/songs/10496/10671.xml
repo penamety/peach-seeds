@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10671">
+ <title>The Beauty and the Beast</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.4737</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-15 23:27:56</locked_until>
+ <lastplayed>2017-06-08 23:49:16</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

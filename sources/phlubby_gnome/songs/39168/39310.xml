@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39310">
+ <title>1992</title>
+ <status v="A">Active</status>
+ <bitrate>179</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Randy64 contribution to Gerp 2013 4ch music compo. Reached 4:th place.</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-22 00:09:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5423">Randy64</artist>
+ </artists>
+ <groups>
+  <group id="763">Hoaxers</group><group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

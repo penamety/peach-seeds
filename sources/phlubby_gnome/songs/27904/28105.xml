@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28105">
+ <title>Logical Control Right</title>
+ <status v="A">Active</status>
+ <bitrate>184</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.973</rating>
+ <info>3rd place in the streamed music compo @ tUM09.</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 03:21:08</locked_until>
+ <lastplayed>2018-06-10 15:47:44</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

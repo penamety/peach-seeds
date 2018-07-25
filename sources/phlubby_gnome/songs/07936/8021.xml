@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8021">
+ <title>The Knight is Back</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1765</rating>
+ 
+ <songlength>618</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 06:15:32</locked_until>
+ <lastplayed>2018-05-28 10:57:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12747</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

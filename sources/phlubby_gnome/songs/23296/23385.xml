@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23385">
+ <title>Capturing Matrix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.4706</rating>
+ 
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 01:47:50</locked_until>
+ <lastplayed>2018-05-11 07:15:39</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2556">Dax</artist><artist id="4029">turbo.b</artist>
+ </artists>
+ <groups>
+  <group id="263">The Ravebusters</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Eurodance</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

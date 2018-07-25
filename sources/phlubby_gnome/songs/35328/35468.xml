@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35468">
+ <title>Magic Disk 64 (1990/01)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2286</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 22:11:30</locked_until>
+ <lastplayed>2018-04-04 13:29:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>38208</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1213">Thomas Detert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

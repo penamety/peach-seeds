@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26631">
+ <title>DiscoveR8</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.8462</rating>
+ 
+ <songlength>56</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 18:07:21</locked_until>
+ <lastplayed>2018-04-06 11:06:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51654</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2028">tEiS</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

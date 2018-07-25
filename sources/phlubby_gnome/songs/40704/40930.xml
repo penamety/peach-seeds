@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40930">
+ <title>The Rainbow Pukatron</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>3rd place in MP3/OGG Competition at Evoke 2014</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 17:55:37</locked_until>
+ <lastplayed>2018-05-10 09:39:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4114">xtrium</artist>
+ </artists>
+ <groups>
+  <group id="720">LNX</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

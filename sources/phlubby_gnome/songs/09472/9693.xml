@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9693">
+ <title>Turrican 1 [world 1 - part 2]</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0385</rating>
+ <info>[url=http://www.exotica.org.uk/wiki/Turrican]TFMX download[/url]
+/pwl
+
+Download Link: http://www.f1-software.com/mp3/Chris%20Huelsbeck%20-%20Turrican%2005-Level%201-2.mp3</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-15 03:30:43</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1533</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

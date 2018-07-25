@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42736">
+ <title>Stratosphere</title>
+ <status v="A">Active</status>
+ <bitrate>240</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>gin production 91....
+date: 11-02-91.
+all sounds was
+sampled by myselfe.
+3 min and 25 sec of
+great music.....
+******** gin ********
+******** gin ********
+live youre life in
+peace, or die in
+extasy!.......gin 91.</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-06 21:31:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="487">Gin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?123591</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

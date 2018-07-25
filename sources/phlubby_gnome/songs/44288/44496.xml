@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44496">
+ <title>Steel Yard</title>
+ <status v="A">Active</status>
+ <bitrate>263</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.0</rating>
+ <info>1st place, Demosplash 2017 demo competition</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 12:31:13</locked_until>
+ <lastplayed>2018-05-15 12:37:07</lastplayed>
+ <platform id="54">8K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>72281</pouetid>
+ <ytid>YzprGc3MvjY</ytid>
+ 
+ 
+ <artists>
+  <artist id="3852">elblanco</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YzprGc3MvjY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/179909/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14238">
+ <title>Xmas</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.3</rating>
+ 
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 20:02:32</locked_until>
+ <lastplayed>2018-06-17 10:30:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1713</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>steeldrums</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21736">
+ <title>Incognito</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ <info>3rd place in pc 64k compo at Assembly 2008
+http://www.youtube.com/watch?v=aNJPGnJzkD4</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 05:12:55</locked_until>
+ <lastplayed>2018-03-06 06:19:57</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>51133</pouetid>
+ <ytid>aNJPGnJzkD4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1480">Mixer</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

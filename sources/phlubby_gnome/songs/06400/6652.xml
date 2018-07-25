@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6652">
+ <title>Mad Donkey</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>From &#34;Waterhead&#34; by Senseless: [url]http://bitworld.bitfellas.org/demo.php?id=26302[/url]</info>
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-08 16:53:25</locked_until>
+ <lastplayed>2017-06-29 20:27:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1125">Spirou</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>NotOnPouet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

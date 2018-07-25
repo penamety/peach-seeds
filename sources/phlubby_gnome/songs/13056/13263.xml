@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13263">
+ <title>Her10</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">4.4565</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:38:32</locked_until>
+ <lastplayed>2018-06-15 23:54:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>5022</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

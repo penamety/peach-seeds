@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5974">
+ <title>Ink Ribbon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 01:17:02</locked_until>
+ <lastplayed>2018-02-03 06:30:53</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="566">Jazz</artist><artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>cowbell</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

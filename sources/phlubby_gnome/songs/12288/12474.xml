@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12474">
+ <title>Thundercats C64 Remix</title>
+ <status v="A">Active</status>
+ <bitrate>205</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.233</rating>
+ 
+ <songlength>409</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 21:13:17</locked_until>
+ <lastplayed>2018-06-01 01:43:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1748">Anvil [fi]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

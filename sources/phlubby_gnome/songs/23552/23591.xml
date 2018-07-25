@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23591">
+ <title>Flight 47 to Moscow</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ 
+ <songlength>361</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 04:09:45</locked_until>
+ <lastplayed>2018-06-11 04:30:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>29974</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3796">Trixal</artist><artist id="1833">Vortex</artist>
+ </artists>
+ <groups>
+  <group id="104">Cryptoburners</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8685">
+ <title>Ballada</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.5283</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 08:47:24</locked_until>
+ <lastplayed>2018-06-17 05:08:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2955</pouetid>
+ <ytid>_EcIGBVn1wA</ytid>
+ <ytoffset>360</ytoffset>
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>MountainCongress</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Union</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

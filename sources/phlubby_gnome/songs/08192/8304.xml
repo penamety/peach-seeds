@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8304">
+ <title>The Megatune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="126">3.9841</rating>
+ <info>0-02 dualtrax 00:00 -&gt; 00:18
+03-08 bzl 00:18 -&gt; 01:03
+9-14 nagz 01:03 -&gt; 01:36
+15-20 crome 01:36 -&gt; 02:05
+21-26 seablue 02:05 -&gt; 02:43
+27-31 sinny 02:43 -&gt; 03:10
+32-37 svenzzon 03:10 -&gt; 03:48
+38-44 zabutom 03:48 -&gt; 04:26
+45-53 dubmood 04:26 -&gt; 05:12
+54-102 funky fish and svenzzon 
+
+times above are experimental and probably NOT right :)</info>
+ <songlength>403</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 00:07:56</locked_until>
+ <lastplayed>2018-06-09 01:26:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1952">bzl</artist><artist id="1690">Crome</artist><artist id="2059">Dualtrax</artist><artist id="1373">Dubmood</artist><artist id="1388">Funky Fish</artist><artist id="838">Nagz</artist><artist id="1693">Seablue</artist><artist id="1694">Sinny</artist><artist id="1695">Svenzzon</artist><artist id="1692">Zabutore</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

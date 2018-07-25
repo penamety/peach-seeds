@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32615">
+ <title>Good Morning</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.0</rating>
+ <info>Ranked 7th in Nectarine&#39;s Spring Compo 2011.</info>
+ <songlength>273</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 17:38:08</locked_until>
+ <lastplayed>2018-05-27 12:41:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3986">Arne</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

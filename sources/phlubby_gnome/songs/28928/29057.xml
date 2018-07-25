@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29057">
+ <title>Resolution (extended version)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="102">4.6863</rating>
+ <info>Geir Tjelta Echofied 6581
+http://noname.c64.org/csdb/release/?id=91173</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 23:16:26</locked_until>
+ <lastplayed>2018-06-16 21:51:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>54948</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

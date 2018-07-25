@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41646">
+ <title>Space 2k2</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>Magtune, ProTracker 2.3d, 4ch
+Done for an issue of the &#34;Jurassic Pack&#34; mag series.</info>
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 20:39:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="199">Illi Recentes ImperatoreS [IRIS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

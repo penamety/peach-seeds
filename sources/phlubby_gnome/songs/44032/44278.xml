@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44278">
+ <title>Fuzzy Mutations</title>
+ <status v="A">Active</status>
+ <bitrate>267</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ 
+ <songlength>304</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 16:29:56</locked_until>
+ <lastplayed>2018-06-07 17:10:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>71412</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  <group id="496">Einklang.net</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

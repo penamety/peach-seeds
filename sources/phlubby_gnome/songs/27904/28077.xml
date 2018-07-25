@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28077">
+ <title>L&#39;anima Campa</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.8</rating>
+ <info>Winner of the streamed music compo @ tUM 2008.</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 02:34:05</locked_until>
+ <lastplayed>2018-06-12 03:29:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist><artist id="4045">Palindrome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

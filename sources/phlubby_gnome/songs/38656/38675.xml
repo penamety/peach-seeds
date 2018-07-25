@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38675">
+ <title>Mixture (live at Red Fez)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.5625</rating>
+ 
+ <songlength>305</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 18:30:32</locked_until>
+ <lastplayed>2017-11-18 15:02:58</lastplayed>
+ 
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

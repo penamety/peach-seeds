@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19983">
+ <title>Elmibub</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.6471</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-17 16:58:45</locked_until>
+ <lastplayed>2017-06-11 16:14:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="816">
+ <title>Oppenheimer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5625</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 22:06:45</locked_until>
+ <lastplayed>2018-03-17 05:07:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35609">
+ <title>Axel F Theme</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="30">3.8333</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 19:50:56</locked_until>
+ <lastplayed>2018-03-12 07:41:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>463</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>axel_foley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

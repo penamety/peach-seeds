@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35050">
+ <title>The Dance</title>
+ <status v="A">Active</status>
+ <bitrate>369</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5484</rating>
+ <info>3rd place in pc demo compo at the Ultimate Meeting 2011</info>
+ <songlength>279</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 22:37:54</locked_until>
+ <lastplayed>2018-02-20 14:00:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58261</pouetid>
+ <ytid>rBKnFvFyO_4</ytid>
+ 
+ 
+ <artists>
+  <artist id="5000">Coplan</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rBKnFvFyO_4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

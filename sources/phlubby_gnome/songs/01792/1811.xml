@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1811">
+ <title>Helen&#39;s Eyes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-24 08:11:22</locked_until>
+ <lastplayed>2017-06-15 19:33:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="334">Djamm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32875">
+ <title>New Ghost in Town</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.2889</rating>
+ <info>Ranked 3rd in the executable oldskool music compo at Revision 2011.</info>
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 12:52:13</locked_until>
+ <lastplayed>2018-03-05 17:16:16</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

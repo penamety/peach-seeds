@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26605">
+ <title>At Least Half a Size</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.4783</rating>
+ 
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 08:44:13</locked_until>
+ <lastplayed>2018-05-10 00:41:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="132">l|l|l</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

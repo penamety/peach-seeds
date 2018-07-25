@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9341">
+ <title>Dark Room</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.1389</rating>
+ 
+ <songlength>87</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 21:47:52</locked_until>
+ <lastplayed>2018-05-31 18:38:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9357</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

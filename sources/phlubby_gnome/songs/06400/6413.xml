@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6413">
+ <title>Fountain of Sighs</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="139">4.4892</rating>
+ <info>for the party v 4chn music compo denmark&#39;95</info>
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 05:29:27</locked_until>
+ <lastplayed>2018-06-07 10:10:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist><artist id="1285">Unreal</artist>
+ </artists>
+ <groups>
+  <group id="21">Pulse [PLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Nature</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

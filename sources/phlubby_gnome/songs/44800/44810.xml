@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44810">
+ <title>Bytes Nerdig</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="5">4.0</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 07:01:19</locked_until>
+ <lastplayed>2018-06-06 07:37:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5484">Fegolhuzz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

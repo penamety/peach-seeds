@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34592">
+ <title>Maximum Taste!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ 
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-14 03:22:30</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1716</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

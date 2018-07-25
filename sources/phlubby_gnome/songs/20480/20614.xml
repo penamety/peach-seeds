@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20614">
+ <title>Fusion Jazz 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-19 12:43:52</locked_until>
+ <lastplayed>2017-11-28 04:26:39</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

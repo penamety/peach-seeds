@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24948">
+ <title>Halfsome</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5417</rating>
+ <info>4th place in combined demo compo at Intel Demo Competition 2007</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 14:34:43</locked_until>
+ <lastplayed>2018-05-08 04:51:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31098</pouetid>
+ <ytid>8BcgWZ-HTQk</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="5055">DJ Holik</artist><artist id="1553">Sumo Lounge</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>IntelDemoCompetition</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8BcgWZ-HTQk</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44443">
+ <title>Altitude (Realtime)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">4.0</rating>
+ <info>This track won 1-st place at the DiHaltLite 2017 (Date: 6-8 January 2017.
+Place: Russia, Nizhny Novgorod city) dihalt.org.ru
+Compo: [url=https://exit.sc/?url=http%3A%2F%2Fevents.retroscene.org%2Fdhl2017%2Frt_le_AY]Realtime LowEnd AY-Music[/url]
+P.S.: Only 3 hours were given to write this composition.
+
+Release date: 7 January 2017</info>
+ <songlength>88</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:25:24</locked_until>
+ <lastplayed>2018-06-04 11:37:58</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5727">Quiet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Realtime</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/167053/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

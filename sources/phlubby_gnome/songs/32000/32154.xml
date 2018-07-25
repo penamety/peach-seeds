@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32154">
+ <title>Intel Outside</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.4737</rating>
+ 
+ <songlength>313</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-14 16:00:56</locked_until>
+ <lastplayed>2017-12-25 16:34:26</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

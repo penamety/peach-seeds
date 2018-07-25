@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34257">
+ <title>Give Me A Ping</title>
+ <status v="A">Active</status>
+ <bitrate>245</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>9th place in Nectarine Multichan Fall Compo</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 04:35:32</locked_until>
+ <lastplayed>2018-06-06 00:01:17</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

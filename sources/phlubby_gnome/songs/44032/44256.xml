@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44256">
+ <title>Joy in Sadness</title>
+ <status v="A">Active</status>
+ <bitrate>838</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">1.8571</rating>
+ <info>Made with Vortex Tracker II, recorded from ZX Spectrum 48 with a Wonder-AY interface (YM2149 Chip)
+</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 18:28:16</locked_until>
+ <lastplayed>2018-06-09 13:16:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5683">Garvalf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/152411/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

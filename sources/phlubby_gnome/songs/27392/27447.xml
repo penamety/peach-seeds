@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27447">
+ <title>A Long Long Way To Home</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>The debut release for the SandS from Xanah the Mage.</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 01:32:31</locked_until>
+ <lastplayed>2017-10-27 22:12:29</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3971">Xanah</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

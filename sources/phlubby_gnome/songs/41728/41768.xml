@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41768">
+ <title>thehit</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.4</rating>
+ 
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-29 11:06:12</locked_until>
+ <lastplayed>2017-11-05 07:02:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6254</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1687">Goto80</artist>
+ </artists>
+ <groups>
+  <group id="762">Up Rough</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

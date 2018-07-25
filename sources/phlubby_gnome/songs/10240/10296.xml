@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10296">
+ <title>Bent out of Shape</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.2568</rating>
+ 
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 05:47:42</locked_until>
+ <lastplayed>2018-05-20 22:12:41</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ <pouetid>47547</pouetid>
+ <ytid>O_b4I9bGl78</ytid>
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=O_b4I9bGl78</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

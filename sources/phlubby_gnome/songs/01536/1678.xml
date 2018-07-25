@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1678">
+ <title>Yo Africa!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">3.5352</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 08:36:09</locked_until>
+ <lastplayed>2018-05-22 03:23:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5679</pouetid>
+ <ytid>-E0Z8jILNYk</ytid>
+ <ytoffset>142</ytoffset>
+ 
+ <artists>
+  <artist id="319">Diablo</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-E0Z8jILNYk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43385">
+ <title>Are You Skilled?</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.5625</rating>
+ <info>https://elmobo.bandcamp.com/track/are-you-skilled</info>
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 18:07:02</locked_until>
+ <lastplayed>2018-05-28 12:49:06</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2679">El Mobo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5043">
+ <title>Ank</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.0</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-30 21:56:31</locked_until>
+ <lastplayed>2017-11-05 07:53:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist><artist id="5139">Psylocyb</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bigbeat</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

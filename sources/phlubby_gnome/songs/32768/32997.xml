@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32997">
+ <title>Starlight Cheese</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">4.2222</rating>
+ <info>released with the first Fromage music disk.
+Starry and dreamy cheese chip.</info>
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 17:45:05</locked_until>
+ <lastplayed>2018-05-09 19:40:44</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="668">Little Elk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Cheese</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

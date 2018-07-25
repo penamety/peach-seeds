@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="855">
+ <title>Abstract</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.25</rating>
+ <info>Horrific tune.  --- sqrmax</info>
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-03-16 09:35:27</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="160">Alec Empire</artist>
+ </artists>
+ <groups>
+  <group id="238">Calodox</group>
+ </groups>
+ 
+ <tags>
+  <tag>Explicit</tag>
+  
+  <tag>lowfi</tag>
+  
+  <tag>Rap</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

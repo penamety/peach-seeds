@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34863">
+ <title>Passing On</title>
+ <status v="A">Active</status>
+ <bitrate>188</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.2703</rating>
+ <info>6th place in pc demo compo at the Ultimate Meeting 2011
+</info>
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 04:02:00</locked_until>
+ <lastplayed>2018-06-13 21:31:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58263</pouetid>
+ <ytid>KUh6ThtQjCw</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KUh6ThtQjCw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

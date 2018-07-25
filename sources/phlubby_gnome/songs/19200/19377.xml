@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19377">
+ <title>Mr. Marvellous</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.6393</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 13:46:29</locked_until>
+ <lastplayed>2018-05-23 23:47:26</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2910">Jammer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>chiptalk</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31227">
+ <title>Wicked Cabaret Posse (Solyon Remix v2.0)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.2</rating>
+ 
+ <songlength>296</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 06:57:50</locked_until>
+ <lastplayed>2018-06-08 21:16:42</lastplayed>
+ 
+ <type id="5">Remix</type>
+ <pouetid>54203</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4581">Solyon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FrenchSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

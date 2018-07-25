@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37255">
+ <title>The Greetings Part</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 06:07:31</locked_until>
+ <lastplayed>2018-05-26 05:36:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60401</pouetid>
+ <ytid>hcIB__h-IaA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

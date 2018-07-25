@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40126">
+ <title>Animafest Invitation</title>
+ <status v="A">Active</status>
+ <bitrate>896</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>Soundtrack from &#34;Multimatograf X&#34; invitation by nyuk, g0blinish, shuran33, [artist]4010[/artist]</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 06:55:36</locked_until>
+ <lastplayed>2018-04-29 20:51:34</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>62453</pouetid>
+ <ytid>Cb6sRoqQxto</ytid>
+ 
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Cb6sRoqQxto</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/33723/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

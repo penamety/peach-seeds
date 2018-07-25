@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26629">
+ <title>Ready Kafka?</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.2667</rating>
+ <info>2nd place in pc demo compo at Breakpoint 2008</info>
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 08:00:54</locked_until>
+ <lastplayed>2018-05-23 06:06:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50127</pouetid>
+ <ytid>0R48MOXS7Wg</ytid>
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0R48MOXS7Wg</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

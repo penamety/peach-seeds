@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6032">
+ <title>Take on Me</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">3.9375</rating>
+ 
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 02:20:34</locked_until>
+ <lastplayed>2018-06-06 06:30:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ah-Ha</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>takeonme</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

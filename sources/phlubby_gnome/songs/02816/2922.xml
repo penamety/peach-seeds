@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2922">
+ <title>68000 Guru Music</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.5652</rating>
+ <info>composed by
+heatbeat of carillon!
+write to:
+heatbeat fan club!
+p.o. box 68
+sf-87101 kajaani
+finland
+commercial music job
+offers are welcome...
+watch out 4 our soon
+coming biig music box
+(six (=6!) disks!!)</info>
+ <songlength>379</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 18:02:23</locked_until>
+ <lastplayed>2018-05-22 11:57:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="540">Carillon</group>
+ </groups>
+ 
+ <tags>
+  <tag>NotOnPouet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

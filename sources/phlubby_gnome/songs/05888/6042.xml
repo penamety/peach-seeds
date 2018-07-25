@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6042">
+ <title>Weather Girl</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.4821</rating>
+ 
+ <songlength>83</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 04:41:08</locked_until>
+ <lastplayed>2018-06-05 11:33:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>35</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group><group id="125">Talent</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

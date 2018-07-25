@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18027">
+ <title>Strolling the Mines</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.7778</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 22:07:14</locked_until>
+ <lastplayed>2018-05-31 18:43:47</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Nintendo</tag>
+  
+  <tag>ocremix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

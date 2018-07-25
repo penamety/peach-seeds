@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6205">
+ <title>Think Twice 5</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 05:11:06</locked_until>
+ <lastplayed>2018-05-30 00:13:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>15035</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1003">Red</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

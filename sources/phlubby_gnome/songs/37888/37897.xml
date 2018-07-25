@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37897">
+ <title>Glow Worms</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0455</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 21:57:20</locked_until>
+ <lastplayed>2018-05-23 22:52:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>60273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1103">X-Ceed</artist>
+ </artists>
+ <groups>
+  <group id="581">Floppy [FLP]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

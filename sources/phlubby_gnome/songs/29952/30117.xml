@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30117">
+ <title>Movies</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.2778</rating>
+ 
+ <songlength>530</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 16:02:04</locked_until>
+ <lastplayed>2018-06-15 21:31:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14797</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>long</tag>
+  
+  <tag>theme</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

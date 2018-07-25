@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39112">
+ <title>Tropicana Marina</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>My contribution to Baroque Floppy People 4ch music compo. Reached 4:th place</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-10 21:53:28</locked_until>
+ <lastplayed>2017-10-22 00:22:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>BaroqueFloppyPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

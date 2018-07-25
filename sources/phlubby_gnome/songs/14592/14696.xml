@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14696">
+ <title>Beats Part 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 22:39:39</locked_until>
+ <lastplayed>2017-11-02 16:34:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2283">Bay Tremore</artist>
+ </artists>
+ <groups>
+  <group id="482">Loveboat [LUV]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

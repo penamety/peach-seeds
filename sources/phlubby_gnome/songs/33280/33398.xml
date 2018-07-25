@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33398">
+ <title>Oyster Blues</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.619</rating>
+ <info>An entry for Skenery 1998 synth compo, ranked 2nd.</info>
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 03:16:39</locked_until>
+ <lastplayed>2018-05-18 01:19:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>3169</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1806">Abaddon</artist><artist id="5141">Vent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

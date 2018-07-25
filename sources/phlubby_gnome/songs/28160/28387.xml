@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28387">
+ <title>Coldplay - Clocks 8Bit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.2903</rating>
+ <info>Clocks by Coldplay, the Chiptune version</info>
+ <songlength>292</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-04 14:13:03</locked_until>
+ <lastplayed>2017-08-24 13:08:50</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2193">Advertise Play</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26039">
+ <title>Consert in Space</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.5854</rating>
+ 
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 09:44:31</locked_until>
+ <lastplayed>2018-05-29 08:41:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12211</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xEfJJ-3WFDw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

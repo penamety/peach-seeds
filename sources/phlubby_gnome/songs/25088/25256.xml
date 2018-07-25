@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25256">
+ <title>Alfred Chicken - Title1 midi</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ 
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-10 13:48:37</locked_until>
+ <lastplayed>2017-07-01 09:38:41</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

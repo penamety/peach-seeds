@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35413">
+ <title>0115. Tone Deaf Leppard</title>
+ <status v="A">Active</status>
+ <bitrate>310</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.6087</rating>
+ <info>3rd place in necta sample compo @ February 2012
+
+Using cabinet simulator, filters, eqs, bionic delay 1.2, lfos, distortions, camelspace, reverb</info>
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 13:25:00</locked_until>
+ <lastplayed>2018-04-11 03:03:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

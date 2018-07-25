@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42528">
+ <title>Pullback</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:01:12</locked_until>
+ <lastplayed>2018-06-08 19:02:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12765</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="390">Dynamic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35829">
+ <title>Icefall Chillout</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.1071</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 09:57:27</locked_until>
+ <lastplayed>2018-06-16 01:04:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>59049</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Hugi</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

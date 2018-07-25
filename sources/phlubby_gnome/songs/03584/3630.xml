@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3630">
+ <title>Lemon Announce (1 and 2)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2778</rating>
+ <info>[url=ftp://ftp.modland.com/pub/modules/Protracker/Julius/part1.announce.mod]Download part 1 .mod[/url]
+[url=ftp://ftp.modland.com/pub/modules/Protracker/Julius/part2.announce.mod]Download part 2 .mod[/url]</info>
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:27:11</locked_until>
+ <lastplayed>2018-06-14 20:52:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>411</pouetid>
+ <ytid>eNeVJTGNAG4</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="597">Julius</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AuoOmU8ACJo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=801</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/164/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

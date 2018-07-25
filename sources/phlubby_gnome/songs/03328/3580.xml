@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3580">
+ <title>Suspiria</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.4478</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:39:02</locked_until>
+ <lastplayed>2018-05-27 03:26:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133687/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

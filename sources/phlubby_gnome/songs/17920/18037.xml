@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18037">
+ <title>Dlm4 Shortcutted</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.9333</rating>
+ 
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-25 14:45:17</locked_until>
+ <lastplayed>2017-10-30 13:47:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8076</pouetid>
+ <ytid>AWK-lsvfKaQ</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="425">Fabian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AWK-lsvfKaQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

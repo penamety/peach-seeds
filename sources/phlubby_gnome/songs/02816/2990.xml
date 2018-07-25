@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2990">
+ <title>Olen Iloinen</title>
+ <status v="A">Active</status>
+ <bitrate>166</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">2.2234</rating>
+ 
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 22:24:01</locked_until>
+ <lastplayed>2018-06-08 07:21:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>31149</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

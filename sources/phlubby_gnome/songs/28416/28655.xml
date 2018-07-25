@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28655">
+ <title>Commence/Collapse</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.1343</rating>
+ <info>Winner of the Executable Music (Newschool) compo at Breakpoint 2010!</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 12:09:55</locked_until>
+ <lastplayed>2018-06-10 03:01:00</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

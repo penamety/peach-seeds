@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5826">
+ <title>Bussimatkailumusa</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.6</rating>
+ 
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 04:50:50</locked_until>
+ <lastplayed>2018-03-05 05:38:08</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>9192</pouetid>
+ <ytid>SLS7EGTafhQ</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

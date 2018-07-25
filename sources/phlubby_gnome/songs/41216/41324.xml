@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41324">
+ <title>Assault on Arkham</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>► ASSAULT ON ARKHAM
+► Written by melcom
+► Composed with Schism Tracker in 2014
+
+more tracks @ [url]https://www.facebook.com/melcom2630[/url]
+
+► MP3 Download: [url]https://soundcloud.com/melcom/assault-on-arkham[/url]
+► MP3 Download: [url]https://hearthis.at/melcom/assault-on-arkham/[/url]
+► IT-Module Download: [url]http://bit.ly/AoA_IT[/url]</info>
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-01-22 18:45:42</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>Vy9WD2T0cuw</ytid>
+ 
+ 
+ <artists>
+  <artist id="766">Melcom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arkham</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Vy9WD2T0cuw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Vy9WD2T0cuw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

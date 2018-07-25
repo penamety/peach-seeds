@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8710">
+ <title>Enigma Gun</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.69</rating>
+ <info>really good amiga sid1.tune (sidmon1)</info>
+ <songlength>146</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 14:58:15</locked_until>
+ <lastplayed>2018-05-21 13:52:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>25576</pouetid>
+ <ytid>sjkza8mkbs8</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

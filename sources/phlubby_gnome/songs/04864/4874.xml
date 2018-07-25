@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4874">
+ <title>Deadline</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.4839</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 01:23:39</locked_until>
+ <lastplayed>2018-05-18 08:38:34</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist><artist id="2026">Mitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

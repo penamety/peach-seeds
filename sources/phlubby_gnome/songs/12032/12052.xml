@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12052">
+ <title>Do it Demo style</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-08 12:50:43</locked_until>
+ <lastplayed>2017-10-19 18:39:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>51552</pouetid>
+ <ytid>JypJ6V7iZ-I</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

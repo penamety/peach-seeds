@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11618">
+ <title>Virtuous View (I love II Arrange)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.2617</rating>
+ 
+ <songlength>410</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:10:45</locked_until>
+ <lastplayed>2018-05-25 19:06:39</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1799">Chibi-Tech</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Bleepy</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

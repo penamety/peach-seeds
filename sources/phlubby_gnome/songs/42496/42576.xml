@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42576">
+ <title>In Limbo</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.2105</rating>
+ <info>My contribution for Chiperia #4 released in November 2015. 
+
+New child expected early May, uncertainties regarding work, commitments piling up.. Inspiration is good though, but time is short :)</info>
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 11:01:12</locked_until>
+ <lastplayed>2018-03-17 02:21:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66647</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Chiperia</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

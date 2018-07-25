@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8593">
+ <title>Rise</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">4.506</rating>
+ <info>3rd place in pc 64k compo at Mekka &amp; Symposium 2001
+
+great moody xm chiptune.</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 20:02:01</locked_until>
+ <lastplayed>2018-05-27 05:49:29</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1893</pouetid>
+ <ytid>8qhiz9t9rqE</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1632">A-move</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  <group id="317">Park Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8qhiz9t9rqE</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

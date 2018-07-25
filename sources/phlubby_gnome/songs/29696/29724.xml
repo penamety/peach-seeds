@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29724">
+ <title>Alcatraz</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Converted from TFMX to MOD (orig by Chris Hülsbeck)</info>
+ <songlength>40</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 23:31:35</locked_until>
+ <lastplayed>2018-05-16 22:33:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

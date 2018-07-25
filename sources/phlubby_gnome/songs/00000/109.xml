@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="109">
+ <title>Zapped Out</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.7447</rating>
+ <info>From the module :
+[code]i dont see why we
+need all these silly
+chip music writers
+because if you havent
+already realised.dis
+is chip music.
+but it was done on
+noisetracker. its
+called mts. the multi
+tone system. it was
+designed and finished
+by 4-mat of anarchy
+look out for a new
+mts-tracker coming
+soon. music:4-mat[/code]
+Thanks [user]lroy[/user] for sharing your love with the &#34;old ladies&#34; !</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 15:26:21</locked_until>
+ <lastplayed>2018-05-09 13:44:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9079</pouetid>
+ <ytid>P9ge1GtwJAI</ytid>
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>StolenData</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?63570</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10900">
+ <title>Bye bye -mix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">1.8235</rating>
+ 
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 02:16:28</locked_until>
+ <lastplayed>2018-03-16 16:40:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1873">Dezecrator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

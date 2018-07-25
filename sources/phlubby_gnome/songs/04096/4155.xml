@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4155">
+ <title>The Eagle is Flying</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-25 07:14:28</locked_until>
+ <lastplayed>2017-07-15 13:06:02</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

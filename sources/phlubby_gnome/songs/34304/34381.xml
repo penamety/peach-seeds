@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34381">
+ <title>Magical Fountain</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.3846</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 02:24:08</locked_until>
+ <lastplayed>2018-06-08 14:22:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>18730</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2897">Intensity</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>diskmag</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

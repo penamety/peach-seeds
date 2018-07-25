@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35355">
+ <title>The Curse</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0769</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 13:35:57</locked_until>
+ <lastplayed>2018-04-09 14:59:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>25801</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="662">SHAPE</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

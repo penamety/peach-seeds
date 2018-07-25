@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42302">
+ <title>Ombres</title>
+ <status v="A">Active</status>
+ <bitrate>168</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.4444</rating>
+ 
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 06:07:10</locked_until>
+ <lastplayed>2018-06-17 05:47:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61170</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5491">XyCe</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

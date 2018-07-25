@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37761">
+ <title>Christmas remix (Jingle bells)</title>
+ <status v="A">Active</status>
+ <bitrate>169</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.7083</rating>
+ <info>Authentic recording from Stone Oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 19:26:46</locked_until>
+ <lastplayed>2018-05-25 02:23:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  <group id="277">Scoop Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=22051</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

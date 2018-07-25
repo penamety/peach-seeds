@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20498">
+ <title>Seventh</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.3721</rating>
+ 
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 02:25:49</locked_until>
+ <lastplayed>2018-06-12 16:27:47</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>29746</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3938">Zeebr</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>DiHALT</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12971</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

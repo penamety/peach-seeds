@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6070">
+ <title>Over the Mountains</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.9</rating>
+ 
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 22:16:53</locked_until>
+ <lastplayed>2018-03-03 03:13:59</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ <ytid>nEfI7o10I90</ytid>
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nEfI7o10I90</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

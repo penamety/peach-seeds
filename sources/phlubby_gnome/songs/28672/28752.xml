@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28752">
+ <title>Oldskooltrance</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.2969</rating>
+ <info>2nd at Sundown 2008 streaming music competition</info>
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 01:22:14</locked_until>
+ <lastplayed>2018-05-30 21:50:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>56147</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

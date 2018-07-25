@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31019">
+ <title>Decadentia</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 17:51:07</locked_until>
+ <lastplayed>2018-06-17 11:15:26</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11927</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1637">JosSs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Ifparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

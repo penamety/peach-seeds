@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1698">
+ <title>The Voice</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.3673</rating>
+ 
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 07:27:34</locked_until>
+ <lastplayed>2018-05-29 19:01:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2054">Evade</artist><artist id="740">Martyn</artist>
+ </artists>
+ <groups>
+  <group id="324">Discofrillorna</group>
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

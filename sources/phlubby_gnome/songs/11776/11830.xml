@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11830">
+ <title>Pocket Groove</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 05:33:11</locked_until>
+ <lastplayed>2017-10-29 16:49:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

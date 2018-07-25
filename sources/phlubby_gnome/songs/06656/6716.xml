@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6716">
+ <title>Blue Max</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.3415</rating>
+ <info>&#34;Rule, Britannia!&#34;, a song composed by Thomas Arne in 1740 after the words of James Thomson.</info>
+ <songlength>54</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 18:58:30</locked_until>
+ <lastplayed>2018-05-01 10:27:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>9934</pouetid>
+ <ytid>hv53rnaYAB8</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1143">Stephen C. Biggs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1983</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>EarlySID</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=310</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

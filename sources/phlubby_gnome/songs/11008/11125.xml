@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11125">
+ <title>I Brought a Potato Through Customs, and Now We&#39;ll All Die!</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.4231</rating>
+ <info>My 16K executable music entry from Solskogen 2009, july 17-19. 
+
+Came in 2nd of only 4 entries in the combined compo of 16k-exe and oldschool music, which was won by LoadError.
+
+Music: Punqtured / Fnuque
+Synth: Revival / Fnuque
+
+Created using Renoise and the &#34;null_drei&#34;-softsynth. Packed using Crinkler by Blueberry &amp; Mentor. 
+
+Size of executable: 16315 bytes.
+Number of instruments: 11
+Number of unique tracks: 89
+</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 14:33:55</locked_until>
+ <lastplayed>2018-05-27 08:56:27</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>softsynth</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

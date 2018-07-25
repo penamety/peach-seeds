@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35867">
+ <title>Trance Mission</title>
+ <status v="A">Active</status>
+ <bitrate>246</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0</rating>
+ 
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 13:20:43</locked_until>
+ <lastplayed>2018-06-05 04:55:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

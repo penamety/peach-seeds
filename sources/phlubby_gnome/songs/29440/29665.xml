@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29665">
+ <title>Chiprape</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.2955</rating>
+ 
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 15:24:51</locked_until>
+ <lastplayed>2018-06-08 14:30:17</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1817">STU</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+  <tag>Groovy</tag>
+  
+  <tag>PumpUpTheVolume</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

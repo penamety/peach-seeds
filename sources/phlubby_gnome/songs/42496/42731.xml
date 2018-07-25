@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42731">
+ <title>Fruity Liquids</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0</rating>
+ <info>Music from the latest OCS-Farts Intro &#34;Wedding Whishes Optic&#34; also featured on the Fruit&#39;Y Video Game by Retroguru</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 01:11:58</locked_until>
+ <lastplayed>2018-05-13 05:08:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>66776</pouetid>
+ <ytid>5HDRiklBaHc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>OCS</tag>
+  
+  <tag>protracker</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5HDRiklBaHc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

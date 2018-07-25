@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41827">
+ <title>Starshower</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.8947</rating>
+ <info>Spacee</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 19:13:02</locked_until>
+ <lastplayed>2018-05-15 16:59:50</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11706">
+ <title>Jockel der Gartenteichspringbrunnen</title>
+ <status v="A">Active</status>
+ <bitrate>177</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="119">3.1008</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 16:19:15</locked_until>
+ <lastplayed>2018-06-11 20:00:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1418">Jakob Bienenhalm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Falsetto</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>joke</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

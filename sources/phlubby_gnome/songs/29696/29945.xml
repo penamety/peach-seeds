@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29945">
+ <title>Every</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="47">4.4255</rating>
+ 
+ <songlength>97</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 15:30:03</locked_until>
+ <lastplayed>2018-05-27 11:36:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>55738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

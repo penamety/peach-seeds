@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9924">
+ <title>Mawiyah</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="150">4.5067</rating>
+ <info>please remove the other upload, it was the crappy demo mp3, this one has better bitrate (but it doesn&#39;t exist, so I guess it&#39;s unlimited bitrate and sure, that&#39;s alot better :necta: )</info>
+ <songlength>349</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 01:16:48</locked_until>
+ <lastplayed>2018-05-25 06:59:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>7187</pouetid>
+ <ytid>e5NUQnT7mpE</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="2214">ArabCore</artist>
+ </artists>
+ <groups>
+  <group id="212">Armada</group><group id="454">Bandwagon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Ethnic</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e5NUQnT7mpE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="801">
+ <title>Mr. Y</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.95</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 14:56:59</locked_until>
+ <lastplayed>2017-10-05 00:24:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="144">Brothomstates</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+  <tag>weird</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

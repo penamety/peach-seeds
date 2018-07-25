@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42883">
+ <title>Double Danger Action Agents</title>
+ <status v="A">Active</status>
+ <bitrate>95</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ 
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 08:01:46</locked_until>
+ <lastplayed>2017-10-27 15:54:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9454</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3275">Nemo</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

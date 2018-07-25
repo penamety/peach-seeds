@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16661">
+ <title>I am Free [CJ&#39;s Pantheon rmx]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="96">3.4375</rating>
+ <info>Vocals by Dirk</info>
+ <songlength>362</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 03:31:54</locked_until>
+ <lastplayed>2018-06-16 19:45:26</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

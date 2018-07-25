@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7238">
+ <title>Occ-san-geen</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="118">4.5763</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 13:06:43</locked_until>
+ <lastplayed>2018-06-13 08:50:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4632</pouetid>
+ <ytid>8nkgwkOseAM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8nkgwkOseAM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

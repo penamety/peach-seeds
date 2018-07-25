@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33527">
+ <title>AA3</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.6923</rating>
+ <info>8th place in newschool music compo at Solskogen 2011</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-11 06:59:27</locked_until>
+ <lastplayed>2018-01-19 04:13:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

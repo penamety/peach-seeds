@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29694">
+ <title>Wind Under My Wings</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">3.6629</rating>
+ <info>Soundtrack from winner demo of Euskal 2010.
+
+[i]Lyrics:
+
+I feel,
+a minute of confusion
+I fear,
+the venom of seclusion in my mind
+
+I seal,
+a fate no less than perfect
+I steal,
+the life that someone left in my back yard
+
+Hear the call
+Break the wall
+Run for it or take the fall
+
+Standing tall
+Make the call
+Not afraid to lose it all
+
+Always slow
+Taste the flow
+Never been before so low
+
+But here I lay
+Roles I play
+Much to everyone&#39;s dismay
+
+No more rings
+Binding strings
+I want the wind under my wings[/i]</info>
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:30:58</locked_until>
+ <lastplayed>2018-06-05 19:56:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55418</pouetid>
+ <ytid>KSTEkgVI0wI</ytid>
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=L8Q2q8OP-5I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KSTEkgVI0wI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

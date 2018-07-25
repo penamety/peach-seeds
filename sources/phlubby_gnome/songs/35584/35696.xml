@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35696">
+ <title>Shoal</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>2nd place in pc 4k compo at Revision 2012</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 07:49:23</locked_until>
+ <lastplayed>2018-04-30 16:01:24</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59076</pouetid>
+ <ytid>ROqNpTpOrrw</ytid>
+ 
+ 
+ <artists>
+  <artist id="904">Parsec</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ROqNpTpOrrw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

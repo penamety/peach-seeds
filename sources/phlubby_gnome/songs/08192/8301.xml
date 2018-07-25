@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8301">
+ <title>Project Genesis (Part 2)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>1st place in pc 64k compo at Breakpoint 2003</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-01 09:41:41</locked_until>
+ <lastplayed>2017-07-25 22:10:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9438</pouetid>
+ <ytid>PU94o9nAKRM</ytid>
+ <ytoffset>169</ytoffset>
+ 
+ <artists>
+  <artist id="1414">Innocent</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PU94o9nAKRM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

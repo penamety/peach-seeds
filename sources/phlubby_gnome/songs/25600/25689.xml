@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25689">
+ <title>Lemmings - Tim 4</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.5882</rating>
+ 
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-15 09:01:36</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

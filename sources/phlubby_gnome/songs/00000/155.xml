@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="155">
+ <title>Clown Meets Clown</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.7931</rating>
+ 
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 15:23:11</locked_until>
+ <lastplayed>2018-03-22 16:11:03</lastplayed>
+ <platform id="41">64K exe</platform>
+ 
+ <pouetid>915</pouetid>
+ <ytid>qI_p0QJ_0hg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5456">Simon</artist>
+ </artists>
+ <groups>
+  <group id="172">Acme</group><group id="338">Fudge</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?37797</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

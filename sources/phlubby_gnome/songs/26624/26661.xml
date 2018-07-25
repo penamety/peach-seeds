@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26661">
+ <title>Artillery</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="178">4.7191</rating>
+ <info>According to Geir, this is his first tune since 1996, and a follow-up of &#34;A New Beginning&#34;.</info>
+ <songlength>454</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 23:27:10</locked_until>
+ <lastplayed>2018-06-13 15:25:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ <pouetid>53536</pouetid>
+ <ytid>DqV63Ub_Ew4</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group><group id="741">Shape Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+  <tag>long</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IPghQqBFDPE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/162/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=81198</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

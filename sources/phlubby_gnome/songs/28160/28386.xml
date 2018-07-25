@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28386">
+ <title>Groove</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.5319</rating>
+ <info>MOS6581R2</info>
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 00:45:23</locked_until>
+ <lastplayed>2018-05-28 14:22:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>2480</pouetid>
+ <ytid>XGkTG4qsv5Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

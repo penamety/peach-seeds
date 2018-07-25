@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7325">
+ <title>Pink Panther Mix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">1.7541</rating>
+ 
+ <songlength>406</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-01 06:08:42</locked_until>
+ <lastplayed>2018-06-09 21:00:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>20223</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1699">X-Poole</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>shout</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

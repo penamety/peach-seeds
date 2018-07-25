@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38632">
+ <title>Suburban Song</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8571</rating>
+ 
+ <songlength>388</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 06:31:00</locked_until>
+ <lastplayed>2018-06-16 07:54:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

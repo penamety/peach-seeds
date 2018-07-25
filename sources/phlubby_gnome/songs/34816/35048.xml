@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35048">
+ <title>Salmiakki</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.3529</rating>
+ <info>1st place in pc 64k compo at Buenzli 2002</info>
+ <songlength>233</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 10:56:49</locked_until>
+ <lastplayed>2018-02-05 23:57:22</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>7276</pouetid>
+ <ytid>0A0QYKyuGIk</ytid>
+ 
+ 
+ <artists>
+  <artist id="957">Xhale</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0A0QYKyuGIk</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9332">
+ <title>Distant Voyager (Space Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.1463</rating>
+ <info>Collaboration with (me) Spiral and Haggeman. This version is quite similar to the Retro 64 mix but is slightly altered with some other instruments.</info>
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 06:45:17</locked_until>
+ <lastplayed>2018-05-22 02:59:57</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="506">Haggeman</artist><artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41918">
+ <title>The Stone Pavilion</title>
+ <status v="A">Active</status>
+ <bitrate>217</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ <info>:: Credits ::
+
+ - shash/Collapse: code, design, sync, graphics
+ - slack/Collapse: music, additionnal sync, additionnal size optimizations
+ - Merry/Excision: music
+        
+ - gopher &amp; pOWL: 4klang
+ - Blueberry &amp; Mentor: crinkler
+ - Ctrl-Alt-Test: ShaderMinifier
+
+:: Greets ::
+
+Genshiken, Bixo, Software Failure, Nocturns, Necrostudios, Spontz, None,  Fuzzion,  Still, Accession,  Min&amp;Merry, iq, unai,  Xernobyl and all the  people we forgot, or haven&#39;t been to a party since the dark ages.</info>
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 22:13:27</locked_until>
+ <lastplayed>2018-05-01 03:19:12</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>65334</pouetid>
+ <ytid>6Ft8mI360Qo</ytid>
+ 
+ 
+ <artists>
+  <artist id="5341">Merry</artist><artist id="5340">Slack</artist>
+ </artists>
+ <groups>
+  <group id="824">Excision</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6Ft8mI360Qo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

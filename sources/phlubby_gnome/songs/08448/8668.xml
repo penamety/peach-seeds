@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8668">
+ <title>Acidjazzed Evening</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="138">4.6232</rating>
+ 
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 08:35:21</locked_until>
+ <lastplayed>2018-05-24 10:57:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  <group id="424">Damage [DMG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?66334</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

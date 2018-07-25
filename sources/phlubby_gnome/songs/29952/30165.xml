@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30165">
+ <title>Wild Imaginations</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.3</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 05:51:49</locked_until>
+ <lastplayed>2017-11-19 15:20:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>2749</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

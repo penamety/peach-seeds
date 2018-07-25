@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12551">
+ <title>SpaceJourney (extended)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">4.2021</rating>
+ 
+ <songlength>416</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 23:33:39</locked_until>
+ <lastplayed>2018-05-06 00:00:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>riot</tag>
+  
+  <tag>teenage</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

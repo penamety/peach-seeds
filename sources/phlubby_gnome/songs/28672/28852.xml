@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28852">
+ <title>Rainbow Runner</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.3509</rating>
+ <info>Winner of the multichannel compo at Remedy 2001.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:33:20</locked_until>
+ <lastplayed>2018-05-26 13:29:50</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="860">Nighthawk</artist><artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Remedy</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

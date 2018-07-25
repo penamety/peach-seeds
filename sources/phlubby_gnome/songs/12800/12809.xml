@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12809">
+ <title>Streets Of Rage 2 - ending theme (reflecting mix)</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>Original by Yuzo Koshiro &amp; Motohiro Kawashima.</info>
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 06:43:32</locked_until>
+ <lastplayed>2018-05-18 04:55:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="994">Rayza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://project2612.org/details.php?id=56</url>
+    <comment></comment>
+    <type id="10">
+        <name>Project2612</name>
+        <icon>/static/media/linkicons/project2612-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

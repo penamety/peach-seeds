@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34037">
+ <title>Sway</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.7368</rating>
+ 
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-13 03:17:06</locked_until>
+ <lastplayed>2017-11-24 05:58:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4861</pouetid>
+ <ytid>xg49wQSscDk</ytid>
+ 
+ 
+ <artists>
+  <artist id="3796">Trixal</artist><artist id="1833">Vortex</artist>
+ </artists>
+ <groups>
+  <group id="104">Cryptoburners</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xg49wQSscDk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

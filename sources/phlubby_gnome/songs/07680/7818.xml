@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7818">
+ <title>Colgate - title</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0</rating>
+ 
+ <songlength>82</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 13:29:08</locked_until>
+ <lastplayed>2018-04-10 11:03:38</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5885</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19647">
+ <title>Let Ze Djoard Bells Ring</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 21:11:12</locked_until>
+ <lastplayed>2018-01-24 06:29:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

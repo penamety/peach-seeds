@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40378">
+ <title>Schneider CPC</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.7143</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 18:53:16</locked_until>
+ <lastplayed>2018-03-14 12:50:11</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Schneider</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

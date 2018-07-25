@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44072">
+ <title>Suddenly</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ 
+ <songlength>262</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 19:39:23</locked_until>
+ <lastplayed>2018-04-16 08:33:50</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>69769</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11554">
+ <title>Choose Zero Polys and Shaders (1in10 Trance Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.2295</rating>
+ <info>3rd place in combined demo at Assembly 2006
+
+The credits soundtrack to the KWL&amp;MFX demo &#34;1995&#34;
+
+Download Link: http://www.kewlers.scene.org/bitchard/tunes/Little_Bitchard_-_Choose_Zero_Polys_and_Shaders_(1in10_Trance_rmx).mp3</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 22:42:07</locked_until>
+ <lastplayed>2018-06-15 08:51:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>25783</pouetid>
+ <ytid>weGYilwd1YI</ytid>
+ <ytoffset>232</ytoffset>
+ 
+ <artists>
+  <artist id="1616">1in10</artist><artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=weGYilwd1YI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

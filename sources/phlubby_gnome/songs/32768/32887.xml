@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32887">
+ <title>Moon &amp; Ash</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="31">3.9032</rating>
+ <info>Entry for darkCompo 03. 
+Co-op written with Aymes (Andy Yates).</info>
+ <songlength>321</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 02:03:00</locked_until>
+ <lastplayed>2018-05-20 01:57:19</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="79">Aymes</artist><artist id="668">Little Elk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

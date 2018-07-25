@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33783">
+ <title>Once More</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.6667</rating>
+ <info>7th place in Oldskool music competition at Assembly 2006</info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 16:06:49</locked_until>
+ <lastplayed>2018-05-19 04:57:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>checkthisout</tag>
+  
+  <tag>getdown</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

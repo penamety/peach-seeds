@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31324">
+ <title>Say No 4 Jazz-Step</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:46:12</locked_until>
+ <lastplayed>2018-06-04 05:43:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1562</pouetid>
+ <ytid>RDof1GQZX5E</ytid>
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist><artist id="957">Xhale</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RDof1GQZX5E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

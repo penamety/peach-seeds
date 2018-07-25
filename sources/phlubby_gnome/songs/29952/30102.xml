@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30102">
+ <title>Nitesong</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">4.0</rating>
+ 
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 06:31:15</locked_until>
+ <lastplayed>2018-03-11 04:52:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13818</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4396">Joker (ru)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

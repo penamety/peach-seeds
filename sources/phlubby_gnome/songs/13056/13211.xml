@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13211">
+ <title>Ricochet</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.2</rating>
+ <info>Firebird, 1988
+
+The recording is taken from Stone Oakvalley&#39;s collection
+
+This seems to be a tough song for SID to play due to the heavy use of samples.
+
+This 8580-R5-chip recording was the only one in which a lead instrument was clearly audible during the &#34;chorus&#34; so I picked this one. However, R5 recording has too silent intro so I took the first ten seconds from a 6581-R2 recording.
+
+Especially the end sounds murky but so it does in the other recordings as well...</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 11:14:42</locked_until>
+ <lastplayed>2018-03-17 17:14:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>C64samples</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2139</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

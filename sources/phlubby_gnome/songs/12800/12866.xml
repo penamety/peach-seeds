@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12866">
+ <title>Katram 3 (modified)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 21:29:41</locked_until>
+ <lastplayed>2018-04-30 03:16:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3">2pac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Katram</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

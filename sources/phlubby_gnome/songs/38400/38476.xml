@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38476">
+ <title>Coca Koala</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.303</rating>
+ <info>http://csdb.dk/release/?id=109193</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 11:38:56</locked_until>
+ <lastplayed>2018-05-23 12:33:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43616">
+ <title>Remote Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>End Music of the Demo &#34;Vector Eye-Candy&#34; by Insane released 2016-11-26 at Compusphere Demoparty in Gothenburg.
+
+Due to the fact that the demo needed a channel for sfx it was all tracked in three channels.
+
+Coop-tune by Vedder and Triace</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 21:10:42</locked_until>
+ <lastplayed>2018-03-11 10:58:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>68563</pouetid>
+ <ytid>osO_QeFwBXM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist><artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=osO_QeFwBXM</url>
+    <comment>endpart starts at 15:50</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/165579/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4100">
+ <title>Never Ending Story 4ch</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 08:49:32</locked_until>
+ <lastplayed>2018-04-03 19:03:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>GiorgioMoroder</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10505">
+ <title>Amiga goes heavy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.25</rating>
+ <info>Odd mixture of electronic zap-sounds, distorted guitars, electro-style drums and a lead flute.</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 13:34:35</locked_until>
+ <lastplayed>2017-11-21 17:07:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>electronic</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

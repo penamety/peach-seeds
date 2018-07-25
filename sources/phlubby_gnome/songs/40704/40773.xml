@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40773">
+ <title>Greetings to Buzzer</title>
+ <status v="A">Active</status>
+ <bitrate>186</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.1071</rating>
+ <info>Entry for Assembly 2014 Dance Music Competition</info>
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 14:40:29</locked_until>
+ <lastplayed>2018-06-04 09:01:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

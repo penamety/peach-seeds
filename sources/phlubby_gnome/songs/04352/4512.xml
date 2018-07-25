@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4512">
+ <title>Jazzy Nork</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7813</rating>
+ 
+ <songlength>84</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 23:09:26</locked_until>
+ <lastplayed>2018-06-16 00:30:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3023</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

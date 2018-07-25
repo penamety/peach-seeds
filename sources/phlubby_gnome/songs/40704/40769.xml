@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40769">
+ <title>Waterfall</title>
+ <status v="A">Active</status>
+ <bitrate>268</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>3SID Music</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 09:41:15</locked_until>
+ <lastplayed>2018-01-26 03:25:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>63922</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5524">Gaetano Chiummo</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

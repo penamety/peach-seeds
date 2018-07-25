@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37087">
+ <title>Rocky Star (Intro)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ 
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 12:44:15</locked_until>
+ <lastplayed>2018-05-10 08:47:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>45745</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1782">Future Freak</artist>
+ </artists>
+ <groups>
+  <group id="222">Dexion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=12658</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43973">
+ <title>DemoTune</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ 
+ <songlength>42</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 15:13:44</locked_until>
+ <lastplayed>2018-03-13 09:33:02</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="665">LioZ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

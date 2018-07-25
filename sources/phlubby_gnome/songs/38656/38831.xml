@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38831">
+ <title>Detroyt</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.7143</rating>
+ <info>Track 4 iNViTaTioN &#39;Make it 2day&#39;
+
+Soundtrack from &#34;Detroyt&#34; demo by triebkraft &amp; 4th Dimension, 1st at Ascii 2003.</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 02:17:42</locked_until>
+ <lastplayed>2018-05-15 15:48:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9698</pouetid>
+ <ytid>Pe37RjEzAfk</ytid>
+ 
+ 
+ <artists>
+  <artist id="4701">Black Groove</artist>
+ </artists>
+ <groups>
+  <group id="796">4th Dimension [4D]</group><group id="215">Triad</group><group id="554">Triebkraft</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Ascii</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Pe37RjEzAfk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=4919</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/28303/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

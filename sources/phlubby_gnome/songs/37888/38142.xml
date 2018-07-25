@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38142">
+ <title>Thursday Night</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>Ne7s contribution to Datastorm 2013 Amiga music competition - reached 4:th place</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 04:23:23</locked_until>
+ <lastplayed>2017-11-02 07:46:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3266">Ne7</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

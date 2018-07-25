@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29842">
+ <title>Gone with the Storm</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.0816</rating>
+ 
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 10:36:52</locked_until>
+ <lastplayed>2018-05-25 23:13:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>51760</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="233">CONS</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>autotune</tag>
+  
+  <tag>Emo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

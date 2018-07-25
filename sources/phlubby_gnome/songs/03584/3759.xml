@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3759">
+ <title>Autark issue 1</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2286</rating>
+ 
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 17:03:07</locked_until>
+ <lastplayed>2018-06-01 06:06:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ <pouetid>2266</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

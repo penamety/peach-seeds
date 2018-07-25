@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42691">
+ <title>Rudolf Med Roda Mulen</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ 
+ <songlength>57</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-29 23:22:27</locked_until>
+ <lastplayed>2018-06-17 11:10:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66739</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

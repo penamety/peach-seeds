@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43652">
+ <title>Never Liked Gyros!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ 
+ <songlength>53</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 20:42:46</locked_until>
+ <lastplayed>2018-03-18 11:53:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>14066</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

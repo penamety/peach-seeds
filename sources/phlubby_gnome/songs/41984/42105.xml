@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42105">
+ <title>Connected</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.5789</rating>
+ <info>Tune from C64 demo We Are All Connected by Fairlight/Offence/Prosonix.
+First place at Datastorm 2014.
+http://csdb.dk/release/?id=129091</info>
+ <songlength>418</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 15:20:00</locked_until>
+ <lastplayed>2018-06-06 09:21:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>62566</pouetid>
+ <ytid>6slGZQlBxnU</ytid>
+ <ytoffset>96</ytoffset>
+ 
+ <artists>
+  <artist id="5411">Scarzix</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=129091</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/100576/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

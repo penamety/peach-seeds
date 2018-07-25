@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30137">
+ <title>Interstellar Crusader - Stage 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.8974</rating>
+ <info>Roland MT-32. Nectarine Compo#7 - Game tune.</info>
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-30 08:06:34</locked_until>
+ <lastplayed>2017-08-25 00:41:24</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>MT-32</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

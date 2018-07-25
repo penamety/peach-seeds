@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32123">
+ <title>Not From Here (Feat. Lisa&#39;s Antenna)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0278</rating>
+ 
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 02:47:09</locked_until>
+ <lastplayed>2018-06-08 22:35:13</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4072">Planet Boelex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

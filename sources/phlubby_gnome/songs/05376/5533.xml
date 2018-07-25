@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5533">
+ <title>Lotus 3 - Title Music</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="116">4.3879</rating>
+ <info>Track 3 on ingame CD player.</info>
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 16:19:12</locked_until>
+ <lastplayed>2018-05-07 15:02:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>Ejr1ZPrF8wk</ytid>
+ 
+ 
+ <artists>
+  <artist id="907">Patrick Phelan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

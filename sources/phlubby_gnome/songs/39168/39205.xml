@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39205">
+ <title>Captain Funk</title>
+ <status v="A">Active</status>
+ <bitrate>349</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ 
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-07 21:15:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5187">Zippy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9582">
+ <title>Adrenochrome</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.2727</rating>
+ <info>Released 29 December 1992.
+N/A in The Party 1992 4 Channel Music Competition
+</info>
+ <songlength>303</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 03:25:54</locked_until>
+ <lastplayed>2018-06-17 08:34:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5712">Super Action 80</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>letsgo</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/14465/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/5453/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

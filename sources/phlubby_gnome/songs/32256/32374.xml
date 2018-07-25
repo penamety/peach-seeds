@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32374">
+ <title>It&#39;s My Paradize</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.6842</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 07:36:04</locked_until>
+ <lastplayed>2018-04-04 02:53:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56810</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>VanHalen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

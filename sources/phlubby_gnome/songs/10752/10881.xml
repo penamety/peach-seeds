@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10881">
+ <title>Gotham nights</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>*-^-^(basehead/fm)^-^-* in 1995
+</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 15:07:32</locked_until>
+ <lastplayed>2018-05-22 00:42:34</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+  <tag>Five</tag>
+  
+  <tag>Musicians</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

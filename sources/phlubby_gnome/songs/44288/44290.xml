@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44290">
+ <title>I Wanna Go To Demoparty</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4</rating>
+ <info>By LiSU and Bocianu, released at Evoke 2017
+
+I wanna go to demoparty
+(Go to demoparty)
+I wanna watch nice spinning cubes
+(Nice spinning cubes)
+I wanna dance like there&#39;s no tomorrow
+(There is no tomorrow)
+I wanna play my melodica
+(I wanna play my -- what?)
+</info>
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 02:50:31</locked_until>
+ <lastplayed>2018-06-08 23:48:53</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5653">LiSU</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/177241/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

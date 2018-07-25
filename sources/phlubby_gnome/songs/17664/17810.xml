@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17810">
+ <title>Magic box</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-13 12:55:41</locked_until>
+ <lastplayed>2017-12-25 05:07:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2683">Elvis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>fast</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

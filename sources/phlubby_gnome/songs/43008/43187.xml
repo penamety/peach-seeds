@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43187">
+ <title>Don&#39;t come in my mind II - Demoscene is not dead</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1111</rating>
+ <info>Music made @ VIP 2016 in &#34;Streamed music&#34; section.
+
+3rd Place</info>
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 08:47:27</locked_until>
+ <lastplayed>2018-04-11 15:44:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/159048/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

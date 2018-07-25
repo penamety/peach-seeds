@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29291">
+ <title>Wet Jazz</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ 
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 00:22:49</locked_until>
+ <lastplayed>2018-03-19 13:37:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4217">Vip</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

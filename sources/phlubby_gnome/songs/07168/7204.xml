@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7204">
+ <title>Digital Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.697</rating>
+ 
+ <songlength>341</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:02:03</locked_until>
+ <lastplayed>2018-05-27 08:07:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3179</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1273">Twins</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

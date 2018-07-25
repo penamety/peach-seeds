@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30483">
+ <title>Spasmolytic Endtune</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-17 17:15:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>260</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1878">Vinnie</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amega</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

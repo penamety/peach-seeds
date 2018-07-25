@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19366">
+ <title>Inside 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3333</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-04 23:37:53</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>XsSg110yJZg</ytid>
+ 
+ 
+ <artists>
+  <artist id="2906">Jakub Husak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

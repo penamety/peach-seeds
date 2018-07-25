@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31804">
+ <title>Dogma</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="39">3.4359</rating>
+ <info>Main soundtrack from &#34;Dogma&#34; demo by Eternity Industry.
+1st at CC&#39;000 Demo competition.</info>
+ <songlength>297</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 17:17:33</locked_until>
+ <lastplayed>2018-03-13 15:14:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4956</pouetid>
+ <ytid>_o4YajUrEHE</ytid>
+ <ytoffset>69</ytoffset>
+ 
+ <artists>
+  <artist id="4426">Sairoos</artist>
+ </artists>
+ <groups>
+  <group id="812">Eternity Industry</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DnFhe7fTq-w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2479</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5312">
+ <title>Alive Evil</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.8077</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 10:51:15</locked_until>
+ <lastplayed>2018-06-05 19:43:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34987">
+ <title>Space in Virtual</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2778</rating>
+ <info>Ranked 6th in the music compo at Tokyo Demo Fest 2012.</info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-08 15:20:53</locked_until>
+ <lastplayed>2017-11-18 01:21:04</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4995">MachiaWorx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>Violin</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

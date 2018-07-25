@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16880">
+ <title>Bravestarr</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1176</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-24 11:57:27</locked_until>
+ <lastplayed>2018-01-03 12:44:11</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4179">
+ <title>Wild Impressions</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.1667</rating>
+ 
+ <songlength>330</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 20:17:25</locked_until>
+ <lastplayed>2018-04-24 01:35:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11191</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Doskpop</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

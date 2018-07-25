@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29833">
+ <title>Fiat Homo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7273</rating>
+ <info>4th place in combined 64k compo at Assembly 2005</info>
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:09:33</locked_until>
+ <lastplayed>2018-06-04 21:33:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>18342</pouetid>
+ <ytid>ZgDBXL_p0dE</ytid>
+ 
+ 
+ <artists>
+  <artist id="2828">Grip</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12490</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZgDBXL_p0dE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

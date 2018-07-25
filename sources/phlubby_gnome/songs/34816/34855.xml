@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34855">
+ <title>The Blues</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.2424</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 04:01:48</locked_until>
+ <lastplayed>2018-05-07 21:48:17</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58277</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4338">One Man Group</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

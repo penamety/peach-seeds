@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43012">
+ <title>Gregorians Gone Mad</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.2381</rating>
+ <info>1st at Revision 2016 executable music compo</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 17:31:13</locked_until>
+ <lastplayed>2018-05-08 07:19:52</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>technically-awesome</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/155078/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

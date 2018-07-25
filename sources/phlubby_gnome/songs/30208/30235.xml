@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30235">
+ <title>24 More Hours</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3382</rating>
+ 
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 17:26:56</locked_until>
+ <lastplayed>2018-06-02 01:36:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>56147</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44892">
+ <title>How about envelope, Elon Musk?</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="2">4.5</rating>
+ <info>Put your keyboard in the air!
+
+4th place in 8bit music compo @ Multimatograf 2018
+
+Platform / Format: ZX Spectrum + TS / TS YM ABC</info>
+ <songlength>118</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:25:06</locked_until>
+ <lastplayed>2018-05-31 19:00:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5552">Ejkot</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

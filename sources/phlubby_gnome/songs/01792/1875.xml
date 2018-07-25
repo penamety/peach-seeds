@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1875">
+ <title>Actinide Surfer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.2716</rating>
+ 
+ <songlength>414</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 11:24:20</locked_until>
+ <lastplayed>2018-05-22 18:38:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19002</pouetid>
+ <ytid>v_FzJRiWqpI</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  <group id="550">Dark Demon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=v_FzJRiWqpI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

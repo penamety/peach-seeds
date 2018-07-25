@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28618">
+ <title>Ketchup Catchup</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ <info>11th at BreakPoint 2010 - Unofficial tracked music
+
+Info:
+style inspired by slide/polka
+
+an old sketch found on my amiga hardrive finished in 2010
+
+samples from various beat by me...
+
+</info>
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 11:29:45</locked_until>
+ <lastplayed>2017-10-27 00:40:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1915">Curt Cool</artist>
+ </artists>
+ <groups>
+  <group id="162">Depth</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19311">
+ <title>No Kelvin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">3.8387</rating>
+ <info>2nd place in combined demo compo at The Gathering 2005
+
+Lyrics:
+I&#39;m still haunted in my dreams
+Waking up with awful screams
+Feel so lost and lone at night
+
+I have tried to understand
+The things you used to do to me
+You should just have let me be
+
+There is pain inside of me
+Worse than you could ever see
+That is all because of you
+
+What I try to understand
+Is why you chose to take my hand
+And lead me into misery
+
+What you did, you did to hurt
+Treating me like so much dirt
+Was it all for play or show?
+
+Took away my long for love
+And I&#39;ve come to see my fate
+It is all filled up with hate
+
+There is pain inside of me
+Worse than you could ever see
+That is all because of you
+
+What I try to understand
+Is why you chose to take my hand
+And lead me into misery
+
+I have these scars from breaking free
+Scars that only I can see
+Some of the things that I should do
+Remove all memory of you
+
+You keep hurting,
+You keep hurting,
+You keep hurting me
+
+You keep hurting,
+You keep hurting,
+You keep hurting me</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 08:03:31</locked_until>
+ <lastplayed>2018-05-31 19:30:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16368</pouetid>
+ <ytid>8I78uXKphoM</ytid>
+ <ytoffset>31</ytoffset>
+ 
+ <artists>
+  <artist id="1416">Irvin</artist>
+ </artists>
+ <groups>
+  <group id="9">Outracks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>autotune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8I78uXKphoM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12975</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/1531/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

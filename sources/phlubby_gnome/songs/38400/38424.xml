@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38424">
+ <title>Deep House Girls</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="30">3.9</rating>
+ 
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 05:36:10</locked_until>
+ <lastplayed>2018-06-05 05:22:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  <group id="735">Ghostown</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

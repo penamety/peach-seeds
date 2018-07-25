@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28115">
+ <title>Maximum Override (Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.7</rating>
+ <info>Original tune by Rod Thacker aka MadMax^CPI.</info>
+ <songlength>492</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 01:01:21</locked_until>
+ <lastplayed>2018-06-02 11:27:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33973</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5218">MadMax (CPI)</artist>
+ </artists>
+ <groups>
+  <group id="263">The Ravebusters</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

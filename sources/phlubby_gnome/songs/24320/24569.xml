@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24569">
+ <title>Grease Release</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.4286</rating>
+ <info>1st place at SceneCON 2007 music competition.
+[url=http://scene.org/file.php?file=/parties/2007/scenecon07/music/uf_grease_realese.zip&amp;fileinfo]Download[/url]</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:56:02</locked_until>
+ <lastplayed>2018-06-10 13:28:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>JewsHarp</tag>
+  
+  <tag>SceneCON</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

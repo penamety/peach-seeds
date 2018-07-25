@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30755">
+ <title>Feel Loved</title>
+ <status v="A">Active</status>
+ <bitrate>281</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>Remix of &#34;I Feel Loved&#34; by Depeche Mode (from the &#34;Exciter&#34; album).</info>
+ <songlength>263</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 01:57:30</locked_until>
+ <lastplayed>2018-05-31 02:56:52</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DepecheMode</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

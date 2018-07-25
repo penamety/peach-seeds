@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35">
+ <title>Anarchy Menu 01</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.5887</rating>
+ 
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 14:51:30</locked_until>
+ <lastplayed>2018-06-16 13:32:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>10029</pouetid>
+ <ytid>5T-ohoNsVrg</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

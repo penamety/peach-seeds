@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31149">
+ <title>Robot Hooliganism remix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>Released on Chimera Music #016, the musicpack &#34;Not Quietly into the Night&#34;, this is a remix by Yozfitz of a crappy compo tune by Alpha C.</info>
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 14:46:16</locked_until>
+ <lastplayed>2017-10-29 01:52:24</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist><artist id="4468">yozfitz</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

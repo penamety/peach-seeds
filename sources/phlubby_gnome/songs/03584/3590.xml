@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3590">
+ <title>Toblerone</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.9333</rating>
+ 
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 10:45:29</locked_until>
+ <lastplayed>2017-12-23 09:49:05</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>Mellow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

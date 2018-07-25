@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28721">
+ <title>Monolith</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ <info>5th @ BreakPoint 2010 - Executable Music newschool</info>
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 17:30:23</locked_until>
+ <lastplayed>2018-04-24 03:39:09</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2523">Dalezy</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group><group id="148">Still</group><group id="215">Triad</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

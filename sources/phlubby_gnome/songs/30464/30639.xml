@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30639">
+ <title>Grillette</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.94</rating>
+ <info>http://remix.kwed.org/files/RKOfiles/moog%20(Sebastian%20Bachlinski)%20-%20Grillette.mp3</info>
+ <songlength>373</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 00:31:50</locked_until>
+ <lastplayed>2018-05-01 20:45:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

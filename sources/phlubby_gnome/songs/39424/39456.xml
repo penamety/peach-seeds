@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39456">
+ <title>Retrobution</title>
+ <status v="A">Active</status>
+ <bitrate>227</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="34">4.3235</rating>
+ <info>Module from Pacif!c 64k intro from TRSAC which was placed 3:rd at TRSAC.</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 16:28:46</locked_until>
+ <lastplayed>2018-05-19 00:27:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>62028</pouetid>
+ <ytid>OfTgYZ5psHY</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OfTgYZ5psHY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

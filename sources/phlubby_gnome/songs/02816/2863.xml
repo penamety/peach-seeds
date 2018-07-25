@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2863">
+ <title>Aurora</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.5769</rating>
+ <info>1st place @ Scenario 95&#39; demo compo</info>
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 01:48:37</locked_until>
+ <lastplayed>2018-03-22 15:44:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1390</pouetid>
+ <ytid>ncOsZwAAkDk</ytid>
+ 
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  <group id="124">Stellar</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>scenario</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

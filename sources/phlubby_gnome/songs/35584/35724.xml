@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35724">
+ <title>Happyland</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Happyland</info>
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-20 17:30:07</locked_until>
+ <lastplayed>2018-01-31 08:08:02</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5092">Jens Thörnell</artist>
+ </artists>
+ <groups>
+  <group id="525">Classic</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

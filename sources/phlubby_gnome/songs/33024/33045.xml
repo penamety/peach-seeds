@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33045">
+ <title>Deep in her Eyes (part 2)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.1333</rating>
+ <info>Second part of Deep in her Eyes.  Both parts come from the Assembly 1994 invitation by Future Crew.</info>
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-04 13:16:50</locked_until>
+ <lastplayed>2018-03-26 07:56:31</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1282</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

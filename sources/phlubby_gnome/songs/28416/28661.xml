@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28661">
+ <title>The Pit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">2.8286</rating>
+ <info>Source file lost in a hard disk crash. :(</info>
+ <songlength>376</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-25 02:23:27</locked_until>
+ <lastplayed>2017-06-15 19:54:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54620</pouetid>
+ <ytid>Q3ISWHLfP8U</ytid>
+ 
+ 
+ <artists>
+  <artist id="1354">D Fast</artist>
+ </artists>
+ <groups>
+  <group id="152">½-bit Cheese [HBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

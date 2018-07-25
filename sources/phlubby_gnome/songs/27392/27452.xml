@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27452">
+ <title>Turrican 2 - The Great Bath (Blue Sky Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.3778</rating>
+ <info>Originally produced entirely the old-school way in hardware in the studio mainly on an E-mu Emulator III and an EMAX II into a big old 24-channel mixing desk...</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:09:53</locked_until>
+ <lastplayed>2018-06-01 02:13:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1348">HideawayStudio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

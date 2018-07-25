@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18039">
+ <title>Manomagic Remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.6667</rating>
+ 
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 07:48:56</locked_until>
+ <lastplayed>2018-05-15 14:55:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8076</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="425">Fabian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Prime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

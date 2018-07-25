@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7911">
+ <title>Warmer</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.3467</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 17:31:53</locked_until>
+ <lastplayed>2018-05-29 02:42:11</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>51131</pouetid>
+ <ytid>bfaOVyfMjTA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1445">Leaphion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>IDM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

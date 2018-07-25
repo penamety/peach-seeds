@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31411">
+ <title>Me and my Telescope</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0714</rating>
+ 
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 13:19:04</locked_until>
+ <lastplayed>2018-06-01 19:01:53</lastplayed>
+ 
+ 
+ <pouetid>56463</pouetid>
+ <ytid>2TGI3C4Sj4E</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2TGI3C4Sj4E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

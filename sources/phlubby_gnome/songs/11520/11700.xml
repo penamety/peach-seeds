@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11700">
+ <title>James Bond Jr 02</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ 
+ <songlength>60</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 06:39:00</locked_until>
+ <lastplayed>2018-03-17 01:17:53</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1938">Neil Baldwin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41660">
+ <title>La Mission: Deltaplane</title>
+ <status v="A">Active</status>
+ <bitrate>238</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ <info>7th at Tokyo Demofest 2015 combined music compo
+
+samples from tfm music maker
+schism tracker (main tool)
+open mtp (finalization)  </info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 01:27:05</locked_until>
+ <lastplayed>2017-11-16 04:08:34</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>flying</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>ym2612</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

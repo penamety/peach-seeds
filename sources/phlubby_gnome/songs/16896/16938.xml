@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16938">
+ <title>Dean</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.5758</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 20:52:03</locked_until>
+ <lastplayed>2018-05-18 05:32:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>23235</pouetid>
+ <ytid>j6brJP78yuA</ytid>
+ 
+ 
+ <artists>
+  <artist id="298">Dean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

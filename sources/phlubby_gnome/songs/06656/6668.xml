@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6668">
+ <title>Chip 2</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.1563</rating>
+ 
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 22:11:07</locked_until>
+ <lastplayed>2018-06-08 14:19:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10357</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1132">Stargazer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

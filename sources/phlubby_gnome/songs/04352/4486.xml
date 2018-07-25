@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4486">
+ <title>Rebelmania</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>by martin wall
+mantronix/razor 1911
+december 1990.
+for rebels......</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 04:46:18</locked_until>
+ <lastplayed>2017-11-22 04:33:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8494</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group><group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

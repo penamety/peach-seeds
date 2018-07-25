@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36076">
+ <title>Purple Day</title>
+ <status v="B">Banned</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">1.2727</rating>
+ 
+ <songlength>354</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-06-12 03:10:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>16831</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5124">Mercure [EoC]</artist>
+ </artists>
+ <groups>
+  <group id="681">End of Century 1999</group>
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>random</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

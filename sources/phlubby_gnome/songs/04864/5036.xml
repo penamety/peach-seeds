@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5036">
+ <title>2998z</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.8571</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 19:45:57</locked_until>
+ <lastplayed>2018-03-06 19:05:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3114</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

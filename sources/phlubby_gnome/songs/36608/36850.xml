@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36850">
+ <title>I poop Icicles (Finally Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.1111</rating>
+ <info>Soundtrack of demo *Finally* by Titan which got 2nd place in alternative demo compo at Evoke 2012
+
+Platform is [url=http://en.wikipedia.org/wiki/WonderSwan#WonderSwan_Color]Wonderswan Color[/url]</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 10:03:17</locked_until>
+ <lastplayed>2018-06-08 22:50:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>59699</pouetid>
+ <ytid>YJPcaOAd7Sg</ytid>
+ 
+ 
+ <artists>
+  <artist id="2092">Strobe</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>anal</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Vocaloid</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YJPcaOAd7Sg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

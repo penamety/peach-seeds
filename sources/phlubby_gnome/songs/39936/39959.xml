@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39959">
+ <title>Organic Toy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.1429</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 13:06:24</locked_until>
+ <lastplayed>2018-05-08 05:35:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>18407</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4707">radiantx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

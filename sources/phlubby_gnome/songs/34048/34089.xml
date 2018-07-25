@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34089">
+ <title>Future gone wrong</title>
+ <status v="A">Active</status>
+ <bitrate>303</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9524</rating>
+ <info>Emulator:  Hatari v1.3.1</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 22:07:50</locked_until>
+ <lastplayed>2018-05-07 09:48:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>25855</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4731">gwEm</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WHkI9kaNOik</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

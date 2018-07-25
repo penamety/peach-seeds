@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8509">
+ <title>DraxMix</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.4928</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 18:10:22</locked_until>
+ <lastplayed>2018-06-07 00:10:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>8557</pouetid>
+ <ytid>U1gpNUwYLp8</ytid>
+ <ytoffset>34</ytoffset>
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

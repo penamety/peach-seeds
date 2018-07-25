@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8370">
+ <title>fr-022: ein.schlag (loader)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5806</rating>
+ 
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 04:12:47</locked_until>
+ <lastplayed>2018-05-10 17:11:19</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>5571</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

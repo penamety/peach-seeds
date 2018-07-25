@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9212">
+ <title>No More Tomorrow</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.3689</rating>
+ <info>2nd place in pc demo compo at Breakpoint 2009</info>
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 09:23:21</locked_until>
+ <lastplayed>2018-05-31 19:25:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52996</pouetid>
+ <ytid>1GRm1kL4P9s</ytid>
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>atmospheric</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>robotic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=1GRm1kL4P9s</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

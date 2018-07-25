@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36071">
+ <title>Paradiso Final</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.3636</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:57:41</locked_until>
+ <lastplayed>2018-05-21 22:59:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18080</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1271">Twilight</artist>
+ </artists>
+ <groups>
+  <group id="682">Ghost</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

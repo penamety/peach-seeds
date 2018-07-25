@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6284">
+ <title>Irish biniou song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">3.9322</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 04:06:48</locked_until>
+ <lastplayed>2018-05-12 15:23:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>209</pouetid>
+ <ytid>98V9fR6MAkQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="549">Eclipse</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Bagpipes</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Folk</tag>
+  
+  <tag>Irish</tag>
+  
+  <tag>VolcanicParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

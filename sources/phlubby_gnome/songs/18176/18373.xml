@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18373">
+ <title>Analog Exploration</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5</rating>
+ <info>2nd place in combined demo compo at Blockparty 2008</info>
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-06 18:20:49</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50261</pouetid>
+ <ytid>Sj--C6U8RmY</ytid>
+ 
+ 
+ <artists>
+  <artist id="2756">Froggy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Sj--C6U8RmY</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

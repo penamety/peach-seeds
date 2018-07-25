@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30033">
+ <title>Easter Islands</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="46">4.0</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 23:14:45</locked_until>
+ <lastplayed>2018-05-13 19:21:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50352</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="529">Hollywood</artist>
+ </artists>
+ <groups>
+  <group id="111">Ram Jam</group>
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

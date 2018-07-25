@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38680">
+ <title>Bukem (live at Red Fez)</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0</rating>
+ 
+ <songlength>380</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-31 23:09:15</locked_until>
+ <lastplayed>2017-07-23 03:34:12</lastplayed>
+ 
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

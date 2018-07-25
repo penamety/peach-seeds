@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43293">
+ <title>Ring Ring</title>
+ <status v="A">Active</status>
+ <bitrate>316</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ <info>ABBA Gold - The Collection
+Commodore 64 music collection.
+Future composer 1.0
+</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 10:00:37</locked_until>
+ <lastplayed>2018-03-31 16:47:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>67094</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Abba</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=146701</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

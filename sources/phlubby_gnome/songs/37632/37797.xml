@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37797">
+ <title>C&#39;est Une Belle Journée</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.5517</rating>
+ <info>A nice day in Marioland ;)</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 03:08:24</locked_until>
+ <lastplayed>2018-06-15 13:14:00</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>mario</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

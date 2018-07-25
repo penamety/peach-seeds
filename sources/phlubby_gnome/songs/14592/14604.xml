@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14604">
+ <title>Thursday&#39;s Over</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.7826</rating>
+ 
+ <songlength>358</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-26 01:59:35</locked_until>
+ <lastplayed>2018-02-03 10:14:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9417</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="89">Banana</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

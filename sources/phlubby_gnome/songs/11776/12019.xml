@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12019">
+ <title>Sweet&#39;s</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 00:02:33</locked_until>
+ <lastplayed>2017-11-29 22:00:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="830">Mutant</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

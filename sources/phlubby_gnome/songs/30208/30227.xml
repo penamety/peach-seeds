@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30227">
+ <title>Shad 3</title>
+ <status v="A">Active</status>
+ <bitrate>79</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.7727</rating>
+ <info>3rd place in pc demo compo at Breakpoint 2008</info>
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 07:02:11</locked_until>
+ <lastplayed>2018-06-16 23:54:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50129</pouetid>
+ <ytid>DcU6FUrpajc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FR&amp;hl=fr&amp;v=meyLIpb0FLo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DcU6FUrpajc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

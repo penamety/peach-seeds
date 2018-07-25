@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5736">
+ <title>Artificial Intelligence</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.9756</rating>
+ 
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 02:35:02</locked_until>
+ <lastplayed>2018-05-30 13:51:42</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Relaxing</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

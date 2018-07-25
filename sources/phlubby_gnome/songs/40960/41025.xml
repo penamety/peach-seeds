@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41025">
+ <title>Cargo</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Got 5th place in Mekka &amp; Symposium 2002 MP3 music competition.</info>
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 05:17:06</locked_until>
+ <lastplayed>2018-03-09 16:39:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1632">A-move</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  <group id="317">Park Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

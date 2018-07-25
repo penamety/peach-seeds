@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41425">
+ <title>Nimrod On The Bridge</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>An entry for Ghettoscene 2014 streamed music compo.</info>
+ <songlength>302</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-04 22:06:06</locked_until>
+ <lastplayed>2017-08-28 23:56:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4750">Judge Brad</artist>
+ </artists>
+ <groups>
+  <group id="426">Black Rainbow</group>
+ </groups>
+ 
+ <tags>
+  <tag>Melodic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

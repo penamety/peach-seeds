@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="957">
+ <title>Hideaway Blues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>Ranked 2nd in the music compo at The Party 1993.</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 11:22:34</locked_until>
+ <lastplayed>2018-04-08 06:32:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist><artist id="1066">Sid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

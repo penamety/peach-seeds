@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34962">
+ <title>VI</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.119</rating>
+ <info>3rd place in Tokyo Demo Fest 2012 Music Competition.
+It was composed and recorded about 5 years ago with Mice</info>
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 00:04:48</locked_until>
+ <lastplayed>2018-03-10 22:43:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist><artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

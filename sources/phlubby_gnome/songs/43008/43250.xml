@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43250">
+ <title>Fractalis Luminum</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>285</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 06:19:45</locked_until>
+ <lastplayed>2018-04-17 18:27:46</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="798">Mankind</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

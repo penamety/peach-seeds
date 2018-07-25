@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10131">
+ <title>808 (Ekorre.Ett.Remix.2011)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">3.7864</rating>
+ <info>A remix of Fairlight Children&#39;s song 808.
+
+[url]http://www.myspace.com/fairlightchildren[/url]</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 06:33:13</locked_until>
+ <lastplayed>2018-06-06 10:57:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

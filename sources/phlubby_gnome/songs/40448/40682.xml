@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40682">
+ <title>Buscando bayas mágicas</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.6842</rating>
+ <info>-A four channel Impulse Tracker module
+-Originally an unfinished GoatTracker project (autumn 2012)
+-four instrument samples: two NES samples &amp; two C64 samples
+-8th (last) at Nordlicht 2014 tracker compo (remote)</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-26 02:43:37</locked_until>
+ <lastplayed>2018-02-02 22:39:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Fantasy</tag>
+  
+  <tag>food</tag>
+  
+  <tag>gamestyle</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

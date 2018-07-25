@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33331">
+ <title>Cosmic Escape (filtered)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.625</rating>
+ <info>Compared to the original, some processing has been done to soften hi-band noise.</info>
+ <songlength>287</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 22:30:55</locked_until>
+ <lastplayed>2017-12-22 20:30:08</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

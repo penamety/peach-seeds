@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15007">
+ <title>Raven</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 13:17:22</locked_until>
+ <lastplayed>2018-03-27 07:57:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>16955</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2313">Blazer</artist>
+ </artists>
+ <groups>
+  <group id="250">Crionics</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>KefrensAndDexionParty</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40921">
+ <title>Superwave</title>
+ <status v="A">Active</status>
+ <bitrate>193</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5625</rating>
+ <info>Ranked 4th in the combined music compo at Buenzli/Demodays 2014.</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 19:43:13</locked_until>
+ <lastplayed>2018-06-05 00:29:31</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>SynthWave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

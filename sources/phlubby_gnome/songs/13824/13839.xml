@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13839">
+ <title>Wait</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ <info>Error In Line 2001 Falcon Demo compo, ranked 3rd</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 10:00:18</locked_until>
+ <lastplayed>2017-12-06 07:11:28</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="2">Demo</type>
+ <pouetid>2019</pouetid>
+ <ytid>9SxkOuAtxFU</ytid>
+ 
+ 
+ <artists>
+  <artist id="2164">Aio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9SxkOuAtxFU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=11664</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/54742/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

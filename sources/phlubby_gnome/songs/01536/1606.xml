@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1606">
+ <title>Snow-runner</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5625</rating>
+ 
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 04:32:37</locked_until>
+ <lastplayed>2018-06-16 06:22:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10303</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="310">DeLorean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

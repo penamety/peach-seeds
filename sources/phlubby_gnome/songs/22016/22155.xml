@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22155">
+ <title>Easy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-09 03:00:00</locked_until>
+ <lastplayed>2018-01-19 00:51:12</lastplayed>
+ 
+ 
+ 
+ <ytid>AMSe21uMgD4</ytid>
+ 
+ 
+ <artists>
+  <artist id="3275">Nemo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AMSe21uMgD4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

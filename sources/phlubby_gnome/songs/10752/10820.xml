@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10820">
+ <title>Arcadia 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.7</rating>
+ <info>#basehead/klf 1994
+#deephouse in yer face
+
+this is an overhaul/remix of the cool original tune by necros/pm, and is composed for the diskmag dissonance #2
+
+hopefully i did more than a little justice to the original...
+
+the samples (besides the ones taken from the original module) are from: unity 3, plastik man, and d-shake.
+
+enjoy the song.</info>
+ <songlength>456</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 15:28:31</locked_until>
+ <lastplayed>2018-05-30 01:50:31</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>House</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27709">
+ <title>Nemesis [the arcade remix]</title>
+ <status v="A">Active</status>
+ <bitrate>190</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.5846</rating>
+ <info>&#34;Challenger 1985&#34; by Miki Higashino (東野 美紀) from the first stage of Gradius (aka Nemesis).</info>
+ <songlength>269</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 08:23:08</locked_until>
+ <lastplayed>2018-05-31 13:49:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1507">Peter W</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Gradius</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

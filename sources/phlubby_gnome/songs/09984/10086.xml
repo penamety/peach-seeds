@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10086">
+ <title>Winter</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.2419</rating>
+ <info>My last song released under the &#34;DDspeed&#34; handle. Done in early 2007. It&#39;s a pure Renoise production, using no softsynths or third-party DSP, instead relying on samples and a few classic tracking techniques.</info>
+ <songlength>344</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:26:47</locked_until>
+ <lastplayed>2018-05-28 03:43:29</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

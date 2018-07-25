@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42493">
+ <title>verdammt</title>
+ <status v="A">Active</status>
+ <bitrate>112</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.2105</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-09 15:34:27</locked_until>
+ <lastplayed>2017-08-29 06:45:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>18741</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="831">Bahnhof</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Pop</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/23422/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

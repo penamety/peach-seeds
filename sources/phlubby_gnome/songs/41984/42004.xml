@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42004">
+ <title>Desirable</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.9412</rating>
+ <info>Short chippie (7,6kb) for Outline 2015 invitation intro.
+</info>
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 04:19:33</locked_until>
+ <lastplayed>2018-05-15 14:25:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>65529</pouetid>
+ <ytid>dO0SiWcDLb4</ytid>
+ <ytoffset>28</ytoffset>
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Invitation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

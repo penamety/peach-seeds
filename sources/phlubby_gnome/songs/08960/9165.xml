@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9165">
+ <title>Gianna Cracktro</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.3922</rating>
+ 
+ <songlength>81</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 03:52:51</locked_until>
+ <lastplayed>2018-06-14 18:21:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cracktro</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

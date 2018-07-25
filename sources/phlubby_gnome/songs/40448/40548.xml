@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40548">
+ <title>Sprite Machine 3.01</title>
+ <status v="A">Active</status>
+ <bitrate>81</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4762</rating>
+ <info>Made by JCH for the Sprite Machine 3.01 program coded by Iceball in 1994.
+This entry has only been found in the following website: http://www.haddewig.de/nogames64/
+
+It is not available at CSDB or Pouet for unknown reasons.</info>
+ <songlength>460</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 01:01:42</locked_until>
+ <lastplayed>2018-05-29 23:25:42</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

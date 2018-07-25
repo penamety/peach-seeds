@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7310">
+ <title>Football</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.8095</rating>
+ 
+ <songlength>46</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 13:43:33</locked_until>
+ <lastplayed>2018-06-14 08:49:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>50017</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

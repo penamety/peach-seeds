@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1050">
+ <title>4k0</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0476</rating>
+ 
+ <songlength>97</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 19:57:12</locked_until>
+ <lastplayed>2018-05-24 10:40:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3990</pouetid>
+ <ytid>FzprD_CFY5o</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

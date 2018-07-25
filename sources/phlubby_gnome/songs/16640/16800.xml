@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16800">
+ <title>RSI Megademo Loader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">3.5873</rating>
+ 
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 00:30:23</locked_until>
+ <lastplayed>2018-05-07 11:35:51</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>3119</pouetid>
+ <ytid>O3ZObBN00rA</ytid>
+ <ytoffset>22</ytoffset>
+ 
+ <artists>
+  <artist id="734">Mark II</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Jarre</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

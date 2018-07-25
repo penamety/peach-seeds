@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40021">
+ <title>Candy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0588</rating>
+ <info>Super sweet candy chiptune by Saga and ko0x - Not related to King, but dedicated to all the indie developers that may have to struggle because of this idiocy (See [url]http://www.rockpapershotgun.com/2014/01/21/stealing-candy-from-babies-king-embrace-the-aristocracy/[/url]
+and [url]http://www.escapistmagazine.com/news/view/131533-Candy-Crush-Saga-Dev-Attempts-to-Block-Banner-Saga-Trademark[/url]).
+
+Released 22 January 2014.
+
+Cover image based on &#34;Candy in Damascus&#34; by Elisa Azzali ([url]http://en.wikipedia.org/wiki/File:Candy_in_Damascus.jpg[/url], CC-BY)</info>
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 01:21:17</locked_until>
+ <lastplayed>2018-05-21 10:18:25</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>chippop</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/33029/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

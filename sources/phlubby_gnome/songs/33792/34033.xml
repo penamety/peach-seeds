@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34033">
+ <title>When we ride on our ennemies</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Original name &#34;Take a ride&#34;</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 17:01:38</locked_until>
+ <lastplayed>2018-05-07 04:52:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2857</pouetid>
+ <ytid>BIPINDJReiE</ytid>
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BIPINDJReiE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

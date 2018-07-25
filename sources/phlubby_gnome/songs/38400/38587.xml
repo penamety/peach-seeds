@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38587">
+ <title>Cat-People</title>
+ <status v="A">Active</status>
+ <bitrate>144</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ <info>This song uses samples made with a bad sampler. There is an anoying hum in the background. But the track is not bad considering :)</info>
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 06:05:21</locked_until>
+ <lastplayed>2018-03-25 02:37:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25517">
+ <title>Lost in Time</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.4583</rating>
+ 
+ <songlength>379</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 16:00:45</locked_until>
+ <lastplayed>2018-03-20 11:32:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>19695</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3729">The Judge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

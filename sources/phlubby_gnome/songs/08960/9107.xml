@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9107">
+ <title>Shelter</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1379</rating>
+ <info>From the Cascada &#39;Holistic&#39; demo &#39;94.</info>
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 23:39:43</locked_until>
+ <lastplayed>2018-05-17 22:26:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>7982</pouetid>
+ <ytid>GDp-3lcF-TY</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="1755">Zodiak</artist>
+ </artists>
+ <groups>
+  <group id="452">cascada</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GDp-3lcF-TY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

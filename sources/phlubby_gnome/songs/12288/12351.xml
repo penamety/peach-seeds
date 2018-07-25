@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12351">
+ <title>Bobo - Electric Cable Stage</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0833</rating>
+ <info>Taken from &#34;Bobo&#34; by Infogrames (1988)
+
+The game is based on Franco-Belgian comics series</info>
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-09 20:20:04</locked_until>
+ <lastplayed>2017-06-01 16:56:54</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2011">Charles Callet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

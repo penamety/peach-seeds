@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9440">
+ <title>0010 1010</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">2.3333</rating>
+ <info>4th place in pc demo compo at Breakpoint 2003
+
+Like most musics from Fried, this is highly disturbing.</info>
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 02:40:23</locked_until>
+ <lastplayed>2018-04-24 14:58:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9516</pouetid>
+ <ytid>WD4pKa1hNyA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1781">Fried</artist>
+ </artists>
+ <groups>
+  <group id="12">F.A.N.</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CwB0trBIR9s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WD4pKa1hNyA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

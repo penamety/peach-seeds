@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6276">
+ <title>Y&#39;on - Main</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>259</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 17:50:33</locked_until>
+ <lastplayed>2017-12-12 02:10:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3115</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1009">Revisq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

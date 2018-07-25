@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44805">
+ <title>Surveillance</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">4.2</rating>
+ 
+ <songlength>93</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 14:06:41</locked_until>
+ <lastplayed>2018-06-07 13:19:15</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>67120</pouetid>
+ <ytid>kiE2c06EzBQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5233">
+ <title>Game Score 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.4444</rating>
+ 
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 22:07:53</locked_until>
+ <lastplayed>2018-05-07 04:19:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3047</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

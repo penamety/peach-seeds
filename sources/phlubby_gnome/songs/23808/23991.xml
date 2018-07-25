@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23991">
+ <title>Tivi Theme Song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ 
+ <songlength>317</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-12 20:03:39</locked_until>
+ <lastplayed>2018-02-22 01:29:47</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>31586</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3904">Aav</artist><artist id="3543">Scanner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13022</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

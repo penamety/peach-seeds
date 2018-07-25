@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41516">
+ <title>Ignorer</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.6364</rating>
+ 
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 06:47:29</locked_until>
+ <lastplayed>2018-06-08 02:46:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2058">Amadeus Voxon</artist>
+ </artists>
+ <groups>
+  <group id="360">Flash Inc.</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

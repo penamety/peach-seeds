@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13768">
+ <title>Depravity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0</rating>
+ 
+ <songlength>96</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 23:11:20</locked_until>
+ <lastplayed>2018-05-01 02:30:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1672</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2188">Adam Dunkels</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

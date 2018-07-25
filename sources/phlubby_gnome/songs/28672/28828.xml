@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28828">
+ <title>Voyager</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.0469</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 15:58:22</locked_until>
+ <lastplayed>2018-05-01 15:53:30</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4148">Zombectro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DaftPunk</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14207">
+ <title>Sirene song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>263</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-12 06:36:59</locked_until>
+ <lastplayed>2017-12-19 20:29:13</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="60">ArchAngel</artist>
+ </artists>
+ <groups>
+  <group id="340">Nebula</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

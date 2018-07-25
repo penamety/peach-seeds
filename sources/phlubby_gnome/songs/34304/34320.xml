@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34320">
+ <title>Gremlins in My House</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>sounding like gremlins ?</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-31 16:41:15</locked_until>
+ <lastplayed>2018-01-12 17:09:47</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

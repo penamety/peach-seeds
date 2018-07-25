@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26885">
+ <title>Sixpack</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="34">3.7941</rating>
+ <info>Ranked 4th in the music compo at Kindergarden 2009.</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 12:11:05</locked_until>
+ <lastplayed>2018-04-08 02:54:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>Beer</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7994">
+ <title>Yello</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.087</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 06:23:10</locked_until>
+ <lastplayed>2018-02-24 09:16:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2742</pouetid>
+ <ytid>hwtClWdkXg4</ytid>
+ 
+ 
+ <artists>
+  <artist id="728">Marillion</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

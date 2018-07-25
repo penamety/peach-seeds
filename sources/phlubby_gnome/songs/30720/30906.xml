@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30906">
+ <title>Crest Demotune (CPC cover)</title>
+ <status v="A">Active</status>
+ <bitrate>184</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>This is a CPC cover of a crest demotune. The name of the source demo and author is unknown to mankind. If some alien life form happens to know anything about the tune, please let me know! </info>
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-25 12:26:37</locked_until>
+ <lastplayed>2017-06-18 15:06:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>soundtrakker</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

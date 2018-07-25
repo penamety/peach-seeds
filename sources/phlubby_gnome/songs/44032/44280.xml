@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44280">
+ <title>Cyberiada (Lullaby for Robots)</title>
+ <status v="A">Active</status>
+ <bitrate>478</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.8889</rating>
+ 
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 22:28:00</locked_until>
+ <lastplayed>2018-04-10 05:49:10</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

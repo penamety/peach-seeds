@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37452">
+ <title>Game Muzax</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.0</rating>
+ 
+ <songlength>563</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 17:53:22</locked_until>
+ <lastplayed>2018-06-02 12:21:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9170</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

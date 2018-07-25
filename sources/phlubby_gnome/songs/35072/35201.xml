@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35201">
+ <title>Erika Online</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="25">3.88</rating>
+ 
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 20:05:17</locked_until>
+ <lastplayed>2018-04-19 19:01:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

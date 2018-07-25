@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20116">
+ <title>Vision</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-03 09:21:37</locked_until>
+ <lastplayed>2017-07-05 17:19:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9426</pouetid>
+ <ytid>8gbih3M_Y00</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="1704">Dolphin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8gbih3M_Y00</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

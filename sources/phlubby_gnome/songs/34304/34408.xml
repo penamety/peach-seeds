@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34408">
+ <title>2cVee (subtune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-15 13:44:55</locked_until>
+ <lastplayed>2017-07-07 22:42:02</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>44840</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=15556</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

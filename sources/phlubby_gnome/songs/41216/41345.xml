@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41345">
+ <title>Smooth Talker</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.36</rating>
+ <info>Entry for the Scenecompos #32 - AHX Compo - Placed 4. 
+
+Also features on Chip Chop #16 released by Desire at Revision 2015.</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 13:36:02</locked_until>
+ <lastplayed>2018-06-14 18:15:24</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>65327</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>chippop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

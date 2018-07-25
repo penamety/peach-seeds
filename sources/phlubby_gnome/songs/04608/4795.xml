@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4795">
+ <title>Yellow Three-One-Art</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.375</rating>
+ 
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 04:54:35</locked_until>
+ <lastplayed>2018-05-16 19:27:16</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>125</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="772">Melwyn</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

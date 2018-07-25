@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40336">
+ <title>Mission Highly Improbable - Part2</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>ZX Spectrum 48K with AY-interface. 
+Soft: ZX SoundTracker 1.1 - the most crude tool ever. ;) And I love it after all, haha.
+The song comes from my 2014 chiptune album &#34;Mission Highly Improbable (the ZX-demo original soundtrack)&#34;.
+All the music in the album comes from “Mission Highly Improbable” demo, released on Forever 2014 Party (came 1st in the ZX demo-compo).</info>
+ <songlength>78</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 04:58:20</locked_until>
+ <lastplayed>2018-03-19 04:39:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>62802</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WwWHs6aQJ1c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34373/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

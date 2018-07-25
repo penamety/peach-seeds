@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28547">
+ <title>Doop</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">3.3038</rating>
+ 
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 10:34:28</locked_until>
+ <lastplayed>2018-05-24 08:55:00</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1103">X-Ceed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>joke</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

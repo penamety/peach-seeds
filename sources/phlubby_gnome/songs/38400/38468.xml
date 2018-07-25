@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38468">
+ <title>Zilltunna</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.1429</rating>
+ <info>http://csdb.dk/release/?id=108339</info>
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 09:09:22</locked_until>
+ <lastplayed>2017-12-24 07:40:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5345">X-Jammer</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

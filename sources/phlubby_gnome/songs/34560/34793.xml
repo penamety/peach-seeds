@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34793">
+ <title>Juice</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.1364</rating>
+ <info>Converted from Disorder Tracker 2 format.</info>
+ <songlength>324</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 10:34:52</locked_until>
+ <lastplayed>2017-11-16 03:50:41</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>69</pouetid>
+ <ytid>m2THC6HIfBk</ytid>
+ 
+ 
+ <artists>
+  <artist id="4962">Skywalker</artist>
+ </artists>
+ <groups>
+  <group id="659">Psychic Link</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

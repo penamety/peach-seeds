@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8101">
+ <title>Edward Teller</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">3.3304</rating>
+ <info>Lyrics (with repetitions omitted):
+
+I am not Edward Teller
+My conscience does not grow on trees
+And even though it clearly doesn&#39;t count
+I want you all to understand my argument
+
+I am not Edward Teller
+I see red, yellow, blue and white
+And even though it clearly doesn&#39;t matter
+I show my plans for anyone to hear
+
+You are not Edward Teller
+You do not have to prove it to yourself
+And even though you cannot change your talent
+You will achieve what others seldom reach
+
+They are not Edward Teller
+And neither cause nor reason they will see
+And even though they will say it&#39;s annoying
+It&#39;s just a lousy piece of poetry
+</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 23:41:43</locked_until>
+ <lastplayed>2018-05-16 04:23:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10742</pouetid>
+ <ytid>QHtGsp2AX0o</ytid>
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist><artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13121</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=QHtGsp2AX0o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

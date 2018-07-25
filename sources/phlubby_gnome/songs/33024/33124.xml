@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33124">
+ <title>Sushi</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Skale Tracker tune, written for a friend&#39;s final year animation project. The animation depicted people on a sushi conveyor belt being eating by bigger people. A load of symbolism, and a really heavy tune. :)</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-06 00:28:32</locked_until>
+ <lastplayed>2018-02-12 19:25:07</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2717">Fallout</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

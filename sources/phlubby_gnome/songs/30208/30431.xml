@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30431">
+ <title>Fred rapes Wilma</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">2.2667</rating>
+ 
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 20:46:27</locked_until>
+ <lastplayed>2018-05-13 05:51:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4260">Lord Chaos</artist>
+ </artists>
+ <groups>
+  <group id="322">Level-D [LVD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

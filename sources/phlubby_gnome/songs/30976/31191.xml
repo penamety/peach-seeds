@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31191">
+ <title>Tell it to My Heart</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">2.5</rating>
+ 
+ <songlength>645</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 08:17:56</locked_until>
+ <lastplayed>2018-04-12 08:28:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18749</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4574">DJ Jam</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>long</tag>
+  
+  <tag>megamix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

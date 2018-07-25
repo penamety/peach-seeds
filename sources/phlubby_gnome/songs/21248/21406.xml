@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21406">
+ <title>Autumn is Calling</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.371</rating>
+ 
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 04:13:28</locked_until>
+ <lastplayed>2018-05-20 16:22:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3175">Megus</artist>
+ </artists>
+ <groups>
+  <group id="389">Brainwave [ru]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

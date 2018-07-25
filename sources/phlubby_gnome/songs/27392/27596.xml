@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27596">
+ <title>March of the Ants</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="41">4.2683</rating>
+ <info>Co-op of Alpha C and ko0x, entered in the &#34;tiny music&#34; compo at Evoke 2008. Also used in the musicdisk &#34;Bits &#39;n&#39; Pieces&#34; by Chimera Music.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 03:17:01</locked_until>
+ <lastplayed>2018-06-16 09:15:58</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52065</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist><artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group><group id="36">Satanic Kids Enterprise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

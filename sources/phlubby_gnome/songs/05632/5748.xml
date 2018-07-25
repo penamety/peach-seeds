@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5748">
+ <title>The Story So Far</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4667</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-24 15:14:59</locked_until>
+ <lastplayed>2017-07-17 15:24:41</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

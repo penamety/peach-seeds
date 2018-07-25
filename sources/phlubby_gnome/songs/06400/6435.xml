@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6435">
+ <title>Sandstorm</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5833</rating>
+ 
+ <songlength>88</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 23:17:26</locked_until>
+ <lastplayed>2018-05-12 05:22:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>261</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1049">Scott</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

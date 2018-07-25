@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44233">
+ <title>Down the Drain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ 
+ <songlength>93</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 16:55:30</locked_until>
+ <lastplayed>2018-06-13 00:28:03</lastplayed>
+ <platform id="54">8K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>71404</pouetid>
+ <ytid>1x_cGu8wsto</ytid>
+ 
+ 
+ <artists>
+  <artist id="5613">Shaiggon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

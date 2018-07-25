@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44056">
+ <title>in my dreams</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Credits music from the game Solius The Sorcerer, can be found at [url]ftp://ftp.modland.com/pub/modules/Protracker/Libi%20In%20Paradize/in%20my%20dreams.mod[/url]</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 01:51:29</locked_until>
+ <lastplayed>2018-03-17 15:07:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5516">Libi In Paradize</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/4909</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

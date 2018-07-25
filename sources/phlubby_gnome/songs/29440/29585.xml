@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29585">
+ <title>Infofile</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.8889</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 03:26:58</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ <pouetid>55258</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3975">Rain (Maniak)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

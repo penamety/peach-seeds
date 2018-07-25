@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8420">
+ <title>New edition</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0833</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:35:34</locked_until>
+ <lastplayed>2018-06-03 01:00:50</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9341</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  <group id="275">The Time Circle</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

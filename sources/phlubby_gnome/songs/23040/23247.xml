@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23247">
+ <title>Let the Record Spin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.1579</rating>
+ 
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:26:08</locked_until>
+ <lastplayed>2018-05-29 14:39:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15667</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="986">Randall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

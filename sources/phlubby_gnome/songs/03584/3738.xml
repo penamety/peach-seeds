@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3738">
+ <title>Blueberry</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">3.875</rating>
+ 
+ <songlength>337</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 15:45:03</locked_until>
+ <lastplayed>2018-06-12 00:04:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9143</pouetid>
+ <ytid>Y3TzIEc2Sm4</ytid>
+ 
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  <group id="249">Bamiga Sector One (BS1)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

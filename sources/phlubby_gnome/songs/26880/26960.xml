@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26960">
+ <title>Fuck Your Horse</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="193">2.4767</rating>
+ <info>Based on &#34;Just Can&#39;t Get Enough&#34; by Depeche Mode
+
+This has been modified a little, to reduce the stereo separation.
+
+&#34;Unbearable on headphones.&#34; Well, there&#39;s nothing I can do about that :P
+
+Converted to .wav with VLC&#39;s file output module. Adjusted stereo with Audacity, mixed each channel into the other at -12dB. Converted to mp3 with lame -h -b 256.
+
+Real title of this song in the Digital Force musicdisk is &#34;Surprise&#34;</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 08:48:38</locked_until>
+ <lastplayed>2018-05-22 00:09:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32258</pouetid>
+ <ytid>xKUY6hIRgTo</ytid>
+ 
+ 
+ <artists>
+  <artist id="983">Ramon</artist>
+ </artists>
+ <groups>
+  <group id="269">Digital Force</group>
+ </groups>
+ 
+ <tags>
+  <tag>DepecheMode</tag>
+  
+  <tag>DutchSpeak</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>Horse</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>polarizing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

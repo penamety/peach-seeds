@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4567">
+ <title>Bubba n&#39; Stix</title>
+ <status v="R">Rejected</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.0</rating>
+ 
+ <songlength>2</songlength>
+ <locked>True</locked>
+ <locked_until>2017-07-08 21:50:42</locked_until>
+ <lastplayed>2017-07-03 20:35:13</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

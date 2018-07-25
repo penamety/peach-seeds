@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12654">
+ <title>Hip Hap Tommy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">1.1111</rating>
+ 
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 14:07:31</locked_until>
+ <lastplayed>2018-04-07 01:15:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

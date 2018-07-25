@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23231">
+ <title>Hideout</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 18:42:17</locked_until>
+ <lastplayed>2018-05-20 17:46:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15667</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="986">Randall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

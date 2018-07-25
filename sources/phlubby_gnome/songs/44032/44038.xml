@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44038">
+ <title>Happy Bourgeoisie</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>This is a re-version and re-master of my Amiga MOD &#34;Happy Bourgeoisie&#34; that was awarded 1st place at Amiparty XIX in Poland.</info>
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 21:37:25</locked_until>
+ <lastplayed>2018-06-13 02:34:43</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="6">Commercial CD</type>
+ 
+ <ytid>onwmfixZTfk</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>squarelead</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=onwmfixZTfk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/6uQvbtItN7WUM8OtNNcQmn</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

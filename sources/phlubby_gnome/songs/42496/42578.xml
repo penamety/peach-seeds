@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42578">
+ <title>On the Winds</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>13th place @ Assembly 2k multichannel music compo.
+
+Horns played by Breeze (a Weltklang tenor sax and a Bach trumpet).
+Guitars played by Spay (sampled in 1996).</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-17 08:38:42</locked_until>
+ <lastplayed>2017-10-09 21:48:51</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4244">Breeze (.fi)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>saxophone</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/24541/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

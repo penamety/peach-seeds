@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39014">
+ <title>The Uncanny Valley</title>
+ <status v="A">Active</status>
+ <bitrate>325</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.9333</rating>
+ <info>Made with Tao&#39;s &#34;Magic Synth 2.5&#34;</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 05:25:31</locked_until>
+ <lastplayed>2018-03-20 14:52:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

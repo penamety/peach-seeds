@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43660">
+ <title>Hakuna Matata</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.375</rating>
+ <info>4ch tune, original size 461kb
+
+For the combined tracked music competition at &#34;Under Construction Demoparty&#34; 2016
+
+In fact it is a XM, though only 4 channels have been used.. this is caused by my lazyness as I didn´t want to invest more time to that compo filler and if I went for MOD I would have had to take care of Amiga frequency limits..</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 08:33:23</locked_until>
+ <lastplayed>2018-03-08 13:25:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

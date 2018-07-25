@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43333">
+ <title>Gouraud</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>5th at Assembly 2016 listening music compo</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 14:43:14</locked_until>
+ <lastplayed>2018-05-18 10:12:46</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group><group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

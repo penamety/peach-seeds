@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24599">
+ <title>Friday&#39;s Chip</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ 
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 21:42:51</locked_until>
+ <lastplayed>2018-06-15 17:54:00</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3606">SNES</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FridayTune</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Groovy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

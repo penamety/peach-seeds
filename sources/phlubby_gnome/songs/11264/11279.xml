@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11279">
+ <title>Star Dragon - Title [AY]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.24</rating>
+ 
+ <songlength>357</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-17 15:14:34</locked_until>
+ <lastplayed>2017-06-09 22:06:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ <pouetid>26731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>game</tag>
+  
+  <tag>StarWars</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

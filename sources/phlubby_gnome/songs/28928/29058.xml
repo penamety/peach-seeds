@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29058">
+ <title>Caught in the Middle</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.5541</rating>
+ <info>Geir Tjelta Echofied 6581
+http://noname.c64.org/csdb/release/?id=91173</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 20:37:48</locked_until>
+ <lastplayed>2018-05-28 10:14:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>54948</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

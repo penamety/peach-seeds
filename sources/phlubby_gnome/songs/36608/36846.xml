@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36846">
+ <title>Väre</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.4</rating>
+ <info>2nd place in pc demo compo at Evoke 2012</info>
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 13:31:59</locked_until>
+ <lastplayed>2018-06-01 11:39:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59693</pouetid>
+ <ytid>jT0nBLSBreg</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="5182">Kevod</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Sea</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jT0nBLSBreg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2533">
+ <title>Analog Firstblood</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.75</rating>
+ 
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 03:10:24</locked_until>
+ <lastplayed>2018-06-04 03:38:40</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>9059</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="810">Monty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

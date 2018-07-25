@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27192">
+ <title>Between Stars rev.</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>410</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-23 12:40:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21410</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3909">Melis</artist><artist id="3947">Ogier le Petit</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

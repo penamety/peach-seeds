@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30622">
+ <title>Eurobeat</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.7727</rating>
+ <info>Winner of the Eurocharts issue #18 one-sample music compo. One sample only used (with lots of 9xx commands in the patterns)
+
+Enjoy!</info>
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 05:30:26</locked_until>
+ <lastplayed>2018-05-13 21:53:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>11081</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>Eurochart</tag>
+  
+  <tag>one_sample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

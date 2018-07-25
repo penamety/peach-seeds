@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35353">
+ <title>Joels 8bitars sushi</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>I finally did it! My own sushi! :D</info>
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 11:28:45</locked_until>
+ <lastplayed>2017-11-01 22:24:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1917">Kanonmat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

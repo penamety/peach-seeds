@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9302">
+ <title>Dancer (TSD)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.2714</rating>
+ <info>Tao&#39;s &#34;The Dancer&#34;, TSiD version.
+This one grooves the SID-freak out.</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 09:11:02</locked_until>
+ <lastplayed>2018-05-22 02:45:18</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

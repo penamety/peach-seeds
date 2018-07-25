@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44213">
+ <title>Hannu on 14v trader</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ <info>From &#34;Mindfuck&#34; (40k Intro) by Insane, Assembly 1994
+
+Song title translates as &#34;Hannu is a 14 years old trader&#34;</info>
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 01:06:50</locked_until>
+ <lastplayed>2018-06-08 16:54:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>58584</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="306">Deetsay</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/6858/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?93186</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

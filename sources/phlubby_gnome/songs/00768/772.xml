@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="772">
+ <title>Reggae Maxima</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 04:26:23</locked_until>
+ <lastplayed>2018-04-07 22:57:13</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="133">Brainbug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

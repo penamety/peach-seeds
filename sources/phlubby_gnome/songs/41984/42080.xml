@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42080">
+ <title>Lokálna Porucha</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ <info>Track for Forever 2015 Atari music compo, got 1st place. Made using Raster Music Tracker v1.28.</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 22:35:24</locked_until>
+ <lastplayed>2018-06-14 15:48:05</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/134869/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

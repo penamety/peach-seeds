@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4530">
+ <title>Sweat Shop</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.973</rating>
+ 
+ <songlength>417</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 05:41:47</locked_until>
+ <lastplayed>2018-05-08 08:58:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3097</pouetid>
+ <ytid>kYOcoCa7ivU</ytid>
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>multipart</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

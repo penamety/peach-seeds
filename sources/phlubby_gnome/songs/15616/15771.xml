@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15771">
+ <title>Katakis</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.3659</rating>
+ 
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 00:36:31</locked_until>
+ <lastplayed>2018-05-03 13:04:16</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>45868</pouetid>
+ <ytid>wN3fKEEFuz8</ytid>
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42877">
+ <title>Cherry Coke</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ <info>Demo tune for a wild demo titled &#39;Cherry Coke&#39; (I believe) that was released at some party in Budapest, Hungary somewhen between 1997-1998 or so. The &#34;demo&#34; was written by me as well in Turbo Pascal :)</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 03:12:07</locked_until>
+ <lastplayed>2018-06-13 04:23:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2675">Elijah</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Punk</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

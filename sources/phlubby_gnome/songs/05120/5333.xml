@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5333">
+ <title>Don&#39;t be Stupid</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.6667</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-20 16:44:24</locked_until>
+ <lastplayed>2018-01-28 22:44:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="870">Nork</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>House</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39654">
+ <title>Mysterious Pyramid</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.625</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;Mysterious Pyramid&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Tune completed:	
+008	04.12.2000	
+009		
+010		
+011		
+012		
+013		
+014		
+015		
+016		
+017		
+018		
+019		
+020		
+
+sample list:
+001	Analog Synth 1	(16 bit - 114634)
+002	Tel Synth Strings	(16 bit - 26380)
+003	Classica Analogue Synt	(16 bit - 7674)
+004	VAZ Synth 1	(16 bit - 51575)
+005	Tel Bass 2	(16 bit - 7109)
+006	Big drone	(16 bit - 273620)
+007	Tel Synth 4	(16 bit - 113556)
+008	SC Hihatop	(16 bit - 54817)
+009	Blip	(16 bit - 5125)
+010	Bass Drum	(16 bit - 5835)
+011	Tick	(8 bit - 896)
+012	SC Hihatcl	(16 bit - 4677)
+013	SC Hihatpd	(16 bit - 6141)
+014	808-06	(16 bit - 6696)
+015	808-07	(16 bit - 7157)
+016	808-08	(16 bit - 6137)
+017	808-09	(16 bit - 6909)
+</info>
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 11:30:57</locked_until>
+ <lastplayed>2018-04-12 06:09:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

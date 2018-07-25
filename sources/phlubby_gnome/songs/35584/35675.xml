@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35675">
+ <title>DiploDupleX</title>
+ <status v="A">Active</status>
+ <bitrate>268</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-01 06:32:13</locked_until>
+ <lastplayed>2017-08-25 06:43:17</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

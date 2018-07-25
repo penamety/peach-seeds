@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29251">
+ <title>Funky Widdow</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ 
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 10:04:09</locked_until>
+ <lastplayed>2018-04-08 04:30:14</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="715">Maestro</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

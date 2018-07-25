@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30214">
+ <title>Dxtasy</title>
+ <status v="A">Active</status>
+ <bitrate>154</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.4898</rating>
+ <info>1st place in combined demo compo at Main 2009</info>
+ <songlength>539</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 16:40:37</locked_until>
+ <lastplayed>2018-06-13 22:02:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53942</pouetid>
+ <ytid>IhSb73KVe28</ytid>
+ 
+ 
+ <artists>
+  <artist id="4440">Ponce</artist>
+ </artists>
+ <groups>
+  <group id="433">Adinpsz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>long</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IhSb73KVe28</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

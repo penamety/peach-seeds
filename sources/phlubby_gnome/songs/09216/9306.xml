@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9306">
+ <title>One On One (TSD)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">3.6102</rating>
+ <info>Tao&#39;s TSiD version of &#34;One On One&#34;.</info>
+ <songlength>429</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 18:22:10</locked_until>
+ <lastplayed>2018-05-19 17:04:02</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8417">
+ <title>Chase</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>Original is &#34;Chase&#34; by Giorgio Moroder, from movie Midnight Express (1977) 
+
+[url]http://www.youtube.com/watch?v=Akyx5iu_z8Y[/url]</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 21:00:03</locked_until>
+ <lastplayed>2018-03-30 15:38:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9341</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GiorgioMoroder</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

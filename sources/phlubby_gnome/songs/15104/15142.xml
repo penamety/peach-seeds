@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15142">
+ <title>I Miss You</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 10:52:30</locked_until>
+ <lastplayed>2018-03-23 04:41:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>32021</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2126">Braintumour</artist><artist id="2127">Heywood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Headline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

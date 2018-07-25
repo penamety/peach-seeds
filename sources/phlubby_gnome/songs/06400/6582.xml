@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6582">
+ <title>Ninja remix level 6 mansion</title>
+ <status v="D">Dupe</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">3.0</rating>
+ <info>Duper of [song]6583[/song]</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-02-23 19:44:27</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1095">Gavin Lucas</artist>
+ </artists>
+ <groups>
+  <group id="527">Small Team of Experts</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

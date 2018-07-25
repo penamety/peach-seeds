@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29953">
+ <title>Clockwerck</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0769</rating>
+ 
+ <songlength>139</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 20:39:49</locked_until>
+ <lastplayed>2018-05-23 03:17:35</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>43567</pouetid>
+ <ytid>pWxftUTMbRQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="153">Northern Dragons</group><group id="133">xplsv</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pWxftUTMbRQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

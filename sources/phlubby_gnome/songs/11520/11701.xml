@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11701">
+ <title>James Bond Jr 03</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>This tune is indeed the very same tune which appeared in Ferrari Grand Prix.</info>
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 07:57:52</locked_until>
+ <lastplayed>2017-10-28 14:02:55</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1938">Neil Baldwin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

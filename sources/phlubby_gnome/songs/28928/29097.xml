@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29097">
+ <title>Dead Witness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.0</rating>
+ <info>Collaboration by KPS and Art J.  Made in FL Studio 7.</info>
+ <songlength>333</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 05:43:26</locked_until>
+ <lastplayed>2018-06-11 21:47:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>30224</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4201">Art J</artist><artist id="4200">KPS</artist>
+ </artists>
+ <groups>
+  <group id="326">Nesnausk!</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12956</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

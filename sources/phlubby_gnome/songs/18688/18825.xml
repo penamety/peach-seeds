@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18825">
+ <title>Windy Mind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.1429</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-05 08:00:31</locked_until>
+ <lastplayed>2018-05-03 11:01:52</lastplayed>
+ <platform id="25">POKEY</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist><artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  <group id="290">Grayscale</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

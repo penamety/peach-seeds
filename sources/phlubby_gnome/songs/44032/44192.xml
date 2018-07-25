@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44192">
+ <title>L&#39;Escadrille de Scooters Aériens</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>3rd in Nordlicht 2017 tracked music compo
+
+sound: Yamaha DX7 (emulated), miscellaneous drum samples
+tools: OpenMPT, wine, Dexed
+
+(this file goes on 16 seconds longer than the compo file)</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 20:49:03</locked_until>
+ <lastplayed>2018-04-28 15:39:25</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176210/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?180546</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

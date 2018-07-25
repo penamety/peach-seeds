@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38446">
+ <title>Turtles All the Way Down</title>
+ <status v="A">Active</status>
+ <bitrate>284</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2571</rating>
+ 
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:49:40</locked_until>
+ <lastplayed>2018-06-15 04:02:55</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61204</pouetid>
+ <ytid>sBKmqkh9bb8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sBKmqkh9bb8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

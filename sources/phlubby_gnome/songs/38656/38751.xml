@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38751">
+ <title>Mercedes Detroit Intro</title>
+ <status v="A">Active</status>
+ <bitrate>1536</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>Made for a Mercedes Benz presentation in Detroit in 2009.
+
+Uploaded with Romeo&#39;s permission.</info>
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 09:16:39</locked_until>
+ <lastplayed>2018-03-21 03:44:18</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>vfLP323IA40</ytid>
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vfLP323IA40</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

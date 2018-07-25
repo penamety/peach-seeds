@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36781">
+ <title>When The Going Gets Tough, The Tough Get Going</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.7619</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 17:24:43</locked_until>
+ <lastplayed>2018-05-15 02:52:20</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

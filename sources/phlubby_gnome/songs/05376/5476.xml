@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5476">
+ <title>Arnomania</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="41">4.0</rating>
+ <info>1st place in pc demo compo at Wired 1997</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 02:01:56</locked_until>
+ <lastplayed>2018-05-21 02:24:21</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>335</pouetid>
+ <ytid>ZZ1KDKz7xNI</ytid>
+ <ytoffset>140</ytoffset>
+ 
+ <artists>
+  <artist id="881">Odkin</artist>
+ </artists>
+ <groups>
+  <group id="480">GMF</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZZ1KDKz7xNI</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

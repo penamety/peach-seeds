@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4978">
+ <title>Restricted</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.4146</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 23:39:24</locked_until>
+ <lastplayed>2018-06-13 16:31:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9674</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="821">Mr Man</artist>
+ </artists>
+ <groups>
+  <group id="117">Absence</group><group id="734">Excelence</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>claps</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

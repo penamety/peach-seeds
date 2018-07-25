@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44320">
+ <title>Den vilde pop</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.2</rating>
+ 
+ <songlength>15</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 23:37:57</locked_until>
+ <lastplayed>2018-05-04 08:58:33</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+  <tag>unfinished</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

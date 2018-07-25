@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6206">
+ <title>Chuck Rock goes MP3</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ 
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-20 07:10:13</locked_until>
+ <lastplayed>2018-02-26 13:38:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1004">Red Devil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

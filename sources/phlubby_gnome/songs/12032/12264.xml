@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12264">
+ <title>Fears</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.9429</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 14:48:54</locked_until>
+ <lastplayed>2018-02-15 13:00:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3340</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1540">Siatek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Abstract</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

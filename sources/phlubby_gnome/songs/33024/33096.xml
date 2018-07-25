@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33096">
+ <title>618</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.0435</rating>
+ <info>1st place in combined demo compo at Stream 2011</info>
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 16:05:48</locked_until>
+ <lastplayed>2018-05-24 14:24:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57003</pouetid>
+ <ytid>V7Ul1_MGXVw</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=V7Ul1_MGXVw</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

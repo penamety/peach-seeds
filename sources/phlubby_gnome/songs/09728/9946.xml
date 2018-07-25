@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9946">
+ <title>Artefacts</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.0213</rating>
+ 
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-03 06:49:28</locked_until>
+ <lastplayed>2018-05-03 12:07:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>24450</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="303">Plush</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

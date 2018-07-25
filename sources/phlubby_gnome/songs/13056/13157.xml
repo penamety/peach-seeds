@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13157">
+ <title>Terra Cresta</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">3.6964</rating>
+ <info>MOS6581R2.
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 00:55:05</locked_until>
+ <lastplayed>2018-06-02 07:53:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2620</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

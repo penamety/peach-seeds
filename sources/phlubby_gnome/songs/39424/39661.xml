@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39661">
+ <title>Heavy Traffic</title>
+ <status v="A">Active</status>
+ <bitrate>1020</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.16</rating>
+ <info>Winner of ATARI XL/XE POKEY Music Compo at Silly Venture 2013</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 03:58:14</locked_until>
+ <lastplayed>2018-06-01 03:18:18</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  <group id="774">Mystic Bytes [MSB]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

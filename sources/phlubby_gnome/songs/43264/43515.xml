@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43515">
+ <title>Dancing Frogs</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ <info>2nd at the combined tracker music compo, deadline 2016</info>
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:34:02</locked_until>
+ <lastplayed>2018-06-08 19:12:06</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Deadline</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/163807/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11693">
+ <title>Ferrari Grand Prix 01</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.05</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 06:56:38</locked_until>
+ <lastplayed>2018-03-13 01:48:38</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1938">Neil Baldwin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

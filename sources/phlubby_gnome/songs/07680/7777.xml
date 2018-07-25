@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7777">
+ <title>D.O.S [part 2 - aka &#34;Encyclopaedia part 1&#34;]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.3443</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 22:47:54</locked_until>
+ <lastplayed>2018-06-09 01:57:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>404</pouetid>
+ <ytid>65Wzk4P-RQk</ytid>
+ <ytoffset>237</ytoffset>
+ 
+ <artists>
+  <artist id="3083">Lord Interface</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

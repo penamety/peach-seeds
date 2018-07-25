@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42014">
+ <title>Illumination</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>c64.sk SID Compo 2003 entry</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-10 04:01:35</locked_until>
+ <lastplayed>2018-02-19 22:53:37</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1330">Cadaver</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

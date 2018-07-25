@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32390">
+ <title>Disk0</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-24 11:50:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

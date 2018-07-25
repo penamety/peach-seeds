@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25609">
+ <title>Cobra</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.1912</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 16:59:28</locked_until>
+ <lastplayed>2018-05-01 23:40:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1213">Thomas Detert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25103">
+ <title>Monkey Cage</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6842</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 18:41:36</locked_until>
+ <lastplayed>2017-11-22 03:47:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ <pouetid>21201</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

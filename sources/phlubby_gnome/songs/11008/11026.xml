@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11026">
+ <title>Desolation</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 19:38:37</locked_until>
+ <lastplayed>2018-06-14 05:16:56</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1888">Crazy Teo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

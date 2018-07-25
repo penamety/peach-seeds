@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20308">
+ <title>Rock With Wolfenstein</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">2.0851</rating>
+ 
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-05-21 09:00:23</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1763">King Maggot</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Comedy</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

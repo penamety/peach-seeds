@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38884">
+ <title>Resurgence</title>
+ <status v="A">Active</status>
+ <bitrate>324</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>C64 track made for Flashback &#39;Oldschool music exe&#39; compo (as remote entry), placed 3rd. </info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-26 01:58:13</locked_until>
+ <lastplayed>2018-03-08 05:45:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=48634</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

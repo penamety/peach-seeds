@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12976">
+ <title>Cyberworld</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">4.2535</rating>
+ <info>MOS6581R2.
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>308</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 04:05:06</locked_until>
+ <lastplayed>2018-06-08 14:59:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1418</pouetid>
+ <ytid>stD6lZNLhkg</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29653">
+ <title>Fjordlands-trompet</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ <info>Placed 2nd @ Solskogen 2010!</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 04:07:14</locked_until>
+ <lastplayed>2018-06-10 10:37:18</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1455">LoadError</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

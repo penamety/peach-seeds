@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1880">
+ <title>Cyber Gilbert</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Ranked 10th in the 4 channel music compo at Gasp 1995.</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-27 12:08:17</locked_until>
+ <lastplayed>2017-11-04 19:27:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Gasp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

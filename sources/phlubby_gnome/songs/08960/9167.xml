@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9167">
+ <title>Classical Favorites</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="132">4.0682</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 02:15:32</locked_until>
+ <lastplayed>2018-06-01 06:54:02</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>beethoven</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Grieg</tag>
+  
+  <tag>mario</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>mozart</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Rimsky-Korsakov</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

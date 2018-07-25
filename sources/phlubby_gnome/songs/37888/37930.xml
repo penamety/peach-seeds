@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37930">
+ <title>Those were the days</title>
+ <status v="A">Active</status>
+ <bitrate>154</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.5313</rating>
+ 
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 09:52:38</locked_until>
+ <lastplayed>2018-04-27 09:00:46</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

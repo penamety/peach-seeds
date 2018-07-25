@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44131">
+ <title>L45t M1nut3</title>
+ <status v="A">Active</status>
+ <bitrate>1079</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.0</rating>
+ <info>1st place in the Glucholazy 2007 Atari 8bit Music competition</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 04:17:55</locked_until>
+ <lastplayed>2018-04-12 04:37:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3460">Raster</artist>
+ </artists>
+ <groups>
+  <group id="872">Computer Platform Unlimited</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Glucholazy</tag>
+  
+  <tag>pokey</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/113508/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38959">
+ <title>Powerman</title>
+ <status v="A">Active</status>
+ <bitrate>244</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ 
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-23 11:05:56</locked_until>
+ <lastplayed>2017-12-05 20:20:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1032</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

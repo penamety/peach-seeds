@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10700">
+ <title>fractured.ni</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="135">3.6296</rating>
+ <info>Lyrics:
+Where is the key
+that unlocks all my dreams?
+I want them out
+The feelings deep within me</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 10:40:27</locked_until>
+ <lastplayed>2018-06-07 20:46:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>701</pouetid>
+ <ytid>IAsUvoHxV5I</ytid>
+ <ytoffset>455</ytoffset>
+ 
+ <artists>
+  <artist id="80">Azazel</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Eurodance</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IAsUvoHxV5I#t=459s</url>
+    <comment>fixd yt</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

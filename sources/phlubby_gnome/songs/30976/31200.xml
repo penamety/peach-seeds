@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31200">
+ <title>Idea</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.7143</rating>
+ 
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-21 02:36:51</locked_until>
+ <lastplayed>2017-10-11 21:27:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14481</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2224">Andreas Starr</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

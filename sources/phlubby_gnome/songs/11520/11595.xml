@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11595">
+ <title>Petit Oiseau</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="36">3.0556</rating>
+ <info>Vocals by GTK
+
+Lyrics:
+&#34;Moi, je suis un p&#39;tit oiseau et je cours dans les prés.&#34;
+
+Translation:
+&#34;I am a little bird and I run in the meadows.&#34;</info>
+ <songlength>19</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 04:10:47</locked_until>
+ <lastplayed>2018-05-11 15:28:01</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>Jingle</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31610">
+ <title>Modern Talking</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.2381</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 05:33:42</locked_until>
+ <lastplayed>2018-06-14 15:52:54</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>ModernTalking</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

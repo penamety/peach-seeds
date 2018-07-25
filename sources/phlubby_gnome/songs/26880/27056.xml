@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27056">
+ <title>Orion Journey</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>This module was composed for 64kb-intro by f0x. Used sample-generator by f0x
+
+mo3-version:
+ ftp://ftp.scenesp.org/pub/modulez/bitl/OrionJny.zip</info>
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-14 01:50:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>25464</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

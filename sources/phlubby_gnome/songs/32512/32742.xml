@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32742">
+ <title>Sunnyvale Part 3</title>
+ <status v="A">Active</status>
+ <bitrate>247</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="109">4.6606</rating>
+ <info>2nd place in PC 64K Intro compo at Revision 2011
+used in &#34;we have accidently borrowed your votedisk&#34; production by razor1911.</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 16:15:22</locked_until>
+ <lastplayed>2018-06-17 05:08:06</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56871</pouetid>
+ <ytid>0CBQI7cktMk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0CBQI7cktMk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

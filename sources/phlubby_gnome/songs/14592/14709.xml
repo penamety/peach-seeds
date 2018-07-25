@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14709">
+ <title>Cyberspider</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.1563</rating>
+ 
+ <songlength>599</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 12:48:36</locked_until>
+ <lastplayed>2018-03-15 20:44:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9420</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="89">Banana</artist>
+ </artists>
+ <groups>
+  <group id="343">The Electronic Knights [TEK]</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

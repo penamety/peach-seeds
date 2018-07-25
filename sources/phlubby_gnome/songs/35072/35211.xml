@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35211">
+ <title>The Sovjet-Hymn</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.0435</rating>
+ 
+ <songlength>57</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 22:13:24</locked_until>
+ <lastplayed>2018-06-13 08:58:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5013">Platon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

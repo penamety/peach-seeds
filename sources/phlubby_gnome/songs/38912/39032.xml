@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39032">
+ <title>Dalslands Rytmer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.3636</rating>
+ <info>Winner of the 4-channel compo at Icing&#39;95</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-15 13:53:00</locked_until>
+ <lastplayed>2017-08-05 06:29:17</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5402">Mr. Mygg</artist>
+ </artists>
+ <groups>
+  <group id="756">C-Lous</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Icing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

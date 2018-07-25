@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37860">
+ <title>Extremly Cheese</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 15:30:32</locked_until>
+ <lastplayed>2018-04-23 02:23:33</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4131">Xiny6581 </artist>
+ </artists>
+ <groups>
+  <group id="701">Digital Sounds System</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>food</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

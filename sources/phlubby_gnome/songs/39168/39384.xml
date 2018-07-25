@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39384">
+ <title>Exostak</title>
+ <status v="A">Active</status>
+ <bitrate>672</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 02:33:13</locked_until>
+ <lastplayed>2018-01-10 04:22:41</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>61877</pouetid>
+ <ytid>_fDKw-reN04</ytid>
+ 
+ 
+ <artists>
+  <artist id="1560">TEO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Function</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_fDKw-reN04</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

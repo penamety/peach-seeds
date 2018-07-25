@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7829">
+ <title>So I Did</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.14</rating>
+ <info>7th in the streaming music compo at Breakpoint 2003.</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 08:17:25</locked_until>
+ <lastplayed>2018-05-21 07:28:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>20194</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

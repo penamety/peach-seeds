@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8373">
+ <title>fr-027: Out of the blue</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">3.5542</rating>
+ 
+ <songlength>350</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 15:21:55</locked_until>
+ <lastplayed>2018-05-16 05:23:48</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>7009</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>UndergroundConference</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

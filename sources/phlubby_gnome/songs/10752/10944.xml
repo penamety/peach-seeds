@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10944">
+ <title>Indigo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ <info>(c) basehead / fm 1996
+
+inspired by the music of yennek, 3mb, eddie fowlkes and juan atkins. a tribute to the detroit sound....
+
+samples from: roland jv800, the orb, maelcum, chuck biscuits, stalker, jogeir liljedahl, c.c.catch, dizzy, vinnie, octoque
+
+n-joi
+
+(btw-- as far as i know, this tune only sounds correct in Impulse Tracker version 2.02, so if you play it with some other player, i don&#39;t guarantee it&#39;s correct.)
+</info>
+ <songlength>386</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 07:44:31</locked_until>
+ <lastplayed>2018-05-01 11:15:42</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

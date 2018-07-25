@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43493">
+ <title>Blaszczykowski</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.8889</rating>
+ <info>4th place at &#34;Nordlicht 2016&#34; Executable Music Competition
+
+ProTracker Mod-File, 49,6 kb, 4 Channels
+
+</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-15 12:37:57</locked_until>
+ <lastplayed>2017-08-10 02:49:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>LSexsMNxMZY</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LSexsMNxMZY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

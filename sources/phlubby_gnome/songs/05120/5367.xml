@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5367">
+ <title>Bonkynudge</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 11:02:09</locked_until>
+ <lastplayed>2018-02-16 18:15:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9082</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>StolenData</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

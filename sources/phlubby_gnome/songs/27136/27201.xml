@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27201">
+ <title>Suicide Barbie</title>
+ <status v="R">Rejected</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.7778</rating>
+ 
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1630">Elusive</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>PlaystationPortable</tag>
+  
+  <tag>suicide</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

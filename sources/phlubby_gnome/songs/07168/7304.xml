@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7304">
+ <title>Dns</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.4727</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 23:18:35</locked_until>
+ <lastplayed>2018-05-11 08:42:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13200</pouetid>
+ <ytid>zRANgKnaZBQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1834">Hans</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37276">
+ <title>Candy</title>
+ <status v="A">Active</status>
+ <bitrate>313</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.7368</rating>
+ 
+ <songlength>87</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 06:28:00</locked_until>
+ <lastplayed>2018-04-23 02:23:52</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>60278</pouetid>
+ <ytid>pGFOmKvA2l8</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="5223">Machia</artist>
+ </artists>
+ <groups>
+  <group id="702">nonoil</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>2013</tag>
+  
+  <tag>Aquestone</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocaloid</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

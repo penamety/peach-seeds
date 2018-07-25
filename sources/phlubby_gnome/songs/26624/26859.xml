@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26859">
+ <title>The Last Ninja - Ninja Go Rock</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.2632</rating>
+ 
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 09:14:23</locked_until>
+ <lastplayed>2018-05-24 22:57:12</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3898">Plasm303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

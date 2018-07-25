@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26801">
+ <title>Butterfly Effect</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="40">3.95</rating>
+ <info>Third chiptune coop with xaimus.</info>
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 18:07:48</locked_until>
+ <lastplayed>2018-05-20 09:41:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist><artist id="4071">xaimus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

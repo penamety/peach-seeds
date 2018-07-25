@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44787">
+ <title>&lt;&gt;Cyber Space&lt;&gt;</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.0</rating>
+ <info>00    SZUDI / Absence
+01 ... Szymon Szuchaja ..
+02 ===================
+03  Wielkanoc . IV . 1996
+04 ======================
+05      Ruda Slaska&#39;96
+06               @</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 01:15:47</locked_until>
+ <lastplayed>2018-06-09 01:29:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3836">Szudi</artist>
+ </artists>
+ <groups>
+  <group id="117">Absence</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

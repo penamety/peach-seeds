@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24481">
+ <title>Syksyinen lehti</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ 
+ <songlength>54</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 13:13:04</locked_until>
+ <lastplayed>2018-06-10 03:32:47</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  <group id="467">Marsmellow</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

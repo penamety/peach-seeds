@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42931">
+ <title>Arsantica - Part 2</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>From &#34;Arsantica&#34; by Desire, ranked 5th in Revision 2014 oldskool demo compo</info>
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 19:06:29</locked_until>
+ <lastplayed>2018-01-27 20:39:02</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>62953</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="774">Mystic Bytes [MSB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/146587/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2548">
+ <title>Cytax 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 20:52:53</locked_until>
+ <lastplayed>2018-02-16 22:32:08</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>13467</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="396">Ec Rider</artist>
+ </artists>
+ <groups>
+  <group id="174">Cytax</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

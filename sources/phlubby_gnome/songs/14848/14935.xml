@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14935">
+ <title>Whispering Winds</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.875</rating>
+ 
+ <songlength>402</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-07 05:37:42</locked_until>
+ <lastplayed>2017-06-28 02:02:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9164</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

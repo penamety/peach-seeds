@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8016">
+ <title>Peek-a-Boo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.3243</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 16:08:40</locked_until>
+ <lastplayed>2018-04-24 00:14:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1543</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist><artist id="2026">Mitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

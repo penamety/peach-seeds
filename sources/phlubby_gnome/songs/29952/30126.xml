@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30126">
+ <title>Incubation</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.0517</rating>
+ <info>1st place in pc 64k compo at Evoke 2010</info>
+ <songlength>349</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:41:19</locked_until>
+ <lastplayed>2018-06-08 09:07:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55737</pouetid>
+ <ytid>FLAkFQLe0ys</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist><artist id="4374">LLB</artist>
+ </artists>
+ <groups>
+  <group id="362">Ctrl-Alt-Test</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FLAkFQLe0ys</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

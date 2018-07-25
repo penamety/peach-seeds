@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23803">
+ <title>The journalist [ay]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-11 00:56:13</locked_until>
+ <lastplayed>2017-06-05 18:09:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3506">Rolemusic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

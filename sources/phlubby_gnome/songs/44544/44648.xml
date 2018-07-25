@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44648">
+ <title>Passion</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.3333</rating>
+ <info>&#34; p a s s i o n &#34;
+
+ Written by
+  Sonic/destiny
+
+ My entry for the
+ X96 music competition
+
+ This song contains
+ some home-made
+ U220 samples,if you
+ decide to use them,
+ please credit me.
+ They really took me
+ alot of work!!!
+
+ If you feel the urge
+ to contact me,just
+ drop a line at
+ sonic@quazar.idn.nl
+
+ Special hi&#39;s to the
+ whole Destiny team.
+ Respect to the whole
+ music scene!
+
+ Signing off, Sonic.
+
+
+Thanx to demoralize
+for letting me use his
+computer to finish
+this and to Diablo
+for actually letting
+me HEARING it :)
+</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 22:19:55</locked_until>
+ <lastplayed>2018-05-14 08:24:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1809">Sonic</artist>
+ </artists>
+ <groups>
+  <group id="370">Destiny</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?53362</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

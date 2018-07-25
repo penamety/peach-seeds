@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14977">
+ <title>Chopper 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.2273</rating>
+ 
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 01:07:21</locked_until>
+ <lastplayed>2018-05-10 14:58:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9182</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

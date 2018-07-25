@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12595">
+ <title>Stress</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="47">3.9362</rating>
+ <info>Soundtrack of the demo &#34;Stress&#34; by Outbreak &amp; Chimera Music, released at Evoke 2009.</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 22:09:50</locked_until>
+ <lastplayed>2018-03-17 05:28:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>53577</pouetid>
+ <ytid>XsVgEHxqYSg</ytid>
+ <ytoffset>25</ytoffset>
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group><group id="137">Outbreak</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XsVgEHxqYSg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9935">
+ <title>Contest Demo (The 2nd Choice)</title>
+ <status v="A">Active</status>
+ <bitrate>188</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="82">4.2683</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 06:37:03</locked_until>
+ <lastplayed>2018-05-21 06:50:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1815">Hazel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>demostyle</tag>
+  
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

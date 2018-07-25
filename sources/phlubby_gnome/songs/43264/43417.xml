@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43417">
+ <title>Tokio Demo Scene</title>
+ <status v="A">Active</status>
+ <bitrate>277</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0909</rating>
+ <info>2nd place in the Combined Music Competition at Tokyo DemoFest 2014.</info>
+ <songlength>291</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 11:21:15</locked_until>
+ <lastplayed>2018-06-08 23:19:07</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3580">SinCL</artist>
+ </artists>
+ <groups>
+  <group id="436">SystemK</group>
+ </groups>
+ 
+ <tags>
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>Vocaloid</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/103869/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

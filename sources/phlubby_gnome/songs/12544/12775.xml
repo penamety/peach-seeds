@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12775">
+ <title>Bomb Jack</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.9167</rating>
+ <info>Elite, 1986</info>
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 11:23:22</locked_until>
+ <lastplayed>2018-04-27 20:14:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>rAxaH_oS8rs</ytid>
+ 
+ 
+ <artists>
+  <artist id="1669">Mark Cooksey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=331</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

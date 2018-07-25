@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41483">
+ <title>Magic128 demo</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5833</rating>
+ 
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 23:37:56</locked_until>
+ <lastplayed>2018-03-31 15:13:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4397">XPEH</artist>
+ </artists>
+ <groups>
+  <group id="366">Looker House [LKR]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

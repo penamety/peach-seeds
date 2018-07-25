@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41883">
+ <title>Mystic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="29">3.9655</rating>
+ <info>&#34;Mystic&#34; by Bacter^Speckdrumm &amp; Saga Musix^Nuance 
+
+OpenMPT + Schism Tracker, 43 channels.
+Samples from Roland D-50 / U-220, Yamaha AN1x / CS6R, Korg X5DR / Wavestation, kb6, JayB</info>
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 02:17:19</locked_until>
+ <lastplayed>2018-06-03 11:44:52</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group><group id="26">Speckdrumm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

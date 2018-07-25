@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22421">
+ <title>Veni, vidi, vici</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8182</rating>
+ <info>From the Megademo OMD by Orb which scored 2nd place in oldskool demo compo at Sundown 2007.
+
+</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 00:02:34</locked_until>
+ <lastplayed>2018-05-14 13:11:21</lastplayed>
+ <platform id="26">VIC-20</platform>
+ 
+ <pouetid>32034</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

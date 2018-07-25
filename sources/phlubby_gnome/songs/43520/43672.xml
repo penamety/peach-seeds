@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43672">
+ <title>Acoustic Sighs</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ 
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-14 19:52:07</locked_until>
+ <lastplayed>2017-12-28 10:53:51</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5208">lroy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

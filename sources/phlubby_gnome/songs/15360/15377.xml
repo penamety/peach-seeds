@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15377">
+ <title>Starwars</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8824</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 16:40:48</locked_until>
+ <lastplayed>2017-09-28 16:29:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="163">Captain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>StarWars</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

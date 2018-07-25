@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24466">
+ <title>Day and Night</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.7742</rating>
+ 
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 07:52:28</locked_until>
+ <lastplayed>2018-06-17 10:09:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  <group id="467">Marsmellow</group>
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>atmospheric</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>vibes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

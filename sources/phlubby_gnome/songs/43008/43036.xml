@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43036">
+ <title>Rainbow Clash - Everything Is Static Still Changing </title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>7th at Revision 2016 PC demo compo
+
+software platform: REAPER
+
+note: overdrive in the sound is intentional</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 15:32:41</locked_until>
+ <lastplayed>2018-04-07 09:49:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>67138</pouetid>
+ <ytid>NmygRdmgU7A</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="385">Digital Dynamite [DD]</group><group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>solemn</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/155256/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

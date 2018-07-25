@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15708">
+ <title>Monkey Island - Part 10</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.0833</rating>
+ 
+ <songlength>52</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 18:55:43</locked_until>
+ <lastplayed>2018-05-01 05:25:08</lastplayed>
+ <platform id="35">TFMX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist><artist id="3519">Rudolf Stember</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

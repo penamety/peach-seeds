@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9897">
+ <title>ARTe soundTrack part 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.6346</rating>
+ 
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 09:39:27</locked_until>
+ <lastplayed>2018-06-06 01:05:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14193</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

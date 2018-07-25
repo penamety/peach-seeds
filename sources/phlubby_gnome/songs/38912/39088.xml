@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39088">
+ <title>Men of Mega - Consultation (Ultrasyd Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.9167</rating>
+ <info>&#34;For his 30th birthday, Lunar Park (a.k.a. Monodeer), Men of Mega, RoccoW, Ultrasyd and xyce decided to make some music for EINDBAAS&#39; Frans Twisk. With five original tracks and five remixes of one of each others earlier tracks we&#39;re pretty sure we&#39;ve stroked Frans&#39; ego for the next five years.&#34;
+
+Original song by Men of Mega</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-15 10:24:12</locked_until>
+ <lastplayed>2018-01-28 15:57:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chippop</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5ehevonye_8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

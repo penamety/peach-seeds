@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11170">
+ <title>South London Spring</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.525</rating>
+ 
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 02:34:53</locked_until>
+ <lastplayed>2018-03-22 02:17:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>51760</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>turntablism</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

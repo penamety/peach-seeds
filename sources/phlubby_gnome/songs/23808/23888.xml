@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23888">
+ <title>Mr. Nutz - Warpzone</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>46</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 10:45:39</locked_until>
+ <lastplayed>2018-06-15 16:06:46</lastplayed>
+ <platform id="35">TFMX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3519">Rudolf Stember</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

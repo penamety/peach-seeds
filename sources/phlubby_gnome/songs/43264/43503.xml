@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43503">
+ <title>Waldemars Bleke</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ <info>1st position at TRSAC 2011 streaming music compo
+
+Features samples (slide guitar, harp, vocals) from &#34;Louisiana Blues&#34; by Muddy Waters</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 14:21:06</locked_until>
+ <lastplayed>2018-05-11 20:11:44</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/27463/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

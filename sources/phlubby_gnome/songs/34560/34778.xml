@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34778">
+ <title>Last Christmas</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">2.6792</rating>
+ 
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-08-03 10:04:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>58214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

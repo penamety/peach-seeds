@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13233">
+ <title>Necronom Level 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 04:04:58</locked_until>
+ <lastplayed>2017-09-25 05:35:55</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2124">Michael Tschögl</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

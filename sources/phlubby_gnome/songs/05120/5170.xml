@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5170">
+ <title>Gods</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">3.88</rating>
+ <info>The song &#34;Into the Wonderful&#34; was written by Nation XII (John Foxx and Tim Simenon).
+The module was tracked by Richard Joseph. [ExoticA]</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 21:16:44</locked_until>
+ <lastplayed>2018-05-03 10:45:28</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="843">Nation XII</artist><artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2754</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

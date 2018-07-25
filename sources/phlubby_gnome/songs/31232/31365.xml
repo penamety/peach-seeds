@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31365">
+ <title>ArtWay Party 2010 Invitation </title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.075</rating>
+ 
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 05:31:18</locked_until>
+ <lastplayed>2018-04-10 16:45:45</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54571</pouetid>
+ <ytid>cnYkvIkA0FE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1661">Nula</artist>
+ </artists>
+ <groups>
+  <group id="481">Artway</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>ArtWay</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

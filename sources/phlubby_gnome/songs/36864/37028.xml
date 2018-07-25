@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37028">
+ <title>Die Edison, Die (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 14:44:07</locked_until>
+ <lastplayed>2018-05-18 10:16:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59915</pouetid>
+ <ytid>C2oVl4YDTjU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1258">Traymuss</artist>
+ </artists>
+ <groups>
+  <group id="365">ADDiCT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Downtempo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=C2oVl4YDTjU</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

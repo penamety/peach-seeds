@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25187">
+ <title>d796</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.3929</rating>
+ 
+ <songlength>343</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 18:03:38</locked_until>
+ <lastplayed>2018-05-15 12:09:51</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>10063</pouetid>
+ <ytid>DSthI91ktOs</ytid>
+ 
+ 
+ <artists>
+  <artist id="3699">Tatar</artist>
+ </artists>
+ <groups>
+  <group id="677">Kosmoplovci</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>atmospheric</tag>
+  
+  <tag>boring</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7492">
+ <title>This Week I&#39;ve Been Mostly Playing Guitar</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">3.95</rating>
+ 
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 11:17:04</locked_until>
+ <lastplayed>2018-04-28 22:44:34</lastplayed>
+ 
+ <type id="7">Game</type>
+ <pouetid>25819</pouetid>
+ <ytid>5-KUtboYRbo</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1331">Cairbre</artist>
+ </artists>
+ <groups>
+  <group id="459">Unreal Voodoo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

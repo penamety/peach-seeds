@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12">
+ <title>Metaphysia End</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0</rating>
+ 
+ <songlength>264</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:09:27</locked_until>
+ <lastplayed>2018-05-21 20:53:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3277</pouetid>
+ <ytid>aIF6haIBUMc</ytid>
+ 
+ 
+ <artists>
+  <artist id="2">16 Beat</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>AmiBerlin</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

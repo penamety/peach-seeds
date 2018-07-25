@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31384">
+ <title>Gingerbread Factory</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.5938</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 14:47:54</locked_until>
+ <lastplayed>2018-06-12 22:02:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

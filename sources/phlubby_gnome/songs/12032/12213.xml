@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12213">
+ <title>Motel &#39;Jamaican&#39;</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">3.9367</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 07:55:18</locked_until>
+ <lastplayed>2018-05-04 20:31:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

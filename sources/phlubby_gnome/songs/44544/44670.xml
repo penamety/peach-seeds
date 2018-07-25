@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44670">
+ <title>Spaceship Demo</title>
+ <status v="A">Active</status>
+ <bitrate>486</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="4">3.25</rating>
+ <info>(c) 1984 Atari. The infamous Spaceship Demo that came with the various Atari 8-bitters. If you had an Atari you know this demo.
+
+The demo had a first part, which depicted a walking robot. This is the second half.
+
+http://www.megalextoria.com/forum2/index.php?t=msg&amp;th=42128&amp;start=0&amp;
+
+http://www.atarimagazines.com/v4n8/Lucasfilm.html</info>
+ <songlength>34</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 01:09:22</locked_until>
+ <lastplayed>2018-06-07 13:44:52</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>27280</pouetid>
+ <ytid>kLdmviclAx4</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="5529">Jim St. Louis</artist><artist id="5530">Russ Karas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kLdmviclAx4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

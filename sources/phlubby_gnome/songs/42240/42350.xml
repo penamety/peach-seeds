@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42350">
+ <title>Oh Five!</title>
+ <status v="A">Active</status>
+ <bitrate>208</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1538</rating>
+ <info>Soundtrack from the Amiga 500 demo &#34;Oh Five!&#34; by PACiF!C.</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 02:22:27</locked_until>
+ <lastplayed>2018-06-14 20:52:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>66257</pouetid>
+ <ytid>x6MIOeHERac</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/144251/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=x6MIOeHERac</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/144252/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

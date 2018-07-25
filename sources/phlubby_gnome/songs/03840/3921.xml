@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3921">
+ <title>Laid and Flushed [aka Dane]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.2059</rating>
+ 
+ <songlength>81</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 21:17:32</locked_until>
+ <lastplayed>2018-05-27 20:55:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2598</pouetid>
+ <ytid>X9mABtHrtgU</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1787">Laxity [Kefrens]</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>5th</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RxKpk7BH0dk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=2559</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43027">
+ <title>Electric Donkey Muscles</title>
+ <status v="A">Active</status>
+ <bitrate>92</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 16:27:57</locked_until>
+ <lastplayed>2018-06-01 18:53:22</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5652">RoccoW</artist>
+ </artists>
+ <groups>
+  <group id="777">Poo-brain [PB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154971/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

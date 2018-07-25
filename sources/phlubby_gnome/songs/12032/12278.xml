@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12278">
+ <title>Telos</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="99">4.5455</rating>
+ <info>6th place in combined demo compo at Assembly 2006
+
+&#39;Telos&#39; is greek, it means &#39;end&#39;</info>
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:01:24</locked_until>
+ <lastplayed>2018-05-23 18:14:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>25780</pouetid>
+ <ytid>ITT3pBABChA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1386">Flipside</artist><artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HO0bbUER018</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ITT3pBABChA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

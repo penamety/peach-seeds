@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9090">
+ <title>ST-01 Song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.3091</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 20:39:11</locked_until>
+ <lastplayed>2018-06-09 03:09:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1757">Ruth Linde</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

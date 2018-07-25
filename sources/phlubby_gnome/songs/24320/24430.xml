@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24430">
+ <title>[Jazz Jackrabbit 2] Jazz Boss Tune 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.0</rating>
+ <info>No, this is no mistake. This is not by Siren. The mod file clearly says &#34;Bryan Rudge&#34;, and that&#39;s Sirrus.</info>
+ <songlength>57</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 19:33:59</locked_until>
+ <lastplayed>2017-10-29 07:57:45</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3498">Robert A. Allen</artist><artist id="1631">Sirrus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

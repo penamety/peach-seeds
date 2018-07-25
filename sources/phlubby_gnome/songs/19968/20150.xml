@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20150">
+ <title>In Control</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.2581</rating>
+ <info>Why is it that the sadness wouldn&#39;t leave,
+That there&#39;s always something cold in this warm world of mine?
+Every sun ray seems to hurt; flowers fade as I walk by.
+This small itch when I think everything&#39;s just fine.
+
+So why don&#39;t I feel the contentment, the happiness I am supposed to feel?
+Why do I still dwell in compassion, denying to see that my dream&#39;s come real?
+I just want to finally realise I&#39;m in control of what I&#39;ll become,
+Without need of asking the world while still here and not long gone.
+
+Come on!
+</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 23:07:40</locked_until>
+ <lastplayed>2018-06-13 11:41:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>5596</pouetid>
+ <ytid>WzHHOM4jIUM</ytid>
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EBM</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WzHHOM4jIUM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36037">
+ <title>Grapevine 9.2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="27">3.2593</rating>
+ 
+ <songlength>399</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 21:29:06</locked_until>
+ <lastplayed>2018-03-10 13:48:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14805</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Grapevine</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

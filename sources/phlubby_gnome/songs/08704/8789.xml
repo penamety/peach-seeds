@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8789">
+ <title>Beyond the dark portal</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.3</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 20:55:55</locked_until>
+ <lastplayed>2018-01-24 04:09:11</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1721">Raven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>game</tag>
+  
+  <tag>Horse</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3123">
+ <title>Deep impact</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">1.6522</rating>
+ 
+ <songlength>343</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 03:45:32</locked_until>
+ <lastplayed>2018-05-14 05:27:11</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

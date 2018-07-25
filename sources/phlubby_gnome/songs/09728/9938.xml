@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9938">
+ <title>Farscape (Hymn To Aurora)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="163">4.5583</rating>
+ <info>Lyrics:
+Let us travel now at the speed of light
+Departing from our home star
+on a trip across the cosmos
+toward the edge of our known universe</info>
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:24:15</locked_until>
+ <lastplayed>2018-06-05 22:26:49</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ <ytid>fPDi7mApM7I</ytid>
+ 
+ 
+ <artists>
+  <artist id="1814">Skymarshall Arts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Melodic</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fPDi7mApM7I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

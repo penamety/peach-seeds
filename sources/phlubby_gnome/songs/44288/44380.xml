@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44380">
+ <title>Carnival (Broken ARM Music 1991)</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">2.6</rating>
+ <info>Originally released on a music demo disk on the 32-bit Archimedes computer in February 1991.  Carnival was one of the first 8-Channel Sound Tracker modules I wrote at the age of 19 under the guise BrokenARM Music. It was made on a beta test copy of !Tracker by Fabrice Mercier on an Archimedes A-310.  !Tracker was essentially an Amiga Soundtracker clone but, unusually, it supported up to 8-channels with soft panning unlike its 4-channel hard-panned counterpart. It is one of the earlier 8-channel Soundtracker music modules to be released on a home computer (Oktalyzer was released in 1989 on the Amiga). The module comprises mostly of 8-bit samples from the infamous ST-01 sample library originally bundled with Karsten Obarski&#39;s infamous Ultimate Soundtracker in 1987 on the Amiga. Released in 1987 the Archimedes was the first commercial computer to feature the 32-bit ARM RISC processor and featured 8-audio channels each with stereo panning in hardware.</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2017-10-07 06:24:30</locked_until>
+ <lastplayed>2017-09-30 06:15:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1348">HideawayStudio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

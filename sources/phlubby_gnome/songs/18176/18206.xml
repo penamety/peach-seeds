@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18206">
+ <title>Strange Loader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.3125</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:27:08</locked_until>
+ <lastplayed>2018-05-29 13:53:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9394</pouetid>
+ <ytid>sQ7ereN7OgY</ytid>
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Halloween</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

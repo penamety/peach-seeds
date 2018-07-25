@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8735">
+ <title>Leif Rular</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.1452</rating>
+ <info>really a rare one on PC</info>
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 18:19:10</locked_until>
+ <lastplayed>2018-05-11 18:25:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  <group id="34">Electra</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34080">
+ <title>Live On A Star</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="35">2.7143</rating>
+ <info>[url]http://www.explizit.org/1996/05/live-on-a-star/[/url]</info>
+ <songlength>316</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 19:36:16</locked_until>
+ <lastplayed>2018-05-16 05:49:37</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="631">KoM&#39;AH</artist>
+ </artists>
+ <groups>
+  <group id="420">Explizit</group>
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

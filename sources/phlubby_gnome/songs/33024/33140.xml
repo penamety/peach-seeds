@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33140">
+ <title>The Self Portrait</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.4333</rating>
+ 
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 18:55:02</locked_until>
+ <lastplayed>2018-06-16 16:05:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

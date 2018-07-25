@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39564">
+ <title>Catch Me if You Can</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.64</rating>
+ <info>From Kindergarden 2013</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 22:02:20</locked_until>
+ <lastplayed>2018-06-16 15:00:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5375">Phoenix</artist><artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

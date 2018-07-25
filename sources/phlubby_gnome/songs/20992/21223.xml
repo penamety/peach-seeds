@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21223">
+ <title>Stun Runner</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 04:55:20</locked_until>
+ <lastplayed>2018-04-17 23:34:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="750">Matt Furniss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31696">
+ <title>Jam (intro)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>Intro tune from &#34;Jam&#34; - ZX Spectrum (pentagon clone) demo by Digital Reality, audiovisual art on 8bit machine.
+2nd at Chaos Constructions 1999 demoparty.</info>
+ <songlength>44</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 22:03:37</locked_until>
+ <lastplayed>2018-05-09 23:49:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1577</pouetid>
+ <ytid>FffgG0xcf78</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1729">Sauron</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FffgG0xcf78</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2759</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

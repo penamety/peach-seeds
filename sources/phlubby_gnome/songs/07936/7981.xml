@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7981">
+ <title>STS-03: Aeon Flux (Strange Mental Universe)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.0417</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:34:28</locked_until>
+ <lastplayed>2018-06-03 11:02:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16353</pouetid>
+ <ytid>OsLwgYSH6-k</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1469">Man With No Alias</artist>
+ </artists>
+ <groups>
+  <group id="68">Synesthetics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OsLwgYSH6-k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

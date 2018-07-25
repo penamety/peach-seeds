@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12243">
+ <title>Asmkaali</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.4706</rating>
+ <info>Entry for Oldskool music competition @ Assembly&#39;04</info>
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-02 07:32:24</locked_until>
+ <lastplayed>2018-01-09 05:47:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

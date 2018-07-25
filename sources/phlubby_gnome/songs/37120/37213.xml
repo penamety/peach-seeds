@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37213">
+ <title>Space Invaders</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.3182</rating>
+ <info>This song is used as opening song in Serial Gamer, a French Web series : [url=https://www.youtube.com/user/SerialGamerLaSerie]SerialGamerLaSerie - YouTube[/url]</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 09:20:49</locked_until>
+ <lastplayed>2018-05-14 09:47:24</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4618">Felix [de]</artist><artist id="4630">Kai</artist>
+ </artists>
+ <groups>
+  <group id="413">Pornophonique </group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

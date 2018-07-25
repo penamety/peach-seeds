@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8240">
+ <title>[Unreal] All Hallows Sunset</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.1556</rating>
+ 
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 21:55:43</locked_until>
+ <lastplayed>2018-05-09 23:59:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Unreal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

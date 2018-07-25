@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40760">
+ <title>Dynablaster Theme</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ <info>Maintheme for the release of Dynablaster, the no #1 game at Revision 2014</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 12:00:56</locked_until>
+ <lastplayed>2018-05-07 05:06:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ <pouetid>62926</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

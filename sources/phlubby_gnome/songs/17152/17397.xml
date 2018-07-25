@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17397">
+ <title>Rezolution</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.0</rating>
+ 
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 02:04:13</locked_until>
+ <lastplayed>2018-05-01 08:34:33</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>11468</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  <group id="202">Dreamdealers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8726">
+ <title>Receptor</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.1096</rating>
+ <info>2nd place in pc 4k compo at NVScene 2008</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:55:06</locked_until>
+ <lastplayed>2018-06-05 19:13:30</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>51449</pouetid>
+ <ytid>0UOpWfX6gw8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0UOpWfX6gw8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

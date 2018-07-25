@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2324">
+ <title>On the Run</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.2361</rating>
+ 
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 00:22:59</locked_until>
+ <lastplayed>2018-06-17 12:37:32</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="408">Elwood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

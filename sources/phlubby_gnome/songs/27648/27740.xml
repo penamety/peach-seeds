@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27740">
+ <title>Paranormal Vision</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5429</rating>
+ <info>Soundtrack from the invitation  to Chaos Constructions 1999.</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:59:15</locked_until>
+ <lastplayed>2018-06-03 14:36:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1964</pouetid>
+ <ytid>iP6Mxk3HNGI</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="1730">Visual</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group><group id="247">Extreme Entertainment [XTM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=1098</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=iP6Mxk3HNGI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/4912/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

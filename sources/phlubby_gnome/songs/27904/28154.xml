@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28154">
+ <title>RAW Intromusic</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>for the diskmag r.a.w by spaceballs. Please check pouet ID.</info>
+ <songlength>305</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 07:28:28</locked_until>
+ <lastplayed>2017-11-24 18:22:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>12414</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1878">Vinnie</artist>
+ </artists>
+ <groups>
+  <group id="107">Pure Metal Coders</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

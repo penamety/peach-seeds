@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43537">
+ <title>Mr Beanbag: Supermarket</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>Mr Beanbag: music for the Supermarket Sweep bonus stage</info>
+ <songlength>94</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-08 04:19:28</locked_until>
+ <lastplayed>2017-05-31 12:21:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5672">Mrs. Beanbag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/476</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

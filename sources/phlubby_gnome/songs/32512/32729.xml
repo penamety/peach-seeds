@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32729">
+ <title>Just Machines</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">3.9783</rating>
+ <info>1st place in amiga demo compo at Revision 2011
+
+7th place in streaming compo at Revision 2011
+
+Vocals: Michał Kowalonek from [url=http://www.myspace.com/snowmanpoland]Snowman[/url] band [flag]pl[/flag], Wiktor Fijałkowski, additional whispers/vocoders by the author
+Guitar by: Mateusz Palonek
+
+Are we all just machines
+Controlled by mathematics?
+We dream electric dreams,
+Got lost in human traffic.
+</info>
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 07:55:08</locked_until>
+ <lastplayed>2018-05-29 19:34:44</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>56883</pouetid>
+ <ytid>mEkVTF3i7BA</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mEkVTF3i7BA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

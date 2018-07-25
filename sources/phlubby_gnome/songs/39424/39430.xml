@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39430">
+ <title>Trust me, I am doctor</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">1.8333</rating>
+ 
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 10:15:02</locked_until>
+ <lastplayed>2018-06-04 04:58:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5430">Monolith Resistor</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AlternativeParty</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>StarTrek</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10645">
+ <title>Prehistorik</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">2.9667</rating>
+ <info>adlib</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:52:04</locked_until>
+ <lastplayed>2018-06-03 19:11:50</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1857">Christophe Fevre</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>monotone</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

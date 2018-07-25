@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29697">
+ <title>Humming-birds</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.2381</rating>
+ <info>At Dreamhack Winter 2004 there was a surprise compo (called the fast music compo) in which one had to write a piece of music using only the default set of sound samples shipped with Windows.
+
+Lft&#39;s contribution was a cover of the song of the Humming Birds in the Donald Duck film Bird lover&#39;s expedition, traditionally broadcasted in Sweden on Christmas eve.
+
+...and he won !</info>
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 06:30:03</locked_until>
+ <lastplayed>2018-05-12 19:30:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Dreamhack</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

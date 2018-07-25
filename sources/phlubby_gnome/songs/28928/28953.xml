@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28953">
+ <title>Hi Copy-Party</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>This is the best mod on copy-party in Warsaw, 1992, nowember.</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 08:35:33</locked_until>
+ <lastplayed>2018-05-25 05:05:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2906">Jakub Husak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

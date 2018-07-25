@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36517">
+ <title>Red Bulldozer</title>
+ <status v="A">Active</status>
+ <bitrate>161</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="50">4.5</rating>
+ <info>Brandon Walsh contribution to Edison 2012 Tracked music compo. Reached 3:rd place.</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 21:52:07</locked_until>
+ <lastplayed>2018-05-27 06:18:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4905">Brandon Walsh</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36960">
+ <title>A Chiptune to Save the World</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 16:09:11</locked_until>
+ <lastplayed>2018-04-03 16:42:51</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

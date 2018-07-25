@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20138">
+ <title>Drum03</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.8438</rating>
+ 
+ <songlength>85</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 15:11:24</locked_until>
+ <lastplayed>2018-06-14 10:39:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>34731</pouetid>
+ <ytid>Dc5uQahyTlg</ytid>
+ <ytoffset>238</ytoffset>
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

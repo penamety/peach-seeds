@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40971">
+ <title>Sellerisalt</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>Used in Insane Compusphere 2014 invitetro. Released at Gerp 2014.
+</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 08:01:02</locked_until>
+ <lastplayed>2017-12-12 05:16:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>64082</pouetid>
+ <ytid>RgtIh2CO8dM</ytid>
+ 
+ 
+ <artists>
+  <artist id="477">Gemini</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group><group id="610">The Compo Xaviours</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

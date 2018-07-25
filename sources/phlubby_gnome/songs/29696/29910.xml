@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29910">
+ <title>Worship!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.7619</rating>
+ 
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 19:58:09</locked_until>
+ <lastplayed>2018-06-04 17:03:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2058">Amadeus Voxon</artist>
+ </artists>
+ <groups>
+  <group id="360">Flash Inc.</group>
+ </groups>
+ 
+ <tags>
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

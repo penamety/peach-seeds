@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42331">
+ <title>Feel The Groove</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.0</rating>
+ 
+ <songlength>274</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 13:13:42</locked_until>
+ <lastplayed>2018-04-18 23:36:20</lastplayed>
+ <platform id="45">Oktalyzer</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24105</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4086">Hardsequenzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>herewego</tag>
+  
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

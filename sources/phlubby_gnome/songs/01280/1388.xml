@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1388">
+ <title>Eurochart 27</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ 
+ <songlength>369</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 03:46:16</locked_until>
+ <lastplayed>2018-06-04 03:28:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>20015</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Eurochart</tag>
+  
+  <tag>SouthSealandParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

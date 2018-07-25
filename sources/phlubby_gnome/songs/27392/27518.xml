@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27518">
+ <title>ZX-Format 4 - Title</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0</rating>
+ <info>This is the main theme from russian Speccy&#39;s e-zine &#34;ZX-Format - Issue No.4&#34; / Track No.15.</info>
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 14:24:10</locked_until>
+ <lastplayed>2018-05-28 11:51:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AY</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZX-Format</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

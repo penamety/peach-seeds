@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23974">
+ <title>Juuri näin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ <info>© Sape / Cheddar
+
+Assembly 1998 Music competition entry, not qualified to be shown on the big screen.</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-23 13:43:20</locked_until>
+ <lastplayed>2018-01-01 03:05:08</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3535">Sape</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Cheese</tag>
+  
+  <tag>compo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Yy_K8CtAYd8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

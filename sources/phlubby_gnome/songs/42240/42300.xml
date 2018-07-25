@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42300">
+ <title>Road (MmcM Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.1786</rating>
+ <info>This track has been rewritten by me in memory of musician Andrey Smirnov, who lived in the glorious city of Izhevsk and was known to all by the nickname Ded Smirnoff (Andrey Smirnov) on the computer platform ZX Spectrum. Tragically Andrey died of a heart attack in 1997, it happened in the ambulance. Let us commemorate this remarkable musician and poet.</info>
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 16:52:18</locked_until>
+ <lastplayed>2018-05-25 15:55:17</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/38519/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

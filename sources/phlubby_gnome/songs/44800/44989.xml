@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44989">
+ <title>Juno Crack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.8</rating>
+ <info>From the Sounds of Scenesat vol 4
+
+Released as &#34;Twolegs&#34;</info>
+ <songlength>307</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 01:12:46</locked_until>
+ <lastplayed>2018-05-25 18:06:54</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/187163/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

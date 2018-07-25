@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37235">
+ <title>Ceramic Beats</title>
+ <status v="A">Active</status>
+ <bitrate>115</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.2222</rating>
+ <info>One of the four demo tracks included with the Paragon5 Gameboy Tracker.
+
+done_by_andrew
+lemon_in_2001
+for_paragon5</info>
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-12 23:17:30</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="7">Game</type>
+ <pouetid>51785</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3266">Ne7</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>paragon5</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

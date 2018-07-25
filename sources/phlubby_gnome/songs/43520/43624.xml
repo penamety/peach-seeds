@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43624">
+ <title>Zyriax+</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="0">None</rating>
+ <info>Also known as &#34;mod.galerie&#34;. Made in 1992, used in Scoopex Melodies in 1994.
+
+EDIT: Ok it was in database already, with totally wrong title. Will fix the title and mark this as dupe.</info>
+ <songlength>264</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11070</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

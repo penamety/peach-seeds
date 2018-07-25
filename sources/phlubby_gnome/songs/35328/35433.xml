@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35433">
+ <title>Crimson Skies</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>By Blonde Lion 97
+Dedicated to
+Elena...cos she
+Always loved
+the colour of
+crimson.
+Rest in peace.</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-11 19:42:46</locked_until>
+ <lastplayed>2017-07-04 02:09:55</lastplayed>
+ <platform id="4">AHX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4052">Blonde Lion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?163857</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

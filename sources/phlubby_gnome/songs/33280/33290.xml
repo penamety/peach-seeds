@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33290">
+ <title>CyberPunk!</title>
+ <status v="B">Banned</status>
+ <bitrate>154</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">1.3704</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-CYBERPUNK!.mp3</info>
+ <songlength>560</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-03-25 16:46:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Downtempo</tag>
+  
+  <tag>monotone</tag>
+  
+  <tag>Sleepy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

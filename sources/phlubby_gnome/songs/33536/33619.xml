@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33619">
+ <title>Downtown at Night</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.9333</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-03 08:52:19</locked_until>
+ <lastplayed>2017-11-15 11:44:05</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  <group id="124">Stellar</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>Night</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

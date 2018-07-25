@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3583">
+ <title>The Castle</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.95</rating>
+ <info>From &#34;Castle&#34; by The Giants. http://bitworld.bitfellas.org/demo.php?id=778</info>
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 00:53:35</locked_until>
+ <lastplayed>2018-05-20 04:13:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="1060">Shorty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

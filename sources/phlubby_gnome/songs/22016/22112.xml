@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22112">
+ <title>[Xixit] Exuding Titleness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.2857</rating>
+ <info>&#34;Exuding titleness&#34;
+
+For Tom Pytel and his rag-tag band of merry men.
+
+(C) 1995 necros/fm
+
+</info>
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 20:20:55</locked_until>
+ <lastplayed>2018-03-07 01:05:24</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ <pouetid>6636</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Xixit</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

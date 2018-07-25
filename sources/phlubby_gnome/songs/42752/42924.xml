@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42924">
+ <title>Fresh &#39;90</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>#1 in music compo at End Of The World 2015</info>
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 17:56:29</locked_until>
+ <lastplayed>2018-05-25 20:47:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4852">Dr. Vector</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>EndOfTheWorldParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

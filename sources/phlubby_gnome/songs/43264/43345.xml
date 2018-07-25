@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43345">
+ <title>Spurdotetaan</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5556</rating>
+ <info>5th place, Assembly &#39;16 dance music compo</info>
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 23:32:27</locked_until>
+ <lastplayed>2018-06-01 21:54:14</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5679">Dankemon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/161372/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

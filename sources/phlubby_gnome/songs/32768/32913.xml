@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32913">
+ <title>Crank</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.6333</rating>
+ <info>&#34;Crank&#34; is a realtime graphics demo developed for NVIDIA. The demo showcases several NVIDIA technologies such as:
+
+3D-VISION
+CUDA
+PhysX.
+
+Crank was commissioned by NVIDIA to promote Fermi - NVIDIA&#39;s latest brand of GPU architecture, and used during the opening keynote at the 2010 GPU Technology Conference in San Jose, California.
+
+This application was devloped in C++, using DirectX10 for rendering. The demo contains simulations of rigid bodies and a rendering of a 3D-version of the Koch Snowflake fractal.
+
+Unleashing the massive parallel computing power in NVIDIA&#39;s new GeForce 400-series, the demo showcases an unprecedented display of realtime graphics and physics simulation.
+
+Developed by Virtex - http://www.virtex.no
+Music by Transistorbass - http://www.subsquare.com</info>
+ <songlength>129</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 15:03:49</locked_until>
+ <lastplayed>2018-06-06 11:52:03</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>SbSo7onX9qI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>NVIDIA</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SbSo7onX9qI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

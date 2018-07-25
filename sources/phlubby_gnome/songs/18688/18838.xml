@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18838">
+ <title>Failure Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>Ranked 2nd in Rush Hours 1997 Atari 8bit music compo</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-21 22:26:23</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist>
+ </artists>
+ <groups>
+  <group id="765">taQuart [TQA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

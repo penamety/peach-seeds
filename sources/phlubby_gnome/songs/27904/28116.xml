@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28116">
+ <title>Put it in the Twicer MF mock-up</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.3333</rating>
+ <info>Unleashed mock-up</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 08:53:53</locked_until>
+ <lastplayed>2018-05-30 16:15:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44481">
+ <title>Surprise</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">4.0</rating>
+ <info>1st place in 8-bit Music competition at the RetroKomp / Load Error 2013</info>
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 22:55:00</locked_until>
+ <lastplayed>2018-05-15 07:46:56</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  <group id="873">Lamers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>LoadError</tag>
+  
+  <tag>RetroKomp</tag>
+  
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/98901/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

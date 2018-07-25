@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30277">
+ <title>Bobby</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">1.72</rating>
+ 
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 07:23:54</locked_until>
+ <lastplayed>2018-04-20 09:01:07</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4012">Rogue Male</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Annoying</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

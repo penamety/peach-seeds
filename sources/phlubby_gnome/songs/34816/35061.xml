@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35061">
+ <title>Lick Weed</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7188</rating>
+ <info>1st place at TMDC 2011</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 00:29:16</locked_until>
+ <lastplayed>2018-04-20 03:31:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58419</pouetid>
+ <ytid>t76kr2lKC2k</ytid>
+ 
+ 
+ <artists>
+  <artist id="904">Parsec</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>TMDC</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=t76kr2lKC2k</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

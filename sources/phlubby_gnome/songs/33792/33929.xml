@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33929">
+ <title>Testgroove2</title>
+ <status v="A">Active</status>
+ <bitrate>167</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">2.3846</rating>
+ 
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 18:45:24</locked_until>
+ <lastplayed>2017-10-21 12:49:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

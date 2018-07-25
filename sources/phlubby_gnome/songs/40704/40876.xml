@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40876">
+ <title>Ayakashi of a Foreign Land</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Soundtrack from &#34;Shuran33 gift&#34; ZX demo. 
+
+9th place in ZX Spectrum music compo at 3BM OpenAir 2014.</info>
+ <songlength>72</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 02:33:59</locked_until>
+ <lastplayed>2018-01-10 17:32:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>63746</pouetid>
+ <ytid>sZJx8rslMZ8</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="5416">Tayle</artist>
+ </artists>
+ <groups>
+  <group id="795">Debris (ZX)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>3BMOpenAir</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sZJx8rslMZ8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37378/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=117200</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

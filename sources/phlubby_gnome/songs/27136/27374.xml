@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27374">
+ <title>Przyjebany Astronauta</title>
+ <status v="A">Active</status>
+ <bitrate>169</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">1.2381</rating>
+ 
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 16:41:35</locked_until>
+ <lastplayed>2018-05-23 10:33:29</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2584">Dipatapaska</artist>
+ </artists>
+ <groups>
+  <group id="230">Jumalauta</group>
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28458">
+ <title>Black &amp; White Demotune</title>
+ <status v="R">Rejected</status>
+ <bitrate>144</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.5</rating>
+ 
+ <songlength>0</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4090">$tud</artist>
+ </artists>
+ <groups>
+  <group id="291">Ward</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

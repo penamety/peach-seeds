@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12308">
+ <title>Nanomies</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.3684</rating>
+ <info>Listen and buy (name your price) here:
+http://mosaik.se/album/leandi</info>
+ <songlength>499</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:06:23</locked_until>
+ <lastplayed>2018-05-26 23:35:58</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist><artist id="4072">Planet Boelex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

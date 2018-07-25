@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17516">
+ <title>Film Zak</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 20:27:29</locked_until>
+ <lastplayed>2018-03-13 01:19:44</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

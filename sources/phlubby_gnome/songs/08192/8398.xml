@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8398">
+ <title>Children (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="117">4.0342</rating>
+ 
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 22:41:10</locked_until>
+ <lastplayed>2018-06-05 19:43:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>RobertMiles</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

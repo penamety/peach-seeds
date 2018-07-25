@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42523">
+ <title>Absence</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>3rd place in Combined Demo category at ReAct 2003.
+
+instrument list:
+002	lokki.edutec.pori.fi	
+006	Pressure	
+
+sample list:
+005	bASS1.smpings!!!!!!!!!	(8 bit - 672)
+011	909HHat1Clap2	(8 bit - 936)
+012	Congo.wav	(16 bit - 34304)
+013	Conga1.wav	(16 bit - 10424)
+014	808artifesmp	(8 bit - 3150)
+015	808_lcp3.wav	(16 bit - 11328)
+017	bypassue sweep	(8 bit - 30492)
+018	Rattle_1.wav	(16 bit - 43724)
+020	Bad_1.wav	(16 bit - 16745)
+022	808_clap.wav	(16 bit - 8736)
+023	909_op.wav	(16 bit - 23808)</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 06:25:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9585</pouetid>
+ <ytid>hsfe10tvyvI</ytid>
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist>
+ </artists>
+ <groups>
+  <group id="835">The Lab</group>
+ </groups>
+ 
+ <tags>
+  <tag>ReAct</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hsfe10tvyvI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

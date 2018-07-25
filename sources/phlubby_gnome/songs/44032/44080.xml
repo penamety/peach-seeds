@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44080">
+ <title>batmeat</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.9375</rating>
+ <info>format: StarTrekker4
+37 patterns
+67 positions
+227664 bytes
+
+Recording from Stone Oakvalley&#39;s site
+
+From Amazing Tunes II by Share and Enjoy, released in Dexion X-Mas Conference 1990</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 15:19:53</locked_until>
+ <lastplayed>2018-03-10 01:55:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4012">Rogue Male</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>batman</tag>
+  
+  <tag>letsgo</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/151973/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

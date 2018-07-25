@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34801">
+ <title>The Towers of Atlantis</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.25</rating>
+ <info>Winner of the streaming music compo at The Ultimate Meeting 2011.</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 15:10:54</locked_until>
+ <lastplayed>2018-05-17 10:20:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

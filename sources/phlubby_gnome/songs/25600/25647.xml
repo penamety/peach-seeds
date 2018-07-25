@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25647">
+ <title>Endless</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0</rating>
+ 
+ <songlength>378</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 16:20:18</locked_until>
+ <lastplayed>2018-05-29 07:24:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

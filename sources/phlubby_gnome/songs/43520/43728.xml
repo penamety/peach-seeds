@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43728">
+ <title>Amazonas - Dynomite Mix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.4286</rating>
+ <info>Remixed and new parts added for Dynomite from PopCap games.
+---&gt; http://www.popcap.com
+
+All music (C) Peter Hajba ( Skaven / Future Crew ).
+Original song composed 1994. Remix and new parts (C) 2001/2002.
+
+Email: &lt;peter.hajba@kolumbus.fi&gt;
+WWW: http://mp3.com/skaven
+
+00-20 - Amazonas (the original song, in-game music)
+22-33 - Game Loading / Main Menu (loops to 24)
+35    - Game Over (breaks to High Scores)
+37    - Level Clear! (breaks to &#34;music off&#34; pattern)
+39    - Bonus fanfare (breaks to &#34;music off&#34; pattern)
+41    - Get Ready!
+43-60 - Time Trial (loops)
+62    - Music Off (silence; noteoff commands, loops)
+64-69 - High Scores (loops)
+71-82 - Endless Puzzle Panic! (loops)
+84-92 - The Museum (loops)</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 03:39:51</locked_until>
+ <lastplayed>2018-06-11 07:49:47</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

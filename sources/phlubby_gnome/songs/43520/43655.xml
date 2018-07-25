@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43655">
+ <title>Destroy the World</title>
+ <status v="A">Active</status>
+ <bitrate>249</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Under Construction 2016 streamed music compo</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 13:21:57</locked_until>
+ <lastplayed>2018-03-10 19:52:02</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>UnderConstruction</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

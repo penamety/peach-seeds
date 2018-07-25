@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31812">
+ <title>Milk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.8</rating>
+ <info>.ogg can be found in the demo archive.</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 13:02:08</locked_until>
+ <lastplayed>2017-12-20 03:18:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50163</pouetid>
+ <ytid>4yF9x__UBxU</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="2966">Jorge</artist>
+ </artists>
+ <groups>
+  <group id="456">Napalm Core [nc]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4yF9x__UBxU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

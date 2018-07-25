@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42526">
+ <title>Keep Up</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.6667</rating>
+ <info>11th @ ReAct 2002 tracked music compo</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 05:13:44</locked_until>
+ <lastplayed>2018-03-31 17:01:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist>
+ </artists>
+ <groups>
+  <group id="835">The Lab</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>ReAct</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/62063/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

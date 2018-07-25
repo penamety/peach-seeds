@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10136">
+ <title>Made In Croatia #2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.28</rating>
+ 
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 20:38:05</locked_until>
+ <lastplayed>2018-05-18 12:05:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12018</pouetid>
+ <ytid>yo7KxvooD14</ytid>
+ <ytoffset>318</ytoffset>
+ 
+ <artists>
+  <artist id="1824">Joe [HR]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>hitme</tag>
+  
+  <tag>POLARISComputerParty</tag>
+  
+  <tag>Sisak</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yo7KxvooD14</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15298/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

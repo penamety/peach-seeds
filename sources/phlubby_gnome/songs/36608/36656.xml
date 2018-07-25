@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36656">
+ <title>Prova (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">4.0</rating>
+ <info>2nd place in combined 64k/4k intro compo at Solskogen 2012</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:13:54</locked_until>
+ <lastplayed>2018-05-29 09:20:46</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59470</pouetid>
+ <ytid>3jNfusUr2VE</ytid>
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist>
+ </artists>
+ <groups>
+  <group id="609">Youth Uprising [YUP]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3jNfusUr2VE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

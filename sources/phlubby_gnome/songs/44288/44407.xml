@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44407">
+ <title>Vivid Dream</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">4.3333</rating>
+ <info>An ym2149 chiptune of Atari 520ST,  however made on ZX Spectrum and prepared especially for the Atari, so actually sounds veery bad when played from the Speccy. :) 
+I wanted to check out how the Happy-Hardcore music would sound on the YM/AY chip. ;) 
+Let&#39;s rrrrrrrave!!!</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 14:53:14</locked_until>
+ <lastplayed>2018-06-15 17:51:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176020/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

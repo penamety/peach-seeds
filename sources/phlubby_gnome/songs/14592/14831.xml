@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14831">
+ <title>Dsong</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-06 20:33:31</locked_until>
+ <lastplayed>2018-02-10 23:44:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>50730</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2299">Biboy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

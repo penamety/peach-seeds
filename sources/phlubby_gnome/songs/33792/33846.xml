@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33846">
+ <title>Metroid Medley</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.0333</rating>
+ <info>Made for 25th anniversary of Metroid</info>
+ <songlength>617</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 14:41:44</locked_until>
+ <lastplayed>2018-05-27 17:48:32</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1992">Derris-Kharlan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

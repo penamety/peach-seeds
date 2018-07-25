@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32361">
+ <title>Stormlord (The Calm Before the Storm)</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0714</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 15:54:18</locked_until>
+ <lastplayed>2018-05-24 00:30:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2007">Amok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

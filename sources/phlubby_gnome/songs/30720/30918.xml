@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30918">
+ <title>Cc-hell1</title>
+ <status v="A">Active</status>
+ <bitrate>772</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>Main music track from the &#34;Hell!&#34; demo by Tran and C.C. Catch. </info>
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-15 09:16:23</locked_until>
+ <lastplayed>2017-06-07 08:46:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>5090</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MQ3hKh9vMyQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

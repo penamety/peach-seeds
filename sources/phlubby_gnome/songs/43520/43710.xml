@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43710">
+ <title>Shelter</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Slightly revised version of http://battleofthebits.org/arena/Entry/Shelter/24100/</info>
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 18:40:59</locked_until>
+ <lastplayed>2018-03-10 18:00:30</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>4aWpPmLnc-o</ytid>
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4aWpPmLnc-o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

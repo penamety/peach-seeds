@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32907">
+ <title>Jumping Jack</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.9</rating>
+ <info>From the demo Mona Lisa Was A Man, released at The Party 1992</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 23:54:05</locked_until>
+ <lastplayed>2018-05-09 11:34:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11098</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1591">WOTW</artist>
+ </artists>
+ <groups>
+  <group id="256">Abyss</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

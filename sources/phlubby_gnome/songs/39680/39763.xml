@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39763">
+ <title>Unknown Title / Unknown Author</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6667</rating>
+ <info>Unknown TITLE, unknown AUTHOR - Remix by KENOTRON /ETC/RUSH &#39;97</info>
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 06:14:39</locked_until>
+ <lastplayed>2018-06-11 23:19:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="533">Rush!</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

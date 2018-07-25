@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40029">
+ <title>A Thousand Sunflowers</title>
+ <status v="A">Active</status>
+ <bitrate>456</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.2162</rating>
+ 
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 04:19:23</locked_until>
+ <lastplayed>2018-06-15 19:24:11</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist><artist id="4916">motherchip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

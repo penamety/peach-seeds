@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42786">
+ <title>Mono Adventures</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.3939</rating>
+ <info>This is a 4-channels MOD written for ATARI 800 XL / 65XE (Pokey). 
+4-bit quality.
+It came 1st on Glucholazy Atari Party 2015 (XL/XE MOD Compo). 
+Recorded from real hardware.
+
+For more micromusic/lo-fi come to: http://yerzmyey.i-demo.pl/</info>
+ <songlength>281</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 01:38:55</locked_until>
+ <lastplayed>2018-05-17 19:15:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Glucholazy</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>pokey</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

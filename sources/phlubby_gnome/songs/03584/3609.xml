@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3609">
+ <title>Onward </title>
+ <status v="I">Inactive</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="128">4.8047</rating>
+ <info>This song corresponds to the module available from the demo in www.scene.org.  However, that module does not correspond to the demo (unfortunately).  Instead, look at [song]38171[/song].
+
+See also [song]3610[/song], which is also inactive.</info>
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-03-25 17:56:26</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>37</pouetid>
+ <ytid>R__IrgCireM</ytid>
+ 
+ 
+ <artists>
+  <artist id="595">Jugi</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=R__IrgCireM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34834">
+ <title>Snowchip 2011</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.9767</rating>
+ <info>Compowinner at Nectarine Xmas Compo 2011</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 01:40:32</locked_until>
+ <lastplayed>2018-06-08 13:03:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5182">Kevod</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

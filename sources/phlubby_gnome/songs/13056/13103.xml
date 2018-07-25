@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13103">
+ <title>Star Paws</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.9623</rating>
+ <info>Authentic recording from Stone Oakvalley&#39;s collection
+
+Software Projects, 1987</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 00:09:33</locked_until>
+ <lastplayed>2018-05-01 14:00:17</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>38939</pouetid>
+ <ytid>Vmu3a1Fl9oQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2449</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

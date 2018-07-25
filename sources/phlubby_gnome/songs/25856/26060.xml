@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26060">
+ <title>My World Is How I Create It</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.3704</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 02:28:39</locked_until>
+ <lastplayed>2018-06-06 19:54:53</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>5302</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1283">Unison (fr)</artist>
+ </artists>
+ <groups>
+  <group id="283">Ukonx</group>
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=7</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

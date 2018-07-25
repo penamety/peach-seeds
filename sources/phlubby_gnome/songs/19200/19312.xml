@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19312">
+ <title>Our Demo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.0789</rating>
+ <info>1st place in combined demo compo at The Gathering 2004</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 11:35:09</locked_until>
+ <lastplayed>2018-06-15 05:27:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>12046</pouetid>
+ <ytid>IOQ2MfU3L0A</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1416">Irvin</artist>
+ </artists>
+ <groups>
+  <group id="9">Outracks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6199">
+ <title>Caillou</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0</rating>
+ 
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 15:51:40</locked_until>
+ <lastplayed>2018-06-07 08:04:07</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>269</pouetid>
+ <ytid>0cWE4jNPrTw</ytid>
+ 
+ 
+ <artists>
+  <artist id="619">Kenet</artist><artist id="1000">Red Ribbon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Lucky&amp;TigrouParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

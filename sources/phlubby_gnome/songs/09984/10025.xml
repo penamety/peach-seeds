@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10025">
+ <title>Millennium 2.2 [YM]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.15</rating>
+ <info>Download Link: http://www.andykellett.com/MP3/David_Whittaker-Millenium_YM.mp3</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-23 21:29:12</locked_until>
+ <lastplayed>2017-06-12 11:36:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Classical</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40366">
+ <title>Capital Kings - I Feel So Alive (eXOdus Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ <info>My remix of the song &#34;I Feel So Alive&#34; by Capital Kings. Made using Renoise.
+All sounds except for drums were made/resampled using the Image Line Harmor VSTi.
+
+Soundcloud link:
+https://soundcloud.com/exodus-6/capital-kings-i-feel-so-alive</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 11:39:20</locked_until>
+ <lastplayed>2018-04-10 23:32:26</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5438">eXOdus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

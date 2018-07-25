@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9364">
+ <title>Excalibur</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.4545</rating>
+ <info>Breakpoint 2008 executable oldschool music competition, 4th place. A 46kb Amiga module (which just neatly packed into the required 32kb executable for the competition).</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 10:02:14</locked_until>
+ <lastplayed>2018-05-20 19:18:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

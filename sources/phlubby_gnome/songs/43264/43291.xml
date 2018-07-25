@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43291">
+ <title>ropl2048</title>
+ <status v="A">Active</status>
+ <bitrate>121</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.1667</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 04:11:05</locked_until>
+ <lastplayed>2018-06-02 05:32:32</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="2">Demo</type>
+ <pouetid>67900</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

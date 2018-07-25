@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7871">
+ <title>MS 2000 Invtro</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.5926</rating>
+ <info>XM with softsynth samples and custom lowpass filter / reverb routines.</info>
+ <songlength>268</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 22:10:53</locked_until>
+ <lastplayed>2018-05-22 22:05:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1490</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

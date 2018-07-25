@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35285">
+ <title>Overtrack</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">2.8</rating>
+ <info>Winner of the multichannel music compo at aRTS 1999.</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-23 04:11:04</locked_until>
+ <lastplayed>2017-11-30 12:39:06</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5028">Kolok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>aRTS</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

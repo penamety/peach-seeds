@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37499">
+ <title>200 toppisar och en folkis</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.3947</rating>
+ 
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 17:57:38</locked_until>
+ <lastplayed>2018-05-24 08:55:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>60621</pouetid>
+ <ytid>tqw7pUgrf1I</ytid>
+ <ytoffset>233</ytoffset>
+ 
+ <artists>
+  <artist id="2071">Mr. Death</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>video</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

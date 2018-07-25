@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36118">
+ <title>Sollentuna Shufflin&#39;</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>280</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">4.4483</rating>
+ 
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 15:06:31</locked_until>
+ <lastplayed>2018-04-12 20:19:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4905">Brandon Walsh</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=46204</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

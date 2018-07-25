@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43018">
+ <title>Ask Mommy</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5882</rating>
+ <info>7th place &#34;Oldskool music competition&#34; Revision 2016 (25th - 28th of March 2016).
+
+Mod.-File, 4 channel, unpacked size approx. 50KB.</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 21:12:35</locked_until>
+ <lastplayed>2018-02-26 01:36:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>VkGR8wI3t9U</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154958/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

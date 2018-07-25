@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29998">
+ <title>Ethereal Voices</title>
+ <status v="A">Active</status>
+ <bitrate>199</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.6452</rating>
+ <info>Ranked 5th in the streamed music compo at Evoke 2010.</info>
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 23:37:55</locked_until>
+ <lastplayed>2018-06-05 16:42:01</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

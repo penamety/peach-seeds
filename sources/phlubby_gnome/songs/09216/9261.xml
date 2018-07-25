@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9261">
+ <title>Lorem Ipsum</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="225">4.5422</rating>
+ <info>Winner of the music compo at Blockparty 2009.
+
+Lyrics:
+Lorem ipsum dolor sit amet
+consectetur adipisicing
+ELIT!
+ELIT!
+ELIT!
+ELIT!
+ELIT!
+
+ut enim ad minim, minim veniam,
+quis nostrud exer excercitation
+
+ullam collaboris nisi
+ut aliquip ex ea commodo
+consequat, consequat, consequat.
+
+Lorem ipsum dolor sit amet
+consectetur adipisicing elit
+sed do ei us mod tempor incididunt
+ut labore et dolore
+magna aliqua. Ut enim ad
+minim veniam, quis nostrud elit
+
+ELIT!
+ELIT!
+ELIT!
+ELIT!
+ELIT!
+
+Lorem ipsum dolor sit amet
+consectetur adipisicing elit
+sed do ei us mod tempor incididunt
+ut labore et dolore
+magna aliqua. Ut enim ad
+minim veniam, quis nostrud elit</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 07:51:15</locked_until>
+ <lastplayed>2018-05-20 16:48:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>latinspeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>opera</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>Vocaloid</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gxn3WtH-beM</url>
+    <comment>Lorem Ipsum performed live</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

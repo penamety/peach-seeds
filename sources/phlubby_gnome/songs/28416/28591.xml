@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28591">
+ <title>Flamethrower</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="129">4.2248</rating>
+ <info>1st @ Breakpoint 2010 Executable Oldschool music compo</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 08:06:02</locked_until>
+ <lastplayed>2018-05-13 00:16:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

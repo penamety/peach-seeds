@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31046">
+ <title>Icecream Interlude</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="32">3.1563</rating>
+ 
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 12:47:13</locked_until>
+ <lastplayed>2018-05-23 02:20:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>5685</pouetid>
+ <ytid>IiU491hKEJE</ytid>
+ 
+ 
+ <artists>
+  <artist id="331">Distance</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>lounge</tag>
+  
+  <tag>Record</tag>
+  
+  <tag>TripHop</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IiU491hKEJE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

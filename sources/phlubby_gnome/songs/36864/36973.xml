@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36973">
+ <title>Oneliner&#39;s Digest II </title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="65">4.4769</rating>
+ <info>This is a cooperation project composed by Buzzer, Serpent, Shinobi, Mystra, Rams, Elrinth, lemonade and Silok.
+
+Tracking order:
+
+00:00 - 00:40 silok
+00:41 - 01:00 Buzzer
+01:01 - 01:42 lemonade
+01:43 - 02:02 Elrinth
+02:03 - 02:23 Rams
+02:24 - 02:26 lemonade, Elrinth
+02:27 - 03:28 Serpent
+03:29 - 04:16 Shinobi
+04:17 - 05:46 Mystra
+05:47 - 05:59 silok</info>
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 09:50:50</locked_until>
+ <lastplayed>2018-05-22 15:26:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>59801</pouetid>
+ <ytid>MSOIkaLRH-c</ytid>
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist><artist id="1681">Elrinth</artist><artist id="1999">lemonade</artist><artist id="1625">Mystra</artist><artist id="1764">rams</artist><artist id="1627">serpent</artist><artist id="2134">Shinobi</artist><artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MSOIkaLRH-c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

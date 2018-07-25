@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10845">
+ <title>Human Target</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">2.9403</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 16:44:29</locked_until>
+ <lastplayed>2018-03-09 09:51:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3459</pouetid>
+ <ytid>YXHZ0KWmzHM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1133">Static</artist>
+ </artists>
+ <groups>
+  <group id="163">Melon Dezign</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

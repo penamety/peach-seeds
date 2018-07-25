@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31818">
+ <title>Mad-Dog</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">2.4783</rating>
+ <info>Main tune from &#34;Power Up&#34; - ZX Spectrum (pentagon clone) demo by MegaCode/Extreme, audiovisual art on 8bit machine.
+3rd at Enlight&#39;97 Demo competition.</info>
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 21:58:15</locked_until>
+ <lastplayed>2018-04-25 13:47:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1907</pouetid>
+ <ytid>EDhqn02iOKo</ytid>
+ <ytoffset>217</ytoffset>
+ 
+ <artists>
+  <artist id="1730">Visual</artist>
+ </artists>
+ <groups>
+  <group id="247">Extreme Entertainment [XTM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sDIAE7C9uc8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3144</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

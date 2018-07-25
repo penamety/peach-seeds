@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20000">
+ <title>[Life Is K] Hommage to My Dirty Socks</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.65</rating>
+ 
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 19:24:09</locked_until>
+ <lastplayed>2018-06-10 00:44:58</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>rumba</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

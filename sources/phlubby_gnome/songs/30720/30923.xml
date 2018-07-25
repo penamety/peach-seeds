@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30923">
+ <title>Do it better</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">1.0</rating>
+ 
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ 
+ 
+ <pouetid>299</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1244">Towerx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

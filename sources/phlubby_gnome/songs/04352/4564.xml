@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4564">
+ <title>Arkanoid</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.0795</rating>
+ 
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 10:55:25</locked_until>
+ <lastplayed>2018-05-11 22:52:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>1stW0J7Myew</ytid>
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=145</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

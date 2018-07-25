@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30947">
+ <title>Noname</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0303</rating>
+ 
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 11:31:47</locked_until>
+ <lastplayed>2018-05-10 14:28:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5834</pouetid>
+ <ytid>-93d78kyvOg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4524">Anty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-93d78kyvOg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

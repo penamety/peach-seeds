@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33996">
+ <title>Dune Run</title>
+ <status v="R">Rejected</status>
+ <bitrate>178</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.28</rating>
+ 
+ <songlength>315</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-23 10:11:38</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4162">Everdune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Dune</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>Spacesynth</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18985">
+ <title>The wormhole atari 8bit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0</rating>
+ 
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-25 01:30:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2843">Halle Project 1994</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

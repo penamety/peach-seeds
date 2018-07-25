@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36931">
+ <title>Traversing the Unknown</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>3rd place in pc 64k compo at Evoke 2011</info>
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 22:36:48</locked_until>
+ <lastplayed>2018-05-16 06:01:07</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>57522</pouetid>
+ <ytid>eHHWhj_qej8</ytid>
+ 
+ 
+ <artists>
+  <artist id="5195">Izard</artist>
+ </artists>
+ <groups>
+  <group id="300">Inque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Psytrance</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=eHHWhj_qej8</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

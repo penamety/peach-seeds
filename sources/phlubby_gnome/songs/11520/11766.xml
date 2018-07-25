@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11766">
+ <title>fr-052: Platinum</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">3.7407</rating>
+ <info>Demo won 1st place @ the Ultimate Meeting &#39;06.</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 21:42:55</locked_until>
+ <lastplayed>2018-05-11 19:10:32</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>28479</pouetid>
+ <ytid>kv0H0y2_Yuk</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kv0H0y2_Yuk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

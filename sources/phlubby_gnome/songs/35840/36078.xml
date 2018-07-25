@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36078">
+ <title>Passing Breeze</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Used in this demo http://bitworld.bitfellas.org/demo.php?id=8553</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-02 04:35:30</locked_until>
+ <lastplayed>2017-12-11 02:45:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5125">Recoil</artist>
+ </artists>
+ <groups>
+  <group id="549">Eclipse</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Outrun</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

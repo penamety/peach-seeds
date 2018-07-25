@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10110">
+ <title>Forever2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ <info>Main track from ZX-Spectrum (pentagon clone) demo, audiovisual art on 8bit machine, come 2nd at FunTop 1998 demoparty.</info>
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 06:06:24</locked_until>
+ <lastplayed>2018-05-24 19:09:06</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2145</pouetid>
+ <ytid>bJOBUt46ZfI</ytid>
+ <ytoffset>78</ytoffset>
+ 
+ <artists>
+  <artist id="590">Joe</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FunTop</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30194">
+ <title>Anthropogenesis - The Universe, Part 4 (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9697</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:41:43</locked_until>
+ <lastplayed>2018-06-06 15:47:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>55965</pouetid>
+ <ytid>VUHctq4spU8</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1650">Dixan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=VUHctq4spU8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

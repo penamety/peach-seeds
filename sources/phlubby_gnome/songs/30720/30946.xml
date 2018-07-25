@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30946">
+ <title>Pink Vision</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1</rating>
+ 
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 13:23:07</locked_until>
+ <lastplayed>2018-06-17 10:52:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4508">DJ Denson</artist><artist id="4510">Karbofos </artist><artist id="4509">Splinter</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

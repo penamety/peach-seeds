@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8839">
+ <title>Mysticism</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.2632</rating>
+ 
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 22:58:44</locked_until>
+ <lastplayed>2018-05-27 15:12:15</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="655">Psychic Monks</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

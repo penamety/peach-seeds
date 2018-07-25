@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1227">
+ <title>Sudden Impact</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.6042</rating>
+ 
+ <songlength>282</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:38:40</locked_until>
+ <lastplayed>2018-05-18 14:19:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1356</pouetid>
+ <ytid>I6jdoUX5nww</ytid>
+ 
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

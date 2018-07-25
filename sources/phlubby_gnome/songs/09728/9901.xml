@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9901">
+ <title>Dead Ringer</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">4.1809</rating>
+ <info>1st place in combined 64k compo at Assembly 2006
+
+Lyrics:
+You&#39;ve got to feel the music
+The beats, the breaks
+Music
+
+Music
+Music</info>
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 02:35:14</locked_until>
+ <lastplayed>2018-05-23 03:59:23</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>25776</pouetid>
+ <ytid>Mc_TR4mcJKE</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Hip-Hop</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HK3jEoBrx5w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Mc_TR4mcJKE</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

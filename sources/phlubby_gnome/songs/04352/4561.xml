@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4561">
+ <title>Journey Through Galaxy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.5294</rating>
+ 
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 19:43:27</locked_until>
+ <lastplayed>2018-06-05 04:14:19</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>15321</pouetid>
+ <ytid>cKy57re_6BY</ytid>
+ <ytoffset>1414</ytoffset>
+ 
+ <artists>
+  <artist id="734">Mark II</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

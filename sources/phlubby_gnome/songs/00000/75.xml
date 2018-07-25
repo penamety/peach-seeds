@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="75">
+ <title>Led Storm Ingame 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.875</rating>
+ <info>Very similar although not totally identical remake of Tim Follin&#39;s LED Storm stage 1.</info>
+ <songlength>54</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 01:54:14</locked_until>
+ <lastplayed>2018-04-15 02:51:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

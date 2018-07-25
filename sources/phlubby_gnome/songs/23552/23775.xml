@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23775">
+ <title>Zoids</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">3.9429</rating>
+ <info>based on the track &#34;Ancestors&#34; from the Synergy album Audion
+
+Ranked 47th in &#39;Favourite Top 100 SIDs&#39;</info>
+ <songlength>284</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 18:09:54</locked_until>
+ <lastplayed>2018-05-29 01:07:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>AtKyHqqXB8g</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>grave</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>spooky</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2947</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

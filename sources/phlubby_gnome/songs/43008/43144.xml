@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43144">
+ <title>Nothing Against UFOs</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>49</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 15:21:29</locked_until>
+ <lastplayed>2018-05-25 20:26:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="103">Beathawk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>UFO</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?81913</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

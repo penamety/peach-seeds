@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30782">
+ <title>Solace</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0</rating>
+ <info>Ranked 2nd in the dance music compo at Kindergarden 2010.</info>
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 22:37:52</locked_until>
+ <lastplayed>2018-05-07 09:47:30</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

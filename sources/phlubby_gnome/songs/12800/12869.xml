@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12869">
+ <title>Death Wish III</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.75</rating>
+ <info>[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]
+
+Recorded using DeliPlayer</info>
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 08:41:22</locked_until>
+ <lastplayed>2018-05-18 06:53:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>X6x4wQJMLEc</ytid>
+ 
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=651</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

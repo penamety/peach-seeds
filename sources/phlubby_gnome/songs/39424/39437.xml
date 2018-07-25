@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39437">
+ <title>I Won&#39;t Stop</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Winner of the acid music compo at TRSAC 2013.</info>
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-25 00:45:57</locked_until>
+ <lastplayed>2017-11-02 14:54:39</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1951">Booster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

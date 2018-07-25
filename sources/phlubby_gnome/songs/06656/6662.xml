@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6662">
+ <title>Posisions remix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.1429</rating>
+ 
+ <songlength>65</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-22 13:05:57</locked_until>
+ <lastplayed>2017-08-17 21:28:12</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1130">Starbuck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

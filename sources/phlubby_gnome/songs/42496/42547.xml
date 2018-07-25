@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42547">
+ <title>Deja Vu</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ 
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 04:04:17</locked_until>
+ <lastplayed>2018-05-30 01:44:08</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>64438</pouetid>
+ <ytid>FEG3fdV6Ra4</ytid>
+ <ytoffset>1550</ytoffset>
+ 
+ <artists>
+  <artist id="5424">Corpsicle</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>IronMaiden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2159">
+ <title>Last Train</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.6471</rating>
+ <info>for pc demo compo at Scenario 1995, unranked.</info>
+ <songlength>126</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 10:51:39</locked_until>
+ <lastplayed>2018-06-11 14:19:46</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>7848</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="207">Plant</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

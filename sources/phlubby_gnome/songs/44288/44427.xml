@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44427">
+ <title>Kruise Kontrol 2017</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.6667</rating>
+ <info>1st place at Dekadence 20 years party music competition. This is a remix of a song released at The Party 98. That song did not qualify to the compo.</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 13:06:12</locked_until>
+ <lastplayed>2018-05-15 08:42:52</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group><group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>DekadenceDataparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

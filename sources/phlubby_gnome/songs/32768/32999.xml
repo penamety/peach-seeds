@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32999">
+ <title>Paroxyzm Theme</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="40">4.025</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 04:49:09</locked_until>
+ <lastplayed>2018-05-31 04:26:07</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1899</pouetid>
+ <ytid>9iy4TydzpNc</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9iy4TydzpNc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=1805</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

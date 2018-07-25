@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38096">
+ <title>Zombies Need Love Too</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.2683</rating>
+ <info>3rd at Tokyo Demo Fest 2013 music competition</info>
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 00:06:41</locked_until>
+ <lastplayed>2018-05-07 22:24:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Scream</tag>
+  
+  <tag>spooky</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

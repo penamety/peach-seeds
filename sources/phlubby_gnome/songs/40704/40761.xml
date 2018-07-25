@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40761">
+ <title>Dynablaster Second Theme</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>Second Maintheme for Dynablaster. No #1 game at Revision 2014</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 18:42:08</locked_until>
+ <lastplayed>2018-05-15 05:04:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ <pouetid>62926</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

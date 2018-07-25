@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12520">
+ <title>Children (Chip Version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.54</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-10 20:16:55</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>RobertMiles</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

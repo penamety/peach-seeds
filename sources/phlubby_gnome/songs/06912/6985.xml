@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6985">
+ <title>Vattnadal of 74 (ECES invite)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.3051</rating>
+ <info>From the invitation intro for Eces&#39;91.
+
+Credits:
+
+Code: Azatoth / Phenomena
+Music: Firefox/Tip - Phenomena 
+Graphics: Color/Uno</info>
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 01:52:12</locked_until>
+ <lastplayed>2018-06-03 23:16:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11141</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group><group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ECES</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>MagneticFields</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

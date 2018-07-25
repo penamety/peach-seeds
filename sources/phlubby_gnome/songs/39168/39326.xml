@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39326">
+ <title>Charles 2000</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">4.0909</rating>
+ 
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-30 17:43:49</locked_until>
+ <lastplayed>2018-01-13 17:13:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>27924</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4484">Andy [FI]</artist>
+ </artists>
+ <groups>
+  <group id="667">Banal Projects</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

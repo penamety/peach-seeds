@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10355">
+ <title>Eden</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>E D E N
+a track for the Psychic Monks 1995 demo, &#34;The Fall&#34;
+
+written and sequenced by Necros / FM
+Dolby Surround (where available)
+(C) 1995 Necros / FM</info>
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-18 21:39:01</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2613</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="655">Psychic Monks</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>NAID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

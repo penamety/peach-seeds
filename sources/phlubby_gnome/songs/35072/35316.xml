@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35316">
+ <title>Midnight Symphony</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.3421</rating>
+ 
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 18:55:13</locked_until>
+ <lastplayed>2018-06-08 17:17:49</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="338">DJB</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

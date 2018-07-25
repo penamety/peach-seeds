@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37047">
+ <title>X-Press Tower</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7647</rating>
+ 
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-03 23:36:30</locked_until>
+ <lastplayed>2017-07-29 04:06:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>20667</pouetid>
+ <ytid>Cf9o8-AtmPI</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1006">Reflex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

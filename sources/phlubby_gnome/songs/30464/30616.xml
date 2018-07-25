@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30616">
+ <title>Ihan</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">2.375</rating>
+ <info>Winner of the multichannel music compo at Abduction 1998.</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 08:10:34</locked_until>
+ <lastplayed>2017-11-27 03:29:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

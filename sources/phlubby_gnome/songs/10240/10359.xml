@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10359">
+ <title>Sort of a Dreamscape</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.7576</rating>
+ <info>tinwhistle by Louigi Verona</info>
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 13:11:31</locked_until>
+ <lastplayed>2018-03-08 18:56:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50101</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1354">D Fast</artist>
+ </artists>
+ <groups>
+  <group id="152">½-bit Cheese [HBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

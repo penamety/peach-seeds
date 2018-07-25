@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1044">
+ <title>Blue Flame</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">4.2</rating>
+ <info>Impulse Tracker 2.14 demo song.</info>
+ <songlength>395</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 22:51:38</locked_until>
+ <lastplayed>2018-06-01 17:36:15</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="206">Chris Jarvis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Software</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

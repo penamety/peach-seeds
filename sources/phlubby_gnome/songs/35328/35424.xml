@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35424">
+ <title>The Wrong Funky</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.5</rating>
+ <info>Made in Sid Duzz IT 2.0b8
+on a real Commodore 64 with 6581 SID chip </info>
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 06:28:56</locked_until>
+ <lastplayed>2018-06-11 14:55:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58849</pouetid>
+ <ytid>TOXChyUiI3U</ytid>
+ 
+ 
+ <artists>
+  <artist id="386">Dustbin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

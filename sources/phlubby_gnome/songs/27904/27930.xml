@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27930">
+ <title>Here We Come</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1111</rating>
+ <info>ACU Theme song</info>
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-11 18:10:48</locked_until>
+ <lastplayed>2017-11-24 09:33:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>23254</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4023">Passat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

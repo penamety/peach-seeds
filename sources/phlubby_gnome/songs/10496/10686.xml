@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10686">
+ <title>DjXmas</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 08:11:36</locked_until>
+ <lastplayed>2018-05-07 07:31:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1818">DeathJester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

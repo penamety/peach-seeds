@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37283">
+ <title>Main Discover</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>10th place at Main 2012 music compo.</info>
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 19:20:55</locked_until>
+ <lastplayed>2018-05-02 14:59:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

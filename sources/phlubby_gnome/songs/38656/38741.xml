@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38741">
+ <title>Space Flight 3</title>
+ <status v="A">Active</status>
+ <bitrate>173</bitrate>
+ <samplerate>96000</samplerate>
+ <rating votes="21">2.8571</rating>
+ <info>Some technical details:
+Written in Skale Tracker 0.81
+Recorded raws in Audacity
+Additional effects and mastering in Ardour 2.
+Effect plugins used: MDA Delay, Freeverb 2, MDALA Image, Multiband Equalizer (Linux)
+</info>
+ <songlength>574</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 20:52:38</locked_until>
+ <lastplayed>2018-05-13 13:28:29</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ <ytid>Dk--KWTOH0M</ytid>
+ 
+ 
+ <artists>
+  <artist id="5382">Xerion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

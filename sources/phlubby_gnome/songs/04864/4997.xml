@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4997">
+ <title>Fishbag</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ 
+ <songlength>91</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-24 21:24:12</locked_until>
+ <lastplayed>2017-06-18 04:30:51</lastplayed>
+ <platform id="4">AHX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="825">Xeron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

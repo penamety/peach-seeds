@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39033">
+ <title>Momentary Thought</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ <info>
+
+AY chipsound created for ZX Spectrum.
+Editor: Vortex Tracker.
+Format: ACB stereo.
+Source: WAV (36MB).
+
+Note: If you have a problem with converting to another format (MP3...etc), please contact me on my email &#34;pklusal@gmail.com&#34;. I&#39;ll give you any support.
+Thank you for listening !!!
+</info>
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 14:33:02</locked_until>
+ <lastplayed>2018-05-01 04:51:08</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5333">Lamer Pinky</artist>
+ </artists>
+ <groups>
+  <group id="756">C-Lous</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

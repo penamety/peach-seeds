@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12083">
+ <title>Afterburner</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="106">4.283</rating>
+ 
+ <songlength>362</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 02:22:01</locked_until>
+ <lastplayed>2018-05-25 16:18:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>23207</pouetid>
+ <ytid>Ze-37k6MRKk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Arcade</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

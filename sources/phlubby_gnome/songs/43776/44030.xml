@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44030">
+ <title>Dizziness</title>
+ <status v="A">Active</status>
+ <bitrate>1656</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>This track took 4th place at the Multimatograf 2017 (Russia, Vologda 29-30 April) 
+Compo: 8bit music </info>
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 10:01:06</locked_until>
+ <lastplayed>2018-03-04 12:29:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5727">Quiet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

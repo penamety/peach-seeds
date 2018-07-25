@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18446">
+ <title>Hipfunk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.4857</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 22:07:49</locked_until>
+ <lastplayed>2018-04-16 02:04:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7855</pouetid>
+ <ytid>_Ls3XXHpcfU</ytid>
+ <ytoffset>336</ytoffset>
+ 
+ <artists>
+  <artist id="1782">Future Freak</artist>
+ </artists>
+ <groups>
+  <group id="222">Dexion</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>BamigaSectorOneAndWarfalconsParty</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

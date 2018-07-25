@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="951">
+ <title>Coffee Blues II</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.2778</rating>
+ 
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 03:39:02</locked_until>
+ <lastplayed>2018-06-04 01:24:10</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist><artist id="1066">Sid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

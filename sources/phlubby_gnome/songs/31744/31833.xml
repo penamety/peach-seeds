@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31833">
+ <title>Robocop 3 remake</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.371</rating>
+ <info>Scallop Covertunes
+SID chipset: MOS6581R2</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 23:39:13</locked_until>
+ <lastplayed>2018-06-01 08:23:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

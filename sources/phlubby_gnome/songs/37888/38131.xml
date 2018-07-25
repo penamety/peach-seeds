@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38131">
+ <title>This is My Life</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ <info>Vedders contribution to Datastorm 2013 Amiga music compo - reached 9:th place
+
+Message to Vedder: Great work PAL!</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 14:25:53</locked_until>
+ <lastplayed>2018-06-01 16:07:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

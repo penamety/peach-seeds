@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33020">
+ <title>An Instance of Purple</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ 
+ <songlength>74</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 15:54:06</locked_until>
+ <lastplayed>2018-03-27 18:05:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56813</pouetid>
+ <ytid>VUSXD3vwYpg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4786">King Thrill</artist>
+ </artists>
+ <groups>
+  <group id="594">Hot Lambda Lovin&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Instanssi</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

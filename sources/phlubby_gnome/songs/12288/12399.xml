@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12399">
+ <title>Sunshine in a Box</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.7213</rating>
+ 
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 09:29:44</locked_until>
+ <lastplayed>2018-05-29 18:34:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52932</pouetid>
+ <ytid>nkQuA2GJAo8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1386">Flipside</artist><artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="511">Dead Roman</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

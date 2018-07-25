@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44692">
+ <title>Just A Sound</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.2</rating>
+ <info>Co-operation with Stilgar, 45th in M&amp;S2002 Tracked Music Compo
+Later used as a second part soundtrack of Niwood</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 20:41:02</locked_until>
+ <lastplayed>2018-06-05 06:13:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>10848</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4531">Nordbasse</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/26620/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

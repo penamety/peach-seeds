@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12011">
+ <title>Crab Stix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>Ranked 8th in the music compo at Rendezvous 1993.</info>
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:28:02</locked_until>
+ <lastplayed>2018-05-25 04:36:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="830">Mutant</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

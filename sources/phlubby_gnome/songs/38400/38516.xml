@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38516">
+ <title>Timeout</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">2.75</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 12:00:08</locked_until>
+ <lastplayed>2018-05-10 22:02:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>57204</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group><group id="168">Limited Edition [LED]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>Goa</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

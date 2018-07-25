@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11237">
+ <title>Turrican [YM remake]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3333</rating>
+ <info>Original theme by Chris Hülsbeck and Rimiro Vaca from C64.
+
+Download from ay-riders.speccy.cz: http://ay-riders.speccy.cz/download/8bits_is_enuff/24-X-agon-Turrican_C64_(Huelsbeck-Vaca).mp3</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 08:22:26</locked_until>
+ <lastplayed>2018-05-12 14:53:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1728">X-Agon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

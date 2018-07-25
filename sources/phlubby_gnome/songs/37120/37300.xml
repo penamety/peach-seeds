@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37300">
+ <title>Make it Easy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>Started to make this in 2011 but wasnt finnished until April 2012</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 22:46:07</locked_until>
+ <lastplayed>2017-12-19 04:02:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2133">Woober</artist>
+ </artists>
+ <groups>
+  <group id="195">Darkage</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

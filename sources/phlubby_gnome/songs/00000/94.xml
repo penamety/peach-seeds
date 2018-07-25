@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="94">
+ <title>Share and Enjoy</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.6071</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 03:05:44</locked_until>
+ <lastplayed>2018-04-12 01:39:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12454</pouetid>
+ <ytid>My6oQ4vxDP4</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

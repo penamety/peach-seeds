@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14152">
+ <title>Bunnyboobz</title>
+ <status v="E">Reported</status>
+ <bitrate>178</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">5.0</rating>
+ 
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1984">Arachno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

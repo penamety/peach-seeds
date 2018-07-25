@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38053">
+ <title>The Titan Turrican 2012</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3043</rating>
+ <info>By svenzzon &amp; chris huelsbeck</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-14 07:36:17</locked_until>
+ <lastplayed>2017-11-23 17:35:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist><artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ <labels>
+  <label id="12">In Ear Gaming</label>
+ </labels>
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

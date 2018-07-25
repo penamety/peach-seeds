@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30064">
+ <title>Addiction</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.9483</rating>
+ 
+ <songlength>287</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 19:53:18</locked_until>
+ <lastplayed>2018-06-16 00:54:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11030</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

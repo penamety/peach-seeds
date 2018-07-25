@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10151">
+ <title>ChippenBakker</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.7209</rating>
+ <info>This is Chippenbakker - inspired by koekenbakkers profile
+
+The track is made with Renoise so here&#39;s the source:
+http://www.bigbeat.ch/rams/zipf/chippenbakker.xrns
+
+And here&#39;s the MP3:
+http://www.bigbeat.ch/rams/zipf/chippenbakker.mp3
+ </info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 22:34:52</locked_until>
+ <lastplayed>2018-05-27 03:51:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34907">
+ <title>Planet Loop</title>
+ <status v="A">Active</status>
+ <bitrate>87</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0</rating>
+ 
+ <songlength>396</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-26 11:38:03</locked_until>
+ <lastplayed>2017-08-17 17:35:43</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>8354</pouetid>
+ <ytid>2cR50pdxiYA</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="805">Mobby</artist>
+ </artists>
+ <groups>
+  <group id="557">MadWizards [MWI MaWi]</group><group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2cR50pdxiYA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

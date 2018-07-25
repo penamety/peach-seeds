@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37585">
+ <title>The Groove (S3M Version)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>These songs are in the s3m format. All of them use 6 channels, and samples from various other artists. All were made using Modplug tracker.
+
+The Groove (S3M Version) (Aug 2008/May 2010)
+
+http://modarchive.org/index.php?request=view_by_moduleid&amp;query=169478</info>
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 20:39:03</locked_until>
+ <lastplayed>2017-12-23 02:46:54</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4034">FearofDark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

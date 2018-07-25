@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35999">
+ <title>Smashcid</title>
+ <status v="A">Active</status>
+ <bitrate>241</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Quickly made for a short demo, &#34;Retrofit08&#34; by Artificial Interrupt at Grep Brown 2011.
+
+Bassline made with C64 and two 8580 SID chips (panned at left and right), using MSSIAH&#39;s Bassline synth. Drums made with Madtracker 2, and the rest done in Cubase Essential 5 (including quick&#39;n&#39;dirty mixing).
+
+Download &amp; stream:
+http://dvibe.se/smashcid_popup.html</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-15 23:29:58</locked_until>
+ <lastplayed>2018-05-04 10:55:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58000</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>303</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GREP</tag>
+  
+  <tag>madtracker2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

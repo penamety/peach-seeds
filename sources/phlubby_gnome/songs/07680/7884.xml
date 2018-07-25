@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7884">
+ <title>Route 1066</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">2.8571</rating>
+ <info>1st place in combined demo compo at Sundown 2007
+
+Intro says &#34;SMASH*KEITO AND DEVASTATOR&#34;</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:12:28</locked_until>
+ <lastplayed>2018-05-28 12:39:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>32096</pouetid>
+ <ytid>kZZL0WcfIZU</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  <group id="470">ukscene allstars</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FemaleMoans</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>saxophone</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=S5WF74H7Zxs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kZZL0WcfIZU</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

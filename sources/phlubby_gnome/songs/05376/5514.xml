@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5514">
+ <title>Black 2000</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.15</rating>
+ 
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 03:57:51</locked_until>
+ <lastplayed>2018-05-12 15:07:55</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>756</pouetid>
+ <ytid>vnJ0dkd2xT8</ytid>
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vnJ0dkd2xT8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

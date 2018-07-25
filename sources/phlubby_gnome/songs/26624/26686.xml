@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26686">
+ <title>Jizz</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.8718</rating>
+ 
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 11:32:09</locked_until>
+ <lastplayed>2018-06-14 08:06:19</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>2</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="946">Probe</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

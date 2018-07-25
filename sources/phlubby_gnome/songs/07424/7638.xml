@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7638">
+ <title>ST-Style</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="112">4.5625</rating>
+ 
+ <songlength>138</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:55:31</locked_until>
+ <lastplayed>2018-06-13 17:53:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AtariST</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

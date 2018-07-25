@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12897">
+ <title>A Bit of Eternity</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.75</rating>
+ 
+ <songlength>297</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 17:03:37</locked_until>
+ <lastplayed>2018-05-05 11:44:39</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5555">minomus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>pad</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Reverb</tag>
+  
+  <tag>sinewave</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37348">
+ <title>Sykkel in the Sky</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.9375</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-21 08:13:24</locked_until>
+ <lastplayed>2017-06-16 01:10:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>50556</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3925">Vain</artist>
+ </artists>
+ <groups>
+  <group id="211">X-Trade</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42311">
+ <title>0xAnniversary</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3333</rating>
+ <info>1st Place in New School Demo Compo at Sundown 2015</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 14:12:43</locked_until>
+ <lastplayed>2018-06-09 18:29:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>66195</pouetid>
+ <ytid>jnRygi3fosE</ytid>
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="41">Ate Bit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>newschool</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jnRygi3fosE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/143588/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

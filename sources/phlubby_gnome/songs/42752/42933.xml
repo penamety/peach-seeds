@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42933">
+ <title>Super SLL Disco</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Aegis Sonix tune from [url]http://janeway.exotica.org.uk/release.php?id=14062[/url] containing the earliest Amiga tunes from SLL</info>
+ <songlength>96</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-06 15:46:08</locked_until>
+ <lastplayed>2017-08-29 16:44:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>sonix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

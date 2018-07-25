@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7719">
+ <title>Rude Awakening</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="147">4.2245</rating>
+ <info>2nd place in combined 64k at Assembly 2006</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 23:02:54</locked_until>
+ <lastplayed>2018-06-17 09:11:20</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>25774</pouetid>
+ <ytid>MAnhcUNHRW0</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MAnhcUNHRW0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

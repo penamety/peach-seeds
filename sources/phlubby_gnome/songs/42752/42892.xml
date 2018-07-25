@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42892">
+ <title>The rubber breadbox (ZX / C64)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>One chiptune made on two classic 8-bit machines from 1982: Spectrum 48 &amp; Commodore 64. :)
+Composed by YERZMYEY (ZX48) &amp; RIO (C64).
+Chip editors used: SoundTracker on ZX and DMC on C=.
+Mixed by Rio Rattenrudel.
+
+Made in 2010.</info>
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 20:16:23</locked_until>
+ <lastplayed>2018-06-09 00:23:00</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

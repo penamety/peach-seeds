@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29760">
+ <title>Old Man Belmont</title>
+ <status v="A">Active</status>
+ <bitrate>167</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.3276</rating>
+ 
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:11:25</locked_until>
+ <lastplayed>2018-05-30 14:59:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1796">Signal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

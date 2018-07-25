@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5715">
+ <title>Auf Wiedersehen Monty</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">2.3864</rating>
+ 
+ <songlength>367</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 11:15:46</locked_until>
+ <lastplayed>2018-05-22 19:38:52</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1514">PRESS PLAY ON TAPE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

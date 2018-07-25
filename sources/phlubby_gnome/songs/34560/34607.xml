@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34607">
+ <title>Always On My Mind</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.3103</rating>
+ 
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 04:52:29</locked_until>
+ <lastplayed>2018-05-01 02:01:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4760">Qjeta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

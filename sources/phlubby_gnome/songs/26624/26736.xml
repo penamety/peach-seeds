@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26736">
+ <title>Arranging Matches</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">4.2903</rating>
+ 
+ <songlength>66</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 05:39:23</locked_until>
+ <lastplayed>2018-06-14 08:05:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50668</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  <group id="96">Candela</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

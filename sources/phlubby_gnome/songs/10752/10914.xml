@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10914">
+ <title>Introfronty</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">3.9804</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 10:35:38</locked_until>
+ <lastplayed>2018-05-05 10:54:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>27549</pouetid>
+ <ytid>6Zwb9uMwDhc</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1873">Dezecrator</artist>
+ </artists>
+ <groups>
+  <group id="525">Classic</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

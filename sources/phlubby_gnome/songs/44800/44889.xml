@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44889">
+ <title>kumi-kumi</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">4.5</rating>
+ <info>Main soundtrack from &#34;qumi demo&#34; by sibCrew.
+2nd place @ Multimatograf 2018 in 8bit demo compo.</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 10:01:57</locked_until>
+ <lastplayed>2018-06-01 03:37:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>75937</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/n1k-o/kumi-kumi</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

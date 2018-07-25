@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6865">
+ <title>3D Mark 1999</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.125</rating>
+ 
+ <songlength>339</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 02:08:43</locked_until>
+ <lastplayed>2018-05-13 19:47:54</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>30080</pouetid>
+ <ytid>SZ2KUmr-07s</ytid>
+ 
+ 
+ <artists>
+  <artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="495">Mad Onion</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SZ2KUmr-07s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

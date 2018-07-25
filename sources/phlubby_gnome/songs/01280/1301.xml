@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1301">
+ <title>Dark sky</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">1.381</rating>
+ 
+ <songlength>614</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-06-02 22:07:30</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="237">Coocane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>Dark</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

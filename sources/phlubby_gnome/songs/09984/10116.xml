@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10116">
+ <title>Vicious SID module 3 VIC</title>
+ <status v="I">Inactive</status>
+ <bitrate>239</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="6">1.6667</rating>
+ <info>Note the VIC chip of the Commodore 64 not the SID is used to produce the sound of this one.
+
+
+Edit of Elrinth: There&#39;s a really annoying sound going thru the whole song suggesting there is something wrong with it.. It&#39;s actually meant to be this way, but I&#39;m sorry I can&#39;t approve it for weekly listening.
+
+If you want to listen to it, just download the song yourself.</info>
+ <songlength>74</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>51993</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1480">Mixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14941">
+ <title>Imaginary Woman</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.381</rating>
+ 
+ <songlength>430</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-05 22:45:08</locked_until>
+ <lastplayed>2018-04-30 11:48:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3227</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3796">Trixal</artist><artist id="1833">Vortex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

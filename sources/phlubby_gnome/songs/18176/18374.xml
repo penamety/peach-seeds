@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18374">
+ <title>15 Years Oxyron Party</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1333</rating>
+ 
+ <songlength>104</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 16:33:19</locked_until>
+ <lastplayed>2018-02-15 20:53:31</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>29072</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="463">Front 6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OxyronParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

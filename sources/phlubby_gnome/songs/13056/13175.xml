@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13175">
+ <title>Forsaken</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.5</rating>
+ <info>Hively Tracker format. [url=http://www.antialias.se/chiptunes/hvl/]download .hvl[/url]</info>
+ <songlength>111</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 21:25:50</locked_until>
+ <lastplayed>2018-06-02 05:50:38</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Missing</tag>
+  
+  <tag>youDOH</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

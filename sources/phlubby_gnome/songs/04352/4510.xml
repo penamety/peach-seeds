@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4510">
+ <title>Hidden Truths</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="27">4.0741</rating>
+ 
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 05:58:21</locked_until>
+ <lastplayed>2018-05-05 17:14:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3023</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group><group id="92">Rebels [RBS]</group><group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42927">
+ <title>Solar Empire [Seems Though Kewl] [Yet Another Solar Track!]</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">1.0</rating>
+ <info>MOS 6581 SID Stationi-simmo.
+o/
+
+-&gt; wget --no-check-certificate -i https://music.it-flash.de/solar_empire__seems_though_kewl__-yet-another-solar-track__.mp3
+
+&lt;--- Remove Check &#39;Has the SSL cert. an official authenticator. (Just me!) 
+And also -i for having an I-Frame. (You don&#39;t want to download a txt-like file)
+
+Greetings, flashinat0r! ;)</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5014">Space</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

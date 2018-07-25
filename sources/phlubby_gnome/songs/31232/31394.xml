@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31394">
+ <title>For a Friend</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.6667</rating>
+ <info>as Klaus said, this one was dedicated to Scirocco.</info>
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 11:14:11</locked_until>
+ <lastplayed>2018-05-30 07:12:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ <pouetid>14171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  <group id="323">Night 55</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

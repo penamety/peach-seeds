@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35972">
+ <title>FX4 - The Time Vampire</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8485</rating>
+ <info>From [url=http://ubiktune.org/releases/ubi041-virt-fx4]FX4[/url]</info>
+ <songlength>294</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-10 02:04:38</locked_until>
+ <lastplayed>2018-02-19 22:34:50</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

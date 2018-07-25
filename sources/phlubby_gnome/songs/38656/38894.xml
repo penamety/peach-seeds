@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38894">
+ <title>They Charged</title>
+ <status v="A">Active</status>
+ <bitrate>201</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>Ranked 2nd in the executable/oldschool combined music compo at @party 2013.</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 10:57:36</locked_until>
+ <lastplayed>2017-06-28 01:32:37</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

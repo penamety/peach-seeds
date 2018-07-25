@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="312">
+ <title>Funky Religion</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.2885</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 18:45:20</locked_until>
+ <lastplayed>2018-06-16 15:21:50</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="57">April</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>Religion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

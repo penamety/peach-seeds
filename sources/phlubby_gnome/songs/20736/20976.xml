@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20976">
+ <title>Your Mind is My Ashtray</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.1795</rating>
+ 
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 05:11:10</locked_until>
+ <lastplayed>2018-05-25 07:50:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1044</pouetid>
+ <ytid>bGEAedNdpE4</ytid>
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="517">The Lost Boys [TLB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bGEAedNdpE4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="842">
+ <title>Andy Kiss</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.15</rating>
+ 
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 21:52:20</locked_until>
+ <lastplayed>2018-05-26 10:41:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4033</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="154">Bug Vindicator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

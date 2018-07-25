@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12513">
+ <title>Seadog Medley</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">4.0233</rating>
+ 
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 23:47:41</locked_until>
+ <lastplayed>2018-06-15 21:24:39</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1210">The Weasel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Chant</tag>
+  
+  <tag>Folk</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>polka</tag>
+  
+  <tag>popeye</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

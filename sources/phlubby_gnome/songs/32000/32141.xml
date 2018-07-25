@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32141">
+ <title>Of The Of The End (Live)</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.125</rating>
+ 
+ <songlength>77</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-12 09:26:35</locked_until>
+ <lastplayed>2017-07-31 23:14:34</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4239">Fatal Snipe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=7322</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

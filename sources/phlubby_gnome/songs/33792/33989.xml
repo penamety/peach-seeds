@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33989">
+ <title>Say it, Don&#39;t Spray it</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5</rating>
+ <info>Winner of the newschool music compo at Riverwash 2011.</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 18:54:50</locked_until>
+ <lastplayed>2017-06-04 00:52:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Riverwash</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

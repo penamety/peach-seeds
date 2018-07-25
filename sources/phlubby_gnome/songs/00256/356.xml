@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="356">
+ <title>The War</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.4167</rating>
+ <info>16:th place at the Party&#39;92 4ch music compo</info>
+ <songlength>353</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 10:41:02</locked_until>
+ <lastplayed>2017-06-22 05:12:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

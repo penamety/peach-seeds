@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7254">
+ <title>A Spark in My Heart</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>Compo entry at Volcanic 1995.</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 05:26:52</locked_until>
+ <lastplayed>2018-04-30 15:35:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1283">Unison (fr)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>VolcanicParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

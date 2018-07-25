@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8010">
+ <title>King Arame&#39;s Castle</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.4933</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 21:58:30</locked_until>
+ <lastplayed>2018-06-12 10:18:50</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Epic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

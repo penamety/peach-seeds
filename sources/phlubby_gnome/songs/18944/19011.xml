@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19011">
+ <title>Rakkaus Meitä Yhdistää</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">1.6703</rating>
+ <info>translated lyrics from youtube:
+
+The rocky path of life
+takes you to the golden shine of love
+Every little step
+is meaningful
+
+naa-na-na (etc.)
+
+Hand to hand, o friends
+Love unites us
+Hand to hand, o friends,
+ye-yee-yee
+
+Hand to hand, o friends
+Love unites us
+Hand to hand, woo-wo-woo-woo
+
+naa-na-na-na (etc.)
+
+Meaningful
+
+Love</info>
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 17:13:42</locked_until>
+ <lastplayed>2018-05-07 09:55:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>13056</pouetid>
+ <ytid>5wVr8EzFj9E</ytid>
+ 
+ 
+ <artists>
+  <artist id="2849">Harmonian Polku</artist>
+ </artists>
+ <groups>
+  <group id="4">tAAt</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5wVr8EzFj9E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

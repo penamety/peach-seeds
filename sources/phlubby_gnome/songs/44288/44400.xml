@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44400">
+ <title>Related Memories</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>1st place in the DiHalt 2008 ZX Spectrum AY/Turbo-AY Music competition</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 15:06:10</locked_until>
+ <lastplayed>2018-04-29 18:40:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5160">Bfox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/53412/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

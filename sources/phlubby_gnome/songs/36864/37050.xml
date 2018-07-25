@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37050">
+ <title>Drop The Panic</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.8049</rating>
+ <info>Entry for the Sundown 2012 Amiga Music Competition
+
+Written using ProTracker</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 10:50:32</locked_until>
+ <lastplayed>2018-05-16 17:59:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>glitchhop</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

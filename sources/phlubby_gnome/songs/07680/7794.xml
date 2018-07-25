@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7794">
+ <title>Point Blank</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0357</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:05:20</locked_until>
+ <lastplayed>2018-06-12 15:35:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>6532</pouetid>
+ <ytid>acG1hcoFzdI</ytid>
+ 
+ 
+ <artists>
+  <artist id="553">Interphace</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Hurricane&amp;BrutalSummerParty</tag>
+  
+  <tag>mysterious</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=acG1hcoFzdI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41668">
+ <title>The Long Agony Suite</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5556</rating>
+ <info>Tokyo Demo Fest
+8th place</info>
+ <songlength>514</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 11:43:47</locked_until>
+ <lastplayed>2018-05-27 10:45:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4750">Judge Brad</artist>
+ </artists>
+ <groups>
+  <group id="426">Black Rainbow</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133229/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

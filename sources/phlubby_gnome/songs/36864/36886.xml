@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36886">
+ <title>Compleeto!</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ <info>SID chipset: MOS6581R2</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:58:39</locked_until>
+ <lastplayed>2018-06-09 09:23:36</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

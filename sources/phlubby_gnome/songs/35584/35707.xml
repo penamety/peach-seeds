@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35707">
+ <title>Bigger Bouncier Balls</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5789</rating>
+ <info>1st place in pc intro compo at The gathering 2012</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-28 19:59:05</locked_until>
+ <lastplayed>2017-09-22 06:40:24</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59115</pouetid>
+ <ytid>dNEnsElpjfQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="4117">Eladamri</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dNEnsElpjfQ</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

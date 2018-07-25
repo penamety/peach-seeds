@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32660">
+ <title>Q.E.D.</title>
+ <status v="A">Active</status>
+ <bitrate>161</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="27">3.5556</rating>
+ <info>4th in pc demo at The Gathering 2002
+</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 12:42:46</locked_until>
+ <lastplayed>2018-05-31 11:49:21</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>5581</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

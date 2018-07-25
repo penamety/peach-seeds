@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27921">
+ <title>IK+ (Firestorm remix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="109">4.4404</rating>
+ 
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 07:52:10</locked_until>
+ <lastplayed>2018-06-03 05:59:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51963</pouetid>
+ <ytid>fpMXDtEBQF8</ytid>
+ <ytoffset>53</ytoffset>
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>bigbeat</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fpMXDtEBQF8</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

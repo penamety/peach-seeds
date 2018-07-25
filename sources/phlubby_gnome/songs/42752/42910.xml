@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42910">
+ <title>Pour Me Another Drink</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ <info>From &#34;Softer Side of Toodeloo&#34; Atari Falcon music disk by YesCREW</info>
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 02:22:26</locked_until>
+ <lastplayed>2018-02-19 01:18:53</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>28868</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3773">Toodeloo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/64441/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

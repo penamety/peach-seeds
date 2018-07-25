@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6290">
+ <title>R0t0f3ul</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Trivia: The tune is played too slow in the cracktro (tempo command is not handled).</info>
+ <songlength>57</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 18:24:22</locked_until>
+ <lastplayed>2018-06-12 21:37:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>21459</pouetid>
+ <ytid>NNb20d17pYc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cracktro</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NNb20d17pYc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

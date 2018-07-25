@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41310">
+ <title>Drummer boy (demoedit)</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">2.3704</rating>
+ <info>Corehammer (xmas w00t 2005)</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:31:29</locked_until>
+ <lastplayed>2018-05-06 19:01:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>20992</pouetid>
+ <ytid>DDyKMMQMQTE</ytid>
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>Gabber</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DDyKMMQMQTE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

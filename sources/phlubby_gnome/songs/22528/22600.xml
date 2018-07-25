@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22600">
+ <title>Ujtekkkkno</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.0</rating>
+ <info>Ujtekkkkno.mod by Pat of Frame18, was unranked at SCEneST 95 for the 4 channels music compo in 1995</info>
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-08 08:50:45</locked_until>
+ <lastplayed>2018-04-21 06:05:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5753">Pat [HU]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Scenest</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/166232/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5632">
+ <title>Extra</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.2759</rating>
+ 
+ <songlength>138</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:07:39</locked_until>
+ <lastplayed>2018-06-03 23:41:24</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>3409</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

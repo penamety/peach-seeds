@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41667">
+ <title>I Can&#39;t forget, only erase</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>Tokyo Demo Fest entry
+10th place.</info>
+ <songlength>330</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 15:21:49</locked_until>
+ <lastplayed>2018-03-25 03:24:05</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4750">Judge Brad</artist>
+ </artists>
+ <groups>
+  <group id="426">Black Rainbow</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133230/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

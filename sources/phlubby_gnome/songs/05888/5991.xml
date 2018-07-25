@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5991">
+ <title>Mushroom.1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5455</rating>
+ 
+ <songlength>87</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 11:24:25</locked_until>
+ <lastplayed>2018-06-04 08:04:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

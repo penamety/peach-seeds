@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38930">
+ <title>Little Summer Ibiza Break</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.8</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-20 20:53:30</locked_until>
+ <lastplayed>2017-09-15 02:23:32</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>ibiza</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

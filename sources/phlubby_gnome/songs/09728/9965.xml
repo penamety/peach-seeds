@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9965">
+ <title>+h2K</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3971</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 21:54:37</locked_until>
+ <lastplayed>2018-06-09 16:08:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1488</pouetid>
+ <ytid>R3Fawa5zayo</ytid>
+ <ytoffset>80</ytoffset>
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="303">Plush</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

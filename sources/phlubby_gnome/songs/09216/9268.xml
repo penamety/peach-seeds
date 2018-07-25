@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9268">
+ <title>hires_hunt</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>Maintune from our PSP-Demo HiRes Hunt released at Breakpoint 09...</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-21 06:30:38</locked_until>
+ <lastplayed>2017-11-02 22:18:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>52975</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1522">Rebb</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

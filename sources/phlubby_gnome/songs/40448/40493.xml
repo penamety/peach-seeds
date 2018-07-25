@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40493">
+ <title>Sourire</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.3</rating>
+ <info>Malmen coooooop! \o/
+
+32 multichannel xm!
+
+Our entry for the newschool / streaming compo on the Outline 2014 demoparty!
+
+There were 18 entries in this compo, which is a lot! Awesome stuff.
+</info>
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 04:09:09</locked_until>
+ <lastplayed>2018-06-17 06:07:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist><artist id="5491">XyCe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/36228/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34824">
+ <title>lahjoja riittää omasta takaa!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.2857</rating>
+ 
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 20:05:15</locked_until>
+ <lastplayed>2018-06-16 13:29:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

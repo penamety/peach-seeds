@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20555">
+ <title>Parallax for Piano</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">2.16</rating>
+ 
+ <songlength>765</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 23:05:03</locked_until>
+ <lastplayed>2018-05-11 15:33:18</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

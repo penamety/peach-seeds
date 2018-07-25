@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6434">
+ <title>Dreamland</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ 
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 15:58:27</locked_until>
+ <lastplayed>2017-06-06 02:08:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>2401</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1049">Scott</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

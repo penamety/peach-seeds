@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38506">
+ <title>Interrogation</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">4.1667</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 06:52:15</locked_until>
+ <lastplayed>2018-04-19 12:26:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>32355</pouetid>
+ <ytid>9QYI832l8Ho</ytid>
+ <ytoffset>18</ytoffset>
+ 
+ <artists>
+  <artist id="529">Hollywood</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9QYI832l8Ho</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

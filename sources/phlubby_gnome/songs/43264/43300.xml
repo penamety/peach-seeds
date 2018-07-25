@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43300">
+ <title>Gimme Gimme Gimme</title>
+ <status v="A">Active</status>
+ <bitrate>316</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5789</rating>
+ <info>ABBA Gold - The Collection
+Future Composer 1.0</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 02:41:52</locked_until>
+ <lastplayed>2018-06-02 12:53:14</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>67094</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Abba</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=146701</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

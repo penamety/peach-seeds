@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36430">
+ <title>Motherboard Circuit ISSUE ONE</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ <info>The song has been _entirely_ made on ZX81 with ZXpand and two YM/AY chips 
+(6 channels) from ZXpand-AY and Mr-X sound-modules. 
+
+Software used: ZX81 SoundTracker and TurboSound Player - both by Andy Rea. 
+
+Recorded from real ZX81 computer. 
+
+Thx a lot for all the soft/hardware to: Sasha2000, SirMorris, Andy Rea and Moggy (for software-ports for more stupid users like me). </info>
+ <songlength>269</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 23:31:14</locked_until>
+ <lastplayed>2017-07-13 17:47:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZX81</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18852/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

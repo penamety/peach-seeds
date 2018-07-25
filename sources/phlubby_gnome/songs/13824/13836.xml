@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13836">
+ <title>Spritze</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 10:23:33</locked_until>
+ <lastplayed>2018-01-30 15:52:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2164">Aio</artist><artist id="86">Baggio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

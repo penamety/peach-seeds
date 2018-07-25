@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29839">
+ <title>The Unreasonable Meeting</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.2941</rating>
+ <info>Featuring Frauke with female vocals</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 09:35:57</locked_until>
+ <lastplayed>2018-04-06 08:58:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>27921</pouetid>
+ <ytid>fzZVkBAlitE</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="26">Speckdrumm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12739</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

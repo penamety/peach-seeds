@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38872">
+ <title>Brave New World v1.1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-22 01:25:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1998</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3454">Ramosa</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

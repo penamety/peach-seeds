@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36616">
+ <title>Mega Demo Zak</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="55">3.6545</rating>
+ <info>Music from mega demo by Brainwave. Music by Arrakis and Speedhead.
+
+http://bitworld.bitfellas.org/demo.php?id=17530
+https://demozoo.org/productions/158317/</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:09:36</locked_until>
+ <lastplayed>2018-06-01 09:53:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="66">Arrakis</artist>
+ </artists>
+ <groups>
+  <group id="569">Brainwave [FR]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>laugh</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/158317/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

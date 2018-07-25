@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43919">
+ <title>Surge Response</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ 
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 17:22:47</locked_until>
+ <lastplayed>2018-04-12 04:44:39</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>69662</pouetid>
+ <ytid>U9S4iV2KAE4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1294">Velo</artist>
+ </artists>
+ <groups>
+  <group id="405">Approximate</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=U9S4iV2KAE4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/170755/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

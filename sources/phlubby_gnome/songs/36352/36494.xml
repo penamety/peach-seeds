@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36494">
+ <title>Schluesselloch</title>
+ <status v="A">Active</status>
+ <bitrate>80</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">2.4038</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 18:29:24</locked_until>
+ <lastplayed>2018-06-10 22:43:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5017">Seismic</artist><artist id="1855">Spy-da</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>smurfhits</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

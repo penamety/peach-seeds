@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33910">
+ <title>Cookies in Space</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7647</rating>
+ <info>Entry for Demodays 2011 music competition</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 15:03:54</locked_until>
+ <lastplayed>2018-04-10 03:22:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  <group id="204">Paradise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

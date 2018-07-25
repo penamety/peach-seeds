@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5838">
+ <title>Global Motion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.0435</rating>
+ <info>My first REAL multichannel song.  It took a lot of work to finish this.</info>
+ <songlength>348</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 14:58:20</locked_until>
+ <lastplayed>2018-05-22 05:19:39</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

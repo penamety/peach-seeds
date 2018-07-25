@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39021">
+ <title>Last Wish</title>
+ <status v="A">Active</status>
+ <bitrate>734</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">4.1</rating>
+ <info>3rd place in ZX Spectrum AY-Music compo at DiHalt 2006</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 03:56:56</locked_until>
+ <lastplayed>2018-05-29 16:58:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/29933/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

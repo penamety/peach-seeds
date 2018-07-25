@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29451">
+ <title>Vammailua3</title>
+ <status v="R">Rejected</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">1.0</rating>
+ <info>The voice says &#34;kuolemaa ja tuhoa&#34; (death and destruction)</info>
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2855">Hazard</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>Avant-garde</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>Mystic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

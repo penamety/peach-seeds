@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42548">
+ <title>The Clairvoyant</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 19:12:32</locked_until>
+ <lastplayed>2018-06-13 17:18:21</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>64438</pouetid>
+ <ytid>FEG3fdV6Ra4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>IronMaiden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

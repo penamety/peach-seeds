@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33125">
+ <title>Blink</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.6829</rating>
+ <info>Winner of YM2149-music competition at SillyVenture 2010. My first 200Hz replay tune on the Atari ST. 
+The end is a bit rushed as I was running out of time to finalize the tune for the party.
+
+Editor: maxYMizer
+Release date: SillyVenture 2010 </info>
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 23:13:25</locked_until>
+ <lastplayed>2018-05-20 21:02:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>60836</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

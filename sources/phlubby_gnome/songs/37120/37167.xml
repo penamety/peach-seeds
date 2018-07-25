@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37167">
+ <title>0.N.0</title>
+ <status v="A">Active</status>
+ <bitrate>141</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">2.0513</rating>
+ <info>R4 recording from Stone Oakvalley&#39;s site
+</info>
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 07:22:22</locked_until>
+ <lastplayed>2018-04-25 16:13:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1682</pouetid>
+ <ytid>FrYy6p4WiS8</ytid>
+ 
+ 
+ <artists>
+  <artist id="3701">TBB</artist>
+ </artists>
+ <groups>
+  <group id="689">Extend</group>
+ </groups>
+ 
+ <tags>
+  <tag>minimalistic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MYDjXuqJhAs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=3543</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Zx3D5IdxH7Q</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

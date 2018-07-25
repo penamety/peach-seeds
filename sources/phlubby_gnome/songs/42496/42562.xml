@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42562">
+ <title>Extreme Lift Off</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.9412</rating>
+ <info>Winner of the Chip Music Compo at Syntax 2015.
+
+Platform: Sega Genesis/Megadrive
+Tracked with Delek&#39;s DefleMask Tracker http://www.delek.com.ar/deflemask
+Converted with VGM PLAYER v3.1, played with Fusion 3.64
+
+Download link (.bin format): https://files.scene.org/view/parties/2015/syntax15/music_chip/extreme_lift_off.zip</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 06:02:10</locked_until>
+ <lastplayed>2018-06-02 10:18:06</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4026">cTrix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Syntax</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

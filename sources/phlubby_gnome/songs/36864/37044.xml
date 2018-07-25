@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37044">
+ <title>Lady Starlight</title>
+ <status v="A">Active</status>
+ <bitrate>202</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">4.1667</rating>
+ 
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 02:34:54</locked_until>
+ <lastplayed>2018-05-24 01:37:32</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Celtic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178030</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

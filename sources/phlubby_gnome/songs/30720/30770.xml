@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30770">
+ <title>Bacardi Cola</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">2.7872</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 08:44:48</locked_until>
+ <lastplayed>2018-05-30 12:10:11</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>25790</pouetid>
+ <ytid>AiwlrlC-ix8</ytid>
+ 
+ 
+ <artists>
+  <artist id="3495">RM</artist>
+ </artists>
+ <groups>
+  <group id="445">MoonHazard</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>food</tag>
+  
+  <tag>maf-inspired</tag>
+  
+  <tag>Rap</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AiwlrlC-ix8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

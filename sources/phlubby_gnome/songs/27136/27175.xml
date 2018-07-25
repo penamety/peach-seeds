@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27175">
+ <title>Satans Weihnachtsman</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.4286</rating>
+ 
+ <songlength>126</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 13:22:58</locked_until>
+ <lastplayed>2018-05-22 16:30:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1305">Algar</artist><artist id="2066">Jallabert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Religion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

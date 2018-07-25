@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2669">
+ <title>Celebrant</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.2308</rating>
+ <info>3rd place in combined demo compo at Assembly 2001</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 16:03:15</locked_until>
+ <lastplayed>2018-05-22 02:18:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3287</pouetid>
+ <ytid>P232iyIGkWw</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="449">Firestorm</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group><group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=P232iyIGkWw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

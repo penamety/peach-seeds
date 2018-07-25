@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14973">
+ <title>Theknomes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.8846</rating>
+ 
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 23:45:42</locked_until>
+ <lastplayed>2018-05-09 11:00:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12999</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2312">Blair Zuppicich</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

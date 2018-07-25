@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36017">
+ <title>Amigatmospheric</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Short psy electro swoosch, released 2002. 
+Was meant to be in an Amiga demo, using ADPCM. Was never released though.
+
+Made in Madtracker 2.
+
+Download &amp; stream:
+http://www.dvibe.se/amigatmospheric_popup.html</info>
+ <songlength>140</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 23:36:38</locked_until>
+ <lastplayed>2018-05-31 08:25:40</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>madtracker2</tag>
+  
+  <tag>Psychedelic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

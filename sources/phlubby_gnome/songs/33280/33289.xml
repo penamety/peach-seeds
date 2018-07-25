@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33289">
+ <title>CyberFaktory</title>
+ <status v="R">Rejected</status>
+ <bitrate>134</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">1.5833</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-CYBERFACTORY.mp3</info>
+ <songlength>1029</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-07-11 13:55:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

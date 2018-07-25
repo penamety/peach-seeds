@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9342">
+ <title>No Mercy</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.5918</rating>
+ <info>recorded by SOASC</info>
+ <songlength>277</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:51:10</locked_until>
+ <lastplayed>2018-06-14 09:44:36</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ <pouetid>20463</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  <group id="52">20th Century Composers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=30204</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=32936</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

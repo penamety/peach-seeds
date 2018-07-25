@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29692">
+ <title>TeddyHymn</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.4615</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 00:04:03</locked_until>
+ <lastplayed>2018-03-05 20:02:30</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>53194</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  <group id="513">Artificials [ATF]</group><group id="514">Projekt Carnival [PCL]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

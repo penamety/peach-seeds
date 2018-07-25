@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5827">
+ <title>Charts Overdrive</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.5888</rating>
+ 
+ <songlength>127</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 06:52:03</locked_until>
+ <lastplayed>2018-06-08 11:51:58</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>2997</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Worldcharts</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?52758</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

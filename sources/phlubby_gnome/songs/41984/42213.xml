@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42213">
+ <title>Synchronization</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.8919</rating>
+ <info>Soundrtack from &#34;Synchronization&#34; ZX Demo by CONSCIOUSNESS.
+
+1st place in Enhanced 8-Bit Demo at DiHalt 2015.</info>
+ <songlength>497</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 16:13:04</locked_until>
+ <lastplayed>2018-06-10 18:37:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>65917</pouetid>
+ <ytid>e4gy3lJ3ZU4</ytid>
+ <ytoffset>47</ytoffset>
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZX-Evo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e4gy3lJ3ZU4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

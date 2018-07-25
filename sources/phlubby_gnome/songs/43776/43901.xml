@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43901">
+ <title>Warum (feat. Sarah Nakic)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>7th in Revision 2017 Streaming music compo</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 08:01:10</locked_until>
+ <lastplayed>2018-03-28 05:03:16</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170803/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

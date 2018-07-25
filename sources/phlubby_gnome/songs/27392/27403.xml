@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27403">
+ <title>Dream of Aeris</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>Made by SnowCat in Impulse Tracker in 1999, improved by Manwe in Sk@le Tracked in 2007. Released on &#34;Skale Romantics&#34; musicdisk.</info>
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-20 02:26:19</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49905</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3970">SnowCat</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

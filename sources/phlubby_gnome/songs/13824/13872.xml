@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13872">
+ <title>Beachtro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.2143</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 17:24:50</locked_until>
+ <lastplayed>2018-04-15 07:05:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>7633</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2166">AJT</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

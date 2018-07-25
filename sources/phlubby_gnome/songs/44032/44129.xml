@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44129">
+ <title>Gear Up</title>
+ <status v="A">Active</status>
+ <bitrate>1043</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>2nd in the Forever 2007 Atari Music competition</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 14:06:25</locked_until>
+ <lastplayed>2018-04-13 04:52:29</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3460">Raster</artist>
+ </artists>
+ <groups>
+  <group id="872">Computer Platform Unlimited</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/48850/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

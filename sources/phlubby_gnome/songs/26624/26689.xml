@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26689">
+ <title>Pimp My Squid</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.3636</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-26 01:34:42</locked_until>
+ <lastplayed>2017-10-15 01:38:27</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54097</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3861">A_Rival</artist>
+ </artists>
+ <groups>
+  <group id="153">Northern Dragons</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>TMDC</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

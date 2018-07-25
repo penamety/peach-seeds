@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26239">
+ <title>Swinth 4 Tubular Bells - Orig by Oldfield</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>Comments for subsong #4
+  TITLE: Tubular Bells, Part 1 [from Tubular Bells]
+ ARTIST: Mike Oldfield
+COMMENT: A little free-hand adaptation.
+         &#34;I just thought this was ultra cool. Used as the music to The
+         Exorcist, unfortunately.&#34; (GF)</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 11:12:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>52343</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4920">Georg Feil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Oldfield</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

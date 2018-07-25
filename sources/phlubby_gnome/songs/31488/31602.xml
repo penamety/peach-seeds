@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31602">
+ <title>Adrenalin (Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">2.7037</rating>
+ <info>Soundtrack from the 2nd part of &#34;Adrenalize&#34; Zx Spectrum (pentagon clone) demo, audiovisual art on 8bit machine, 5th at Funtop&#39;98 demoparty.</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 19:08:49</locked_until>
+ <lastplayed>2018-03-13 13:02:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>12487</pouetid>
+ <ytid>J1MyMkYALVA</ytid>
+ <ytoffset>206</ytoffset>
+ 
+ <artists>
+  <artist id="1971">Phantom Lord</artist>
+ </artists>
+ <groups>
+  <group id="248">Accept Corp.</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>5th</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FunTop</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=blhLuzrVDNw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=890</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/12612/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=J1MyMkYALVA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

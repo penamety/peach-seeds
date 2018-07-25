@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40401">
+ <title>Renewed</title>
+ <status v="A">Active</status>
+ <bitrate>457</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ 
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 19:10:11</locked_until>
+ <lastplayed>2018-04-10 17:11:40</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

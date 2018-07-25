@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9860">
+ <title>Astral Motion</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8276</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 12:32:47</locked_until>
+ <lastplayed>2018-05-25 22:28:11</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1809">Sonic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>synth</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36060">
+ <title>Interstate</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.8889</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-01 03:51:08</locked_until>
+ <lastplayed>2018-02-10 21:09:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>48849</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3931">Bernard Sumner</artist>
+ </artists>
+ <groups>
+  <group id="684">Relay</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

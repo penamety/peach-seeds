@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37249">
+ <title>Richie Spice - Augmented Mind - Earth A Run Red</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.4906</rating>
+ <info>1st place in pc demo compo at Geeks can dance 2012</info>
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 05:34:58</locked_until>
+ <lastplayed>2018-06-08 04:02:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60256</pouetid>
+ <ytid>kytM7Y5dbNI</ytid>
+ 
+ 
+ <artists>
+  <artist id="5221">Wright &amp; Bastard</artist>
+ </artists>
+ <groups>
+  <group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>GeeksCanDance</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kytM7Y5dbNI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

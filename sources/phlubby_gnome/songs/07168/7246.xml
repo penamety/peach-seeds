@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7246">
+ <title>Toi-Tei</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.1944</rating>
+ 
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 07:03:45</locked_until>
+ <lastplayed>2018-05-25 18:08:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2045</pouetid>
+ <ytid>MvlvDjeFT5E</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Upbeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

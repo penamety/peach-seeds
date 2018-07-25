@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42016">
+ <title>Break-up</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>&#34;It&#39;s actually partly a conversion of a Blackfield song called &#34;Blackfield&#34; - it&#39;s not a 1:1-conversion far from... I think most of the tune is done in 2005 and then I rushed to add some bits in the end as Roland and DK needed it to be a little longer ;)&#34; - DRAX</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 01:41:41</locked_until>
+ <lastplayed>2018-05-13 21:43:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>53505</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=81153</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

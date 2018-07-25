@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12483">
+ <title>Great Gurianos (CyberJungle remix)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.3551</rating>
+ 
+ <songlength>284</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 03:46:50</locked_until>
+ <lastplayed>2018-05-28 10:31:32</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2036">Chronberg</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

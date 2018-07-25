@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42992">
+ <title>X-Files Remix</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0833</rating>
+ <info>Used in interesting collection [url]http://csdb.dk/release/?id=15870[/url]</info>
+ <songlength>287</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 02:34:10</locked_until>
+ <lastplayed>2017-12-04 13:48:31</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

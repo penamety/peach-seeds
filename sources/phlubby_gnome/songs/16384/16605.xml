@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16605">
+ <title>Slurp &amp; Burp 2</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ <info>Just finishing the music of the game, i worked on this second S3M files including P.P.P. Team Software jingle, loops track for the menu and selection jingles of player Slurp or Burp.</info>
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>2017-12-15 22:03:45</locked_until>
+ <lastplayed>2017-11-22 02:05:01</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ImpulseTracker</tag>
+  
+  <tag>Loop</tag>
+  
+  <tag>PPP</tag>
+  
+  <tag>Software</tag>
+  
+  <tag>Team</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

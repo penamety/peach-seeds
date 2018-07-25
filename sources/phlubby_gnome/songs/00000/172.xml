@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="172">
+ <title>Wego 2000</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>3rd place in pc demo compo at Assembly 1999.
+http://www.youtube.com/watch?v=Nx0rr2kICY0
+
+It is unknown if there&#39;s an XM version as it sounds like it was composed in FastTracker II, however the MP3 file of this track can be found in the .NET version of this demo.</info>
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 16:43:28</locked_until>
+ <lastplayed>2018-06-01 20:28:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>17</pouetid>
+ <ytid>Nx0rr2kICY0</ytid>
+ 
+ 
+ <artists>
+  <artist id="27">Aisth</artist>
+ </artists>
+ <groups>
+  <group id="102">Komplex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

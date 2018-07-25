@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38153">
+ <title>Froodle Friction</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8182</rating>
+ <info>7:th place at Datastorm 2012 Amiga 4ch music-compo.</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 19:04:40</locked_until>
+ <lastplayed>2018-05-06 04:25:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>lM_US9ZBAb8</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

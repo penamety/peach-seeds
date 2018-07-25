@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37022">
+ <title>Those Were The Days</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.0222</rating>
+ <info>Coop by Rapture, Chris Hülsbeck, Jan Zottmann and Atroxis (Markus Holler), vocals by Birgit Holler.</info>
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 05:31:07</locked_until>
+ <lastplayed>2018-05-26 22:04:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5207">Atroxis</artist><artist id="205">Chris Hülsbeck</artist><artist id="5206">Jan Zottmann</artist><artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Newage</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

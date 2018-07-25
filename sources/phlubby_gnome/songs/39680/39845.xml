@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39845">
+ <title>Give it</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ <info>AMIGA 500, 4 channels, the OctaMED editor.
+Recorded from real hardware (stereo slightly changed).
+Finally I got the ACA500 interface for the Amiga (RAM, CPU, HDD/CF). Work with the device is highly comfortable and nice!! Thx to it, I plan to make a longer oldschool rave / breakbeat / house album, using the interface :) and this song will be part of it, so treat it as a teaser. ;)</info>
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 09:46:29</locked_until>
+ <lastplayed>2018-05-19 12:07:31</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Jungle</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/32910/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

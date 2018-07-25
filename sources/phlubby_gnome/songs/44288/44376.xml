@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44376">
+ <title>Wardner returns</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>2nd place in &#34;STREAMING MUSIC&#34; @ Very Important Party 2017 :)</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 18:12:51</locked_until>
+ <lastplayed>2018-04-10 05:05:52</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/171762/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

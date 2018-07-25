@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="873">
+ <title>Girl from Zamardi</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.1944</rating>
+ 
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 10:29:28</locked_until>
+ <lastplayed>2018-03-14 08:40:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>137</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

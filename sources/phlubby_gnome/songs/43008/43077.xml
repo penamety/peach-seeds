@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43077">
+ <title>Domatron Experiment</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Embedded text:
+
+It was a mistake.
+It should not have
+happened.
+They didn&#39;t care.
+They didn&#39;t know.
+They had the power.
+They said it was safe.
+They were wrong.
+
+Domatron Experiment
+
+Documented by:
+TEQUE/DEE
+17.05. - 22.05.1996
+at TMS, Finalnd.
+
+Heissulivei 2:
+Cube/DEE
+Nitro/DEE
+Sol/DEE
+Xenit/Aggression
+Sister/Aggression
+Void/HSA
+Gore/FC/Remedy
+Yolk/Parallax
+Dune/Orange
+Soundwave/VV
+
+Samples:
+14,17,29 and 32.
+by me.
+
+Rest:
+Don&#39;t remember.
+Don&#39;t care.
+
+Industrial Forever!
+
+(C) TEQUE MUSIC 1996</info>
+ <songlength>297</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 04:11:20</locked_until>
+ <lastplayed>2018-04-02 14:35:16</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/109066/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?169362</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

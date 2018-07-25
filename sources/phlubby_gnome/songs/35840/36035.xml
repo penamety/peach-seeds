@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36035">
+ <title>Grapevine 11</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">3.1905</rating>
+ 
+ <songlength>347</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 15:13:33</locked_until>
+ <lastplayed>2018-04-07 09:42:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9288</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Grapevine</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5913">
+ <title>Mare Crisium</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ 
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2017-05-30 10:19:14</locked_until>
+ <lastplayed>2017-05-28 00:12:57</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="975">Radiance</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

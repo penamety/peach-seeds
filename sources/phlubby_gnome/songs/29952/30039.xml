@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30039">
+ <title>The Charts 11</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">4.0</rating>
+ 
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 09:00:32</locked_until>
+ <lastplayed>2017-12-22 13:41:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50358</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="572">Jelace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

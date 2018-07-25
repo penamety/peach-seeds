@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40645">
+ <title>Randy The Great</title>
+ <status v="A">Active</status>
+ <bitrate>155</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>Vedders contribution to Solskogen 2014 Old school music compo reached 5:th place.</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 04:47:48</locked_until>
+ <lastplayed>2017-11-12 06:20:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

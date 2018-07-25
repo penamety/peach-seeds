@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40663">
+ <title>Sunny Days</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.2941</rating>
+ <info>2nd place in ZX Spectrum music compo at 3BM OpenAir 2014</info>
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 09:14:04</locked_until>
+ <lastplayed>2018-05-28 05:33:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>3BMOpenAir</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>weather</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37258/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

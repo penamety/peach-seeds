@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43204">
+ <title>Sweet Love Harmony</title>
+ <status v="A">Active</status>
+ <bitrate>260</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 14:26:46</locked_until>
+ <lastplayed>2018-04-24 04:44:35</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4092">Android</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

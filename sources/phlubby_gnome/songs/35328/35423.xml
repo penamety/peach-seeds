@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35423">
+ <title>Apollo 5/4</title>
+ <status v="A">Active</status>
+ <bitrate>220</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ <info>Entry for Nectarine Samplepack Compo</info>
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-13 21:32:28</locked_until>
+ <lastplayed>2017-12-22 13:38:50</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5037">STS-136</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

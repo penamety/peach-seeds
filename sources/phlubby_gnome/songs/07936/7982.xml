@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7982">
+ <title>STS-02: Electric Kool-Aid</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.2532</rating>
+ <info>2nd place in pc demo compo at Breakpoint 2006</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 23:57:18</locked_until>
+ <lastplayed>2018-05-20 21:59:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>24488</pouetid>
+ <ytid>jtkEgKx45WA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1469">Man With No Alias</artist>
+ </artists>
+ <groups>
+  <group id="68">Synesthetics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jtkEgKx45WA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

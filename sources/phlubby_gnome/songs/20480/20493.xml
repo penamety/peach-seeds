@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20493">
+ <title>(I Wanna) Dance Again</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.0909</rating>
+ 
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 15:05:20</locked_until>
+ <lastplayed>2018-06-05 12:54:13</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5636">Legend [au]</artist><artist id="662">Liam the Lemming</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>dance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

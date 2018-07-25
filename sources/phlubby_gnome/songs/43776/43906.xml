@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43906">
+ <title>Donnerwetter</title>
+ <status v="A">Active</status>
+ <bitrate>262</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>6th in Revision 2017 executable music compo</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 01:27:16</locked_until>
+ <lastplayed>2018-03-04 16:31:01</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="992">raYn [DE]</artist><artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

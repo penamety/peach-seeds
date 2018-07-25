@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9240">
+ <title>Horizon</title>
+ <status v="A">Active</status>
+ <bitrate>271</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.2264</rating>
+ 
+ <songlength>71</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 16:34:20</locked_until>
+ <lastplayed>2018-05-01 10:38:15</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>8020</pouetid>
+ <ytid>rZEd6TeUibU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rZEd6TeUibU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22479">
+ <title>Ecole Buissonniere</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.5405</rating>
+ <info>Main soundtrack from &#34;Ecole Buissonniere&#34;, a french Amstrad CPC demo (an Overlander production) by Madram, features.</info>
+ <songlength>268</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 14:56:43</locked_until>
+ <lastplayed>2018-06-17 06:03:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1183</pouetid>
+ <ytid>JCzrcOg4XPQ</ytid>
+ <ytoffset>44</ytoffset>
+ 
+ <artists>
+  <artist id="4659">Shap</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

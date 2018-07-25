@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1164">
+ <title>Welcome to my Trip</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.9333</rating>
+ 
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 18:51:40</locked_until>
+ <lastplayed>2018-05-08 04:18:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="208">Chrylian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

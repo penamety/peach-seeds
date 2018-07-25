@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41550">
+ <title>Chip03</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>Very early Chiptune I made back then. Happy Happy Happy shit</info>
+ <songlength>57</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-16 07:45:56</locked_until>
+ <lastplayed>2017-06-07 09:30:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55360</pouetid>
+ <ytid>nh-jcSy4J_U</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nh-jcSy4J_U</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

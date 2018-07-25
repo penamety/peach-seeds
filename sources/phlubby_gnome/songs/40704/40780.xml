@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40780">
+ <title>Wah-wah Madness</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Remake of my song made
+for SunnyGame&#39;s &#34;BUGIX&#34;
+El.guitar played by me,	
+voice by my friend Alex	
+Aznaurov.
+
+(c) Manwe/SandS 2004-2014
+www.thesands.ru
+</info>
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 23:05:05</locked_until>
+ <lastplayed>2018-05-18 20:30:14</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>RussianSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37350/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

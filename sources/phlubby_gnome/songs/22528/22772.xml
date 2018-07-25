@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22772">
+ <title>T0rrfisk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4</rating>
+ 
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-17 10:18:54</locked_until>
+ <lastplayed>2017-09-06 11:10:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>7862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2853">Hattrick</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

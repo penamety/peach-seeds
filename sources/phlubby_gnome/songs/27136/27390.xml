@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27390">
+ <title>Lavender Hill</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.28</rating>
+ <info>One of my favorite Skaven&#39;s S3M, so I did the remake on it for &#34;reTracked&#34; project.</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 19:44:00</locked_until>
+ <lastplayed>2018-05-16 20:02:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>52465</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

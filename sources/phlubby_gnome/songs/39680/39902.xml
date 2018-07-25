@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39902">
+ <title>Free Space</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.3333</rating>
+ 
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 07:35:23</locked_until>
+ <lastplayed>2018-01-16 10:41:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>26610</pouetid>
+ <ytid>rTNbkT0HrNM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1684">Grubi</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Prime</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rTNbkT0HrNM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

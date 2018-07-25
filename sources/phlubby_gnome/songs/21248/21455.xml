@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21455">
+ <title>Amazed - Endtune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8485</rating>
+ 
+ <songlength>287</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-14 15:29:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>17533</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="770">Melomaniac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>SouthSealandParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

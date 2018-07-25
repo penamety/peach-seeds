@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36490">
+ <title>Frieden fuer die Welt</title>
+ <status v="A">Active</status>
+ <bitrate>77</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">2.6923</rating>
+ 
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:22:41</locked_until>
+ <lastplayed>2018-05-24 17:40:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5154">Chaotic</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

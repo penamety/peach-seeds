@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30233">
+ <title>Pistol</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.1154</rating>
+ <info>Comptune to Main party 2010</info>
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 02:42:52</locked_until>
+ <lastplayed>2018-04-02 01:24:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1522">Rebb</artist>
+ </artists>
+ <groups>
+  <group id="204">Paradise</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41400">
+ <title>VoLtAge</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.7143</rating>
+ <info>Soundtrack from &#34;Hackers Top 2010 Invitation&#34; by Target Team</info>
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 01:45:09</locked_until>
+ <lastplayed>2018-05-06 00:59:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54493</pouetid>
+ <ytid>2wyemR7MwGQ</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>HackersTop</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2wyemR7MwGQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

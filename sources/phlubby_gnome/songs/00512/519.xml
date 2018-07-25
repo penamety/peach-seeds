@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="519">
+ <title>Splinter</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="40">3.9</rating>
+ 
+ <songlength>293</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 13:22:54</locked_until>
+ <lastplayed>2018-05-07 15:55:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>552</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1632">A-move</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>lounge</tag>
+  
+  <tag>quiet</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>smooth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

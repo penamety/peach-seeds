@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29957">
+ <title>Explora</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.88</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 06:06:33</locked_until>
+ <lastplayed>2017-12-05 23:18:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3536</pouetid>
+ <ytid>g2kRP6c4u-s</ytid>
+ 
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Saturne</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

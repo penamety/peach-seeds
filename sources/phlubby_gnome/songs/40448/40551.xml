@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40551">
+ <title>Summer Supernova</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.25</rating>
+ <info>1st place in Freestyle music compo, @party 2014</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 16:49:24</locked_until>
+ <lastplayed>2018-06-16 07:05:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>atparty</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

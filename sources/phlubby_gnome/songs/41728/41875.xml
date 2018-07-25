@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41875">
+ <title>Hammer-mashed Eggs</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1154</rating>
+ <info>8th at Revision 2015 streaming music compo</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 20:49:28</locked_until>
+ <lastplayed>2018-04-26 17:35:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

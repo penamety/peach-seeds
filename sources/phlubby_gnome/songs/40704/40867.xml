@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40867">
+ <title>Challenging Waves</title>
+ <status v="A">Active</status>
+ <bitrate>457</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.3333</rating>
+ <info>Tried to copy Pink&#39;s style, mostly got inspired by &#34;Alleyway Chat&#34;.
+Made in Protracker 1.1a with selfmade samples (from AHX).
+
+Got second place in &#34;Style copy&#34; compo.
+
+Also was used in Planet Jazz&#39; intro &#34;Tune&#34;.</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 03:29:58</locked_until>
+ <lastplayed>2018-06-03 11:05:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>66267</pouetid>
+ <ytid>HMrbj3SAal4</ytid>
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  <group id="748">Planet Jazz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HMrbj3SAal4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/144316/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

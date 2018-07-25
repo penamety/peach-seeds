@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25426">
+ <title>Song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ <info>Demo song from MED 2.00</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-25 10:37:56</locked_until>
+ <lastplayed>2017-12-01 23:35:28</lastplayed>
+ <platform id="29">MED</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3709">Teijo Kinnunen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

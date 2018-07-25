@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24261">
+ <title>Mechanical Island</title>
+ <status v="A">Active</status>
+ <bitrate>121</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-03 03:49:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2998">Kendo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

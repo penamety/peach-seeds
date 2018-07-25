@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40435">
+ <title>Corporate Jingle [Revision 2014]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ <info>Jingle used to indicate it was a start of a compo before the organizers would give a quick talk about the upcoming compo. Part of the theme of 2014 being a &#34;demoscene spacecup&#34; from the future with silly genericized compos nobody can really associate with.</info>
+ <songlength>80</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 07:22:04</locked_until>
+ <lastplayed>2018-06-12 14:24:41</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ <pouetid>62331</pouetid>
+ <ytid>yHnT2uK-Bec</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="788">Schengen Allstars</group>
+ </groups>
+ 
+ <tags>
+  <tag>Invitation</tag>
+  
+  <tag>Jingle</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

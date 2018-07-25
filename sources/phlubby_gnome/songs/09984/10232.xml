@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10232">
+ <title>Extraction</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.2174</rating>
+ 
+ <songlength>317</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 17:33:15</locked_until>
+ <lastplayed>2018-04-09 17:46:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>5501</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

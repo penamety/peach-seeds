@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12521">
+ <title>Children ReMiX</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.6452</rating>
+ 
+ <songlength>514</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 19:21:53</locked_until>
+ <lastplayed>2018-05-27 21:41:12</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>RobertMiles</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

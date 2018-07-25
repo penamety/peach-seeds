@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34508">
+ <title>Funky People</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.9231</rating>
+ 
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 03:54:17</locked_until>
+ <lastplayed>2018-03-29 15:04:46</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>Hammond</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

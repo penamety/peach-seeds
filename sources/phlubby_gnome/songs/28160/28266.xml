@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28266">
+ <title>Magnetis: The Machine</title>
+ <status v="I">Inactive</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">1.6667</rating>
+ <info>Sound track to Magnetis, Track 1
+[url]http://www.yullaby.com/?page=magnetis[/url]</info>
+ <songlength>23</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-08-21 00:54:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

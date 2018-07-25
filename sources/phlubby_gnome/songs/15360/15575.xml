@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15575">
+ <title>Plant</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-30 01:21:46</locked_until>
+ <lastplayed>2017-11-11 01:12:51</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Sonic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

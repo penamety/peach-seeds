@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36225">
+ <title>CSM - Yet to come</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.1667</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-10-26 05:07:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2469">CSM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

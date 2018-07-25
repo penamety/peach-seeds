@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8961">
+ <title>The Lyra II part 8</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.0</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 08:16:46</locked_until>
+ <lastplayed>2018-05-27 00:12:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2121</pouetid>
+ <ytid>AIqKkXwvv9M</ytid>
+ <ytoffset>2837</ytoffset>
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyra2</tag>
+  
+  <tag>Max-Him</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007538</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2861</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

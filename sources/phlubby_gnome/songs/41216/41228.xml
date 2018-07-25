@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41228">
+ <title>Dazzler (Cover)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>Original theme by Jester.</info>
+ <songlength>52</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 19:35:55</locked_until>
+ <lastplayed>2018-05-17 09:07:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ <labels>
+  <label id="11">Unstable Label</label>
+ </labels>
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

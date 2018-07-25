@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28880">
+ <title>Mellow Idea (Just a small mellow rmx)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.76</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 08:48:03</locked_until>
+ <lastplayed>2018-05-25 17:48:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1346">Dafunk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Mellow</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

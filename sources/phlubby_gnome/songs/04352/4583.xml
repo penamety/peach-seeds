@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4583">
+ <title>Beast within</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6</rating>
+ 
+ <songlength>372</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 22:16:33</locked_until>
+ <lastplayed>2017-12-19 09:37:52</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="743">Marvel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

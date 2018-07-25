@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6103">
+ <title>Rendezvous 92</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9667</rating>
+ 
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 23:00:02</locked_until>
+ <lastplayed>2018-06-12 08:43:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="988">Random Voice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3553">
+ <title>Moonlit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">4.3766</rating>
+ 
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 18:52:15</locked_until>
+ <lastplayed>2018-05-28 05:48:01</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Beatbox</tag>
+  
+  <tag>quiet</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

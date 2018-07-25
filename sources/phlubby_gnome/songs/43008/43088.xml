@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43088">
+ <title>Rap 42</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.6429</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 13:16:00</locked_until>
+ <lastplayed>2018-04-03 04:25:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18992</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2014">Oberheim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

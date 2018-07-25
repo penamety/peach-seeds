@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34543">
+ <title>Mekanix</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2222</rating>
+ <info>3rd place in c64 demo compo at X 2010</info>
+ <songlength>402</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-27 23:42:26</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56003</pouetid>
+ <ytid>cTFsXAdWQgg</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group><group id="267">Instinct</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cTFsXAdWQgg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=44132</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

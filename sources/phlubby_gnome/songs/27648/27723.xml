@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27723">
+ <title>A Question of Luck</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0323</rating>
+ <info>Release date not exactly correct, Laxity stated 1997 in the .xm file.</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 09:49:44</locked_until>
+ <lastplayed>2018-05-06 16:26:11</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

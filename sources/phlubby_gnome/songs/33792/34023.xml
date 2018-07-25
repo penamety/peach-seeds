@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34023">
+ <title>Plane on me</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ 
+ <songlength>373</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-19 19:27:59</locked_until>
+ <lastplayed>2018-01-28 00:25:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+  <tag>bass</tag>
+  
+  <tag>flying</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

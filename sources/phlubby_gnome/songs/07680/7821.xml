@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7821">
+ <title>Memorize Your Future</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">3.1935</rating>
+ <info>Lyrics:
+
+Sometimes I just want to be in silence;
+A deep sleep, where there is nobody and nothing;
+Time, and a chance to think about every detail of my life.
+
+And then, there is a strong will inside of me,
+which fights and cannot win;
+because everything will go it&#39;s way.
+If I want it or not.
+
+But I can lead my way in the right direction,
+when I make use of this fighting-will,
+and just go...
+
+There is more power in every person, in everthing, everywhere. (x2)
+We just need to recognize it to find our way, which leads to satisfaction. (x2)
+
+How could we easily find back to our way?
+With all this bullshit-television and radiocasts.
+They are poison!
+They want to tell us how we should live our lives,
+and how everything else should be.
+They are poison!
+
+Keep away this bullshit and go your way,
+even when you don&#39;t know which direction you should choose,
+just go...
+And you will find, what you were searching for.
+It&#39;s perhaps not exactly what you wanted, but
+it will lead you on to the right way.
+
+Life - go, just go (x4)
+
+Life...</info>
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 11:10:39</locked_until>
+ <lastplayed>2018-05-12 08:02:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16385</pouetid>
+ <ytid>QMhGRALOSA8</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="1654">Faith</artist><artist id="569">jco</artist>
+ </artists>
+ <groups>
+  <group id="439">Neuro</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>NeuroConcept</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hu3f6d87oys</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

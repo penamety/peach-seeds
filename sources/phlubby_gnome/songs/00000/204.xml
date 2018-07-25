@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="204">
+ <title>Creation</title>
+ <status v="A">Active</status>
+ <bitrate>269</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.3295</rating>
+ 
+ <songlength>395</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 00:41:04</locked_until>
+ <lastplayed>2018-06-01 23:57:46</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

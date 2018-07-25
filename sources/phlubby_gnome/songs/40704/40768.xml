@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40768">
+ <title>Arcade Memories</title>
+ <status v="A">Active</status>
+ <bitrate>274</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>3SID Music</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 18:17:28</locked_until>
+ <lastplayed>2018-04-14 04:00:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>63922</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5524">Gaetano Chiummo</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>3SID</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

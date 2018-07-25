@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44045">
+ <title>Barcoded People</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>This is a re-master of my XM Module &#34;Barcoded People&#34; entered at Amiparty XX multichannel music compo.</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 15:44:30</locked_until>
+ <lastplayed>2018-06-10 15:00:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ <ytid>VLZLQSO1GKg</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Melodic</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VLZLQSO1GKg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/5TY8u4TtTHcqaOmRYjaqbP</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

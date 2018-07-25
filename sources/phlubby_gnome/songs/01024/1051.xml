@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1051">
+ <title>Abyss</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0833</rating>
+ 
+ <songlength>139</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 19:34:07</locked_until>
+ <lastplayed>2018-05-25 01:50:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>2290</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

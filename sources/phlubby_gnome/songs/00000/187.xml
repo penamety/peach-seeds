@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="187">
+ <title>Full Moon Part 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 22:46:16</locked_until>
+ <lastplayed>2018-03-09 14:40:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>410</pouetid>
+ <ytid>--0altTjjFE</ytid>
+ 
+ 
+ <artists>
+  <artist id="35">Alien</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34700">
+ <title>Bellies</title>
+ <status v="A">Active</status>
+ <bitrate>238</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.0</rating>
+ <info>Track from demo Circlelusions by Speccy Boyz which got 4th position at Doxycon &#39;98 demoparty in category ZX Spectrum demo</info>
+ <songlength>299</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 13:52:45</locked_until>
+ <lastplayed>2017-10-26 20:52:47</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6399</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4944">DJ Cobra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Doxycon</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2328</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

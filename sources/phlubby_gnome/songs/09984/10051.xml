@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10051">
+ <title>Wonderboy In Monster Land - Title</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.25</rating>
+ <info>Composed by Shinichi Sakamoto, the arrangement is faithful for the arcade original
+
+Download Link: http://www.andykellett.com/MP3/David_Whittaker-Wonderboy_In_Monsterland_Track_1_YM.mp3</info>
+ <songlength>50</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 03:00:06</locked_until>
+ <lastplayed>2018-04-23 10:17:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>Fantasy</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

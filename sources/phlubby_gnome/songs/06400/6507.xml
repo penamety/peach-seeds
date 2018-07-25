@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6507">
+ <title>Megademo Readers digest</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0769</rating>
+ 
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-15 09:14:37</locked_until>
+ <lastplayed>2018-05-15 20:50:48</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  <group id="10">Synergy</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

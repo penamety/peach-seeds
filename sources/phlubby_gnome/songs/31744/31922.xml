@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31922">
+ <title>Three Little Goats</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="25">3.32</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-15 15:00:22</locked_until>
+ <lastplayed>2017-12-26 03:15:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>553</pouetid>
+ <ytid>G3dooqt15kY</ytid>
+ 
+ 
+ <artists>
+  <artist id="494">Goon</artist>
+ </artists>
+ <groups>
+  <group id="428">Moppi Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=G3dooqt15kY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

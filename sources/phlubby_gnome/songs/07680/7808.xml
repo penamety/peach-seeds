@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7808">
+ <title>Gamma</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="152">4.4474</rating>
+ <info>1st place in combined demo at The Gathering 2007
+
+1st place in soundtrack of the year at the scene.org awards 2007</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 02:37:08</locked_until>
+ <lastplayed>2018-05-27 05:44:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30223</pouetid>
+ <ytid>WHoY70A15Sg</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1416">Irvin</artist>
+ </artists>
+ <groups>
+  <group id="9">Outracks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WHoY70A15Sg</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="530">
+ <title>The rain</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.8667</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-04 19:24:23</locked_until>
+ <lastplayed>2017-06-25 21:08:02</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="89">Banana</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

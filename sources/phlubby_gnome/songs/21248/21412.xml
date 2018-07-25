@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21412">
+ <title>Stellar Contour</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.82</rating>
+ <info>&#34;Stellar Contour&#34; demo by Brainwave. 
+Ranked #1 at Chaos Constructions 2001.</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 20:14:24</locked_until>
+ <lastplayed>2018-05-24 23:46:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6110</pouetid>
+ <ytid>959K287Hr0g</ytid>
+ <ytoffset>13</ytoffset>
+ 
+ <artists>
+  <artist id="3175">Megus</artist>
+ </artists>
+ <groups>
+  <group id="389">Brainwave [ru]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3371</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=959K287Hr0g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

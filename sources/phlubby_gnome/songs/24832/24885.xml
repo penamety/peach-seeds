@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24885">
+ <title>Jazzy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-19 12:41:37</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>16202</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

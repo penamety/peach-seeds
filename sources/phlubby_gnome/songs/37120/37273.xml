@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37273">
+ <title>Basic Instinct</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">2.0</rating>
+ 
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 00:54:04</locked_until>
+ <lastplayed>2018-04-13 06:44:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5224">Bastoche</artist>
+ </artists>
+ <groups>
+  <group id="569">Brainwave [FR]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Sleepy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

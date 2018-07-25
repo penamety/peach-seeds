@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28805">
+ <title>Size Doesn&#39;t Matter</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.3673</rating>
+ 
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 11:52:24</locked_until>
+ <lastplayed>2018-05-23 22:07:29</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>54862</pouetid>
+ <ytid>3jfRR9CGTXo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3jfRR9CGTXo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

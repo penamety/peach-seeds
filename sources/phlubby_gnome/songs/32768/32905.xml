@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32905">
+ <title>Cool Tune II</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-23 21:03:39</locked_until>
+ <lastplayed>2017-07-16 16:22:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>56955</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1274">Typhoon</artist>
+ </artists>
+ <groups>
+  <group id="154">Avalon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

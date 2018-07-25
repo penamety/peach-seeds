@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27800">
+ <title>Gates of Dreamhack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">3.0933</rating>
+ 
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 19:58:04</locked_until>
+ <lastplayed>2017-11-02 12:26:09</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>SkZ0aSawkMU</ytid>
+ 
+ 
+ <artists>
+  <artist id="4014">Raddox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CanonD</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>SwedishSpeak</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

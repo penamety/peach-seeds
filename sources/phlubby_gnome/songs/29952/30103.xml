@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30103">
+ <title>This is Jungle</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 03:17:33</locked_until>
+ <lastplayed>2018-04-07 05:53:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13818</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="770">Melomaniac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Flute</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

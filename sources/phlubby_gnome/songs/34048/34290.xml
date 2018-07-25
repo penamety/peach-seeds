@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34290">
+ <title>Kingdom</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.0667</rating>
+ <info>2nd place of Big Chipcompo #2 (Size category big)</info>
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-17 06:06:03</locked_until>
+ <lastplayed>2017-09-08 22:36:53</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="668">Little Elk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>BigChipcompo</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24925">
+ <title>Spirit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-13 00:12:19</locked_until>
+ <lastplayed>2017-07-04 23:20:33</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>7528</pouetid>
+ <ytid>j2MG5okBc-c</ytid>
+ 
+ 
+ <artists>
+  <artist id="1440">KvAzAr</artist>
+ </artists>
+ <groups>
+  <group id="555">Euthanasia</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>party</tag>
+  
+  <tag>Rage</tag>
+  
+  <tag>Scenest</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=j2MG5okBc-c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/9805/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

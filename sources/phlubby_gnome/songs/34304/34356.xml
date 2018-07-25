@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34356">
+ <title>Soft-rockin</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>ST-01, ST-05, ST-06 &amp; ST-08 samples</info>
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-05 03:16:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3729">The Judge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+  <tag>st-05</tag>
+  
+  <tag>st-06</tag>
+  
+  <tag>st-08</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

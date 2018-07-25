@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32347">
+ <title>Starr</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.1538</rating>
+ <info>----------------------
+(c) Rez / Eclipse 1995
+----------------------
+It&#39;s a 2 day tune !!
+Why the coders always
+decide to make a demo
+2 week before a party
+-???-
+----------------------
+sorry 4 my bad english
+----------------------
+Hello 2 all da french
+group...
+------------------Rez-</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 05:49:20</locked_until>
+ <lastplayed>2018-04-23 08:49:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="549">Eclipse</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

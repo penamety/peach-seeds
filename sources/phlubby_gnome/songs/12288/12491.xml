@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12491">
+ <title>Labyrinth</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">3.6618</rating>
+ 
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 05:50:34</locked_until>
+ <lastplayed>2018-05-12 21:59:14</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2037">BeeZerk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cheesy</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41222">
+ <title>Aeroplane</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.6667</rating>
+ 
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 16:04:25</locked_until>
+ <lastplayed>2018-06-02 01:59:54</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5550">Manka</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>flying</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

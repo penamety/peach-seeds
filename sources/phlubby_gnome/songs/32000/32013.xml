@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32013">
+ <title>Asia Chiphop</title>
+ <status v="A">Active</status>
+ <bitrate>212</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>Asia_Chiphop
+1996 by G.Lucas
+chip conversion/rmx
+of my Protracker
+Module &#34;Asia_chiphop&#34;
+If you want to
+contact me, write
+glucas@hib.de
+For other music
+protracker/thx/CD
+just get in contact
+bye..</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-27 15:27:31</locked_until>
+ <lastplayed>2017-06-19 21:35:54</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1095">Gavin Lucas</artist>
+ </artists>
+ <groups>
+  <group id="527">Small Team of Experts</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

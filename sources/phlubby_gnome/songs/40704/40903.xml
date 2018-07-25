@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40903">
+ <title>Godisregn</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">4.0</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 07:56:43</locked_until>
+ <lastplayed>2018-04-20 05:44:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59096</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

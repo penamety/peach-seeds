@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34721">
+ <title>We Are Different</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="31">2.3548</rating>
+ <info>remix of Members of Mayday anthem</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 11:55:29</locked_until>
+ <lastplayed>2018-05-12 20:00:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4950">Kaos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Mayday</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

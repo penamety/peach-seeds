@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37955">
+ <title>Out-Oh-Mat</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.1579</rating>
+ 
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 17:04:00</locked_until>
+ <lastplayed>2018-06-08 14:24:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60939</pouetid>
+ <ytid>LnQtJFGJmj4</ytid>
+ 
+ 
+ <artists>
+  <artist id="904">Parsec</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>TMDC</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LnQtJFGJmj4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

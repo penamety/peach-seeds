@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4902">
+ <title>Last Knight</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">3.9623</rating>
+ 
+ <songlength>525</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:59:00</locked_until>
+ <lastplayed>2018-06-03 15:51:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9208</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+  <tag>Uplifting</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

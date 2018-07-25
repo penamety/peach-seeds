@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15430">
+ <title>Top 20</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.7143</rating>
+ 
+ <songlength>374</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-04 15:52:30</locked_until>
+ <lastplayed>2017-12-16 17:05:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2375">Cee-Dee</artist><artist id="1215">Thug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

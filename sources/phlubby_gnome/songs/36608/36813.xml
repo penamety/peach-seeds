@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36813">
+ <title>Escape (loader)</title>
+ <status v="A">Active</status>
+ <bitrate>235</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.2941</rating>
+ <info>Note: This song was found among the ressources from the demo. This *MIGHT* be a loader tune.</info>
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-12 16:59:59</locked_until>
+ <lastplayed>2018-05-11 23:38:21</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59621</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4913">Rayjan</artist>
+ </artists>
+ <groups>
+  <group id="654">Pyrotech</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

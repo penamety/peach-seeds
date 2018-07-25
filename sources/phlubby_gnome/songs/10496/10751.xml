@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10751">
+ <title>Xenon 2 - Megablast Ingame</title>
+ <status v="D">Dupe</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">3.7667</rating>
+ <info>Title track from the game Xenon 2 - Megablast. Track was created using David Whittaker&#39;s own tracker.
+
+Dupe of [queue]1508[/queue] (just without speech samples)</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-01-22 12:09:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>2w-tiRnac2k</ytid>
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1606</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

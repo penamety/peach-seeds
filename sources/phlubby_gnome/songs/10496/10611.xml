@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10611">
+ <title>The Unreasonable Deepness</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">3.4516</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 18:06:32</locked_until>
+ <lastplayed>2018-06-04 22:16:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31667</pouetid>
+ <ytid>qL_Giu4IqcY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1855">Spy-da</artist>
+ </artists>
+ <groups>
+  <group id="26">Speckdrumm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>whistle</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qL_Giu4IqcY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

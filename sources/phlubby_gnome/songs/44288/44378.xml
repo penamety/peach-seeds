@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44378">
+ <title>Ranne</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.0</rating>
+ <info>Used twenty years later in the demo &#34;Kanaalin arvoitus&#34;.</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-06 07:37:06</locked_until>
+ <lastplayed>2018-06-16 12:49:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>71432</pouetid>
+ <ytid>tq9Rzz5vytE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1296">Vesuri</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>postmodern</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176806/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?129746</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

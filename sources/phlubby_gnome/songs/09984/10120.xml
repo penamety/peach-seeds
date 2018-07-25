@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10120">
+ <title>Dirt</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="96">4.2604</rating>
+ 
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 15:06:01</locked_until>
+ <lastplayed>2018-06-04 09:38:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5088</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>KefrensAndDexionParty</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36491">
+ <title>Deine Liebe</title>
+ <status v="A">Active</status>
+ <bitrate>86</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">1.8293</rating>
+ 
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 18:10:28</locked_until>
+ <lastplayed>2018-05-11 05:08:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3541">Scamp</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>herewego</tag>
+  
+  <tag>shout</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

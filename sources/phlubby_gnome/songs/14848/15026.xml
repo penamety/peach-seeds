@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15026">
+ <title>Human Invasion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">1.8065</rating>
+ 
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 23:43:11</locked_until>
+ <lastplayed>2018-05-17 10:42:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1471</pouetid>
+ <ytid>F_DpVPEUVXk</ytid>
+ 
+ 
+ <artists>
+  <artist id="2316">Blo</artist>
+ </artists>
+ <groups>
+  <group id="541">Vision</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

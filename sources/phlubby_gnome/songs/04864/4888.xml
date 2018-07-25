@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4888">
+ <title>Drink My Pain Away</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.2766</rating>
+ 
+ <songlength>269</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 17:45:21</locked_until>
+ <lastplayed>2018-05-29 10:33:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11094</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Melodic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

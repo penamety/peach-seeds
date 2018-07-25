@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2767">
+ <title>I Love Holy Daze</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.5135</rating>
+ 
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 12:30:30</locked_until>
+ <lastplayed>2018-06-13 00:30:25</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1715</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AGA</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

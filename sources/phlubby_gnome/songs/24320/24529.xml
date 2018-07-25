@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24529">
+ <title>Bs1 song23 m</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.4483</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 07:58:45</locked_until>
+ <lastplayed>2018-06-03 08:55:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3213</pouetid>
+ <ytid>zYAIUjveKPc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="250">Crionics</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AmigaConference</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

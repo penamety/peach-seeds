@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38473">
+ <title>2 Weeks From Scratch</title>
+ <status v="A">Active</status>
+ <bitrate>276</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ 
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-05 08:15:02</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="603">Kalachnikov</artist>
+ </artists>
+ <groups>
+  <group id="281">d&#39;Oh!</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

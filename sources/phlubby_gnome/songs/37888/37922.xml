@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37922">
+ <title>Adventure</title>
+ <status v="A">Active</status>
+ <bitrate>429</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1</rating>
+ <info>Write special for Next Castle Party 2012.</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 02:16:56</locked_until>
+ <lastplayed>2018-05-20 21:32:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NextCastleParty</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

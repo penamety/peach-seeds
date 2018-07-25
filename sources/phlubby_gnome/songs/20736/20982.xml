@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20982">
+ <title>Symphony theme</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 19:28:42</locked_until>
+ <lastplayed>2017-06-28 20:11:02</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>13597</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1158">Substance</artist>
+ </artists>
+ <groups>
+  <group id="557">MadWizards [MWI MaWi]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

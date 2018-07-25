@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9175">
+ <title>The Vegom song</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.0417</rating>
+ <info>This is a remix of 16BTLSOL.IT 
+Unknown orginal artist</info>
+ <songlength>358</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:50:10</locked_until>
+ <lastplayed>2018-06-05 02:48:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="506">Haggeman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

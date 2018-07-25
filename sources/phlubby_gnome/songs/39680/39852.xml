@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39852">
+ <title>Enro</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.7333</rating>
+ <info>One of the songs from 2013 album &#34;Microsongs&#34; that you can listen and buy from here: [url]http://cheapbeatsmusic.bandcamp.com/album/microsongs[/url]
+I made it for ZX Spectrum 16K with AY-interface but of course 16K is too small ram for a reasonable tracker, so the song has been composed on ZX Spectrum 48K + AY-interface (ZX Sound Tracker 1.1).
+Recorded from real hardware.
+
+PS: The album has been released by Japan-based label CheapBeats (Tokyo).
+
+Let chiptunes/micromusic be with You!!!!!!!</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 09:39:53</locked_until>
+ <lastplayed>2018-03-14 00:02:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/32914/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

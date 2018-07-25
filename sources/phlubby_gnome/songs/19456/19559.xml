@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19559">
+ <title>Watch it</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.1489</rating>
+ 
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 10:04:23</locked_until>
+ <lastplayed>2018-05-02 12:34:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>19865</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1003">Red</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

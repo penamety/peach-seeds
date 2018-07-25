@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19762">
+ <title>Burning Rubber - Tune 1 [amstrad]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.7917</rating>
+ 
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:29:51</locked_until>
+ <lastplayed>2018-05-29 23:20:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1788">Jonathan Dunn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26104">
+ <title>Biohazard</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2667</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-20 18:55:54</locked_until>
+ <lastplayed>2017-06-13 09:30:29</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>5170</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

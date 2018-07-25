@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4105">
+ <title>Orthanc</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.1522</rating>
+ 
+ <songlength>388</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 06:19:06</locked_until>
+ <lastplayed>2018-04-27 02:13:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>20076</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="596">Citron</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17742">
+ <title>Einsteinium 17</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.1875</rating>
+ 
+ <songlength>64</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 15:40:33</locked_until>
+ <lastplayed>2018-06-11 17:44:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="401">Einstein</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42925">
+ <title>Adventure at Silly Venture</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>Notes from 505:
+&#34;A tribute to the great Silly Venture Atari party series in Gdansk, Poland - which hopefully is going to be continued one day.
+
+Tracked with Renoise, sample based and using 4 channels as I intended to convert it to Protracker format at some point.&#34;
+
+Released on the [url]chiptuneswin.com[/url] bandcamp release volume 4:
+[url]http://chiptuneswin.bandcamp.com/album/chiptunes-win-volume-4[/url]
+
+Also 505&#39;s soundcloud:
+[url]https://soundcloud.com/five-o-five[/url]
+
+(Uploaded with permission from 505 and Chiptunes=WIN)</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 21:03:26</locked_until>
+ <lastplayed>2018-03-16 04:27:45</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

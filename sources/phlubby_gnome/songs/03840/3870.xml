@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3870">
+ <title>Disco 2000</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">3.4638</rating>
+ <info>2nd place in pc demo compo at Summer Encounter 1999.
+http://www.youtube.com/watch?v=xIVxxxC-Vgo</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 02:40:44</locked_until>
+ <lastplayed>2018-05-12 09:13:50</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>20</pouetid>
+ <ytid>xIVxxxC-Vgo</ytid>
+ 
+ 
+ <artists>
+  <artist id="634">Krii</artist>
+ </artists>
+ <groups>
+  <group id="103">Purple</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>SummerEncounter</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

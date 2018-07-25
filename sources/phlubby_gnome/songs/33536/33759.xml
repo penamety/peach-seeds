@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33759">
+ <title>Good Music I</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="1">4.0</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8084</pouetid>
+ <ytid>ZY7OoLQJKaM</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZY7OoLQJKaM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

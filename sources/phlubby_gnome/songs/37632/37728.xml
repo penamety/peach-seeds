@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37728">
+ <title>Walk Along the Moonbridge</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 09:57:39</locked_until>
+ <lastplayed>2018-06-02 00:59:35</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4164">ST-Arts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

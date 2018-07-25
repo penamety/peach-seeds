@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41052">
+ <title>MORTAL KOMBAT	</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="0">None</rating>
+ <info>001	MK by SM	
+002	solo	
+003	seq	
+004	chiptune	
+005	MORTAL KOMBAT	
+006	chipped by	
+007	SofT MANiAC [tPORt]	
+008	for	
+009	faust [tPORt]</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5541">SofT MANiAC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

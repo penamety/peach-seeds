@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23566">
+ <title>Dutch Breeze - Fli Scroll</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.5857</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 13:06:49</locked_until>
+ <lastplayed>2018-05-23 14:16:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1459</pouetid>
+ <ytid>hBtd-Fwkacg</ytid>
+ <ytoffset>310</ytoffset>
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  <group id="448">Blackmail [bml]</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

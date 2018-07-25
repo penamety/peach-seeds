@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40298">
+ <title>Leave me while you can</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4286</rating>
+ <info>3# at tUM 2013 streamed music compo</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 22:25:11</locked_until>
+ <lastplayed>2018-06-10 18:15:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

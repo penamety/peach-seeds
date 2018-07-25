@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29499">
+ <title>Acid Jazz</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.4868</rating>
+ <info>See the [url=https://www.youtube.com/watch?v=M4KX7SkDe4Q]youtube clip[/url] for more info on the story.
+/pwl</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 00:52:35</locked_until>
+ <lastplayed>2018-06-01 05:44:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>29233</pouetid>
+ <ytid>xjFMoVyoCX0</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="483">Chronic [CrC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

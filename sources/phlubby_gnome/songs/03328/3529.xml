@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3529">
+ <title>Helmet Shake</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.4154</rating>
+ <info>The slow melody in the end is the remix of Jeroen Tel&#39;s &#34;Eliminator - subtune 2&#34; which itself is based on &#34;Gyroscope&#34; by Mark Alphinwood</info>
+ <songlength>324</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 13:00:31</locked_until>
+ <lastplayed>2018-04-30 09:09:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9610</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

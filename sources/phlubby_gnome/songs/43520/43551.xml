@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43551">
+ <title>Countdown To Nil</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.375</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 13:09:13</locked_until>
+ <lastplayed>2018-06-12 03:50:38</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>67093</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

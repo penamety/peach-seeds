@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42473">
+ <title>Hey I Like You (Final)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>Released in the 32k Executable Music Competition at TRSAC 2015 in Aarhus, Denmark - 2nd Place
+
+4 minutes | 14 instruments | 2.6 kilobytes
+
+This is the final version of the track (released 2 days after the party) which features an enhanced ending and several fixes to reduce precalc time of the executable file.</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 11:03:19</locked_until>
+ <lastplayed>2018-05-12 17:40:48</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

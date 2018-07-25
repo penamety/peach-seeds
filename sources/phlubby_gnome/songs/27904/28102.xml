@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28102">
+ <title>Worms Title [Worms Reinforcements]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8148</rating>
+ <info>The great title track of the great Worms expansion!</info>
+ <songlength>56</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 03:00:57</locked_until>
+ <lastplayed>2018-06-07 15:58:57</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

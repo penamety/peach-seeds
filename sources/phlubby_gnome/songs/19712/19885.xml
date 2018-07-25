@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19885">
+ <title>100 Percent Speedmetal</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">1.6</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 22:31:10</locked_until>
+ <lastplayed>2018-04-08 23:36:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1941">Junior</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

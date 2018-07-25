@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38867">
+ <title>Alien Dream</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.6923</rating>
+ 
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-21 04:41:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>57191</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3454">Ramosa</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

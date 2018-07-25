@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31131">
+ <title>White Christmas</title>
+ <status v="A">Active</status>
+ <bitrate>157</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">2.9</rating>
+ 
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 01:31:08</locked_until>
+ <lastplayed>2018-06-06 03:49:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>20901</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

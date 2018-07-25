@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26341">
+ <title>Muzak</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.2963</rating>
+ 
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 02:34:24</locked_until>
+ <lastplayed>2018-03-29 20:37:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1329</pouetid>
+ <ytid>L7sQI-Nf1mI</ytid>
+ 
+ 
+ <artists>
+  <artist id="3187">Metalwar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

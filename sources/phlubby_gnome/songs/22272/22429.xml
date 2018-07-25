@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22429">
+ <title>Gamemuzax</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.4444</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-02 05:08:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>9241</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1503">Omega</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

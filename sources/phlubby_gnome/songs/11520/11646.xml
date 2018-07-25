@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11646">
+ <title>Spell</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2245</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 04:38:16</locked_until>
+ <lastplayed>2018-06-12 11:02:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5832</pouetid>
+ <ytid>Ql7vqR6Qw7w</ytid>
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>synthbass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

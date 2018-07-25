@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="835">
+ <title>Summertime</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.3645</rating>
+ <info>A remix of Alibi by Laxity made in FredMon.</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 11:47:58</locked_until>
+ <lastplayed>2018-06-08 06:12:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>12727</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FredMon</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>summer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

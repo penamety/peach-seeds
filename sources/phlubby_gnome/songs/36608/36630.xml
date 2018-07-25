@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36630">
+ <title>Sub Rosa</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.4483</rating>
+ <info>Ranked 5th in the newschool music compo at Solskogen 2012.</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-15 02:36:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist>
+ </artists>
+ <groups>
+  <group id="609">Youth Uprising [YUP]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

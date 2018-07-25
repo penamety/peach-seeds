@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30189">
+ <title>A place called Universe</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0323</rating>
+ <info>1st place in combined 64k compo at SceneCON 2003</info>
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 18:15:48</locked_until>
+ <lastplayed>2018-04-12 21:31:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>10130</pouetid>
+ <ytid>5ZNaKmqqaxQ</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1414">Innocent</artist><artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SceneCON</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5ZNaKmqqaxQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

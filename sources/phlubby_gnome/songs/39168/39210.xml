@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39210">
+ <title>Conway</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.15</rating>
+ 
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 19:50:17</locked_until>
+ <lastplayed>2018-06-05 02:42:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61744</pouetid>
+ <ytid>couXwhOQD2I</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=couXwhOQD2I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

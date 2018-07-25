@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43069">
+ <title>I</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 17:29:34</locked_until>
+ <lastplayed>2018-04-02 12:37:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>18595</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5657">Enno</artist>
+ </artists>
+ <groups>
+  <group id="270">Alpha Flight [AFL]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>CrackerJournal</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

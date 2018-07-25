@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41717">
+ <title>Elysion tune 3 </title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0625</rating>
+ 
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 10:26:27</locked_until>
+ <lastplayed>2018-05-18 13:53:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>17773</pouetid>
+ <ytid>https://www.youtube.com/watch?</ytid>
+ <ytoffset>603</ytoffset>
+ 
+ <artists>
+  <artist id="4139">Zardax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=11658</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

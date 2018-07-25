@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9328">
+ <title>Micro Media Broth</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.3846</rating>
+ <info>First in the Oldschool Music compo at Blockparty 2009.</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-06 06:23:14</locked_until>
+ <lastplayed>2017-12-17 01:04:05</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

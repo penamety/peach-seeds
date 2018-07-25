@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1970">
+ <title>12th Warrior</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="121">4.4215</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 01:10:25</locked_until>
+ <lastplayed>2018-05-28 19:57:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3207</pouetid>
+ <ytid>3EVb3SrcuSg</ytid>
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3EVb3SrcuSg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10753">
+ <title>Space Debris</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">4.2252</rating>
+ 
+ <songlength>294</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 07:05:13</locked_until>
+ <lastplayed>2018-05-14 21:59:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

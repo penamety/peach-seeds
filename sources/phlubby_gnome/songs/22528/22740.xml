@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22740">
+ <title>Beat F</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.15</rating>
+ <info>&#34;Piano, for a birthday of a friend.&#34;</info>
+ <songlength>325</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 20:17:07</locked_until>
+ <lastplayed>2018-06-15 15:09:54</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3386">Phred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

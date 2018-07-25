@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14">
+ <title>Antipasti 40</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.9565</rating>
+ 
+ <songlength>69</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 04:55:32</locked_until>
+ <lastplayed>2018-06-04 15:51:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>25092</pouetid>
+ <ytid>30PEPnhne40</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="3">2pac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

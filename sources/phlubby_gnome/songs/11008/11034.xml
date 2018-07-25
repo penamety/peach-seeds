@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11034">
+ <title>Grimson Alert</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:46:54</locked_until>
+ <lastplayed>2018-05-30 01:17:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1897">Phlow</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

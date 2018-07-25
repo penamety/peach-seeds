@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18833">
+ <title>Cause it Hurts</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>Ranked 3rd in the Quast 1997 Atari 8bit music compo</info>
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 16:59:12</locked_until>
+ <lastplayed>2018-03-22 15:15:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2821">Greg [PL]</artist>
+ </artists>
+ <groups>
+  <group id="765">taQuart [TQA]</group>
+ </groups>
+ 
+ <tags>
+  <tag>StereoPOKEY</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9847">
+ <title>PYM - Change Disks</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 07:55:13</locked_until>
+ <lastplayed>2018-05-02 05:41:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

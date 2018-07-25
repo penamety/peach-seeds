@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30959">
+ <title>International Karate - Main Theme</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7826</rating>
+ <info>Remix of IK title screen for MSX.</info>
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 04:15:06</locked_until>
+ <lastplayed>2017-11-28 21:41:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="94">Bart Roijmans</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

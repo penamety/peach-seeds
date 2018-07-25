@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31219">
+ <title>Psynnabis</title>
+ <status v="A">Active</status>
+ <bitrate>129</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 04:30:52</locked_until>
+ <lastplayed>2018-05-23 03:28:09</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53949</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2032">Evil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>textmode</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

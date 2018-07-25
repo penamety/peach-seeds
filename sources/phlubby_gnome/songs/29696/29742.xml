@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29742">
+ <title>All Falls Down</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="127">3.811</rating>
+ <info>Used in &#34;Ceasefire (all falls down..)&#34;, which ranked 2nd in the demo compo at Assembly 2010.
+
+Lyrics:
+
+I believe there might come a time
+When the earth will swallow us
+Tidal waves will crash our towns
+Sending out a million cries
+
+[chorus]
+And it could all fall down
+And it could all fall now
+We could all fall apart in crashing cars
+And never be right here
+
+Who will stand when the comets drop
+Through a sky that looks down on us
+Equality will be crowned that day
+While leaving us in a guilty rage
+
+[chorus]</info>
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:36:34</locked_until>
+ <lastplayed>2018-06-10 06:46:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55558</pouetid>
+ <ytid>NaPPHUt4K34</ytid>
+ 
+ 
+ <artists>
+  <artist id="536">Hunz</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Grqb1aIa_4s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NaPPHUt4K34</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

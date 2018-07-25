@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40019">
+ <title>Cats and Ravens</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.1667</rating>
+ <info>6581 SID
+
+http://csdb.dk/release/?id=127916</info>
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 19:58:16</locked_until>
+ <lastplayed>2018-05-30 17:47:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>62446</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  <group id="760">Hokuto Force</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

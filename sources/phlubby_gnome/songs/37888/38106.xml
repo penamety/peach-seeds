@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38106">
+ <title>5K Reese (Announcetro 2) </title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.3333</rating>
+ 
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 13:31:25</locked_until>
+ <lastplayed>2018-06-14 16:33:04</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61014</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  <group id="620">Focus Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

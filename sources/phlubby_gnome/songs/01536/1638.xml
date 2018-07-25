@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1638">
+ <title>Wormholes</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.6364</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-15 03:44:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8678</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="310">DeLorean</artist><artist id="595">Jugi</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

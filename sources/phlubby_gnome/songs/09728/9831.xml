@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9831">
+ <title>Decade Demo - Raster Scroller</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.3256</rating>
+ 
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-03 11:45:58</locked_until>
+ <lastplayed>2017-12-14 10:06:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3243</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="244">Count Zero</artist>
+ </artists>
+ <groups>
+  <group id="490">Inner Circle [IC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

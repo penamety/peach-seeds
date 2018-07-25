@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11006">
+ <title>4 Elise</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="60">3.1</rating>
+ <info>Contribution to a compo between Arne Barlund and audun (sunshine?), where the winner was the one who made the best 4 elise.
+The winner was Arne Barlund.
+</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-24 08:52:19</locked_until>
+ <lastplayed>2018-01-03 05:35:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>31943</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3041">Lawbreaker</artist>
+ </artists>
+ <groups>
+  <group id="127">Addict (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Classical</tag>
+  
+  <tag>Enigma</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

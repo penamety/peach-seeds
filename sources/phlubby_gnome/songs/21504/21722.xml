@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21722">
+ <title>Gloria ext by Stegos</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="123">4.5935</rating>
+ 
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 17:31:35</locked_until>
+ <lastplayed>2018-05-29 15:15:37</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist><artist id="2026">Mitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

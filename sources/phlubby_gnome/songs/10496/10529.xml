@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10529">
+ <title>Cooperation Demo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.2203</rating>
+ 
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 21:45:11</locked_until>
+ <lastplayed>2018-05-28 06:16:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>45752</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1782">Future Freak</artist>
+ </artists>
+ <groups>
+  <group id="222">Dexion</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

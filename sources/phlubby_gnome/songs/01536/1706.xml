@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1706">
+ <title>Catch 22</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.2273</rating>
+ <info>4th# place in pc 64k compo at The Gathering &#39;99</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 22:25:30</locked_until>
+ <lastplayed>2018-03-15 04:36:57</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>421</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="331">Distance</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

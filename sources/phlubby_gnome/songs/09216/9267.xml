@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9267">
+ <title>Crepe</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>Endscroller Tune from our PSP Demo released at Breakpoint 09, done in less than 2 hours at numerica Artparty#2</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 12:05:03</locked_until>
+ <lastplayed>2018-04-25 03:02:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>52975</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

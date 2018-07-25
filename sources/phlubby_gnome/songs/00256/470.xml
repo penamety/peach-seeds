@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="470">
+ <title>Slow Motion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1373</rating>
+ 
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 16:32:58</locked_until>
+ <lastplayed>2018-05-18 15:56:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11192</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>lounge</tag>
+  
+  <tag>RAW</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

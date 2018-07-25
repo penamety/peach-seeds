@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10165">
+ <title>Popcorn</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">2.4118</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 05:20:03</locked_until>
+ <lastplayed>2018-04-23 00:25:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="131">Boomerang</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

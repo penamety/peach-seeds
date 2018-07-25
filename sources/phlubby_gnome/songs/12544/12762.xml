@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12762">
+ <title>Kwiatuszek</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.4706</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 07:12:17</locked_until>
+ <lastplayed>2018-05-24 09:03:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist><artist id="740">Martyn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Slow</tag>
+  
+  <tag>softsynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

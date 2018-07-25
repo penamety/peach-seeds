@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33931">
+ <title>Ohmisis</title>
+ <status v="A">Active</status>
+ <bitrate>651</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7273</rating>
+ <info>2nd place in Böåäüÿïnzli compo 2011</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 08:02:06</locked_until>
+ <lastplayed>2018-06-16 06:06:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1650">Dixan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

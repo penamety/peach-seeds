@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31088">
+ <title>Sick on Monday</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">2.7556</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 21:38:47</locked_until>
+ <lastplayed>2018-06-03 16:10:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>24448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4558">Svyatoslav</artist>
+ </artists>
+ <groups>
+  <group id="740">reTracked Team</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

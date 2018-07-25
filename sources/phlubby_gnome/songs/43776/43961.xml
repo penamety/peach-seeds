@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43961">
+ <title>Eleven Sins</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>C64 Music Competition at Gubbdata 2016 :  #12</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 04:36:56</locked_until>
+ <lastplayed>2018-03-27 19:38:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5391">Flex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Gubbdata</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12170">
+ <title>9373998</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-02 01:14:33</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>57</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="42">Amgorb</artist>
+ </artists>
+ <groups>
+  <group id="52">20th Century Composers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

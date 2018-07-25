@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22244">
+ <title>Chant</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.0233</rating>
+ 
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 19:21:58</locked_until>
+ <lastplayed>2018-05-30 09:18:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9188</pouetid>
+ <ytid>iAS_1nBvgzI</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>AwfulSaxophone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

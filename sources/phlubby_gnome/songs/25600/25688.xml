@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25688">
+ <title>Lemmings - Forest Green</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.8333</rating>
+ <info>The English folk tune &#34;Forest Green&#34;* mixed with the melody from the film The Good, the Bad and the Ugly
+
+*) Also known as &#34;All Beautiful the March of Days&#34; and &#34;O Little Town of Bethlehem&#34;</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2014-10-21 04:08:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>traditional</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/872</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39015">
+ <title>Outerloop Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>838</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>Soundtrack from &#34;outerloop&#34; demo by thesuper.
+1st place at DiHalt 2013 in combined 8-Bit demo compo.</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 20:09:17</locked_until>
+ <lastplayed>2018-05-19 13:37:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>61531</pouetid>
+ <ytid>fvsbzorWsbQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="5068">sweetbutt</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fvsbzorWsbQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/29924/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42110">
+ <title>Help!</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.9</rating>
+ <info>ZX Spectrum 48K with AY-interface.</info>
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 04:41:43</locked_until>
+ <lastplayed>2018-06-17 03:56:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Beatles</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

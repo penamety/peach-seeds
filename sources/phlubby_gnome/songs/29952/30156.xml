@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30156">
+ <title>Hawkeye</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">4.0</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-07 11:33:24</locked_until>
+ <lastplayed>2017-10-21 00:41:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>2749</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="197">Christian Mæland</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

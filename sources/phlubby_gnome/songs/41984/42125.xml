@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42125">
+ <title>Hommage à Christian Artin - Demoscene is not dead</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>Made @ VIP 2015 for &#34;Fast Compo&#34; challenge : &#34;Hommage à Christian Artin&#34;
+</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-14 09:53:18</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>65693</pouetid>
+ <ytid>Qcfk3wRxnEU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>cybernostra</tag>
+  
+  <tag>fastComp</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pfZJKHQMmhU</url>
+    <comment>Live version !</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

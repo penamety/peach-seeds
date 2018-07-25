@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36830">
+ <title>Boom Boom</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.9643</rating>
+ 
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 20:33:25</locked_until>
+ <lastplayed>2018-05-24 12:40:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>18322</pouetid>
+ <ytid>f1aZ0HBVQ6Y</ytid>
+ <ytoffset>40</ytoffset>
+ 
+ <artists>
+  <artist id="5180">Ruuvari</artist>
+ </artists>
+ <groups>
+  <group id="694">Aspekt</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

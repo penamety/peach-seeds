@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34303">
+ <title>Ray 3: Prism</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.8333</rating>
+ 
+ <songlength>441</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 02:59:41</locked_until>
+ <lastplayed>2018-05-28 17:37:01</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1030">RS3</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>long</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

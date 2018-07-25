@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42450">
+ <title>Dallas Street</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Dupe of [song]39443[/song]</info>
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 08:36:01</locked_until>
+ <lastplayed>2017-10-29 02:42:46</lastplayed>
+ 
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2527">Dan</artist>
+ </artists>
+ <groups>
+  <group id="309">Pic Saint Loup</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

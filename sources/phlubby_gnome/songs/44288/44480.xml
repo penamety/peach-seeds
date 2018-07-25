@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44480">
+ <title>Hold On</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>SoundCloud [url]https://soundcloud.com/ronnypries/holon-hold-on-soundtrack[/url]</info>
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 10:21:14</locked_until>
+ <lastplayed>2018-06-10 11:46:29</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71881</pouetid>
+ <ytid>3wIJwfyeOB0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Deadline</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3wIJwfyeOB0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

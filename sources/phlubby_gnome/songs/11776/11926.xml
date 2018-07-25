@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11926">
+ <title>Across the Sky</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ <info>Fifties, retro, vinyl, UFO slowly moving across the sky... This is it.</info>
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 01:12:21</locked_until>
+ <lastplayed>2018-06-03 06:52:40</lastplayed>
+ 
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

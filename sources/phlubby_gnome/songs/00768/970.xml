@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="970">
+ <title>Stone Free</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>82</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 20:03:43</locked_until>
+ <lastplayed>2018-05-04 01:24:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9566</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist><artist id="1066">Sid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

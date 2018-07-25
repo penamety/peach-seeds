@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17055">
+ <title>The End 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.9375</rating>
+ 
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-16 03:38:41</locked_until>
+ <lastplayed>2018-01-29 06:58:18</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>42827</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="317">Devilock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

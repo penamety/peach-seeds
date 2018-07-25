@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20319">
+ <title>Rainy Street</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9333</rating>
+ 
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 01:59:26</locked_until>
+ <lastplayed>2018-06-12 05:17:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3013">Kollaps</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>rain</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

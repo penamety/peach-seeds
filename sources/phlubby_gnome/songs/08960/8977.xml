@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8977">
+ <title>Mutants</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">3.9178</rating>
+ 
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 16:28:05</locked_until>
+ <lastplayed>2018-05-09 00:17:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>37521</pouetid>
+ <ytid>AUEZ4TzFHOs</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="460">Fred Gray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cracktro</tag>
+  
+  <tag>Psychedelic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1757</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

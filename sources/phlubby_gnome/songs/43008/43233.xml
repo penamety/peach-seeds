@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43233">
+ <title>Scenestruck</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.3182</rating>
+ <info>2nd in Streaming Music compo at Edison 2016</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:00:46</locked_until>
+ <lastplayed>2018-06-16 18:03:47</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1769">K-Line</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Edison</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

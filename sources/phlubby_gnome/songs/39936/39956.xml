@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39956">
+ <title>シティスケープ</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="25">3.8</rating>
+ <info>La ville vit, et son cœur bat au rythme de mes pas.
+Un vent froid, c&#39;est son souffle
+Quelques gouttes de pluie, ses larmes
+Les bruits de la foule, sa voix
+Le grondement d&#39;un train lointain, son soupir
+Les néons par milliers, sa couleur
+Le mouvement de Shibuya, son sang
+Mon reflet dans les pavés mouillés comme mon image dans ses yeux,
+La ville s&#39;endort, mais ne s&#39;éteint jamais.</info>
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 10:16:07</locked_until>
+ <lastplayed>2018-03-15 14:31:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29646">
+ <title>Turrican 3 - Payment Day (Piano Suite)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="107">4.4393</rating>
+ <info>Piano execution of two Turrican 3 songs</info>
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-08 10:37:40</locked_until>
+ <lastplayed>2018-05-11 11:05:39</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4340">Benyamin Nuss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

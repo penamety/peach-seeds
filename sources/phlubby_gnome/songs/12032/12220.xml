@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12220">
+ <title>Stora Giana Systrarna</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5714</rating>
+ 
+ <songlength>79</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-11 03:29:28</locked_until>
+ <lastplayed>2018-05-04 21:00:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

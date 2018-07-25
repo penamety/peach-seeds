@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15619">
+ <title>Critical</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.825</rating>
+ 
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 17:44:25</locked_until>
+ <lastplayed>2018-05-09 14:56:59</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2333">Bosco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>burp</tag>
+  
+  <tag>marseillaise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

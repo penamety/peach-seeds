@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43132">
+ <title>Diu-di-daa-dam-daa</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.2941</rating>
+ <info>beathawk/diffusion</info>
+ <songlength>57</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 10:00:17</locked_until>
+ <lastplayed>2018-05-20 08:19:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="103">Beathawk</artist>
+ </artists>
+ <groups>
+  <group id="281">d&#39;Oh!</group>
+ </groups>
+ 
+ <tags>
+  <tag>Bleepy</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?38288</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

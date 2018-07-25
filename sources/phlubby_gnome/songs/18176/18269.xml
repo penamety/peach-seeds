@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18269">
+ <title>Classified Crusader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.0417</rating>
+ 
+ <songlength>379</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 18:17:08</locked_until>
+ <lastplayed>2018-04-27 16:05:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5501</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>fusion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

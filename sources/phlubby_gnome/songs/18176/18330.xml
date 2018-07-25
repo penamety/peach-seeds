@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18330">
+ <title>Fred mus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-21 00:57:51</locked_until>
+ <lastplayed>2018-01-01 14:42:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>15025</pouetid>
+ <ytid>v5CH3d6bePY</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

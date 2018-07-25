@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6771">
+ <title>Hollywodden Head 4</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 15:50:53</locked_until>
+ <lastplayed>2018-02-27 15:14:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14626</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

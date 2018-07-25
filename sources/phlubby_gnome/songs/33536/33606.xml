@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33606">
+ <title>Varjegypic</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0769</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-05 22:36:11</locked_until>
+ <lastplayed>2017-10-19 11:24:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>20426</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4850">Brian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

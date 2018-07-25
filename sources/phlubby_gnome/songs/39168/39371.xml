@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39371">
+ <title>Liedermacher</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5833</rating>
+ 
+ <songlength>52</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 10:49:24</locked_until>
+ <lastplayed>2018-04-15 17:38:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1418">Jakob Bienenhalm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Flute</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

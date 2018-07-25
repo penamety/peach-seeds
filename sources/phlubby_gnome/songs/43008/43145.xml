@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43145">
+ <title>The Killer&#39;s return</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0476</rating>
+ <info>Description: This song took 13th place per 17 in Amiga Music Compo on Decrunch in 2016.
+BrainWave</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 08:50:20</locked_until>
+ <lastplayed>2018-05-23 09:13:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5658">Creonix</artist>
+ </artists>
+ <groups>
+  <group id="569">Brainwave [FR]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Decrunch</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

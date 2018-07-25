@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5753">
+ <title>Over 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.3014</rating>
+ <info>1st place in pc 64k compo at The Party 1997</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:08:57</locked_until>
+ <lastplayed>2018-06-04 05:58:39</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>3</pouetid>
+ <ytid>cfbjiTrctJs</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="946">Probe</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>BeOS</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Stash</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cfbjiTrctJs</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

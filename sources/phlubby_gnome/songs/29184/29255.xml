@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29255">
+ <title>Arydox - In game tune 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ <info>Arydox soundtrack: http://freshmindworkz.hu/vincenzo/music/soundtrack/arydox_soundtrack.zip</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 05:36:32</locked_until>
+ <lastplayed>2018-06-01 14:26:37</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1414">Innocent</artist><artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

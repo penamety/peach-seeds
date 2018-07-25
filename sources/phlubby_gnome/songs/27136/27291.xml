@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27291">
+ <title>Ice Frontier</title>
+ <status v="A">Active</status>
+ <bitrate>257</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.4386</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 21:28:48</locked_until>
+ <lastplayed>2018-06-14 04:16:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52465</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1545">Slightly Magic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

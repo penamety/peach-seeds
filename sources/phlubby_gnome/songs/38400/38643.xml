@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38643">
+ <title>After the rain</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="7">3.2857</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-06-30 14:42:59</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5370">Twister</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

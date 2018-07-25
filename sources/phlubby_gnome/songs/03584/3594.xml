@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3594">
+ <title>Untouched</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.4384</rating>
+ 
+ <songlength>322</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 02:40:24</locked_until>
+ <lastplayed>2018-05-27 04:03:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  <group id="21">Pulse [PLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>dreamy</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

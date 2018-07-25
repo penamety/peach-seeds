@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37477">
+ <title>Teburg</title>
+ <status v="A">Active</status>
+ <bitrate>153</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8667</rating>
+ 
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 02:14:36</locked_until>
+ <lastplayed>2018-05-20 01:01:00</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1793</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="833">Mystical</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Groovy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

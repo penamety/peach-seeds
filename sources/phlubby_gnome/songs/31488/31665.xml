@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31665">
+ <title>Stacy Valentine</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.0</rating>
+ 
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 13:27:25</locked_until>
+ <lastplayed>2018-05-08 10:30:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>4584</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1769">K-Line</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>Dreamhack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28867">
+ <title>DJ Bassilisk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ <info>OHC entry. Just using ST-xx samples!</info>
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 02:58:21</locked_until>
+ <lastplayed>2018-01-11 01:08:48</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4071">xaimus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cheesy</tag>
+  
+  <tag>OHC</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>technically-awesome</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

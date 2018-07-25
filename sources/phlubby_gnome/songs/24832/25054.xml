@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25054">
+ <title>Desert Dream (part 1-2-3)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="205">4.722</rating>
+ <info>Composed with Laxity-Tracker, basically the same as ProTracker but with some special effects/commands.
+
+/pwl</info>
+ <songlength>787</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 11:00:01</locked_until>
+ <lastplayed>2018-06-10 19:45:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1483</pouetid>
+ <ytid>yV7XRWDtG-8</ytid>
+ <ytoffset>22</ytoffset>
+ 
+ <artists>
+  <artist id="1787">Laxity [Kefrens]</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>ApolloMissionSamples</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Maths</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Revolution</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=aZOfDFbTD2I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

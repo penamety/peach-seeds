@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10720">
+ <title>Demovibes Jingle #3</title>
+ <status v="J">Jingle</status>
+ <bitrate>241</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.3333</rating>
+ <info>Demovibes Jingle (Robots &amp; Computers)</info>
+ <songlength>13</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jingle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

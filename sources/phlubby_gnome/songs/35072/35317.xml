@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35317">
+ <title>Goodbye</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0952</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 17:34:33</locked_until>
+ <lastplayed>2017-12-04 03:01:58</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="338">DJB</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+  <tag>halftime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

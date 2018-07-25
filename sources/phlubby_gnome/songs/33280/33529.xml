@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33529">
+ <title>Microchip</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.8947</rating>
+ <info>11th place in newschool music compo at Solskogen 2011</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 07:05:13</locked_until>
+ <lastplayed>2018-05-30 12:42:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4625">Skepsis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

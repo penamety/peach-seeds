@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43749">
+ <title>Heavy Gargoyle Theme</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">2.7143</rating>
+ <info>A heavier tongue-in-cheek remix of the song Audchar Gargl Zenmur in Ultima VI.</info>
+ <songlength>35</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:12:33</locked_until>
+ <lastplayed>2018-05-31 09:07:50</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?71477</url>
+    <comment>Download at Modarchive</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25669">
+ <title>Treasure Master - Track 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.0</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 18:02:17</locked_until>
+ <lastplayed>2018-02-14 13:39:58</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1221">Tim Follin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

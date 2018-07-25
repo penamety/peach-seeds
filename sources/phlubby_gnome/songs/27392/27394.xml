@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27394">
+ <title>Minuet</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>Actually, made by Manwe in Skale Tracker as remake of Tarh&#39;s 4 channel STM (1994). The remake done in assistance with Tarh.</info>
+ <songlength>47</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 10:43:10</locked_until>
+ <lastplayed>2018-02-13 02:40:37</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49905</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist><artist id="3697">Tarh</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35284">
+ <title>Chiperific</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.84</rating>
+ <info>Won chipmusic compo at Syntax 2011 (Melbourne)
+
+Sidplayer-emulation, approved by the artist</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-29 14:51:07</locked_until>
+ <lastplayed>2017-12-11 05:32:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5027">Adam (AU)</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=102733</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

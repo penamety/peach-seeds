@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36641">
+ <title>Never Again</title>
+ <status v="A">Active</status>
+ <bitrate>282</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">4.3226</rating>
+ <info>4th place in newschool demo compo at Solskogen 2012
+</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:31:18</locked_until>
+ <lastplayed>2018-06-13 07:44:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59477</pouetid>
+ <ytid>IPe5kH96Jhw</ytid>
+ <ytoffset>25</ytoffset>
+ 
+ <artists>
+  <artist id="4646">Kepler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FLStudio</tag>
+  
+  <tag>newschool</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IPe5kH96Jhw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/36808/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

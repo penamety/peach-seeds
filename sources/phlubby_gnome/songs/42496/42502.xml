@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42502">
+ <title>Chimera</title>
+ <status v="R">Rejected</status>
+ <bitrate>986</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">5.0</rating>
+ <info>Cover of Rob Hubbard’s Chimera for the Philips SAA1099 chip of the SAM Coupé.
+
+Appeared on SCPDSA Demo Disk 1.</info>
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="51">Philips SAA</platform>
+ <type id="1">Chiptune</type>
+ 
+ <ytid>KFJkfpV64PU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

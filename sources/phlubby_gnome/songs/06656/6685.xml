@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6685">
+ <title>Stateline</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-09 00:56:59</locked_until>
+ <lastplayed>2017-06-01 09:10:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9571</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1132">Stargazer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

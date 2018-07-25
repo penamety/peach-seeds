@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36831">
+ <title>Dungeon Horror</title>
+ <status v="A">Active</status>
+ <bitrate>165</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5</rating>
+ 
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 02:19:30</locked_until>
+ <lastplayed>2018-04-25 14:43:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>17681</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5180">Ruuvari</artist>
+ </artists>
+ <groups>
+  <group id="230">Jumalauta</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Simulaatio</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

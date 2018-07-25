@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40425">
+ <title>Hugi #38 Headlines</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ 
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 02:27:45</locked_until>
+ <lastplayed>2018-05-11 01:19:11</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>62967</pouetid>
+ <ytid>AQkVhDpiwHM</ytid>
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

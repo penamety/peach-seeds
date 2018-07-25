@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29029">
+ <title>Omnitron</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>Ranked 11th in the multichannel music compo at Wired 1998.</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 07:04:09</locked_until>
+ <lastplayed>2018-03-07 01:26:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="627">KeyG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

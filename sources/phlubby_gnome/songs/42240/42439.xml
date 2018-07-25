@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42439">
+ <title>[Obsession] Desert Run</title>
+ <status v="R">Rejected</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">3.0</rating>
+ <info>This is the main theme of the Desert Run table in Obsession pinball. The original format is UDS, a custom format by Unique Development Sweden.
+
+/** This is game music by an artist with links to the scene and an existing profile on Nectarine. User &#34;Kosmos&#34; suggested in chat it might be eligible for upload.</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="424">Excellence in Art</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2277</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

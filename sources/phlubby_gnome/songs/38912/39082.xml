@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39082">
+ <title>Sky Warrior</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>A fast-made entry for the tracked music compo at Nordlicht 2013. Uses a bunch of samples from several classic Amiga .MODs.</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 22:00:58</locked_until>
+ <lastplayed>2017-11-20 19:21:57</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5842">
+ <title>Minimum Velocity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7667</rating>
+ <info>First I didn&#39;t think this would work, but it turned out pretty good after all, I think...</info>
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 05:48:30</locked_until>
+ <lastplayed>2018-06-03 22:56:29</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6515</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

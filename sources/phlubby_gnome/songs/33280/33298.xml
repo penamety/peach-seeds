@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33298">
+ <title>Gaia</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.0588</rating>
+ 
+ <songlength>285</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 18:42:28</locked_until>
+ <lastplayed>2018-04-30 00:19:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="540">Hypnotic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chirpy</tag>
+  
+  <tag>lounge</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31902">
+ <title>Flame Repellent</title>
+ <status v="A">Active</status>
+ <bitrate>540</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="68">4.5588</rating>
+ <info>Yup. I wanted to see what all the fuss was about, so I downloaded Famitracker, and spent this week working on this short groove using the Konami VRC6 chip. It&#39;s my first completed tune using Famitracker, and it&#39;s nowhere near as good as my other songs, so after you listen to this, go listen to them instead.
+
+[url=http://8bc.org/items/music/Flamerepellent.mp3]Download MP3 (128 kbps)[/url]
+[url=http://2a03.free.fr/dl.php?file=2785]Download FTM[/url]
+[url=http://famitracker.shoodot.net/downloads.php]Download Famitracker (Windows)[/url]</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 08:44:21</locked_until>
+ <lastplayed>2018-05-31 05:28:56</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4034">FearofDark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Famitracker</tag>
+  
+  <tag>Konami</tag>
+  
+  <tag>VRC6</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

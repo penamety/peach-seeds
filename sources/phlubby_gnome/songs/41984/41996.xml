@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41996">
+ <title>Laxity</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.9167</rating>
+ <info>Buy this song on [url=http://mmcm.bandcamp.com/track/laxity]Bandcamp.com[/url] !</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 04:47:38</locked_until>
+ <lastplayed>2018-05-28 09:32:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>65367</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2eJNCm6bWww</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

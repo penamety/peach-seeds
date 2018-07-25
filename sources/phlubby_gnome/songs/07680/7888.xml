@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7888">
+ <title>Take My Hand</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="113">3.9027</rating>
+ <info>2nd place in pc demo compo at The gathering 2002
+
+Lyrics:
+Take my hand and lead me to a place I can be free
+Understand this love is meant to be for you and me
+Can&#39;t you see the lost souls reaching far beyond the limits that we see
+When you reach for this
+
+Take my hand and lead me to a place I have not been
+Understand I want to see some things I&#39;ve never seen
+Can&#39;t you see the lost souls reaching far beyond the limits that we see
+When you take my hand in yours</info>
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 19:21:00</locked_until>
+ <lastplayed>2018-05-30 12:30:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>5555</pouetid>
+ <ytid>mHV_oIYZyEg</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1299">Kezoomer</artist>
+ </artists>
+ <groups>
+  <group id="334">The Lost Souls [TLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>autotune</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>soundfx</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mHV_oIYZyEg</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

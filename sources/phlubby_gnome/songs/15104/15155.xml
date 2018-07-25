@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15155">
+ <title>Lucia Rock</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7368</rating>
+ 
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 11:52:45</locked_until>
+ <lastplayed>2018-04-02 23:22:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14992</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="137">Breeze</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

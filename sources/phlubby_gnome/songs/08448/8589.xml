@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8589">
+ <title>Soundtracker Funk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.0</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>316</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 02:23:07</locked_until>
+ <lastplayed>2018-04-26 20:52:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

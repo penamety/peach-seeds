@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2485">
+ <title>Nautical Poof</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.7857</rating>
+ 
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:16:08</locked_until>
+ <lastplayed>2018-05-30 23:19:41</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist><artist id="5138">Utopia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

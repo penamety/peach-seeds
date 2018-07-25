@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39909">
+ <title>Wings Of Death for MB Maniax</title>
+ <status v="A">Active</status>
+ <bitrate>563</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>Soundtrack from &#34;ATTRapa&#34; demo by MB Maniax.
+2nd at Forever 2004 ZX Demo compo.
+
+Also soundtrack from &#34;Dust&#34; demo by g0blinish.
+2nd at Chaos Constructions 2013 in ZX Demo compo.</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 22:11:10</locked_until>
+ <lastplayed>2017-11-15 11:06:17</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14231</pouetid>
+ <ytid>4gYlvMWw1NM</ytid>
+ 
+ 
+ <artists>
+  <artist id="4715">z00m</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=6203</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/28681/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

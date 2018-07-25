@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25822">
+ <title>Humanoid</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5429</rating>
+ <info>Used in endings of Hybris/Nemesis contributions at The Party:
+&#34;South Party&#34; released 99 and &#34;Back to basics&#34; released 00</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-07 06:26:41</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>4805</pouetid>
+ <ytid>p2258SpxuWQ</ytid>
+ <ytoffset>255</ytoffset>
+ 
+ <artists>
+  <artist id="1976">Trauma</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

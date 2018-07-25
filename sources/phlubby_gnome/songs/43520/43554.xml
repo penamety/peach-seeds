@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43554">
+ <title>Abra</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.8889</rating>
+ 
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 14:49:52</locked_until>
+ <lastplayed>2018-04-09 14:20:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>67093</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5586">Phobos </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

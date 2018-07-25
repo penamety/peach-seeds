@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37579">
+ <title>If Someone had Known</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">4.0714</rating>
+ <info>Competition entry for The Party 1997 multichannel compo.</info>
+ <songlength>308</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 18:38:41</locked_until>
+ <lastplayed>2018-05-10 03:10:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="197">Christian Mæland</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

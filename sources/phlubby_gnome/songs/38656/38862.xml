@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38862">
+ <title>Stella</title>
+ <status v="A">Active</status>
+ <bitrate>74</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">1.7059</rating>
+ <info>Stella               (c) 2006 by CREAM 
+---------------------------------------
+Hi there,
+
+this one was started  just for fun with
+VCS-coding after  watching  some intros
+for the Atari VCS 2600.
+
+So this is the  result... A small intro 
+with music.
+
+Note: This is NTSC !
+
+It seems to run on the Stella and NO$2k6
+emulator... Others i didn&#39;t check out...
+
+And  even no  clue if it  runs on a real 
+VCS ;)
+
+Cream 2006
+
+----------------------------------------
+/|\          www.creamhq.de          /|\</info>
+ <songlength>64</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 09:12:38</locked_until>
+ <lastplayed>2018-04-11 03:50:16</lastplayed>
+ <platform id="46">Atari VCS (2600)</platform>
+ <type id="2">Demo</type>
+ <pouetid>24691</pouetid>
+ <ytid>toRXOASWGKo</ytid>
+ 
+ 
+ <artists>
+  <artist id="247">Cream</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=toRXOASWGKo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

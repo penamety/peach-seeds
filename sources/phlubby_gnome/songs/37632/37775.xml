@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37775">
+ <title>Another Dream</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">1.2632</rating>
+ 
+ <songlength>320</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 10:09:15</locked_until>
+ <lastplayed>2018-05-23 09:37:33</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5252">Impresion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>whistle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

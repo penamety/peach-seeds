@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33601">
+ <title>Just in Time - Part 4</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-23 02:38:04</locked_until>
+ <lastplayed>2017-06-14 21:01:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>20426</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4848">Trays</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

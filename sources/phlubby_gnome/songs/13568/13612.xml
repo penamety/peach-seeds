@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13612">
+ <title>Hawkeye</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.2292</rating>
+ 
+ <songlength>287</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 12:01:48</locked_until>
+ <lastplayed>2018-03-16 01:44:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ <pouetid>24881</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

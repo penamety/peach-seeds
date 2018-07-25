@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13475">
+ <title>More!</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ <info>Soundtrack from More! demo by Bit Busters.
+
+1st at Quast 1997 in Atari 8bit Intro compo.</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 04:43:29</locked_until>
+ <lastplayed>2017-12-03 03:38:17</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>27769</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5608">Alex^BB</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/117495/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

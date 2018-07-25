@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27385">
+ <title>Fairy Castle</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0</rating>
+ <info>Remake of SnowCat&#39;s MOD (4 channels, 1994). Made in co-operation with Tangerine (drums tracked by him).</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-02 16:33:22</locked_until>
+ <lastplayed>2017-11-15 04:31:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49905</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist><artist id="3974">Tangerine</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

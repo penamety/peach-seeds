@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37949">
+ <title>Relikty</title>
+ <status v="A">Active</status>
+ <bitrate>143</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ 
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 02:39:08</locked_until>
+ <lastplayed>2018-06-17 02:52:29</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2101">X-Ray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9080">
+ <title>Turtle (Enhanced version)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="129">4.5736</rating>
+ 
+ <songlength>296</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 20:06:23</locked_until>
+ <lastplayed>2018-06-14 20:30:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30271</pouetid>
+ <ytid>lMEFfvEkI2I</ytid>
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lMEFfvEkI2I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

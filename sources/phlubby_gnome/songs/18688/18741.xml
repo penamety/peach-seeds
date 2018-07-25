@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18741">
+ <title>Te Mod</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6316</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-23 03:47:21</lastplayed>
+ <platform id="25">POKEY</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2807">Gmx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Terminator</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

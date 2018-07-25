@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28256">
+ <title>100 0 11 111 (You Are Not Supported By Computers)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">3.973</rating>
+ 
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 23:47:27</locked_until>
+ <lastplayed>2018-05-23 04:06:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>32228</pouetid>
+ <ytid>GeT_k6Y7lwY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GeT_k6Y7lwY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

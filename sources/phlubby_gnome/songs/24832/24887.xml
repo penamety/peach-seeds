@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24887">
+ <title>Kesakatu</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ 
+ <songlength>49</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-11 06:00:48</locked_until>
+ <lastplayed>2017-06-03 21:46:06</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>16203</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

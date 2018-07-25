@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43932">
+ <title>Legit Tits And Bent Shovels</title>
+ <status v="A">Active</status>
+ <bitrate>165</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.5714</rating>
+ <info>Music from the 4k intro &#34;Legit Tits And Bent Shovels&#34; released at Revision 2017 in the &#34;4k PC Intro&#34; competition.
+
+The intro which I did together with my mate Mangosh aka &#34;eeeevil&#34; ended up at 10th position.
+
+Created with Renoise using the 4Klang VST by Gopher &amp; Powl of Alcatraz.
+</info>
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 18:05:22</locked_until>
+ <lastplayed>2018-03-27 08:55:08</lastplayed>
+ <platform id="38">4K exe</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170734/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hNH4WRVHwz4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

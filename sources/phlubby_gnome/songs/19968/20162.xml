@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20162">
+ <title>Turrican 32k</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="121">4.5537</rating>
+ <info>Contains two Turrican 3 songs: &#34;Factory Action&#34; &amp; &#34;Second Floor&#34;</info>
+ <songlength>347</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 22:16:29</locked_until>
+ <lastplayed>2018-05-17 17:19:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>2392</pouetid>
+ <ytid>ZPzPjoxG224</ytid>
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist><artist id="4171">Welli</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>Platformer</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>Turrican</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

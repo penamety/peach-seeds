@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44069">
+ <title>Voodoo Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>Soundtrack from &#34;Voodoo&#34; demo by Scene.
+5th place in Invitation Compo @ Chaos Constructions 2000.
+
+File format:	PT3
+Sound format:	Standard 3 channel AY/YM
+AY chip type:	ay
+AY channels layout:	ABC
+Publication year:	2000
+Duration:	2:49
+Channels:	3
+Tracker:	ProTracker 3.4</info>
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 11:39:59</locked_until>
+ <lastplayed>2018-06-07 11:34:41</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14192</pouetid>
+ <ytid>mezB-lTOgw8</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=13918</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/13918/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

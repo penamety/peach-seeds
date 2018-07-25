@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9479">
+ <title>Euro(S)cream</title>
+ <status v="A">Active</status>
+ <bitrate>162</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.4828</rating>
+ 
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:53:29</locked_until>
+ <lastplayed>2018-05-25 12:51:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1346">Dafunk</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=10831</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

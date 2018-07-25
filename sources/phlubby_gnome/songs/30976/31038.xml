@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31038">
+ <title>Out48</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 16:44:19</locked_until>
+ <lastplayed>2018-03-13 10:10:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>689</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1650">Dixan</artist><artist id="1651">Uncle-X</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Elevator</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

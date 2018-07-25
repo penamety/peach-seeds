@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5398">
+ <title>A Drop of Blue</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.0385</rating>
+ <info>3:rd place in The Computer Crossroad (TCC) &#39;93 demo compo</info>
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:59:16</locked_until>
+ <lastplayed>2018-05-25 01:08:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3539</pouetid>
+ <ytid>UAnDUGfK7QM</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  <group id="163">Melon Dezign</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Dub</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/119628/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?126592</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

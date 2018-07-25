@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11799">
+ <title>Cochlea</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0</rating>
+ <info>Tune that is very similar to &#34;Hovering Thru&#34;.
+
+
+3rd in the Assembly 1999 Tiny Music competition/.</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 19:25:51</locked_until>
+ <lastplayed>2018-05-28 11:40:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>219</pouetid>
+ <ytid>GssdygAwEpo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1958">Noa Nakai</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Tiny</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GssdygAwEpo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/23023/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29569">
+ <title>Trance Playground</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>From sample list:
+by prophet....
+
+all samplesequences
+done by me, using
+mod2samp...
+----
+
+From uploader:
+Download link http://modarchive.org/data/downloads.php?moduleid=116342#tranceplayground4b.mod
+
+Released 1994.01.06
+
+Song title in mod is tranceplayground4b
+
+Recorded with BASS, MOD mode, no loop. (loop is trippy in this tune, but ends nicely without it.)
+
+Encoded with LAME -q 0 -b 320 -m j --cbr --replaygain-accurate --lowpass 22 --highpass 0.001</info>
+ <songlength>285</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 23:13:16</locked_until>
+ <lastplayed>2018-05-25 02:25:01</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

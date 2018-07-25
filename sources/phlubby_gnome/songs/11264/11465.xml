@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11465">
+ <title>Fjant2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.8276</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 19:43:33</locked_until>
+ <lastplayed>2018-05-18 09:37:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>458</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1138">Steffo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Trax</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

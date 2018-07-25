@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="432">
+ <title>Now What? 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.6613</rating>
+ 
+ <songlength>707</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 18:26:28</locked_until>
+ <lastplayed>2018-06-09 00:52:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>nowwhat</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>ProgressiveRock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

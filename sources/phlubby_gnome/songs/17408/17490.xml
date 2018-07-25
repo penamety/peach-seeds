@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17490">
+ <title>Flux Indux</title>
+ <status v="A">Active</status>
+ <bitrate>488</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="112">4.6607</rating>
+ 
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 18:01:07</locked_until>
+ <lastplayed>2018-06-06 09:21:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="367">Dragonfly</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

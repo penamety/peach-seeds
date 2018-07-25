@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25620">
+ <title>The Warlock</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.3333</rating>
+ 
+ <songlength>406</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 23:56:26</locked_until>
+ <lastplayed>2018-05-23 18:52:14</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3748">Thomas E. Nielsen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Jam</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

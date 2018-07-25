@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32119">
+ <title>Cupidon&#39;s Spring</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 12:28:24</locked_until>
+ <lastplayed>2017-10-23 21:48:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4698">Riskej</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Springtunes</tag>
+  
+  <tag>Ubiktune</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

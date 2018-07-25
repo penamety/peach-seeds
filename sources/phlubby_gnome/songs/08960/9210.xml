@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9210">
+ <title>The Wanderer 02 - My Thing</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.4848</rating>
+ <info>From Jogeir&#39;s album &#34;The wanderer&#34;
+See http://www.lynnemusic.com/</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 16:55:26</locked_until>
+ <lastplayed>2018-05-23 21:28:31</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>GuitarSolo</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

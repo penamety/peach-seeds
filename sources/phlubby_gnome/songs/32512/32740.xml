@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32740">
+ <title>Pandora</title>
+ <status v="A">Active</status>
+ <bitrate>215</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.8421</rating>
+ <info>1st place in PC 64K Intro compo at Revision 2011</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:05:39</locked_until>
+ <lastplayed>2018-06-11 09:53:51</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56868</pouetid>
+ <ytid>RlyIJD9AEWM</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RlyIJD9AEWM</url>
+    <comment>HQ Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

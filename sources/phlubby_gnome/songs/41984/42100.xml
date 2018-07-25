@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42100">
+ <title>Blank Page</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0</rating>
+ <info>Tune from music collection SID Dualux by Conrad of Samar Productions.
+Tune for 2 SIDs.
+http://csdb.dk/release/?id=108397</info>
+ <songlength>114</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 13:27:29</locked_until>
+ <lastplayed>2018-05-14 03:41:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59252</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

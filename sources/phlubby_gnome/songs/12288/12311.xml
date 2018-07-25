@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12311">
+ <title>Phase One</title>
+ <status v="A">Active</status>
+ <bitrate>202</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>From the Evoke 2009 Tiny Music Compo, ranked 2nd. The compo version was just 64kb zipped, but with LQ samples.</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 03:10:38</locked_until>
+ <lastplayed>2018-05-11 06:40:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

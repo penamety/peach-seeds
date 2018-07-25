@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22356">
+ <title>Delirium Tremens (Heart Core Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.3636</rating>
+ <info>Released at the TCP party 1997 in Copenhagen. I think I was ranked 2nd with this module, and received quite a lot of positive feedback on it.
+
+Tune was later re-used in Heart Core by IRIS, released at Breakpoint 2004.</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 05:46:10</locked_until>
+ <lastplayed>2018-05-12 23:50:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12041</pouetid>
+ <ytid>u5ONcHX7nis</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="3309">Nutman</artist>
+ </artists>
+ <groups>
+  <group id="199">Illi Recentes ImperatoreS [IRIS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>2004</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TCP</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZVcYq1qpHkI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

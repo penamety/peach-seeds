@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34775">
+ <title>Joulubukki</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.25</rating>
+ <info>Used in [url]http://janeway.exotica.org.uk/release.php?id=25977[/url]</info>
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:29:41</locked_until>
+ <lastplayed>2018-05-19 14:10:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5726">De La Croix</artist>
+ </artists>
+ <groups>
+  <group id="864">Digital Artists Inc. [DAI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

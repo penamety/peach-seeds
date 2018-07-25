@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42822">
+ <title>4k Galaxy (Pegasus Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>2kb of music from our 4k intro &#34;Pegasus&#34;.
+Got 1st @ Nordlicht 2015 combined demo competition.</info>
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:46:24</locked_until>
+ <lastplayed>2018-06-04 10:06:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65859</pouetid>
+ <ytid>3pXhImWoNsw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>2kb</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>4klang</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Nordlicht</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3pXhImWoNsw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/140002/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

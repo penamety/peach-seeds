@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34284">
+ <title>Sparkle a Moment</title>
+ <status v="A">Active</status>
+ <bitrate>237</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0</rating>
+ 
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 12:15:25</locked_until>
+ <lastplayed>2018-04-28 18:34:39</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57868</pouetid>
+ <ytid>e7NbwSnaXso</ytid>
+ <ytoffset>19</ytoffset>
+ 
+ <artists>
+  <artist id="5555">minomus</artist>
+ </artists>
+ <groups>
+  <group id="356">Evoflash</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Flash</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e7NbwSnaXso</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

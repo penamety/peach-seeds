@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24909">
+ <title>Yon Hirvet</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.1935</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 04:46:16</locked_until>
+ <lastplayed>2018-03-07 17:05:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>4242</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41600">
+ <title>Double Rainbow</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.3333</rating>
+ <info>Mixed Music Competition at Edison 2014 : #3</info>
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 14:33:50</locked_until>
+ <lastplayed>2018-05-07 00:24:14</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Edison</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

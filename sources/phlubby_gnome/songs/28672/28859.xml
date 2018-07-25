@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28859">
+ <title>006 Spiral Hands On II Captain - Space Debris</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">4.4144</rating>
+ 
+ <songlength>304</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 04:05:00</locked_until>
+ <lastplayed>2018-05-22 22:36:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>WhrcAqDekFk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Spacesynth</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

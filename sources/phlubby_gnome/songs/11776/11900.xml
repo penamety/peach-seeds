@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11900">
+ <title>BALTIYSKIY-32</title>
+ <status v="A">Active</status>
+ <bitrate>94</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6842</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-25 22:22:24</locked_until>
+ <lastplayed>2017-06-19 11:11:07</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="279">Danny Oneway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

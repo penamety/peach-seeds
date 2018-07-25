@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42189">
+ <title>Funcadelicaz remix</title>
+ <status v="A">Active</status>
+ <bitrate>298</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.381</rating>
+ <info>Funcadelicaz remix. Song was composed in 1990, remixed in 2015 by me.
+Guitars and drums played by me, all other instruments are original C-64 tracks, but I have added some effects like delay, chorus wah....
+Enjoy
+-Rock-</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:42:19</locked_until>
+ <lastplayed>2018-05-31 17:55:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>C64samples</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gdyd0VjKj0I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

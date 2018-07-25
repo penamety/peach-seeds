@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37533">
+ <title>PaSTiLL</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>With POOLOTRONIX; tribute to Jacno, 1957--2009. Details on soundcloud: http://soundcloud.com/ulrick/pastill-with-poolotronix</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-17 02:02:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4450">Ulrick</artist>
+ </artists>
+ <groups>
+  <group id="368">FRequency [FRQ]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jacno</tag>
+  
+  <tag>modem</tag>
+  
+  <tag>tribute</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

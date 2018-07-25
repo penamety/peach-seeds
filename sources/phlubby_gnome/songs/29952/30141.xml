@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30141">
+ <title>Lowbudget ShootEmUp</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.6296</rating>
+ <info>4th place on nectarine copo 07</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-16 04:53:36</locked_until>
+ <lastplayed>2018-02-25 06:41:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

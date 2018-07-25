@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5135">
+ <title>Salsa Con Carne</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.5641</rating>
+ <info>Winner of the four channel music compo at The Party 1996.</info>
+ <songlength>90</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 17:50:57</locked_until>
+ <lastplayed>2018-04-24 02:45:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="833">Mystical</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>food</tag>
+  
+  <tag>salsa</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

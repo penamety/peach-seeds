@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30618">
+ <title>My Favorite Kind of Silence</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">4.5435</rating>
+ 
+ <songlength>506</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 07:48:59</locked_until>
+ <lastplayed>2018-06-16 00:10:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ <ytid>hbJPrFN2Jt8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

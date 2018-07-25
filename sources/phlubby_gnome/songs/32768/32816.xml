@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32816">
+ <title>Dawn Theme - Remastered</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0278</rating>
+ <info>My first tests with Reason where used to remaster this old song I composed some years before.</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 00:56:48</locked_until>
+ <lastplayed>2017-07-15 22:43:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Melodic</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27778">
+ <title>Like a Pen</title>
+ <status v="A">Active</status>
+ <bitrate>174</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.2576</rating>
+ <info>Download here: http://www.dataairlines.net/releases/data-airlines-the-knife-data013/</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 12:01:29</locked_until>
+ <lastplayed>2018-06-07 04:34:50</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3455">Random</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>club</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

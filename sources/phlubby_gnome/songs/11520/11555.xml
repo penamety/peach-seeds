@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11555">
+ <title>Inflorescence</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">1.8462</rating>
+ <info>4th place in pc demo compo at Intel Demo Competition 2008</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 01:26:58</locked_until>
+ <lastplayed>2018-03-09 21:01:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50864</pouetid>
+ <ytid>eb0xhLq8oAQ</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1616">1in10</artist>
+ </artists>
+ <groups>
+  <group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>IntelDemoCompetition</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>offbeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=eb0xhLq8oAQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

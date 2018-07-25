@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15154">
+ <title>Global Effect</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ 
+ <songlength>278</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 07:46:02</locked_until>
+ <lastplayed>2018-05-10 03:22:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14975</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="137">Breeze</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38243">
+ <title>2nd-Tech</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">1.8824</rating>
+ 
+ <songlength>106</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:11:35</locked_until>
+ <lastplayed>2018-05-24 08:20:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>26604</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5320">Centrox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39164">
+ <title>ASMO</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.8889</rating>
+ <info>Song by Darkman007 2012.
+
+Listen with none-interpolation.
+
+2nd place in Multichannel Traditional Music compo at Chaos Constructions 2013.</info>
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-24 02:16:29</locked_until>
+ <lastplayed>2018-02-05 22:14:06</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>2013</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>traditional</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

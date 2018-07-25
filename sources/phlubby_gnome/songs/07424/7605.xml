@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7605">
+ <title>Chicago Chiphop</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.1587</rating>
+ <info>dubmood
+&amp;
+nadom
+
+Fylle
+Cell
+
+Chicago gansta chiphop</info>
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 20:55:52</locked_until>
+ <lastplayed>2018-05-19 23:30:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="4391">Nadom</artist>
+ </artists>
+ <groups>
+  <group id="264">Fyllecell</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

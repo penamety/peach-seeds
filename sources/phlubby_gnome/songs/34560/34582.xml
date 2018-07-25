@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34582">
+ <title>Polske Gadekampe</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-08 02:05:11</locked_until>
+ <lastplayed>2017-05-31 10:46:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19005</pouetid>
+ <ytid>4ejTfhZHctw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1091">Slide</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>SouthSealandParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

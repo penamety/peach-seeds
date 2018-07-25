@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29633">
+ <title>Sinclair</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.9167</rating>
+ <info>Ranked third in the music compo at Solskogen 2010.</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 03:32:11</locked_until>
+ <lastplayed>2018-03-17 10:45:51</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist><artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

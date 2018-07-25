@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36223">
+ <title>Speden Spelit</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="36">3.8056</rating>
+ 
+ <songlength>25</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 01:25:31</locked_until>
+ <lastplayed>2018-04-20 04:51:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  <group id="424">Damage [DMG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44182">
+ <title>Kingdom of Knowledge</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.375</rating>
+ <info>I think this was my second tracker song ever. Very dull and repetitive, but perhaps it has its moments here and there...
+
+Download @ futurecrew.com/skaven - 
+ http://www.futurecrew.com/skaven/song_files/oldies/KINGDOM.STM</info>
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 09:29:55</locked_until>
+ <lastplayed>2018-03-31 06:36:37</lastplayed>
+ <platform id="42">STM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?155863</url>
+    <comment>Download @ ModArchive</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

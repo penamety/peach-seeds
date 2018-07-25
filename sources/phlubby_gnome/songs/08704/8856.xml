@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8856">
+ <title>No You Don&#39;t</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3478</rating>
+ 
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 14:45:46</locked_until>
+ <lastplayed>2018-04-08 23:53:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>2172</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1298">Vic</artist>
+ </artists>
+ <groups>
+  <group id="51">Blasphemy</group><group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

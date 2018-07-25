@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15330">
+ <title>Two Miles Away</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5833</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-25 06:08:16</locked_until>
+ <lastplayed>2017-06-01 07:46:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11533</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Abduction</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

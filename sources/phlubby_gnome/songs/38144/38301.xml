@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38301">
+ <title>Inside a Game</title>
+ <status v="D">Dupe</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.1</rating>
+ <info>All sound goes from Atari Falcon 030 (stock version). 
+It&#39;s a 10-channels song made on DHS-Tracker (Digital Home Studio).
+
+Computers used: 
+Atari Falcon 030 (main work and everything - almost ;) ),
+Atari 520ST (for samples),
+ZX Spectrum 48K with AY-interface (for samples).
+
+Synthesizers used for samples: 
+Yamaha E423
+
+Software: 
+Main editor - on Falcon - DHS-Tracker (Digital Home Studio)
+MusicMon V2.5e on Atari 520ST (samples-making)
+SoundTracker 1.1 on ZX Spectrum 48K (samples-making).
+
+This is my third Falcon song. It took the first place on digital music contest of SillyVenture 2012 party.</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2014-02-06 06:28:34</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>EyTGMQddE1k</ytid>
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>DHS</tag>
+  
+  <tag>Falcon</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EyTGMQddE1k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26093/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35125">
+ <title>se old jingle</title>
+ <status v="J">Jingle</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>a new jingle that is very old, but new!</info>
+ <songlength>30</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4606">Zipf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jingle</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

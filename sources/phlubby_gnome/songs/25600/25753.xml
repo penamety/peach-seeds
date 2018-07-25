@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25753">
+ <title>Einfach Nur Schweben</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.1892</rating>
+ <info>Art of Noise 4 channels</info>
+ <songlength>396</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 15:37:47</locked_until>
+ <lastplayed>2018-03-28 21:00:58</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="2">Demo</type>
+ <pouetid>1177</pouetid>
+ <ytid>fyFDD-U_c9c</ytid>
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  <group id="13">Avena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Falcon</tag>
+  
+  <tag>SILIconvention</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

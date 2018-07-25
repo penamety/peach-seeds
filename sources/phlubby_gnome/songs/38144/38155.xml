@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38155">
+ <title>Brutality</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.6667</rating>
+ <info>2:nd place at Icing&#39;98 Amiga chip compo</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-16 06:23:02</locked_until>
+ <lastplayed>2018-01-24 07:57:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>15448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Icing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

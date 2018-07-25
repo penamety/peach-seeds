@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5062">
+ <title>Esa the final</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 10:27:52</locked_until>
+ <lastplayed>2018-03-20 20:47:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1039</pouetid>
+ <ytid>k_HT8gpSKbM</ytid>
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

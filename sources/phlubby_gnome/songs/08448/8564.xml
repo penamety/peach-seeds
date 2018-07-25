@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8564">
+ <title>Ninja Bolognese</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.6231</rating>
+ 
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 01:08:46</locked_until>
+ <lastplayed>2018-06-10 05:14:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11376</pouetid>
+ <ytid>_nY4nndAhfE</ytid>
+ 
+ 
+ <artists>
+  <artist id="183">Chavez</artist>
+ </artists>
+ <groups>
+  <group id="458">Alpha Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>TMDC</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

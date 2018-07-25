@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35787">
+ <title>Sonic Room</title>
+ <status v="A">Active</status>
+ <bitrate>190</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.0244</rating>
+ <info>2nd place in combined demo compo at The Gathering 2012</info>
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 05:16:07</locked_until>
+ <lastplayed>2018-05-21 07:00:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59131</pouetid>
+ <ytid>TlzKvLBE-_0</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="355">Contraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TlzKvLBE-_0</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

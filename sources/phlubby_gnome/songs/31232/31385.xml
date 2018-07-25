@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31385">
+ <title>Mewwy Cwistmas</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0</rating>
+ <info>Entry to Nectarine Compo #9, &#34;it&#39;s christmas time&#34;.</info>
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 18:38:25</locked_until>
+ <lastplayed>2018-06-14 17:07:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

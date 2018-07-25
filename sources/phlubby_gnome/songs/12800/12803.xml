@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12803">
+ <title>Sonic The Hedgehog 3 (groove basin, azure lake wip)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ <info>Original by: Brad Buxer, Bobby Brooks, Darryl Ross, Geoff Grace, Doug Grigsby III, Scirocco.</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 14:51:41</locked_until>
+ <lastplayed>2018-03-25 15:58:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="994">Rayza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://project2612.org/details.php?id=61</url>
+    <comment></comment>
+    <type id="10">
+        <name>Project2612</name>
+        <icon>/static/media/linkicons/project2612-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

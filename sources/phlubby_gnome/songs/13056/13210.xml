@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13210">
+ <title>Castles</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">3.977</rating>
+ <info>6581 SID track. 2003</info>
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-26 07:54:01</locked_until>
+ <lastplayed>2018-04-24 23:48:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>10873</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

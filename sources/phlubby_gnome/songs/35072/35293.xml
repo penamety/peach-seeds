@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35293">
+ <title>Piece of Mind</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="46">3.6087</rating>
+ <info>0	composed by Ferro of	5188
+1	Nikki Corruptions.	7560
+2		2800
+3	Why Nikki,Why Corrupt	3028
+4	.. Well watch the	7378
+5	Piece of Mind Demo &amp;	5058
+6	U should be provided	5884
+7	With an Asnwer. Humm	5874
+8		1332
+9	btw,the real mod name	4300
+10	didn&#39;t resist my..	542
+11	RiPpinx. It sUcks, I	2124
+12	Know!	1518
+13		2406
+14		7826
+15		3662
+16		0
+17		0
+18		0
+19		0
+20		0
+21		0
+22		0
+23		0
+24		0
+25		0
+26		0
+27	+++++++++++++++++++++	0
+28	Well that 1 too was..	0
+29	Crown &amp; cryptoBurners	0
+30	+++++++++++++++++++++</info>
+ <songlength>843</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 16:26:37</locked_until>
+ <lastplayed>2018-05-16 21:28:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5457</pouetid>
+ <ytid>SVUeXPDupI4</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="5030">Ferro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SVUeXPDupI4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

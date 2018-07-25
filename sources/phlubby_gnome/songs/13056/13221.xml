@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13221">
+ <title>Boot Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.6667</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 18:19:11</locked_until>
+ <lastplayed>2018-03-04 02:43:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="988">Random Voice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

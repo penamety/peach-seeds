@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8659">
+ <title>PYM - Copper Kaahbaahnaah</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.0862</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 06:27:01</locked_until>
+ <lastplayed>2018-05-22 14:28:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  <group id="62">Delta Force</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

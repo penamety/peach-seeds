@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42285">
+ <title>Hurtquake</title>
+ <status v="A">Active</status>
+ <bitrate>253</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">2.52</rating>
+ <info>From combined demo &#34;hurtquake&#34; -- first at Kindergarden 2014. Featuring SteelCityRed.</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 03:35:28</locked_until>
+ <lastplayed>2018-05-19 08:15:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>64341</pouetid>
+ <ytid>VfPg36MvdZY</ytid>
+ 
+ 
+ <artists>
+  <artist id="5461">Subsquare</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>Rap</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VfPg36MvdZY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

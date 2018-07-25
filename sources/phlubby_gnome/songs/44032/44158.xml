@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44158">
+ <title>Fancypillow</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>330</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 07:00:09</locked_until>
+ <lastplayed>2018-06-04 06:26:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>69482</pouetid>
+ <ytid>aQvbsSjgOSw</ytid>
+ 
+ 
+ <artists>
+  <artist id="3235">Mr Fancy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

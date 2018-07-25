@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2667">
+ <title>Static Byte Short</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 18:43:14</locked_until>
+ <lastplayed>2017-10-25 12:55:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>58586</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

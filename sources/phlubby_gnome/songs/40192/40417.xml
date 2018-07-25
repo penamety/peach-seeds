@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40417">
+ <title>New</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ <info>(a.k.a. Cryonics 42)</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 08:50:18</locked_until>
+ <lastplayed>2018-06-08 17:57:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62969</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1863">DQ</artist>
+ </artists>
+ <groups>
+  <group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>FLStudio</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

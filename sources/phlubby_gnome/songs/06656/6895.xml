@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6895">
+ <title>Demon Download</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.25</rating>
+ 
+ <songlength>337</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-19 18:04:26</locked_until>
+ <lastplayed>2017-11-28 18:45:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4030</pouetid>
+ <ytid>KbG0lzkpO6k</ytid>
+ <ytoffset>63</ytoffset>
+ 
+ <artists>
+  <artist id="1200">The Master</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KbG0lzkpO6k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

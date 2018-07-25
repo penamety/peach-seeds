@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44125">
+ <title>Ilusia (main part)</title>
+ <status v="A">Active</status>
+ <bitrate>541</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>Soundtrack from the &#34;Ilusia&#34; demo (1st place at Forever 2009 Atari demo compo)</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 13:53:07</locked_until>
+ <lastplayed>2018-05-24 15:06:06</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>52807</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5563">stRing</artist>
+ </artists>
+ <groups>
+  <group id="870">Mad Team</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/49097/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

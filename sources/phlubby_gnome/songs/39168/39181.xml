@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39181">
+ <title>Parallaxelerator</title>
+ <status v="A">Active</status>
+ <bitrate>258</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 00:11:27</locked_until>
+ <lastplayed>2018-05-13 17:28:00</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61727</pouetid>
+ <ytid>cs_B_K7O7Jg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5195">Izard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

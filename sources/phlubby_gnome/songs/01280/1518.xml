@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1518">
+ <title>Chaosland</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ <info>&#34;Chaosland&#34; intro placed 1st at The Party 1993 amiga 40k intro compo.</info>
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-25 19:20:47</locked_until>
+ <lastplayed>2017-08-18 18:20:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>6092</pouetid>
+ <ytid>jKCAqN1uRbg</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="298">Dean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jKCAqN1uRbg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

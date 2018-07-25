@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43487">
+ <title>Synergetique: Megasong 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.5333</rating>
+ <info>The Megasong Project
+====================
+
+Description:
+
+The Megasong Project is a demoscene music project initiated by Fabian Del Priore aka Rapture to bring together talented demoscene musicians and trackers from all over the world, combining their forces in one big music piece, which they bring together in collaboration; each participant is working on a part of the song (each one working on a few patterns or so), before it&#39;s the turn of the next participant and the tune is handed to him. The end result is a massive coop tune, but sounding as homogeneous and consistent as possible.
+
+The first Megasong is made in Spacesynth (think Laserdance/Koto) style, but thinkable for the future are all kinds of styles with all kinds of different musicians, a different song length, different software to work with and so on and on, so the whole project is flexible to the max!
+
+I would define and imagine the Megasong stating the following basic features:
+
+Style: Whatever the given group of musicians can agree on, everything is possible: Chipmusic, Demomusic, Gamemusic, Soundtracker ST-01 / Earlymod, Techno, Trance, German folk musik, experimental, whatever... Mainthing is working together on a FUN project! :D
+
+Length: Minimum 10 minutes, maximum 30 minutes
+Number of participants: Minimum 5 participants, maximum: Open end, but we shouldn&#39;t exaggerate here or else organising it will be complicated. ;)
+Platform/Software: Depends. Could be anything from any tracker to any DAW (Digital Audio Workstation / music studio environment) like Steinberg Cubase. The music group must have roughly the same experience on the same platform. For DAW&#39;s like Renoise or Cubase, only freeware VST Plugins will be used (no commercial plugins) and exchanged between the group, so that every composer can take part on the project without any hassle!
+
+For the first Megasong project, the following talented demo scene musicians could be engaged:
+
+- Elrinth (Nicklas Holmgren)
+- Rage (Harri Blom)
+- Rapture (Fabian Del Priore)
+- Serpent (Touko Väre)
+- Shinobi aka Triton (Marcus Andre Rousseau)
+- Silok (Robert Katsenos)
+- Spiral (Mats Antonsson)
+
+
+Every demo scene musican feeling talented and motivated enough is invited for exciting future Megasong projects! :)
+
+Have fun listening and drop us a comment! You can reach us on Nectarine Demoscene Radio: www.scenemusic.net :)
+
+Cheers,
+Rapture
+
+--
+
+Details &amp; specs on Megasong 1:
+
+Song Name - Synergetique: Megasong 1
+
+DAW/Tracker used - Renoise 2.8.0 x64 
+Style - Spacesynth 
+Number of  participants - 7
+Length - 26:08 
+
+--
+
+Structure of Song:
+
+Round 1
+
+Rapture 00:00 - 01:24
+Rage    01:24 - 02:41
+Shinobi 02:41 - 04:21
+Silok   04:21 - 06:54
+Elrinth 06:54 - 08:03
+Spiral  08:03 - 09:58
+Serpent 09:59 - 11:38
+
+Round 2
+
+Rapture 11:38 - 13:41
+Rage    13:41 - 15:29
+Shinobi 15:29 - 17:39
+Silok   17:39 - 19:04
+Elrinth 19:04 - 21:53
+Spiral  21:53 - 23:50
+Serpent 23:50 - 26:00
+
+[b]*[/b] [u]Lyrics from the vocoders part by [user]Spiral[/user][/u][b]:[/b] &#34;In a world full of life. There are some of us who have the privilege to travel beyond it. They are among the stars flying freely in space. Are you going to be one of them? I&#39;m sure I will!&#34;</info>
+ <songlength>1568</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 06:12:49</locked_until>
+ <lastplayed>2018-05-22 12:26:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="980">Rage</artist><artist id="2711">Rapture</artist><artist id="1627">serpent</artist><artist id="2134">Shinobi</artist><artist id="4070">Silok</artist><artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lj_op_yaN4c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

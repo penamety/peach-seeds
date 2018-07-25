@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12276">
+ <title>Trashin&#39;</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.5417</rating>
+ 
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 01:43:58</locked_until>
+ <lastplayed>2018-06-01 21:57:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>25666</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1386">Flipside</artist><artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="355">Contraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>BeastieBoys</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

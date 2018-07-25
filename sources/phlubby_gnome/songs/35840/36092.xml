@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36092">
+ <title>Out of Balance</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.6667</rating>
+ 
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 03:14:11</locked_until>
+ <lastplayed>2018-05-17 01:10:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12016</pouetid>
+ <ytid>BAKuTGCNWuk</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Hurricane&amp;BrutalSummerParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BAKuTGCNWuk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

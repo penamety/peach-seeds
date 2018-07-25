@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30073">
+ <title>Dust</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.4583</rating>
+ 
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 02:40:55</locked_until>
+ <lastplayed>2018-06-05 07:11:40</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>55795</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Riverwash</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34638">
+ <title>Heroes vs Villains</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.3913</rating>
+ <info>Track from the Invitation for the Ultimate Meeting 2011</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 15:09:44</locked_until>
+ <lastplayed>2018-06-12 02:54:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58121</pouetid>
+ <ytid>GsjYPjHLOkc</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GsjYPjHLOkc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

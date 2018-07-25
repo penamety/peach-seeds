@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26234">
+ <title>Subsong tfmx</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-28 07:24:04</locked_until>
+ <lastplayed>2017-06-19 23:13:41</lastplayed>
+ <platform id="35">TFMX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

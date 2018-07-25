@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44200">
+ <title>Cassiopeia (Extended  xm Version)</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0833</rating>
+ <info>This is the xm version version 1.0 of Cassiopeia, 16 channels, done in Milkytracker, extended about 1:30min just for fun.
+
+Some Background information: Originally, I did a one minute .xm of Cassiopeia first, *then* made a 4 minute studio version in Cubase based on that one minute xm module ,   and just thought, why not finish the xm module now as well, plus a few additons and also a bit extended, so here it is!
+
+If you want, you can give me some feedback (oneliner or PM or email or something), and I could update the track a bit, based on your feedback. Cheers :)</info>
+ <songlength>331</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 08:46:09</locked_until>
+ <lastplayed>2018-06-05 13:51:51</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

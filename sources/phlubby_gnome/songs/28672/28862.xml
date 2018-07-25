@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28862">
+ <title>009 Spiral Hands On II Haggeman - Intimate Shaver (Nightwish vs Jester Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">3.9688</rating>
+ 
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 21:23:32</locked_until>
+ <lastplayed>2018-03-28 09:06:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>letsgo</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

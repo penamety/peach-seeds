@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28160">
+ <title>Chainreaction</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4667</rating>
+ 
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 18:12:13</locked_until>
+ <lastplayed>2018-03-15 05:26:42</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="326">Dime</artist><artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42463">
+ <title>Lord of the Deeps</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.4444</rating>
+ <info>Just something to halloween. Halloween at the sea?</info>
+ <songlength>104</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 20:01:55</locked_until>
+ <lastplayed>2018-02-03 20:30:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>horror</tag>
+  
+  <tag>scary</tag>
+  
+  <tag>Sea</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

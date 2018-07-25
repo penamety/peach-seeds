@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40279">
+ <title>SynthSong 1</title>
+ <status v="A">Active</status>
+ <bitrate>64</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.24</rating>
+ <info>OctaMED v3 demo song</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 12:59:26</locked_until>
+ <lastplayed>2018-03-23 22:59:32</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3709">Teijo Kinnunen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Software</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

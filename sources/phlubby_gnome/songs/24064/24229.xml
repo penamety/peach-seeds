@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24229">
+ <title>Change of Mood</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.2593</rating>
+ 
+ <songlength>363</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 17:00:14</locked_until>
+ <lastplayed>2018-05-17 15:15:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Birds</tag>
+  
+  <tag>Tempochange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

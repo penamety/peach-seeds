@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11443">
+ <title>Funky Neighbour</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.303</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 16:22:34</locked_until>
+ <lastplayed>2018-04-19 15:34:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52359</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

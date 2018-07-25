@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38442">
+ <title>Tensile (Demodays Invitro)</title>
+ <status v="A">Active</status>
+ <bitrate>225</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-30 06:33:23</locked_until>
+ <lastplayed>2017-09-24 04:35:03</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61206</pouetid>
+ <ytid>acBiSHJd-sk</ytid>
+ 
+ 
+ <artists>
+  <artist id="5209">Westlicht</artist>
+ </artists>
+ <groups>
+  <group id="699">Horology</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=acBiSHJd-sk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

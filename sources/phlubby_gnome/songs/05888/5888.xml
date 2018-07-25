@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5888">
+ <title>Bladeswede Remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ 
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 20:26:30</locked_until>
+ <lastplayed>2018-03-29 11:02:42</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1462</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="966">PVCF</artist>
+ </artists>
+ <groups>
+  <group id="600">Reflex [RFX]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

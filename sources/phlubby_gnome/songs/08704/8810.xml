@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8810">
+ <title>My Favorite Thing</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1961</rating>
+ <info>&#34;My Favorite Things&#34; , composed by Richard Rodgers for musical The Sound of Music (1959). The song has become a jazz standard and is used as a Christmas song as well.
+
+The samples for this song are made from short text files.  Virt offers a beer to anyone who can figure out what &#34;his favorite thing&#34; is.</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 22:53:22</locked_until>
+ <lastplayed>2018-05-19 11:31:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

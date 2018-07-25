@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17712">
+ <title>Starchild 2004</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">2.5522</rating>
+ 
+ <songlength>275</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 11:38:23</locked_until>
+ <lastplayed>2018-06-03 10:49:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15036</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="400">eha</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

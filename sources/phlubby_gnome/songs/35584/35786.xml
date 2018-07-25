@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35786">
+ <title>Hot Dots</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.3654</rating>
+ <info>1st place in amiga 64k compo at Revision 2012
+
+More info &amp; download : [url=http://www.modules.pl/index.php?id=module&amp;mod=7241&amp;page=1]:: modules.pl :: H0ffman - Hot Dots[/url]</info>
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 13:23:00</locked_until>
+ <lastplayed>2018-06-15 23:18:06</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59082</pouetid>
+ <ytid>_IgUuwrQKno</ytid>
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  <group id="620">Focus Design</group><group id="674">Unstable Label</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_IgUuwrQKno</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/31820/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

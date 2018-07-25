@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43498">
+ <title>Khitaryan</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>7th place at GERP 2015 &#34;Amiga Music Competition&#34;
+Tracked using PT 2.3d, 4ch, approx. 200KB of original size
+
+In case you wonder why this one is of such short duration (1:20 minutes) - it was originally meant to be an outro for a demo. But you know, things often come another way.. so it was kind of a leftover I just wanted to throw out.
+</info>
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 22:51:22</locked_until>
+ <lastplayed>2018-04-21 01:55:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>d5JVfBI-iJk</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=d5JVfBI-iJk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8300">
+ <title>Project Genesis (Part 1)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.386</rating>
+ <info>1st place in pc 64k compo at Breakpoint 2003</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:10:14</locked_until>
+ <lastplayed>2018-05-24 23:31:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9438</pouetid>
+ <ytid>PU94o9nAKRM</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PU94o9nAKRM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

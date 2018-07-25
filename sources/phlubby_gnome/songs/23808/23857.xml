@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23857">
+ <title>Hurry</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>http://bitworld.bitfellas.org/demo.php?id=2120</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 07:44:59</locked_until>
+ <lastplayed>2017-10-29 20:01:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7970</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3517">Rubberbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

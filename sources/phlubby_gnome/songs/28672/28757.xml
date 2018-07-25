@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28757">
+ <title>AFL-Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.6207</rating>
+ 
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 03:45:40</locked_until>
+ <lastplayed>2018-05-28 18:31:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3986">Arne</artist>
+ </artists>
+ <groups>
+  <group id="270">Alpha Flight [AFL]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

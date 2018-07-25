@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15640">
+ <title>Mantalos</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ 
+ <songlength>431</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 13:40:41</locked_until>
+ <lastplayed>2018-03-16 06:35:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>11941</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

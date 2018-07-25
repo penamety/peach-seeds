@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11169">
+ <title>Do You Remember?</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.5833</rating>
+ 
+ <songlength>295</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 03:23:52</locked_until>
+ <lastplayed>2017-11-17 15:13:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>51760</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

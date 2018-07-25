@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32869">
+ <title>Digital-Expressions [Rhino remix]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0313</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 14:34:20</locked_until>
+ <lastplayed>2018-03-10 17:42:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1752">Rhino</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>panflutes</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26236">
+ <title>Swinth 1 Stationary Ark</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.8485</rating>
+ <info>Comments for subsong #1
+  TITLE: Stationary Ark
+ ARTIST: John Mills-Cockell &lt;?&gt;
+COMMENT: &#34;Theme from Stationary Ark, a nature show on PBS. [...] It appears on
+         Synth Sample as interpreted by a friend of mine. I didn&#39;t know what it
+         was myself until I happened to see Stationary Ark one time. This song
+         does not play properly on some C-64&#39;s where the SID chip filter is
+         calibrated differently.&#34; (GF)</info>
+ <songlength>303</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:47:51</locked_until>
+ <lastplayed>2018-06-06 10:26:38</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>52343</pouetid>
+ <ytid>vB6GMQqnnfo</ytid>
+ <ytoffset>17</ytoffset>
+ 
+ <artists>
+  <artist id="4920">Georg Feil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1984</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>EarlySID</tag>
+  
+  <tag>theme</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

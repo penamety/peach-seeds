@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12902">
+ <title>Megademo Pajaro [Avenger]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.5062</rating>
+ 
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 00:51:45</locked_until>
+ <lastplayed>2018-05-26 10:00:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>752</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

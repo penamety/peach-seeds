@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28902">
+ <title>Imagine</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.8378</rating>
+ <info>1st place in pc 64k compo at Breakpoint 2010</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 03:29:10</locked_until>
+ <lastplayed>2018-05-04 16:19:00</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>54556</pouetid>
+ <ytid>cNskE_nsGtU</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4160">Turri</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group><group id="434">CodingCat</group><group id="435">TGGC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cNskE_nsGtU</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

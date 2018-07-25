@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32216">
+ <title>Recycled</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>Winner of the chip compo @ bcnparty 2005.</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 23:57:21</locked_until>
+ <lastplayed>2018-05-21 15:08:59</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1590">Wonder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>bcnparty</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

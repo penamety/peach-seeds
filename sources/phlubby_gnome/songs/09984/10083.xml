@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10083">
+ <title>Breeze</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.8462</rating>
+ 
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 12:26:39</locked_until>
+ <lastplayed>2018-05-23 21:40:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5679</pouetid>
+ <ytid>-E0Z8jILNYk</ytid>
+ 
+ 
+ <artists>
+  <artist id="319">Diablo</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

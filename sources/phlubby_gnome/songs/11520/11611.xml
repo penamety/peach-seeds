@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11611">
+ <title>Duel</title>
+ <status v="A">Active</status>
+ <bitrate>286</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.1429</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 10:33:03</locked_until>
+ <lastplayed>2018-05-03 01:08:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

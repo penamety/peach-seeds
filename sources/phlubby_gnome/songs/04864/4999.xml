@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4999">
+ <title>Six Four and No More</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-02 05:40:36</locked_until>
+ <lastplayed>2017-07-25 12:15:10</lastplayed>
+ <platform id="4">AHX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="825">Xeron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

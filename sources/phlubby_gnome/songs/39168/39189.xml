@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39189">
+ <title>Bauhouse</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.766</rating>
+ 
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 13:08:25</locked_until>
+ <lastplayed>2018-06-16 08:32:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61735</pouetid>
+ <ytid>hVorEIQJySI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1049">Scott</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>House</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

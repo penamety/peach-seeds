@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26576">
+ <title>2&#39;57 Hours</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:59:00</locked_until>
+ <lastplayed>2018-06-01 01:11:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3860</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3846">SiNkRO</artist>
+ </artists>
+ <groups>
+  <group id="130">Hansa</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>bcnparty</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

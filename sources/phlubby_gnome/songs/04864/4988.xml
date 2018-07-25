@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4988">
+ <title>Take a Hike</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5625</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 12:35:01</locked_until>
+ <lastplayed>2018-06-08 19:47:41</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="821">Mr Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12725">
+ <title>Fantasia [tune 3]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ <info>[url=http://www.antialias.se/chiptunes/ym%20-%20sndh/]download .sndh (Atari YM)[/url]</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 14:09:25</locked_until>
+ <lastplayed>2017-10-07 23:57:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11223</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

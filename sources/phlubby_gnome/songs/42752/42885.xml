@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42885">
+ <title>Dancing t-Girl</title>
+ <status v="A">Active</status>
+ <bitrate>95</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 18:51:38</locked_until>
+ <lastplayed>2018-05-31 00:55:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9454</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1458">Lotek Style</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

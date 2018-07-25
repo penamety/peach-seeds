@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35664">
+ <title>Flying Through The Night</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.3902</rating>
+ <info>Streamed music compo entry @ Revision 2012</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 02:11:33</locked_until>
+ <lastplayed>2018-05-30 19:18:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4755">JuhoAP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

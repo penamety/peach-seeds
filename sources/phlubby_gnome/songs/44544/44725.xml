@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44725">
+ <title>Crazy World</title>
+ <status v="A">Active</status>
+ <bitrate>838</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.3333</rating>
+ <info>Appeared in MQM 5 megademo (the red and black end part asking for contributions to MQM 6).</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 10:38:35</locked_until>
+ <lastplayed>2018-05-15 21:21:58</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>26763</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4760">Qjeta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ILehq94wnI4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007582</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=13419</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/15265/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

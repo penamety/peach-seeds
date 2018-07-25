@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13410">
+ <title>Backstage</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 18:30:13</locked_until>
+ <lastplayed>2018-04-04 01:39:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>20150</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2">16 Beat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

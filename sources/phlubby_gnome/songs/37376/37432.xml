@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37432">
+ <title>Our Nation</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="29">3.1379</rating>
+ 
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 19:53:27</locked_until>
+ <lastplayed>2018-06-12 03:47:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>29565</pouetid>
+ <ytid>L-6DdhWCzv0</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="5246">Antibody</artist>
+ </artists>
+ <groups>
+  <group id="185">Axis</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

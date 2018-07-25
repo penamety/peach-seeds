@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44946">
+ <title>cute waves</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.0</rating>
+ <info>----------------------------------------
+
+   cute ~~~  ~~~  ~  ~
+       little ~~~ ~~  ~~
+~~~  waves ~  ~~~~  ~~
+  ~ ~    dancing ~~~ ~~
+~~    ~~   in   ~~ ~~~ ~
+   ~~~~  ~  the ~   ~~
+ ~ ~~~~  ~~  sunlight
+  __________________
+  |song and samples|
+  +----+By HERB+---+
+       |=======|</info>
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 22:04:19</locked_until>
+ <lastplayed>2018-05-26 18:00:01</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5806">HERB</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178411</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

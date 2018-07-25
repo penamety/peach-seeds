@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41518">
+ <title>Intensive</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ 
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 23:50:41</locked_until>
+ <lastplayed>2018-05-23 16:55:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2058">Amadeus Voxon</artist>
+ </artists>
+ <groups>
+  <group id="360">Flash Inc.</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

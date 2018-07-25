@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8973">
+ <title>Neointro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.1733</rating>
+ <info>An old FM synth intro/demo tune for the &#34;HSC Adlib Composer / HSC Tracker&#34;. Has some special meaning to me... :)</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 12:00:21</locked_until>
+ <lastplayed>2018-05-14 23:36:12</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2845">Hannes Seifert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+  <tag>FM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

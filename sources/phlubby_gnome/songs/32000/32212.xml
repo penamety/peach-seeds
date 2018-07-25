@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32212">
+ <title>Three Fourth</title>
+ <status v="A">Active</status>
+ <bitrate>413</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 00:31:39</locked_until>
+ <lastplayed>2018-05-24 21:54:07</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53818</pouetid>
+ <ytid>qUKRrfn3w2A</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="4713">Celldweller</artist>
+ </artists>
+ <groups>
+  <group id="573">Dimness</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Riverwash</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qUKRrfn3w2A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

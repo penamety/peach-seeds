@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44144">
+ <title>Misja / Mission Shark</title>
+ <status v="R">Rejected</status>
+ <bitrate>516</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.0</rating>
+ <info>Music from the game &#39;Misja&#39; released by L.K. Avalon in 1990; re-released as &#34;Mission&#34; and &#34;Mission Shark&#34; in 1991.</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2017-06-30 06:24:33</locked_until>
+ <lastplayed>2017-06-25 06:58:27</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2914">Chaos [pl]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/125479/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

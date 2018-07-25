@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44227">
+ <title>Testos</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Assembly 2017 oldskool demo competition</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 04:51:41</locked_until>
+ <lastplayed>2018-05-07 04:49:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>cga1WbxgvvM</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

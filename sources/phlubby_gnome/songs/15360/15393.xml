@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15393">
+ <title>Cauldron II [Live at the Church]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.2857</rating>
+ 
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 01:25:35</locked_until>
+ <lastplayed>2018-05-29 19:29:10</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>Tango</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

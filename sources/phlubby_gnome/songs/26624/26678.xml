@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26678">
+ <title>No One is Ready for This</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">1.8125</rating>
+ 
+ <songlength>277</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 09:35:51</locked_until>
+ <lastplayed>2018-06-03 12:12:47</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+  <tag>noise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

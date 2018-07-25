@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10388">
+ <title>High Density</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.209</rating>
+ <info>Used also in &#34;Viktoria&#34; musicdisk by TRSI [url]http://pouet.net/prod.php?which=3968[/url]</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:12:23</locked_until>
+ <lastplayed>2018-05-26 13:17:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8074</pouetid>
+ <ytid>46Z9l0iPZDc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="698">Coma</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

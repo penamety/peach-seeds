@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35873">
+ <title>Pixeljamjam1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.0526</rating>
+ <info>Winner of the freestyle music compo at Pixeljam 2012.</info>
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 03:09:50</locked_until>
+ <lastplayed>2018-05-13 21:55:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Pixeljam</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

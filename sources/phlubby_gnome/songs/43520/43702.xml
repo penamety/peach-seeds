@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43702">
+ <title>Earthquake</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">1.8</rating>
+ 
+ <songlength>139</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 23:08:30</locked_until>
+ <lastplayed>2018-03-31 07:33:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>17861</pouetid>
+ <ytid>9pPiaIqMdU8</ytid>
+ 
+ 
+ <artists>
+  <artist id="2842">Hali</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9pPiaIqMdU8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

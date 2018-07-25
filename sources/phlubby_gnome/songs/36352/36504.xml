@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36504">
+ <title>Dejavu: ChipYxa#7</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>Invitation for ChipYxa#7 by Quite</info>
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 13:21:29</locked_until>
+ <lastplayed>2017-08-22 17:00:34</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>54404</pouetid>
+ <ytid>4RIFuonm8hY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1515">Preston</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>ChipYxa</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4RIFuonm8hY</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

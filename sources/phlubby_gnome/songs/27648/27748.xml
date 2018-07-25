@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27748">
+ <title>Find The Vacant Place</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.1765</rating>
+ <info>19th at Chaos Constructions 999 AY music competition.</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 04:01:45</locked_until>
+ <lastplayed>2018-05-30 05:23:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3926">Noize</artist>
+ </artists>
+ <groups>
+  <group id="71">Phantasy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=60</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

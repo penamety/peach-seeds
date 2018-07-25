@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8976">
+ <title>Robocop Title</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">4.2895</rating>
+ <info>Arranged by LMan. Guitar work by Andy Gilmour. Original theme by Jonathan Dunn.</info>
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 21:53:52</locked_until>
+ <lastplayed>2018-06-14 17:11:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1751">Andy Gilmour</artist><artist id="681">LMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

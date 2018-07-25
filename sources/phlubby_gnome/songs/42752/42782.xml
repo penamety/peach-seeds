@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42782">
+ <title>Techno-waves</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">2.9167</rating>
+ <info>YO! PALACE MEMBERZ THIZ TUNE WAZ COMP. BY: ICE! B-COZ I&#39;D LIKE TO JOIN YA COOL CREW! I&#39;M A MUSICAN,
+HACKER AND PHREAKER!! LEAVE A MSG TO ICE ON
+ELYSIUM BBS.... L8r DUDEZ...
+</info>
+ <songlength>78</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 19:52:13</locked_until>
+ <lastplayed>2018-03-31 17:03:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5270">Ice</artist>
+ </artists>
+ <groups>
+  <group id="170">Palace</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?98468</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

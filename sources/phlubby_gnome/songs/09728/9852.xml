@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9852">
+ <title>PYM - Tubular Bells [aka &#34;sickest so far&#34;]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.7111</rating>
+ <info>Download Link: http://www.f1-software.com/mp3/Big_Alec-PYM-Tubular_Bells_YM.mp3</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 11:59:49</locked_until>
+ <lastplayed>2018-04-14 00:15:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  <group id="62">Delta Force</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

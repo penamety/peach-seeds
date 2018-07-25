@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2552">
+ <title>Dextrous 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4286</rating>
+ 
+ <songlength>262</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 07:38:39</locked_until>
+ <lastplayed>2017-11-28 08:58:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11196</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3959">Dextrous</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

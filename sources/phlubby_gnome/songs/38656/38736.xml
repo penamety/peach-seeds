@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38736">
+ <title>BECHA (Alsou)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">4.0</rating>
+ <info>It&#39;s cover version of song &#34;Alsou - Spring&#34;</info>
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 19:22:43</locked_until>
+ <lastplayed>2018-06-03 10:18:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5289">Ishma</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

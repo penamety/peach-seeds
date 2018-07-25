@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11680">
+ <title>Vodka</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.04</rating>
+ 
+ <songlength>105</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 15:06:06</locked_until>
+ <lastplayed>2018-05-31 11:11:40</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1051">Screes</artist><artist id="1809">Sonic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>fanfare</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Humppa</tag>
+  
+  <tag>polka</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

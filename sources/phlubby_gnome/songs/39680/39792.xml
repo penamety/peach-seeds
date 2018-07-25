@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39792">
+ <title>Hi Jack the house</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">2.2381</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 04:02:28</locked_until>
+ <lastplayed>2018-06-04 18:39:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13883</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5445">Soundscan</artist>
+ </artists>
+ <groups>
+  <group id="776">Wizzcat</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

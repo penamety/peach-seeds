@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37633">
+ <title>Blue Period</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.3077</rating>
+ <info>From the album &#34;hYMns&#34;.
+
+Grab it [url=http://fiveofive.bandcamp.com/album/hymns]here[/url]
+
+From &#34;Blue Period&#34; by Paradox, Outline 2011 Atari demo, 1st place
+</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 18:26:48</locked_until>
+ <lastplayed>2018-06-10 18:37:23</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>57154</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

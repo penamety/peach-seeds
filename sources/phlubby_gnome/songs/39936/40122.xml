@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40122">
+ <title>This is the end</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>Vedders contribution to Datastorm 2014 Amiga tracked music reached 9:th place.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 11:28:53</locked_until>
+ <lastplayed>2018-05-30 13:51:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36884">
+ <title>Natural Wonders 2 [endpart]</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.5385</rating>
+ <info>SID chipset: CSG8580R5
+
+A.K.A. &#34;We Greet You&#34;</info>
+ <songlength>87</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 02:50:46</locked_until>
+ <lastplayed>2018-05-20 22:44:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>51969</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5737">Kasmo</artist>
+ </artists>
+ <groups>
+  <group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

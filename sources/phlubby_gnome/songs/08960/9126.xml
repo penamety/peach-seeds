@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9126">
+ <title>The Goblin Returns</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="121">4.281</rating>
+ <info>Module&#39;s partial comment :
+[quote]This song came 1st in the Assembly 2002 instrumental music competition.
+Created with ModPlug Tracker.
+
+Goblin voices performed by Nitro / Trauma (Kai-Eerik Komppa).
+Special thanks to Markus &#34;Captain&#34; Kaarlonen for lending and setting up
+the music studio for voice recording.
+[…]
+Live long and don&#39;t get bored.[/quote]</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 00:37:34</locked_until>
+ <lastplayed>2018-05-13 01:02:33</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DannyElfman</tag>
+  
+  <tag>Fantasy</tag>
+  
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27036">
+ <title>Drifting Landscape</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.4</rating>
+ 
+ <songlength>330</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-08 08:23:07</locked_until>
+ <lastplayed>2018-01-19 00:45:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9363</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="58">Aquafresh</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Grapevine</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

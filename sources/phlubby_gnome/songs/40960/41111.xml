@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41111">
+ <title>Anttijok</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.4</rating>
+ <info>7th place in pc demo compo at Assembly 1998</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 20:04:17</locked_until>
+ <lastplayed>2018-06-02 18:58:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3443</pouetid>
+ <ytid>cGgAX34Czwc</ytid>
+ 
+ 
+ <artists>
+  <artist id="331">Distance</artist><artist id="1807">Feather</artist><artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cGgAX34Czwc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

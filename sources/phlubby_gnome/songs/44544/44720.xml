@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44720">
+ <title>Neon City</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.6667</rating>
+ <info> thanx for inspiration:
+ Tangerine, Oleg Dunaev
+ Limbo Duck, Tone
+
+ slow part was made for
+ Scene e-mag by Psycho.
+
+ composed for Neon City
+  level, BUGIX game by
+       SunnyGames
+
+ Alexander Matchugovsky
+    aka Manwe/SandS.
+
+   most samples by me
+
+NEON CITY: from evening
+   to early morning.</info>
+ <songlength>487</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 20:13:40</locked_until>
+ <lastplayed>2018-06-13 19:42:21</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?165415</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

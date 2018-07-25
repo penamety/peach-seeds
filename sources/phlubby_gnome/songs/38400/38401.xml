@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38401">
+ <title>Wax Duke</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.7143</rating>
+ <info>3rd place.</info>
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 17:39:15</locked_until>
+ <lastplayed>2018-03-09 13:13:32</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4462">Esau</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>bigbeat</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

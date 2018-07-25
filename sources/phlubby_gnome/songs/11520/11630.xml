@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11630">
+ <title>The Lost Vikings - Title</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ <info>Tune from title screen of The Lost Vikings game, lemonamiga link: http://www.lemonamiga.com/games/details.php?id=699.
+
+Converted from .p4x (The Player 4.x) using ProWizard, original file: http://www.exotica.org.uk/wiki/The_Lost_Vikings (p4x.intro).</info>
+ <songlength>45</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 19:20:04</locked_until>
+ <lastplayed>2017-12-23 22:55:24</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist><artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/925</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

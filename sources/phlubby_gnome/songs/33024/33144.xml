@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33144">
+ <title>Professor Nutbutter</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">2.2</rating>
+ 
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-25 17:59:41</locked_until>
+ <lastplayed>2017-11-30 21:22:17</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>6557</pouetid>
+ <ytid>kDmwpm5-4KA</ytid>
+ 
+ 
+ <artists>
+  <artist id="4790">Vinyl</artist>
+ </artists>
+ <groups>
+  <group id="633">Mindprobe</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Juhla</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

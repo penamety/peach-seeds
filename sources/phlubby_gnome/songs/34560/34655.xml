@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34655">
+ <title>Imogen Heap - The Song That Never Was (Mosaik Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.1613</rating>
+ 
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 04:25:11</locked_until>
+ <lastplayed>2018-06-08 22:03:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/mosaik/imogen-heap-the-song-that-never-was-rymdlego-mix</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

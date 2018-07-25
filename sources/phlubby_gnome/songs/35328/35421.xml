@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35421">
+ <title>Samplepack Disco 2012</title>
+ <status v="A">Active</status>
+ <bitrate>177</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.2692</rating>
+ <info>1st place in Nectarine Samplepack compo</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 04:23:22</locked_until>
+ <lastplayed>2018-05-19 23:02:16</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

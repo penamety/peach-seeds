@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43977">
+ <title>Bouree in E-Minor</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>J.S. Bach&#39;s song for a lute (the 5th movement of E minor suite BWV 996)</info>
+ <songlength>95</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-30 17:35:28</locked_until>
+ <lastplayed>2018-04-26 23:35:33</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2022">Zauron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>bach</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Classical</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="71">
+ <title>In the Kitchen</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.9302</rating>
+ <info>4:th place in the Hurricane/Brutal Summer Party 1991&#39;s demo compo.</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 14:13:04</locked_until>
+ <lastplayed>2018-03-25 02:13:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>414</pouetid>
+ <ytid>aJMT_4U9Rr8</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=aJMT_4U9Rr8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

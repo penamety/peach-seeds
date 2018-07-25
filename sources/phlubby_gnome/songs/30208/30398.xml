@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30398">
+ <title>Hobbyslakt</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.4091</rating>
+ <info>From the &#34;Bobby&#34; part of the Northstar &amp; Fairlight Megademo III</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 17:04:22</locked_until>
+ <lastplayed>2018-05-29 00:57:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9088</pouetid>
+ <ytid>R8e35xJzrUg</ytid>
+ <ytoffset>1185</ytoffset>
+ 
+ <artists>
+  <artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  <group id="347">Northstar</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>OK</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

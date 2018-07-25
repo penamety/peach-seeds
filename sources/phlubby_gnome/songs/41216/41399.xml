@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41399">
+ <title>Globular Cluster</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>A MIDI song composed for Wild Compo of SillyVenture 2014 Atari Party.
+
+This is kind of micromusic I made in MIDI standard, using two machines from 80s:
+
+- a sound-module Roland MT-32 (8 channels + drums) - 1987
+- ATARI 520ST (with Cubase 2.1 as the sequencer) - 1985
+
+I don&#39;t have any opportunity to play live some improvisations when I use trackers, so this time - with MIDI - it was kind of fun. :)
+
+Also I think people tend to forget the MIDI is Atari&#39;s power, so I just wanted to remind it. ;)
+
+Enjoy.
+Yerz</info>
+ <songlength>233</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 11:12:01</locked_until>
+ <lastplayed>2017-11-03 15:59:53</lastplayed>
+ <platform id="43">MID</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

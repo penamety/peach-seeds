@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15476">
+ <title>Boermaat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ 
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-29 14:06:25</locked_until>
+ <lastplayed>2017-08-24 12:20:57</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist><artist id="4793">Janetje</artist><artist id="4792">Killswitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36146">
+ <title>2011 - A Press Space Odyssey - Tune 09</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7333</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 22:46:36</locked_until>
+ <lastplayed>2018-03-03 11:44:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58203</pouetid>
+ <ytid>MUa3tYhi-1o</ytid>
+ <ytoffset>1924</ytoffset>
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Popcorn</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MUa3tYhi-1o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

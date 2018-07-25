@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16903">
+ <title>Quadralien</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">3.4819</rating>
+ <info>Logotron 1988
+
+Format is Whittaker.
+[url=http://www.antialias.se/chiptunes/dw/]download .dw[/url]</info>
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 03:31:05</locked_until>
+ <lastplayed>2018-05-14 12:55:37</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>uFEiK4w26rM</ytid>
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2254</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

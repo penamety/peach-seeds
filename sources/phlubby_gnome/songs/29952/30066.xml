@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30066">
+ <title>Accidental Ray of Sun (piano mix)</title>
+ <status v="A">Active</status>
+ <bitrate>141</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.6</rating>
+ <info>Accidental Ray of Sun (piano mix)
+el blanco
+[fulcrum]
+5:08
+
+I really liked the full mix of &#34;Accidental Ray of Sun&#34;. I also really like playing around with Steinberg&#39;s &#34;The Grand&#34;. I realized the song could be adapted to a piano only tune without much complication -- so I arranged it for the VSTi. 
+
+Turned out really nice.
+
+Due to some flakiness in &#34;The Grand&#34; I split the piano up between two different VSTi so it would have enough polyphony for the entire song.</info>
+ <songlength>308</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 05:57:13</locked_until>
+ <lastplayed>2018-05-22 01:58:55</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3852">elblanco</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6909">
+ <title>Mega apocalypse</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.0588</rating>
+ 
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-03 19:18:12</locked_until>
+ <lastplayed>2018-06-15 12:28:04</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2020">N-Joy (IT)</artist>
+ </artists>
+ <groups>
+  <group id="86">The Soundwavers</group>
+ </groups>
+ 
+ <tags>
+  <tag>ComicBakery</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

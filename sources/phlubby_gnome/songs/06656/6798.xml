@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6798">
+ <title>Bambi</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.2222</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 16:48:46</locked_until>
+ <lastplayed>2018-05-22 03:03:21</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="544">Illusion</artist><artist id="1167">Swallow</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

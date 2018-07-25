@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3000">
+ <title>Rakkorules</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">1.9512</rating>
+ 
+ <songlength>63</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 00:53:28</locked_until>
+ <lastplayed>2018-05-18 12:55:06</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>399</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Silly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

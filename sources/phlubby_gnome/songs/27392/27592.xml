@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27592">
+ <title>On The Road Again</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8148</rating>
+ <info>Soundtrack for &#34;On the Road&#34; by Triad, Vision &amp; TRSI, 11th place C64 demo at Big Floppy People 2007.</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 14:22:17</locked_until>
+ <lastplayed>2017-12-06 04:38:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>31437</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

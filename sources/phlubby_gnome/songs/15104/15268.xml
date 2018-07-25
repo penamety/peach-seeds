@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15268">
+ <title>Sky Glider</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9583</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-19 19:45:44</locked_until>
+ <lastplayed>2017-09-14 13:06:13</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

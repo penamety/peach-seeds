@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8046">
+ <title>Epsonic</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.058</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 09:04:08</locked_until>
+ <lastplayed>2018-04-29 19:15:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10252</pouetid>
+ <ytid>SaStpmoiir4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44469">
+ <title>Onward Ride (K-line Logic Pro X Remake)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>If you are familiar with the demoscene (especially on the PC side during the 90s) you have probably heard this tune a thousand times because of its awesomeness.
+
+I decided to try recreating it in Logic Pro X with some soft synths. Enjoy!
+
+Credits:
+
+The original tune was composed by Jugi Kaartinen and was released in the demo &#34;Dope&#34; by Complex at TG95.</info>
+ <songlength>293</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 23:11:15</locked_until>
+ <lastplayed>2018-05-10 19:59:29</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ <ytid>https://youtu.be/JFbbU5fURsE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1769">K-Line</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JFbbU5fURsE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

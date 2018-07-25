@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12173">
+ <title>Tannhäuser Gate</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.0571</rating>
+ <info>7th place in combined demo compo at Assembly 2005</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-25 10:49:22</locked_until>
+ <lastplayed>2018-04-24 18:04:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>18352</pouetid>
+ <ytid>k8OzgxDtGcc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1997">Tripper</artist>
+ </artists>
+ <groups>
+  <group id="641">Cubicle</group><group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=k8OzgxDtGcc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

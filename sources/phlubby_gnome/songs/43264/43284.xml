@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43284">
+ <title>Pacman Beats7</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-28 22:09:48</locked_until>
+ <lastplayed>2017-12-06 12:40:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>67815</pouetid>
+ <ytid>-h_LJnzfmVk</ytid>
+ 
+ 
+ <artists>
+  <artist id="5623">Notorious </artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group><group id="542">Tulou</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-h_LJnzfmVk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/160630/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

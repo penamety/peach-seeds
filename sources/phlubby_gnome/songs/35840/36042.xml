@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36042">
+ <title>Grapevine 3</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.0</rating>
+ 
+ <songlength>498</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 04:17:19</locked_until>
+ <lastplayed>2018-04-07 09:59:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14798</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Beatles</tag>
+  
+  <tag>Grapevine</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

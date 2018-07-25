@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44228">
+ <title>Jaeriste</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.4545</rating>
+ <info>Three tracks from three artists mixed together by [artist]5520[/artist]</info>
+ <songlength>345</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 19:29:05</locked_until>
+ <lastplayed>2018-03-30 21:07:14</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71406</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4096">Aegis</artist><artist id="1026">Ronny</artist><artist id="5743">wdm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

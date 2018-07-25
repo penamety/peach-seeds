@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7346">
+ <title>Unit A 5</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="69">4.2319</rating>
+ <info>Also used in [url=http://www.pouet.net/prod.php?which=26458]Amberstar by The Dream Team[/url]</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 18:29:45</locked_until>
+ <lastplayed>2018-05-22 08:36:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9133</pouetid>
+ <ytid>h5GRh4HgsAE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1831">Diz</artist>
+ </artists>
+ <groups>
+  <group id="65">Unit A</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=h5GRh4HgsAE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KszmXDOpPkA</url>
+    <comment>Amberstar by The Dream Team</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

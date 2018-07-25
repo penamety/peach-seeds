@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35679">
+ <title>Beer and Chips</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="40">4.125</rating>
+ <info>A normal 4 channel Amiga module, size 83492 bytes.
+Packed into 32760 bytes Amiga executable (maximum limit is 32768 bytes).
+Unpacking time on a normal Amiga 500 is somewhere around 23 seconds.
+The tune is 03:29 long.</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:04:53</locked_until>
+ <lastplayed>2018-05-26 08:46:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

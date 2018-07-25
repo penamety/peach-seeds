@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12487">
+ <title>Assata&#39;s Song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.0667</rating>
+ 
+ <songlength>332</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:46:06</locked_until>
+ <lastplayed>2018-05-25 17:34:01</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2037">BeeZerk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

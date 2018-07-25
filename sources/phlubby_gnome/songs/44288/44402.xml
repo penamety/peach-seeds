@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44402">
+ <title>Execution - Intro</title>
+ <status v="A">Active</status>
+ <bitrate>1058</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.2857</rating>
+ 
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 05:59:24</locked_until>
+ <lastplayed>2018-04-09 12:32:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>71430</pouetid>
+ <ytid>K1Z0ZEga8XE</ytid>
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="877">SMFX</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=K1Z0ZEga8XE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/177027/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

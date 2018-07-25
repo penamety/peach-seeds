@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40456">
+ <title>Pikaboo Lobotomy</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.2973</rating>
+ <info>Compoentry for Stream party 2014. Thanks NerdN for the übercool title! :)</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 14:05:09</locked_until>
+ <lastplayed>2018-06-04 12:18:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>63539</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

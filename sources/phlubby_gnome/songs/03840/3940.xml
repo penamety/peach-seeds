@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3940">
+ <title>All Your Secrets</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.5556</rating>
+ <info>For the PC music compo at Assembly 1998. Not played.</info>
+ <songlength>190</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 09:42:11</locked_until>
+ <lastplayed>2017-10-23 22:36:36</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="656">Leach</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34148">
+ <title>Soul John</title>
+ <status v="A">Active</status>
+ <bitrate>97</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.1053</rating>
+ <info>Created together with Drax/Vibrants. It&#39;s basicly a remix of Drax&#39;s SID tune &#34;Why me&#34;.</info>
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 22:37:11</locked_until>
+ <lastplayed>2018-05-07 15:30:03</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist><artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

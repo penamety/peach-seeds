@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36141">
+ <title>2011 - A Press Space Odyssey - Tune 03</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ 
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-25 20:13:58</locked_until>
+ <lastplayed>2017-10-17 07:09:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58203</pouetid>
+ <ytid>MUa3tYhi-1o</ytid>
+ <ytoffset>2783</ytoffset>
+ 
+ <artists>
+  <artist id="4660">Kribust</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MUa3tYhi-1o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

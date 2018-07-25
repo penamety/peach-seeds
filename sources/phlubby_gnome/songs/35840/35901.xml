@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35901">
+ <title>Ibiza Motions</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.4242</rating>
+ <info>Placed 15th in the scenecompos.net Ibiza Compo</info>
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 14:36:58</locked_until>
+ <lastplayed>2018-05-31 06:39:01</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4971">NerdN</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>ibiza</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

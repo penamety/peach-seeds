@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38162">
+ <title>Little loader tune</title>
+ <status v="A">Active</status>
+ <bitrate>155</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ 
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 19:13:45</locked_until>
+ <lastplayed>2018-03-16 05:41:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ <labels>
+  <label id="12">In Ear Gaming</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

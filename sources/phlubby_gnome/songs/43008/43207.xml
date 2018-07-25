@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43207">
+ <title>Dorak</title>
+ <status v="A">Active</status>
+ <bitrate>206</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">2.6</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 11:18:02</locked_until>
+ <lastplayed>2018-02-28 22:26:26</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

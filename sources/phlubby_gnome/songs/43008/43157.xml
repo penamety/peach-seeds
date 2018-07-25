@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43157">
+ <title>Rock And Rope</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>353</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 14:24:42</locked_until>
+ <lastplayed>2018-01-27 10:57:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33945</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="699">Luxor</artist>
+ </artists>
+ <groups>
+  <group id="218">Megaforce (MFC)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8744">
+ <title>Meet the Biots</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">4.1818</rating>
+ <info>1st place in combined demo compo at The Gathering 2005</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 11:02:22</locked_until>
+ <lastplayed>2018-06-02 17:58:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16350</pouetid>
+ <ytid>lK6lVcDcwtY</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist><artist id="1683">OptimizE</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lK6lVcDcwtY</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29132">
+ <title>Chariots of Fire</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.5</rating>
+ <info>Original by Vangelis.</info>
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 03:51:50</locked_until>
+ <lastplayed>2018-03-09 23:59:15</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4189">A-Lin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Vangelis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

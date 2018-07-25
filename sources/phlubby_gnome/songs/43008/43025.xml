@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43025">
+ <title>Insomnia Run</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.8889</rating>
+ <info>Insomnia Run by radiant / Panda Design</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-19 07:36:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4707">radiantx</artist>
+ </artists>
+ <groups>
+  <group id="785">Panda design</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154963/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26669">
+ <title>Whatever it means</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.4894</rating>
+ <info>My &#34;classic&#34; chiptune, XM file. HD render by ReclusiveLemming, thanks!
+
+[url]jakim.pl/music.html#Whatever_it_means[/url]
+
+Winner from ExChipo #1.
+</info>
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 18:21:23</locked_until>
+ <lastplayed>2018-04-09 21:54:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>ExChipO</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

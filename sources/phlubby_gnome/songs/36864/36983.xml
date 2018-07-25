@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36983">
+ <title>VoxelRunner</title>
+ <status v="A">Active</status>
+ <bitrate>154</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.9167</rating>
+ <info>&#34;VoxelRunner&#34; (C) Phandral/Sanxion 1995
+
+From the Sanxion Musicdisk #1</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-11 23:04:20</locked_until>
+ <lastplayed>2017-10-20 20:43:17</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8447</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

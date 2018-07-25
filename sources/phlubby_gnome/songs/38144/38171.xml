@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38171">
+ <title>Onward Ride (original party version)</title>
+ <status v="A">Active</status>
+ <bitrate>139</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">4.5714</rating>
+ <info>This is the original .mod file from the demo.  Note it lasts 8:03, not 8:30+.  The middle break (or interlude) for the checkerboard is different, and the ending is also different.  As of 2/20/2013, the .mod file available from scene.org is not correct and does not correspond to how the demo sounds.
+
+But there&#39;s more.  Further examination by [user]sqrmax[/user] with the invaluable assistance of [user]Mel[/user] reveals the following.  There are two versions of dope.mod, as packaged with the demo.
+
+1.  dope.mod, 1060522 bytes.
+2.  dope.mod, 957334 bytes.
+
+The party at which Dope the demo was released ran from 4/12/95 to 4/15/95, and the demo deadline was 4/14/95.  Module #1 was released at the party, and has a timestamp of 4/14/95.  Module #2 is available from scene.org, and has a timestamp of 4/12/95.  Module #1 is this song, and module #2 is [song]3610[/song].  So, it looks like the module at scene.org is some previous version of the module.
+
+It gets even more interesting when you look at the timestamps of the .exes.  The timestamp for dope.exe as released at the party is 4/12/95, while the .exe at scene.org is from 4/15/95!  So, it looks like the .exe and .mod files could have gotten cross-packaged.  Perhaps the newer .exe from scene.org should go with the newer dope.mod file released at the party!
+
+Now, which version of Onward ride is &#34;correct&#34;?  We haven&#39;t been able to determine that yet.  However, Romeo Knight remixed what he called the &#34;original&#34; version of Onward ride (see his comments at soundcloud.com), and he clearly remixed the interlude in this song, as opposed to the interlude in [song]3610[/song].  Also, [user]Shinobi[/user] confirms Romeo Knight&#39;s remix features the interlude in this version, as opposed to [song]3610[/song].  So, it looks like this one is considered by others the &#34;original&#34; version of Onward ride.
+
+If you are curious as to why this version of Onward ride is not the same as [song]3610[/song], go to pattern 74 (decimal) in both modules and check the difference.
+
+Finally, several youtube videos I&#39;ve seen do not synch up the video to the music.  In fact, not even MindCandy gets it right.  This might be because of Jugi&#39;s comment in the .txt file attached to the party demo version, in which he complains that everything&#39;s fucked up because the machines are too fast.  Trying to run the demo on modern hardware shows that the more cycle starved the demo runs, the better the interlude syncs up with the checkerboard part (the interlude should start exactly when the first rotating figure appears, right when the fire clouds finish going away).  Unfortunately, most (if not all) videos use module #2 from scene.org, which is not how the demo was released at the party.</info>
+ <songlength>483</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 21:15:10</locked_until>
+ <lastplayed>2018-06-15 08:43:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>37</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="595">Jugi</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178207</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

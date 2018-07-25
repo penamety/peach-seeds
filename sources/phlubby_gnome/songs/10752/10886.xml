@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10886">
+ <title>A Vision</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.2</rating>
+ <info>(c)basehead/acid 1994
+funky adlib sounds! :)
+this is my first attempt at adlib, so it&#39;s not that great... but i think i&#39;m getting used to it. look for more adlib stuff from me in the near future.
+
+-bh94- catchyalater!
+
+--------
+NOTE: This song was processed with ScreamTracker 3 (using DOSBox 0.72 Portable) and recorded with Audacity 1.2.6 (WinXP Pro)
+</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 05:26:54</locked_until>
+ <lastplayed>2018-05-30 01:41:37</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

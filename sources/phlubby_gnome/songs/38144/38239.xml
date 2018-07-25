@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38239">
+ <title>Kit</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.3</rating>
+ <info>Soundtrack from the &#34;Rest&#34; demo by Code Busters, 1st place in Amiga 64k intro at Enlight&#39;95.</info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 02:55:05</locked_until>
+ <lastplayed>2018-05-20 17:46:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>53726</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5067">Klav</artist>
+ </artists>
+ <groups>
+  <group id="126">Code Busters</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

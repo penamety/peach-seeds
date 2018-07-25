@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5189">
+ <title>Metroplex</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="56">4.1964</rating>
+ 
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 18:08:45</locked_until>
+ <lastplayed>2018-05-29 18:55:24</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6518</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42035">
+ <title>Diskdrive flashlights</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>&#34;Done on Atari Falcon 030 with Octalyser STE on 4 channels! Especially done a game by FOUNDATION TWO called DU SAU.&#34;
+Ranked 5th in Error In Line 2003 tracked music compo</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 01:27:54</locked_until>
+ <lastplayed>2017-12-15 05:55:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1458">Lotek Style</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>ErrorInLine</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/54841/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

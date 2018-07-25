@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8052">
+ <title>Oz</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.8571</rating>
+ 
+ <songlength>284</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 17:13:06</locked_until>
+ <lastplayed>2018-04-21 06:35:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11070</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

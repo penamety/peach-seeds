@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31542">
+ <title>Broken Heart</title>
+ <status v="A">Active</status>
+ <bitrate>138</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="131">4.7786</rating>
+ <info>Soundtrack to Razor 1911&#39;s &#34;Pirates of the 777 Seas&#34; intro.
+
+3rd place at Tokyo Demo Fest 2011</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:17:30</locked_until>
+ <lastplayed>2018-06-08 00:50:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56549</pouetid>
+ <ytid>gKNvLyxHTmg</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gKNvLyxHTmg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

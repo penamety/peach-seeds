@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11939">
+ <title>Spejsrejser</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.6667</rating>
+ 
+ <songlength>77</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 16:57:03</locked_until>
+ <lastplayed>2017-10-06 00:37:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1840">PsyPuls</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

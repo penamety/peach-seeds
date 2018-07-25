@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27940">
+ <title>Smugglers On Acid (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0513</rating>
+ 
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 09:26:00</locked_until>
+ <lastplayed>2017-10-31 22:52:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53890</pouetid>
+ <ytid>cSyiRPtxJQA</ytid>
+ 
+ 
+ <artists>
+  <artist id="4026">cTrix</artist>
+ </artists>
+ <groups>
+  <group id="262">Australian Drug Foundation</group><group id="261">Disaster Area</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cSyiRPtxJQA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

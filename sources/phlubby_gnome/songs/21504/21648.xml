@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21648">
+ <title>Re Megamix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.122</rating>
+ 
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 11:25:50</locked_until>
+ <lastplayed>2018-04-14 04:29:11</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3198">Michele Cinque</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Jingle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

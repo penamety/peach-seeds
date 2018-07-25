@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36676">
+ <title>Martina</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 20:13:39</locked_until>
+ <lastplayed>2018-06-02 17:34:00</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="213">Ciccilleju</artist>
+ </artists>
+ <groups>
+  <group id="337">CoolPHat</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>ItalianSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

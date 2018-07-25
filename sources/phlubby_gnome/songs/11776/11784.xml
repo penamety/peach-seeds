@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11784">
+ <title>Odd Stuff End</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.1754</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 10:30:02</locked_until>
+ <lastplayed>2018-05-22 10:56:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1960</pouetid>
+ <ytid>7gk9AUY_010</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="440">Dune</group><group id="441">Sector One [SCT1]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

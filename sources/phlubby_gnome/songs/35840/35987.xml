@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35987">
+ <title>Wake Up! (main part)</title>
+ <status v="A">Active</status>
+ <bitrate>197</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.1538</rating>
+ 
+ <songlength>269</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 22:00:56</locked_until>
+ <lastplayed>2018-03-12 22:07:06</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>59073</pouetid>
+ <ytid>TJvE3oGtsgg</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="5113">McKlain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rIHP_4oUQag</url>
+    <comment>Live Footage</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

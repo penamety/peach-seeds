@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4268">
+ <title>hqc-beat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.8776</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 15:33:04</locked_until>
+ <lastplayed>2018-05-25 07:48:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13488</pouetid>
+ <ytid>gdUl_cR_Sjg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="699">Luxor</artist>
+ </artists>
+ <groups>
+  <group id="218">Megaforce (MFC)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

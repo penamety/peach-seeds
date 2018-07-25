@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31229">
+ <title>LYRA II part 8 (2xAY remake)</title>
+ <status v="A">Active</status>
+ <bitrate>294</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="56">4.0714</rating>
+ <info>TurboSound version of Ziutek&#39;s track.
+</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 21:12:42</locked_until>
+ <lastplayed>2018-05-19 07:42:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4585">Voxel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Lyra2</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

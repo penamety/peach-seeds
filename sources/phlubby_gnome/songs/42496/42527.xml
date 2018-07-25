@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42527">
+ <title>Drozerix vs LHS 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>2nd tune done by LHS and Drozerix. </info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-02 12:34:00</locked_until>
+ <lastplayed>2018-01-15 00:40:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5388">Drozerix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

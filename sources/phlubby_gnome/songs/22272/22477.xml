@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22477">
+ <title>Backtro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.5227</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 01:42:48</locked_until>
+ <lastplayed>2018-06-15 18:00:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4138</pouetid>
+ <ytid>OkslG1SBRo8</ytid>
+ 
+ 
+ <artists>
+  <artist id="3348">Overflow</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>CrocoChanel</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OkslG1SBRo8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

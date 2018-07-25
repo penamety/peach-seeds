@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35734">
+ <title>They Stole a Million</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.18</rating>
+ 
+ <songlength>105</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 14:04:49</locked_until>
+ <lastplayed>2018-06-15 13:35:51</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ <ytid>3QB0pDuU6LE</ytid>
+ 
+ 
+ <artists>
+  <artist id="968">Q</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Intermission</tag>
+  
+  <tag>Swing</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3QB0pDuU6LE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

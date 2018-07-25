@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31428">
+ <title>Elephant beer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-01 03:23:28</locked_until>
+ <lastplayed>2017-05-29 07:02:26</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1050">Screamager</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>Beer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

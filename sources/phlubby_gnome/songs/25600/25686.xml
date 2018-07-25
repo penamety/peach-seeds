@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25686">
+ <title>Lemmings - Mary Had a Little Lamb</title>
+ <status v="B">Banned</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.7778</rating>
+ 
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-07-20 19:11:21</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>ChildrensSong</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>traditional</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

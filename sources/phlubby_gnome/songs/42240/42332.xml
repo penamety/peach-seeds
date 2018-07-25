@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42332">
+ <title>Gear For Your Ear</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.1667</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 08:11:07</locked_until>
+ <lastplayed>2018-03-17 03:34:23</lastplayed>
+ <platform id="45">Oktalyzer</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24105</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4086">Hardsequenzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>checkthisout</tag>
+  
+  <tag>letthebasskick</tag>
+  
+  <tag>Rave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

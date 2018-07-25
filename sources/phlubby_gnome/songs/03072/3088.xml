@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3088">
+ <title>Feed Your Chicken</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>74</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-01 10:10:05</locked_until>
+ <lastplayed>2017-08-24 20:34:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4297</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="515">Hellrazor</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7965">
+ <title>Cuddly Demos Reset</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.28</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 23:07:44</locked_until>
+ <lastplayed>2018-03-31 03:33:07</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3242</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="535">The Carebears [TCB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

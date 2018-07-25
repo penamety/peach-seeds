@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43899">
+ <title>Neon Daydreams</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.4737</rating>
+ <info>1st in Streaming Music compo at Revision 2017.</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 17:38:43</locked_until>
+ <lastplayed>2018-05-20 05:49:17</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>80s</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170802/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44122">
+ <title>Zybex Main Theme (Break8Bit Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>486</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 20:23:02</locked_until>
+ <lastplayed>2018-03-25 07:01:13</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/156230/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

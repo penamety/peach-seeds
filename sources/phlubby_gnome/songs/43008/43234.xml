@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43234">
+ <title>Fading Light</title>
+ <status v="A">Active</status>
+ <bitrate>3725</bitrate>
+ <samplerate>96000</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>3rd in Streaming Music compo at Edison 2016</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 16:20:51</locked_until>
+ <lastplayed>2018-06-07 20:44:35</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5424">Corpsicle</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

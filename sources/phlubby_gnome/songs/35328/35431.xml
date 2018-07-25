@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35431">
+ <title>Perhaps</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>Loadertune for Budbrain Megademo 1</info>
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 09:51:48</locked_until>
+ <lastplayed>2018-05-25 05:59:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4063</pouetid>
+ <ytid>KXV5-GkKUsk</ytid>
+ <ytoffset>322</ytoffset>
+ 
+ <artists>
+  <artist id="319">Diablo</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

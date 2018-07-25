@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11394">
+ <title>Future Brain</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0323</rating>
+ <info>Mental Brain from Purple Motion of Future Crew Team from the demo Mental Surgery.
+
+This is the first Purple Motion released tune.</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 16:44:47</locked_until>
+ <lastplayed>2018-05-07 16:23:11</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1280</pouetid>
+ <ytid>f4ye-Ep658I</ytid>
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

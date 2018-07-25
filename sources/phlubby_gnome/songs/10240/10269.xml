@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10269">
+ <title>And Now for Something Completely Different</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.0</rating>
+ 
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:27:34</locked_until>
+ <lastplayed>2018-05-26 05:56:36</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>MontyPython</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

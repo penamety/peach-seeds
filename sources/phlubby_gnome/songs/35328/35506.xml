@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35506">
+ <title>February (HQ)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1111</rating>
+ <info>From the Datastorm 2012 Music compo. A500 1-disc executable 22khz 16b. Placed 5th.</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 08:37:00</locked_until>
+ <lastplayed>2018-03-12 15:33:58</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="100">Dekadence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

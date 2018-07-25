@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41580">
+ <title>Impulse Tracker Demo</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>(c) Pulse / PoP
+
+An example song included with Impulse Tracker 1.02.</info>
+ <songlength>384</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 03:33:23</locked_until>
+ <lastplayed>2018-06-03 00:50:52</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2927">Pulse</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Software</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

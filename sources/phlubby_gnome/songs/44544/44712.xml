@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44712">
+ <title>The 81st Track Theme (Hard Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">2.4</rating>
+ 
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 11:48:58</locked_until>
+ <lastplayed>2018-05-24 19:27:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59683</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5783">Aardvark</artist>
+ </artists>
+ <groups>
+  <group id="887">The 81st Track</group>
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

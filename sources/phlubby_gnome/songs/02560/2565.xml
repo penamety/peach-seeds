@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2565">
+ <title>Fc14</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-24 22:22:03</locked_until>
+ <lastplayed>2017-07-17 17:39:43</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>32202</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="396">Ec Rider</artist>
+ </artists>
+ <groups>
+  <group id="174">Cytax</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

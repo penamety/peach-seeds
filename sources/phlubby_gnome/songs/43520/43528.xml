@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43528">
+ <title>Violent Fred</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>&#34;Placeholder&#34; used as title music for Puzcat until i wrote a more appropriate 8-bit style tune... which i never did... oh well
+</info>
+ <songlength>58</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 16:09:52</locked_until>
+ <lastplayed>2017-12-03 19:29:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5672">Mrs. Beanbag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OemZ-PcLHws</url>
+    <comment>Longplay</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

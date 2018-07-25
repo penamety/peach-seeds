@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23560">
+ <title>The Birds Garden</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 04:58:31</locked_until>
+ <lastplayed>2018-03-30 03:03:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>1219</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1206">The REW</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

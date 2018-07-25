@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44120">
+ <title>We Are Oldschool</title>
+ <status v="A">Active</status>
+ <bitrate>422</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ 
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 12:45:20</locked_until>
+ <lastplayed>2018-04-18 06:12:31</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5736">Makary Brauner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

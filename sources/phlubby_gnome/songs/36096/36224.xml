@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36224">
+ <title>X23 Spiral Hands On III Jochen Hippel - Modu Attack (CoS) (Bonus 3)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.3962</rating>
+ 
+ <songlength>293</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 16:33:26</locked_until>
+ <lastplayed>2018-05-06 13:57:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>JDJyIwi7ymA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JDJyIwi7ymA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

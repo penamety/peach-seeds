@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24542">
+ <title>Pigs in Space</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.2727</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 10:05:18</locked_until>
+ <lastplayed>2018-02-13 13:31:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>16955</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="250">Crionics</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>KefrensAndDexionParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

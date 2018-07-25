@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15706">
+ <title>Zak McKracken</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ 
+ <songlength>77</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-08 03:19:56</locked_until>
+ <lastplayed>2017-05-31 12:09:42</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2396">Chris Grigg</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

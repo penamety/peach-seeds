@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26340">
+ <title>Telefax</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.381</rating>
+ <info>Released by Bonzai</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 03:39:53</locked_until>
+ <lastplayed>2018-06-02 19:13:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ <pouetid>6126</pouetid>
+ <ytid>Nl70I5yhpU8</ytid>
+ <ytoffset>22</ytoffset>
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Daniax</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5244">
+ <title>Jerry Lake</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.9444</rating>
+ <info>co-op with &#34;Coolspot&#34;</info>
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 20:18:05</locked_until>
+ <lastplayed>2018-03-18 05:19:44</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5435">Coolspot</artist><artist id="858">Nidman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

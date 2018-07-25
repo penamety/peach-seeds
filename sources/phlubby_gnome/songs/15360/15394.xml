@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15394">
+ <title>Black Glass 2 - Muzik 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ 
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 23:50:11</locked_until>
+ <lastplayed>2018-05-27 01:29:17</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>3545</pouetid>
+ <ytid>SBXw6AZMRpY</ytid>
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

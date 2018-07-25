@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21194">
+ <title>Simpsons Medley</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">2.3289</rating>
+ <info>This is a rip. Marty Pickering just took an existing module (which one?) and added Simpsons samples.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-04-13 13:19:05</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3141">Marty Pickering</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>burp</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12023">
+ <title>Silius</title>
+ <status v="D">Dupe</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">4.0</rating>
+ <info>Original song from the NES game Journey to Silius.
+Made it in Musagi to practice my skill :&gt;</info>
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1917">Kanonmat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

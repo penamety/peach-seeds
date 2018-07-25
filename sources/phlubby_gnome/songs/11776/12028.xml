@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12028">
+ <title>Hi-Velocity</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.625</rating>
+ 
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 19:05:18</locked_until>
+ <lastplayed>2018-03-10 02:12:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>33573</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="862">Nightshade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

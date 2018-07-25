@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8159">
+ <title>Slumberjack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="116">4.5086</rating>
+ <info>2nd place in lowend demo competition at the Ultimate Meeting 2005
+</info>
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 17:33:41</locked_until>
+ <lastplayed>2018-05-22 04:32:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>20995</pouetid>
+ <ytid>czKHlNMUbBQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1520">raina</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=czKHlNMUbBQ</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

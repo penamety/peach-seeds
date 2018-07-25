@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25989">
+ <title>Keltaiset sivut</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-09 02:36:06</locked_until>
+ <lastplayed>2017-11-18 12:14:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11356</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2046">Ukulele</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

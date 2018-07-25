@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6036">
+ <title>Tilbury Fair</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.4444</rating>
+ 
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 09:08:41</locked_until>
+ <lastplayed>2018-05-26 13:45:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

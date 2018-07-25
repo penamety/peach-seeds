@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25270">
+ <title>Chronologie 4</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.2647</rating>
+ 
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 22:14:11</locked_until>
+ <lastplayed>2018-04-30 09:19:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>15742</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jarre</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

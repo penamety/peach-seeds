@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33648">
+ <title>This is a Song Title</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 10:55:07</locked_until>
+ <lastplayed>2018-05-19 01:24:02</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

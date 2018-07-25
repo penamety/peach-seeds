@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18764">
+ <title>Beyond Darkness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.1304</rating>
+ 
+ <songlength>293</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 07:50:19</locked_until>
+ <lastplayed>2017-09-17 11:45:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11415</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2812">Gonzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>panflutes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

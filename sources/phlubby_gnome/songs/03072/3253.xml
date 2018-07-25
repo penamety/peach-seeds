@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3253">
+ <title>Back 2 Reality</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.8</rating>
+ 
+ <songlength>71</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 00:22:32</locked_until>
+ <lastplayed>2018-06-04 07:21:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="558">Jaan</artist>
+ </artists>
+ <groups>
+  <group id="71">Phantasy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

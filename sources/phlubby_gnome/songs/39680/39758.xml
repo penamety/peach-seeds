@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39758">
+ <title>AY-chip RULEZ Forever</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ 
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 07:23:19</locked_until>
+ <lastplayed>2018-06-15 07:53:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>54353</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

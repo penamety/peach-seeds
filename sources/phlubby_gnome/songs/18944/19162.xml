@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19162">
+ <title>X-terminate</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5143</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 19:40:48</locked_until>
+ <lastplayed>2018-05-13 18:46:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="529">Hollywood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

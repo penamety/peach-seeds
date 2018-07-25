@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5822">
+ <title>Aquaphobia</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.2727</rating>
+ <info>This song was one of my three candidates to take part in the Assembly 93 multichannel music compo.</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 10:53:41</locked_until>
+ <lastplayed>2018-05-22 05:17:58</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

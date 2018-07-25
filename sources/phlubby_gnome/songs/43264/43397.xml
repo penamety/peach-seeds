@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43397">
+ <title>Mystic</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 13:02:43</locked_until>
+ <lastplayed>2017-11-04 03:25:34</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24085">
+ <title>Platinum</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.2727</rating>
+ <info>by pic saint loup
+$$ psl 29.10.93 $$
+
+(scorpik)</info>
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 09:04:19</locked_until>
+ <lastplayed>2018-03-23 14:00:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10270</pouetid>
+ <ytid>LLRjvErU7AY</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  <group id="597">Old Bulls</group><group id="309">Pic Saint Loup</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>AGA</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EasternConference</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LLRjvErU7AY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/42072/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

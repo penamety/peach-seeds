@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4238">
+ <title>Rodriguez from Alby</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0714</rating>
+ 
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 19:14:06</locked_until>
+ <lastplayed>2018-03-07 02:04:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Latin</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

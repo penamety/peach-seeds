@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32872">
+ <title>Zer0-G</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.25</rating>
+ 
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-09 14:04:54</locked_until>
+ <lastplayed>2017-10-20 02:23:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>32275</pouetid>
+ <ytid>2mQ7dP2ilZ8</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  <group id="124">Stellar</group>
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

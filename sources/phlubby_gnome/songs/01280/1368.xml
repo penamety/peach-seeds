@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1368">
+ <title>Y&#39;ra at Dawn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.2857</rating>
+ <info>From the module :
+[quote]This is my contribution to the multichannel music-competition in ASM&#39;95. All samples were sampled by me from my Ensoniq TS-10 and some CD&#39;s, with the exception of samples 4, 13-20, 23, 25, 26 and 30, which were more or less ripped from [artist]1670[/artist], [artist]595[/artist], [artist]711[/artist] and [artist]669[/artist].[/quote]</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-15 16:35:32</locked_until>
+ <lastplayed>2018-05-17 17:55:59</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?63082</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

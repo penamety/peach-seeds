@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44219">
+ <title>jälleenmiksaus</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.0</rating>
+ 
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 15:51:13</locked_until>
+ <lastplayed>2018-02-22 17:31:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="306">Deetsay</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group><group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?90801</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

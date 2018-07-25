@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30356">
+ <title>Insert No Coins</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.18</rating>
+ <info>1st place in combined 64k compo at Main 2010
+
+Tune featured in the album &#34;The lost floppies Vol.1&#34;. Buy it on [url=https://itunes.apple.com/fr/album/insert-no-coins/id492098307]iTunes[/url] !</info>
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 20:23:26</locked_until>
+ <lastplayed>2018-05-22 03:03:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>55991</pouetid>
+ <ytid>bR4c0R10678</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gorillaz</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bR4c0R10678</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

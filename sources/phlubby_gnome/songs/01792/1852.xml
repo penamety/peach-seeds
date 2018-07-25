@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1852">
+ <title>Ultima V - Stones 2001</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4737</rating>
+ 
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-02 21:57:40</locked_until>
+ <lastplayed>2017-06-26 00:29:02</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="339">DjLizard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

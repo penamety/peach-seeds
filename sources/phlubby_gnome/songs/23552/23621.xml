@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23621">
+ <title>Next</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-11 08:19:43</locked_until>
+ <lastplayed>2017-10-21 05:06:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>57740</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1752">Rhino</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

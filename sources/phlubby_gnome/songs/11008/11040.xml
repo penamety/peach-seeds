@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11040">
+ <title>Guardian Dragon</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.34</rating>
+ 
+ <songlength>442</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 23:38:23</locked_until>
+ <lastplayed>2018-06-14 19:35:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4720</pouetid>
+ <ytid>8PRgJl8eAa4</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>LowlifeParty</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

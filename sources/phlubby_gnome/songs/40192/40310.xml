@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40310">
+ <title>Gravis Ultrasound Advertisement</title>
+ <status v="A">Active</status>
+ <bitrate>63</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>This is a little demo done by Triton. The word is that it was never supposed to be released, but Gravis was so excited about it that they published that without Triton&#39;s consent. If you run this demo, you can only hear the music if you have a Gravis Ultrasound card.</info>
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-19 13:08:20</locked_until>
+ <lastplayed>2018-01-01 10:31:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>2586</pouetid>
+ <ytid>i-x9DjqvxeM</ytid>
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist><artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=i-x9DjqvxeM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

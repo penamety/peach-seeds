@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41343">
+ <title>Jelly</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.2424</rating>
+ <info>Placed 2nd for the Scenecompo #32 - AHX Compo </info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 01:32:52</locked_until>
+ <lastplayed>2018-05-15 22:34:54</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

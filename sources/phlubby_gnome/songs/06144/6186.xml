@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6186">
+ <title>Raspberry Jam</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6923</rating>
+ 
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 16:04:31</locked_until>
+ <lastplayed>2018-05-25 02:41:54</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1000">Red Ribbon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>wah-wah</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

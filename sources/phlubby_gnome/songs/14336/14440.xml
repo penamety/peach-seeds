@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14440">
+ <title>Chequered Chameleon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.8478</rating>
+ <info>Made 5th place at Evoke 2002. Released as part of song catalogue of group J&#39;Ecoute.</info>
+ <songlength>284</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 08:00:39</locked_until>
+ <lastplayed>2018-05-27 08:43:12</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  <group id="98">j&#39;écoute</group>
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

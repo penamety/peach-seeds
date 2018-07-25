@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33169">
+ <title>Solution</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="45">3.8</rating>
+ 
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 04:24:50</locked_until>
+ <lastplayed>2018-06-06 05:21:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3593</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="488">Gladiator</artist>
+ </artists>
+ <groups>
+  <group id="577">IT</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

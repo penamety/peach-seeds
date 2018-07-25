@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38953">
+ <title>2600</title>
+ <status v="A">Active</status>
+ <bitrate>5</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ <info>      ___\_      / _____ __\\_   \_ _____  __\\_   \_ ___   _ __/ //_____
+    _)   /     /_\\_   \_   /    //    //_    /    // _//_____   _/    (_
+    \   /     /    /    /  /     \      _/   _    /   \_     /   \      /
+    /________/    _    /___\______\     \____\____\    /    /_____\_____\
+    - -diP-_ ______\____\-----_ __________\-----_ ___________\-bM!------ -
+                            V  A  N  T  A  G  E
+
+                                 presents
+
+                                   2600
+                              (final release)
+
+                       a 4k intro for the atari 2600
+
+                       released 2004 at buenzli 1337
+
+                               code::moerder
+                              music::decybel
+
+                 thanks to paul slocum for his musickit 2.
+
+                                   ---
+
+          if you have the possibility, watch it on real hardware.
+            the music will sound much better than on emulators.
+
+                   the best atari 2600 emulator is z26:
+                    http://www.whimsey.com/z26/z26.html
+
+          when watching the intro with z26 you should supply the
+                           -f switch, like this:
+
+                              z26 2600.bin -f
+
+      while the intro is running, the bw/color switch (F3/F4 in z26)
+   toggles between PAL/NTSC mode. reset (F1 in z26) restarts the intro.
+</info>
+ <songlength>93</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 12:42:46</locked_until>
+ <lastplayed>2018-05-12 06:58:17</lastplayed>
+ <platform id="46">Atari VCS (2600)</platform>
+ <type id="2">Demo</type>
+ <pouetid>13900</pouetid>
+ <ytid>AeWskixCkrU</ytid>
+ 
+ 
+ <artists>
+  <artist id="5399">Decybel</artist>
+ </artists>
+ <groups>
+  <group id="752">Vantage</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AeWskixCkrU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

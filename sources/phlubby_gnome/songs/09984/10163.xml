@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10163">
+ <title>Dark Side of the Spoon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">4.3152</rating>
+ <info>Music from the &#34;twiddle&#34; part of the demo</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 05:56:07</locked_until>
+ <lastplayed>2018-05-20 12:06:16</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11349</pouetid>
+ <ytid>v7_BEAmWf28</ytid>
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="517">The Lost Boys [TLB]</group><group id="468">Unlimited Matricks [ULM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>drugs</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=v7_BEAmWf28</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37767">
+ <title>Draskall Knorropt</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="32">3.3125</rating>
+ 
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 09:25:52</locked_until>
+ <lastplayed>2018-05-10 07:05:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9106</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="431">Fajser</artist>
+ </artists>
+ <groups>
+  <group id="845">Rage</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Industrial</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26734">
+ <title>In Crapula Veritas</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-25 19:56:37</locked_until>
+ <lastplayed>2017-06-17 22:41:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>12088</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="792">Mick Rippon</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

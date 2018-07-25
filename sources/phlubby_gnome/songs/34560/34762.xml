@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34762">
+ <title>Love &#39;96</title>
+ <status v="A">Active</status>
+ <bitrate>315</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.037</rating>
+ <info>12th place in Enlight &#39;96 ZX Spectrum music competition</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 01:17:51</locked_until>
+ <lastplayed>2018-05-27 00:04:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1088">Slash [ru]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

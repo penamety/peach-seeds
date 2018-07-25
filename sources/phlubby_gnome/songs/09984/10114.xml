@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10114">
+ <title>Vicious SID module 1</title>
+ <status v="A">Active</status>
+ <bitrate>242</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">2.5</rating>
+ 
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 01:53:59</locked_until>
+ <lastplayed>2017-10-01 19:31:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>51993</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1480">Mixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

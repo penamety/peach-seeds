@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3298">
+ <title>Our Reason to be Here (Electricity loader)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.5714</rating>
+ 
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 21:13:59</locked_until>
+ <lastplayed>2017-10-31 13:58:57</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>3456</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  <group id="310">Appendix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Loader</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

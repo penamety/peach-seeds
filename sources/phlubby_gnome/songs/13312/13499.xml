@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13499">
+ <title>Sumea</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 23:59:10</locked_until>
+ <lastplayed>2018-03-09 14:28:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1154</pouetid>
+ <ytid>iFAFhZPIvOs</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="35">Alien</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

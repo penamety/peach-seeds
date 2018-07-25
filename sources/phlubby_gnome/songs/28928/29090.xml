@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29090">
+ <title>Technocop</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>Original SID by Ben Daglish:
+Download [url=http://gallium.prg.dtu.dk/HVSC/C64Music/MUSICIANS/D/Daglish_Ben/Motor_Massacre.sid]SID[/url].</info>
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-01 02:50:02</locked_until>
+ <lastplayed>2017-09-24 02:26:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4199">Gol</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

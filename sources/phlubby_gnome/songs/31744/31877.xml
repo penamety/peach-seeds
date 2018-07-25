@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31877">
+ <title>Task III</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.2759</rating>
+ 
+ <songlength>341</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 23:54:58</locked_until>
+ <lastplayed>2018-06-16 07:26:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4677">Visa Röster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>autotune</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Female</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

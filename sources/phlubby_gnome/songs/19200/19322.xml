@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19322">
+ <title>Higher Place [pov 152 menu]</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0909</rating>
+ 
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 14:34:00</locked_until>
+ <lastplayed>2018-05-29 00:12:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>19559</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="555">Iso</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

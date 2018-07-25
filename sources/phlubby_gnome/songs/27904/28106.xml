@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28106">
+ <title>Ferie Igen</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0952</rating>
+ <info>Composed by Lemmus of Efreet for the SceneNet/EC 25k Music compo 15/6-1997</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 15:39:35</locked_until>
+ <lastplayed>2018-04-01 03:55:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4049">Lemmus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ElevatorMusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

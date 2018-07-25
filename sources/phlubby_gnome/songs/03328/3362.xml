@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3362">
+ <title>Radio Moscow</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">3.2222</rating>
+ <info>(c) jesper kyd 1992
+made the 13/8 - ????
+enjoy this hardtrack!
+ps: this has nothing
+to do with tecno!!!!!
+
+2nd @ Assembly 1993 PC Demo competition (MS-Dos)
+
+Lyrics:
+Amerikanski firma Tranceptor Technology</info>
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 09:29:57</locked_until>
+ <lastplayed>2018-05-12 10:21:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7658</pouetid>
+ <ytid>qW1K9owKNUc</ytid>
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qW1K9owKNUc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/6696/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

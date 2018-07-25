@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40177">
+ <title>Schtrombloxke Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>87</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-10 22:06:12</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>59376</pouetid>
+ <ytid>2rT_q8CSeS8</ytid>
+ 
+ 
+ <artists>
+  <artist id="3852">elblanco</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2rT_q8CSeS8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

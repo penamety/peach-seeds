@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5967">
+ <title>Happy Sundays</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">4.3521</rating>
+ 
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 09:45:51</locked_until>
+ <lastplayed>2018-05-31 17:22:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>17049</pouetid>
+ <ytid>5bRofU3H5SY</ytid>
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Icing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

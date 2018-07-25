@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="346">
+ <title>Hello Maniacs of Noise</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>105</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:58:50</locked_until>
+ <lastplayed>2018-06-01 13:59:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13304</pouetid>
+ <ytid>6Y8WHKRY0uM</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

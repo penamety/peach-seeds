@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10735">
+ <title>Last Ninja Remix Level 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ <info>Taken from the Last Ninja Remix game on the Amiga. The tune was created using Hippel Coso software.</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-06 01:45:06</locked_until>
+ <lastplayed>2017-12-19 06:10:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

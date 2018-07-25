@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5999">
+ <title>Paul the Penguin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">4.5</rating>
+ 
+ <songlength>102</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 02:58:26</locked_until>
+ <lastplayed>2018-06-04 12:45:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9226</pouetid>
+ <ytid>F5pafWG6sII</ytid>
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="168">Limited Edition [LED]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>RadixStyle</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?53421</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

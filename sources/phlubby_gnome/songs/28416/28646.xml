@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28646">
+ <title>Petarda</title>
+ <status v="A">Active</status>
+ <bitrate>221</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.4605</rating>
+ <info>14th @ BreakPoint 2010 - Streaming music</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 06:43:50</locked_until>
+ <lastplayed>2018-06-11 09:24:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

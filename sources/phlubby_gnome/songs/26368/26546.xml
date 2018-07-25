@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26546">
+ <title>I Has the Lead</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.4444</rating>
+ <info>#3 in Oldschool music compo at Solskogen &#39;07</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 17:11:45</locked_until>
+ <lastplayed>2018-06-03 18:02:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group><group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

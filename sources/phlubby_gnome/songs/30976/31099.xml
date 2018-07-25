@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31099">
+ <title>0059. Happy Crappy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>A short and pretty poor entry to a #renoise compo held: 2010-09-02</info>
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 16:23:36</locked_until>
+ <lastplayed>2017-10-24 00:55:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

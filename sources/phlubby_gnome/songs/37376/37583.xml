@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37583">
+ <title>Dancing in the Tube</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>These songs are in the s3m format. All of them use 6 channels, and samples from various other artists. All were made using Modplug tracker.
+
+Dancing In The Tube (Jul 2008/May 2010)
+
+http://modarchive.org/index.php?request=view_by_moduleid&amp;query=169477</info>
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-10 21:47:26</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4034">FearofDark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

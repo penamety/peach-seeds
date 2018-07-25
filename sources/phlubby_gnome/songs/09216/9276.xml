@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9276">
+ <title>Sphinx</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1724</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 03:10:17</locked_until>
+ <lastplayed>2018-05-15 16:10:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>7332</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="402">Hoodlum (HLM)</group><group id="83">Scoopex</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40517">
+ <title>Space Drugs</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>placed #3, at Nectarine Scenecompos #29, &#34;Coop-Compo&#34; Elrinth, lemonade and Rams :)</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2017-05-30 09:19:40</locked_until>
+ <lastplayed>2017-05-28 07:03:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="1999">lemonade</artist><artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

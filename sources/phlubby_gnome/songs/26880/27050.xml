@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27050">
+ <title>Vice Versa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-26 14:42:08</locked_until>
+ <lastplayed>2018-02-06 01:19:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10255</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="364">Don Cato</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

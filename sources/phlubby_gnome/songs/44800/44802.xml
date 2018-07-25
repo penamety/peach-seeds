@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44802">
+ <title>Alice [End]</title>
+ <status v="A">Active</status>
+ <bitrate>130</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.4</rating>
+ <info>Tracked with love by me and my mate Bernd &#34;Dascon&#34; Hoffmann for the Amiga OCS Demo &#34;The Fall&#34; by The Deadliners &amp; Lemon. 
+(1st place in the &#34;Best Amiga Demo Competition&#34; at Revision Demoparty 2018)
+
+ProTracker Mod, 4ch, 301kb</info>
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 23:07:36</locked_until>
+ <lastplayed>2018-06-12 12:10:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>75773</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ryt9ZWOgjao</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://soundcloud.com/virgill/alice-end-the-fall-ost</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

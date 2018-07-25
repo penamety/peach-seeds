@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44766">
+ <title>Sleepy Ciggy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>For Nectarine compo #40 - The traditional compo [url]https://www.scenemusic.net/forum/thread/1542/[/url]
+
+Initially was going to remix old georgian folksong Tsintskaro, which i knew from Herzog&#39;s Nosferatu (and Kate Bush) [url]https://www.youtube.com/watch?v=r3pTaSe4c-s[/url] to some preferably Galway-like harmonic stuff. Buuut it turned too difficult for me. 
+
+Then in was going through old finnish traditional songs and bumped into old lullaby [url]https://www.youtube.com/watch?v=hFCixLn9qRw[/url] (the melody is also sung with different lyrics, like &#34;tuu, tuu, tupakkarulla&#34;)  and thought that hey i basicly have made this already (as [url]https://www.scenemusic.net/demovibes/song/41415/[/url] ) and made the cheap move by (a)busing my old module heavily for this compo entry :dolan: 
+
+
+
+</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 05:10:30</locked_until>
+ <lastplayed>2018-05-24 04:07:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Sleepy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/serpentbrs/sleepy-ciggy</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

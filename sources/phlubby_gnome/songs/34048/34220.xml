@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34220">
+ <title>Binary of Babel (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>399</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.75</rating>
+ 
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 09:17:25</locked_until>
+ <lastplayed>2018-04-27 12:40:36</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56112</pouetid>
+ <ytid>sOVF6AuAFtg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4900">Jicamu</artist>
+ </artists>
+ <groups>
+  <group id="651">Segfault Garden</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sOVF6AuAFtg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

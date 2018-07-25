@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19630">
+ <title>A Sixties Slow</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 19:14:15</locked_until>
+ <lastplayed>2018-04-08 23:15:32</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

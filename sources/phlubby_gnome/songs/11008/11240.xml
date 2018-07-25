@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11240">
+ <title>Chill City</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1667</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 01:19:39</locked_until>
+ <lastplayed>2018-06-10 03:18:42</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50155</pouetid>
+ <ytid>HzVpi6vZsg0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

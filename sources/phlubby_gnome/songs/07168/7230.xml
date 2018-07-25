@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7230">
+ <title>Arvids Fredag</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">2.1728</rating>
+ 
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 11:13:22</locked_until>
+ <lastplayed>2018-04-30 09:01:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9184</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>FridayTune</tag>
+  
+  <tag>puke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

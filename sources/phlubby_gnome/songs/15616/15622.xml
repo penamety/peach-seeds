@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15622">
+ <title>Soft Vision</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0714</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-31 14:56:35</locked_until>
+ <lastplayed>2017-12-10 02:49:31</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>18131</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2382">C-Frog</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Hackernight</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

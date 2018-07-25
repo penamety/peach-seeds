@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28567">
+ <title>Rainbow Clash (Wir Sind Einstein)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">4.0789</rating>
+ <info>4th place in pc demo compo at Breakpoint 2010
+
+Lyrics:
+
+Our theses are strong, our papers are long, let us inside, let there be light;
+No place for doubt, follow who&#39;s loud, research is lust, in Science we trust.
+
+Wir sind Einstein ...
+
+(Sind wir ein Stein?)
+
+Vocals by Pala.</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:57:38</locked_until>
+ <lastplayed>2018-05-22 13:05:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54565</pouetid>
+ <ytid>F6kfSG3NlyU</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="385">Digital Dynamite [DD]</group><group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=F6kfSG3NlyU</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

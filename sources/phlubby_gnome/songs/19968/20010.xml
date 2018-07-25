@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20010">
+ <title>Mama, Don&#39;t Buy Me a Commmodore</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">2.7882</rating>
+ 
+ <songlength>406</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:35:17</locked_until>
+ <lastplayed>2018-05-30 09:54:11</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Commodore</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

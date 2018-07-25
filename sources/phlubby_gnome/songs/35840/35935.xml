@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35935">
+ <title>Fear Factory</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>Remix of a tune from Super Nintendo game &#34;Donkey Kong Country&#34;</info>
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-15 15:52:12</locked_until>
+ <lastplayed>2018-01-27 04:43:56</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="618">Kellersound</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42997">
+ <title>Square Wars I: Assault (YM version)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>3rd in the ST News International Christmas Coding Convention (STNICCC) 2015 YM2149 Tune competition.
+
+
+Title:        Square Wars I: Assault (YM version)
+Author nick:  wiecz0r (eng. pron. vietshoor )
+Author name:  Bartlomiej Wieczorkowski (just Bart :)
+Tracker:      maxYMiser 1.33a
+Hardware:     ST (only YM - no DMA used), colour mode
+Player:       maxYMiser 1.33a OR SND Player v1.51  
+Contribution: Music YM Compo at STNICCC 2015                        
+Year:         2015</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-28 06:32:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>Y4jDZiB8DXA</ytid>
+ 
+ 
+ <artists>
+  <artist id="5651">wiecz0r</artist>
+ </artists>
+ <groups>
+  <group id="787">Hemoroids</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>STNICCC</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Y4jDZiB8DXA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/151586/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

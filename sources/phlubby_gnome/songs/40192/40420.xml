@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40420">
+ <title>OldSchoolNeverDie - HMD main preview</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ 
+ <songlength>364</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 20:57:32</locked_until>
+ <lastplayed>2017-10-07 21:43:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>62968</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="787">Hemoroids</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

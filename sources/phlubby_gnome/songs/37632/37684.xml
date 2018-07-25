@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37684">
+ <title>For Stormlord</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ <info>From [url]http://noname.c64.org/csdb/release/?id=59300[/url]</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 04:15:50</locked_until>
+ <lastplayed>2018-01-25 01:51:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4358">Tim Kleinert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

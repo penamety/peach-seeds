@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25780">
+ <title>Burp</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.2174</rating>
+ 
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:05:28</locked_until>
+ <lastplayed>2018-05-21 06:14:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57851</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2051">Touldie</artist>
+ </artists>
+ <groups>
+  <group id="732">Camorra</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>GeneralProbe</tag>
+  
+  <tag>Trackmo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

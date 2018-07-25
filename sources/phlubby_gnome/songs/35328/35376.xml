@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35376">
+ <title>The Final Bitchslap</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.2157</rating>
+ <info>Raw Atari STe (maxYMiser) (and a few notes of Game Boy for the leads in some parts).</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 10:59:06</locked_until>
+ <lastplayed>2018-05-01 23:24:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AtariSTe</tag>
+  
+  <tag>gameboy</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

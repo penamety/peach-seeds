@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31533">
+ <title>PCW Tune</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.8776</rating>
+ <info>Falco:
+&#34;A special worthnoty track mentioning from these early days is the “PCW tune”, which was a huge hit in the scene. It was part of a compilation demo in order to promote ourselves among game producers on the 1988 London PCW show.&#34;</info>
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 06:20:39</locked_until>
+ <lastplayed>2018-06-01 01:32:18</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>41646</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

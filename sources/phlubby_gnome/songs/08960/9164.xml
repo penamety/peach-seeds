@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9164">
+ <title>Turbulence</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="95">4.2947</rating>
+ <info>First @ BP2009 (Wild)</info>
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 14:59:29</locked_until>
+ <lastplayed>2018-05-23 11:15:00</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>53003</pouetid>
+ <ytid>6gEMKYnUADE</ytid>
+ <ytoffset>63</ytoffset>
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

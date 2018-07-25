@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9999">
+ <title>Bad Company - Track 4 [YM]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Download Link: http://www.andykellett.com/MP3/David_Whittaker-Bad_Company_Track_4_YM.mp3</info>
+ <songlength>67</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-24 20:49:51</locked_until>
+ <lastplayed>2017-06-18 11:21:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

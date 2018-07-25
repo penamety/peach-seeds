@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1677">
+ <title>Kaosmodule</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.2</rating>
+ 
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 00:08:36</locked_until>
+ <lastplayed>2018-04-18 01:03:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4063</pouetid>
+ <ytid>KXV5-GkKUsk</ytid>
+ <ytoffset>293</ytoffset>
+ 
+ <artists>
+  <artist id="319">Diablo</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KXV5-GkKUsk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

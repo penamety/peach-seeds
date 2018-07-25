@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="990">
+ <title>Lost Patrol (title)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.1373</rating>
+ 
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 10:28:54</locked_until>
+ <lastplayed>2018-05-28 06:55:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>yvUTLeo0V5U</ytid>
+ 
+ 
+ <artists>
+  <artist id="203">Chris Glaister</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/924</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

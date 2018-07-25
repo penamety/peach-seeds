@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34230">
+ <title>Zak (McKrackenica edition)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.3265</rating>
+ 
+ <songlength>95</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 00:17:30</locked_until>
+ <lastplayed>2018-06-12 03:31:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4904">NecroPolo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

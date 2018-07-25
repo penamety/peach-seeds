@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7173">
+ <title>Testlast (Nine Fingers)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="109">4.211</rating>
+ <info>9 fingers / spaceballs (making of) video [url]http://www.youtube.com/watch?v=WgriMuXZ3QY[/url]</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 16:51:37</locked_until>
+ <lastplayed>2018-05-21 23:40:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>100</pouetid>
+ <ytid>Nln80hiP5AY</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1256">Travolta</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Jingle</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Nln80hiP5AY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30787">
+ <title>skid-row (CPC cover)</title>
+ <status v="A">Active</status>
+ <bitrate>185</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="44">4.0227</rating>
+ <info>This tune is a CPC cover of the Skid Row cracktro tune on the Amiga (see youtube link) </info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-05 07:54:36</locked_until>
+ <lastplayed>2018-05-04 10:05:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EnjMLqDxSRg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

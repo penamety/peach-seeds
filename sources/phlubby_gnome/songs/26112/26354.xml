@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26354">
+ <title>Everything&#39;s Fine</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.4348</rating>
+ 
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-15 19:32:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9517</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>Eurochart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

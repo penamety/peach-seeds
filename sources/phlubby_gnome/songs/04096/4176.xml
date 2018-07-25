@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4176">
+ <title>Whack Bonk</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.3265</rating>
+ 
+ <songlength>326</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 02:49:44</locked_until>
+ <lastplayed>2018-06-01 02:02:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

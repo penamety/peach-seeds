@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42471">
+ <title>Technostyle III</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>by xenox of triad -91
+ST-03:filter2
+ST-03:filter1
+ST-03:filter4
+ST-03:panflute2
+ST-03:moviehit6
+
+ST-03:snaredrum5
+ST-89:bassdrum3
+
+
+ST-90:shaker2
+ST-91:longsynth2 
+</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 13:44:07</locked_until>
+ <lastplayed>2017-10-01 05:03:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5631">Xenox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39095">
+ <title>Through The Rainforest</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0588</rating>
+ <info>A small ambient track I made for this year&#39;s 32k executable music competition at Nordlicht. This is the final release. A download of the 32k executable file will be available in a few days too. Enjoy! :)</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 04:47:19</locked_until>
+ <lastplayed>2018-05-21 02:40:49</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4444">SunSpire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>32k</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

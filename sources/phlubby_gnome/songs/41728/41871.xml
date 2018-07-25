@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41871">
+ <title>Come to Success (Deeper Focus)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1053</rating>
+ <info>&#34;The song from Adapt&#39;s demo Deeper Focus at Revision 2015. Unfortunately the demo didn&#39;t end up in the top three. I tried to mix genres so confusingly so it would be uncategorizable (Turkish, Egyptian, Indian, dub, metal etc), but some anorak categorized this as maqsoum based on the rhythm.&#34;</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 21:55:30</locked_until>
+ <lastplayed>2018-06-10 01:27:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65397</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1317">Bass-Cadet</artist>
+ </artists>
+ <groups>
+  <group id="131">Adapt</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Ethnic</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

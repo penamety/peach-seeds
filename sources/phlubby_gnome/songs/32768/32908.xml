@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32908">
+ <title>Kheper O.S.T.</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.7308</rating>
+ <info>The soundtrack to the Amiga 64kB intro release at Revision 2011</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-07 03:49:17</locked_until>
+ <lastplayed>2017-07-01 07:46:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>56857</pouetid>
+ <ytid>AeDFIgnlbSQ</ytid>
+ <ytoffset>50</ytoffset>
+ 
+ <artists>
+  <artist id="3551">Selectanovel</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

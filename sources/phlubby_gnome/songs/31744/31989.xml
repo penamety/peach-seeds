@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31989">
+ <title>Ballad of a Cluster Bomb</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.4848</rating>
+ <info>I was born between factory walls.
+I was conceived among the ivory halls;
+And in this world I knew my role.
+I went to work with a single goal.
+I travelled the Earth to far-off lands,
+From the Asian jungles to the African sands.
+I flew in planes of camouflage green
+Before I settled upon this scene.
+Like a shooting star, I came to rest,
+And this farmer&#39;s field is where I nest,
+Watching the seasons come and go,
+Watching the long grass grow and grow.
+
+The years pass by and I lay here still,
+For my purpose is clear for me to fulfil.
+The sun was out, it was the middle of May
+When the farmer&#39;s three children came out to play.
+They ventured near; I lay in wait.
+One unknowing step sealed their fate.
+One thousand shards of plastic rose
+From where I lay and through their clothes,
+Into their bodies the shrapnel sank,
+Here in this field, by a river bank.
+The blood poured down, shone in the sun,
+And one cluster bomblet&#39;s job was done.
+</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:21:25</locked_until>
+ <lastplayed>2018-06-07 13:24:42</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53891</pouetid>
+ <ytid>NVPBEYXrfWk</ytid>
+ 
+ 
+ <artists>
+  <artist id="4686">David Rovics</artist>
+ </artists>
+ <groups>
+  <group id="521">Kooma</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=NVPBEYXrfWk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

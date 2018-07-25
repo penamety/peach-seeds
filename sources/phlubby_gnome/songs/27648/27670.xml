@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27670">
+ <title>Seeker (Rainbow Beer MD - Epilogue)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.3</rating>
+ <info>Rob F.: «This music written on the personal Music Editor name as &#34;MASON-AY-II+Wild Sound&#34;»</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 04:38:07</locked_until>
+ <lastplayed>2018-06-14 05:23:53</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54238</pouetid>
+ <ytid>_L2JAQBHfeg</ytid>
+ 
+ 
+ <artists>
+  <artist id="3991">Robus</artist>
+ </artists>
+ <groups>
+  <group id="242">Entire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>food</tag>
+  
+  <tag>MASON-AY</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=1sk2Xn7cIYY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_L2JAQBHfeg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/4128/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36860">
+ <title>Helios</title>
+ <status v="A">Active</status>
+ <bitrate>282</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="52">4.4423</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 20:53:43</locked_until>
+ <lastplayed>2018-05-21 00:36:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="270">Cyrex</artist>
+ </artists>
+ <groups>
+  <group id="300">Inque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

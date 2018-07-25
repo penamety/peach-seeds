@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11425">
+ <title>Evolve</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.7778</rating>
+ 
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 12:34:50</locked_until>
+ <lastplayed>2018-05-26 08:33:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53650</pouetid>
+ <ytid>A5_pg0fnSa4</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1912">Aikapallo</artist>
+ </artists>
+ <groups>
+  <group id="589">Division</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=A5_pg0fnSa4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

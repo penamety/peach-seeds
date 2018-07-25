@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30285">
+ <title>Rave-o-lution</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.5484</rating>
+ <info>Some of the samples were ripped from some finnish dude but i can&#39;t remember more.</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 08:21:45</locked_until>
+ <lastplayed>2018-05-17 12:18:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Go!</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

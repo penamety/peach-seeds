@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42420">
+ <title>Folie au Deux</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ 
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 17:06:29</locked_until>
+ <lastplayed>2018-05-16 10:03:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66373</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5624">Octapus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

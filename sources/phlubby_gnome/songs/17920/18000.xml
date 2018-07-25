@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18000">
+ <title>The Last V8</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.3462</rating>
+ <info>[url=http://remix.kwed.org/download.php/1255/Fabian%20Del%20Priore%20-%20The%20Last%20V8%20%28Original%20Mix%29.mp3]download @ RKO[/url]</info>
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 01:04:09</locked_until>
+ <lastplayed>2018-06-11 08:50:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="726">Marcel Donné</artist><artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bells</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

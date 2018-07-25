@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34109">
+ <title>Attempt</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.283</rating>
+ <info>2nd place in combined demo compo at Function 2011
+
+Attempt by mu6k + Kenet / Brainstorm. Released at Function 2011 Demo Compo.</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 21:51:54</locked_until>
+ <lastplayed>2018-06-12 17:30:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57761</pouetid>
+ <ytid>sEWW6t3CRXE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sEWW6t3CRXE</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

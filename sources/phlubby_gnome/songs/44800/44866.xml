@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44866">
+ <title>Just Bacter</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.75</rating>
+ <info>7th in the Revision 2018 tracked music compo</info>
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 19:46:43</locked_until>
+ <lastplayed>2018-06-16 17:04:20</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  <group id="26">Speckdrumm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/185101/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

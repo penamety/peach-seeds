@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27682">
+ <title>Around The World</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.0</rating>
+ <info>was meant for TUM09 tracked music competition. turns out the rules forbid renoise, so streamed music instead.
+
+intention behind this song was to make renoise sound as much as a sequencer with expensive vstis as possible, but using only samples and renoises built in capabilities, at the same time staying below the &#34;magical&#34; boundary of 1,44MB. consequently, there is some naughty manual fakery hidden in here! :)</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 20:25:51</locked_until>
+ <lastplayed>2018-05-25 21:40:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23137">
+ <title>Rivendell</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ <info>TG&#39;97 compo entry.</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-28 16:50:18</locked_until>
+ <lastplayed>2018-04-24 00:52:39</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist><artist id="3906">Skize</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

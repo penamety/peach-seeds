@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40732">
+ <title>Trained</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8</rating>
+ <info>3rd place at combined demo in Assembly 2014.</info>
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 00:22:22</locked_until>
+ <lastplayed>2018-06-14 05:33:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>63861</pouetid>
+ <ytid>XQ96H8js_A4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="772">Melwyn</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

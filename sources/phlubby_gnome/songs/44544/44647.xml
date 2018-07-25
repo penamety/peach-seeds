@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44647">
+ <title>Blue Lotus</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.25</rating>
+ <info>. Blue Lotus .
+
+       Composed by
+  Sonic/Destiny/Cows
+
+ Special highs to the
+ whole Destiny team!
+
+ For the rest,check
+ the info file.
+
+ More of this in the
+ future. I&#39;m beginning
+ to like making slow
+ tunes...
+
+ Signing off,Sonic
+</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 00:01:32</locked_until>
+ <lastplayed>2018-05-11 11:09:09</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1809">Sonic</artist>
+ </artists>
+ <groups>
+  <group id="370">Destiny</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?48912</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43850">
+ <title>Miami Beach Race 2008 Turbo!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.2222</rating>
+ <info>Released 20 September 2008
+1st in the Stream 2008 Listening Music competition
+</info>
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 05:09:00</locked_until>
+ <lastplayed>2018-06-17 03:05:07</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5180">Ruuvari</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>Stream</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/68447/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

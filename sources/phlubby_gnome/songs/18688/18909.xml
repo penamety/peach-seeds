@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18909">
+ <title>What?</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ 
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 23:57:43</locked_until>
+ <lastplayed>2018-03-23 10:50:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>9285</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="500">Grim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

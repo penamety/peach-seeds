@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36551">
+ <title>Spontaneous Devotion</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.2</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 18:39:11</locked_until>
+ <lastplayed>2018-04-17 23:01:33</lastplayed>
+ <platform id="19">Gameboy</platform>
+ 
+ 
+ <ytid>eUXEGibxPLo</ytid>
+ 
+ 
+ <artists>
+  <artist id="3455">Random</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=uz9FkYrhdfU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=eUXEGibxPLo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

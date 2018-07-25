@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29954">
+ <title>Pilgrimage 2004 Invitation (aka &#34;Demotype&#34;)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.1892</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 18:30:42</locked_until>
+ <lastplayed>2018-06-03 03:28:26</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>12405</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="153">Northern Dragons</group>
+ </groups>
+ 
+ <tags>
+  <tag>chippop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

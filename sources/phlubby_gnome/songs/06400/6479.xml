@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6479">
+ <title>Doom</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-03 22:17:53</locked_until>
+ <lastplayed>2017-09-26 09:56:34</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>13327</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1075">Sine</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

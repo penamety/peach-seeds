@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32017">
+ <title>Itchyscritchy</title>
+ <status v="A">Active</status>
+ <bitrate>209</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>itchyscritchy
+March 1998 by
+Gavin Lucas (glucas@hib.de)
+THX 2.1 Module
+conversion of
+original protracker
+module.
+if you want to get
+in contact write to
+glucas@hib.de
+or visit our
+website:
+home.t-online.de/home/stoexperts
+if you like old c64
+music, watch out
+for our cd projekt
+&#34;64 receycled&#34;
+with some new
+remixed c64 classic
+game tunes...</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-28 05:50:39</locked_until>
+ <lastplayed>2017-12-10 04:21:34</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1095">Gavin Lucas</artist>
+ </artists>
+ <groups>
+  <group id="527">Small Team of Experts</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

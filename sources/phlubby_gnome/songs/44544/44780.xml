@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44780">
+ <title>There</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">4.0</rating>
+ <info>Revision 2018 Streaming Music compo</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 16:11:09</locked_until>
+ <lastplayed>2018-05-28 13:07:12</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4387">Cosmiq (NL)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

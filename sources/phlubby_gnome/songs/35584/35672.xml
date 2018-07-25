@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35672">
+ <title>Dotted Lines</title>
+ <status v="A">Active</status>
+ <bitrate>271</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="36">3.75</rating>
+ <info>Streamed music compo entry @ Revision 2012
+by Erik Rijshouwer
+(party version)</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 15:03:58</locked_until>
+ <lastplayed>2018-03-23 12:42:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="270">Cyrex</artist>
+ </artists>
+ <groups>
+  <group id="300">Inque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40326">
+ <title>Fly Free</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.2778</rating>
+ 
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 13:47:15</locked_until>
+ <lastplayed>2018-05-09 17:30:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>9310</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3413">PRI</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

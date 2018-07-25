@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10225">
+ <title>Clasic Mix</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ <info>Year: 1995
+Releaser: Impact</info>
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 19:21:36</locked_until>
+ <lastplayed>2018-03-03 11:40:56</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1835">Praiser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42099">
+ <title>Love and Pain</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Tune from music collection SID Dualux by Conrad of Samar Productions.
+Tune for 2 SIDs.
+http://csdb.dk/release/?id=108397</info>
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-03 15:49:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59252</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dualsid</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

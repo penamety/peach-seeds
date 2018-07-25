@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29406">
+ <title>Au Dessus des Nuages</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7059</rating>
+ <info>Atari STe + Game Boy + C64 all MIDI Sync. The lead is live played C64 with MIDI keyboard.</info>
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 18:38:36</locked_until>
+ <lastplayed>2017-10-29 23:57:53</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

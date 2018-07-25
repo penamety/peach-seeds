@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3811">
+ <title>Whitelined motion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">2.5556</rating>
+ 
+ <songlength>651</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 06:03:55</locked_until>
+ <lastplayed>2018-05-30 11:38:16</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ <ytid>2JxmXe8P5TM</ytid>
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2JxmXe8P5TM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8552">
+ <title>Dawn</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="44">4.25</rating>
+ <info>Remix of Mike Oldfield&#39;s &#34;Red dawn&#34;.</info>
+ <songlength>140</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 09:16:37</locked_until>
+ <lastplayed>2018-06-15 02:04:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Oldfield</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?62880</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

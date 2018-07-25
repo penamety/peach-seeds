@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42984">
+ <title>Just For You</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>C64 Music Competition at Forever 2e3 2nd Edition (2001) :  #4</info>
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 18:46:41</locked_until>
+ <lastplayed>2018-05-24 01:48:31</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

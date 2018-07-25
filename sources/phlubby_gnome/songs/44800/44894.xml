@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44894">
+ <title>Waterfall</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.6667</rating>
+ 
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 11:22:24</locked_until>
+ <lastplayed>2018-05-29 04:44:07</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="5">Remix</type>
+ <pouetid>75963</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

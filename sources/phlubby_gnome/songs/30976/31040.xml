@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31040">
+ <title>Mindmelt</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5909</rating>
+ 
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 22:10:45</locked_until>
+ <lastplayed>2018-06-05 06:36:30</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>4103</pouetid>
+ <ytid>ibHVnZbpTao</ytid>
+ 
+ 
+ <artists>
+  <artist id="993">Raytrayza</artist>
+ </artists>
+ <groups>
+  <group id="457">kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dialogos</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ibHVnZbpTao</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=2700</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3774">
+ <title>2nd Reality part 1</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">4.4468</rating>
+ 
+ <songlength>98</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 21:10:58</locked_until>
+ <lastplayed>2018-04-23 22:04:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group><group id="462">The Obsessed Maniacs [tOM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

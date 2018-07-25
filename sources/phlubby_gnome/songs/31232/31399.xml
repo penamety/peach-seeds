@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31399">
+ <title>danz 2 rhythm</title>
+ <status v="A">Active</status>
+ <bitrate>240</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>Platform is a V6Z80P+  (16Mhz Z80 with 512k RAM)
+Demo is called &#34;Loopback by Altair&#34;
+</info>
+ <songlength>399</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 04:44:06</locked_until>
+ <lastplayed>2018-04-23 01:44:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>54669</pouetid>
+ <ytid>M8hL3Eiqh_c</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="1103">X-Ceed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>V6Z80P</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=M8hL3Eiqh_c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/906/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="518">
+ <title>Sparkling Champagne</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1481</rating>
+ 
+ <songlength>289</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 18:31:18</locked_until>
+ <lastplayed>2018-04-24 13:50:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>552</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1632">A-move</artist><artist id="1295">Velvet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

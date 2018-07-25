@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39736">
+ <title>Space Traveler (Gem Tos Remix)</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">3.0</rating>
+ <info>Remix of Abe Sangin - Space Traveler (Original Mix).</info>
+ <songlength>621</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5044">Gem Tos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="13">Data Airlines</label>
+ </labels>
+ <tags>
+  <tag>AtariST</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

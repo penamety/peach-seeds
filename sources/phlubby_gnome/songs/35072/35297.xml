@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35297">
+ <title>Traffix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">2.5333</rating>
+ <info>From this intro: [url]http://bitworld.bitfellas.org/demo.php?id=7431[/url]
+
+0	ST-21:BD-behindBd	802
+1	ST-01:SN-D10	2166
+2	mix bd-sn	2166
+3	ST-37:BS-MonoBass	6600
+4	3 x mixsound	9854
+5	ST-01:HH-2	1000
+6	ST-74:HH-open	2902</info>
+ <songlength>341</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-11 16:09:26</locked_until>
+ <lastplayed>2018-01-18 18:14:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5030">Ferro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

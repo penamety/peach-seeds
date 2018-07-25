@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36985">
+ <title>Zen Bowling (AdLib Cover)</title>
+ <status v="A">Active</status>
+ <bitrate>216</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>zen-bowling
+
+tempest, adlib cover by nula :)
+
+ZENBOWL.A2M</info>
+ <songlength>47</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-25 00:33:45</locked_until>
+ <lastplayed>2018-05-06 17:30:47</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1661">Nula</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

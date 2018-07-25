@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32754">
+ <title>Get a Life</title>
+ <status v="A">Active</status>
+ <bitrate>250</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.15</rating>
+ <info>Ranked 15th in the streaming music compo at Revision 2011. Also used in Jeenio&#39;s entry for the animation compo.</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-10 21:33:23</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>hCfcZRwXWtY</ytid>
+ 
+ 
+ <artists>
+  <artist id="2925">Jeenio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hCfcZRwXWtY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

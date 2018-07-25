@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31368">
+ <title>Amberstar tune 18</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7368</rating>
+ 
+ <songlength>82</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-02 10:46:59</locked_until>
+ <lastplayed>2017-12-14 15:14:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.atarilegend.com/games/games_detail.php?game_id=626</url>
+    <comment></comment>
+    <type id="6">
+        <name>Atari Legends</name>
+        <icon>/static/media/linkicons/atari-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

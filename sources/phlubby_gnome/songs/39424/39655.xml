@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39655">
+ <title>On Holiday</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;On Holiday&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007		
+008		
+009		
+010		
+011		
+012		
+013		
+014		
+
+sample list:
+001	Propats Halopad	(16 bit - 34090)
+002	Propats Fngrbass	(16 bit - 15479)
+003	Follow You Synth	(8 bit - 55404)
+004	Sawwave	(16 bit - 12049)
+005	Gtrharm	(16 bit - 4919)
+006	SC Power Kick	(16 bit - 13205)
+007	SC Power Snare	(16 bit - 24993)
+008	SC Cymcrash	(16 bit - 57886)
+009	Hihatcl	(16 bit - 4559)
+010	Cymride1	(16 bit - 17660)
+011	Hihatop	(16 bit - 20041)
+</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-07 00:40:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

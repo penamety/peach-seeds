@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8360">
+ <title>Zelda - Blood of Ganon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="128">3.9063</rating>
+ 
+ <songlength>389</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 04:19:18</locked_until>
+ <lastplayed>2018-06-05 14:57:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gBSo4ef-8ys</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

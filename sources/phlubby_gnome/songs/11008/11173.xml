@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11173">
+ <title>Swing Step</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.129</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 05:21:27</locked_until>
+ <lastplayed>2018-05-01 19:32:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>51760</pouetid>
+ <ytid>I3MUDXk-EE0</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

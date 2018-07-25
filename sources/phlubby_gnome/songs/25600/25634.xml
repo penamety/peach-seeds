@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25634">
+ <title>Before the Raw</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.2973</rating>
+ 
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 10:35:17</locked_until>
+ <lastplayed>2018-05-23 05:00:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11716</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1563">Timbral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

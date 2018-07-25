@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5818">
+ <title>dt-104</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.65</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 02:33:25</locked_until>
+ <lastplayed>2018-04-22 05:40:44</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jingle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

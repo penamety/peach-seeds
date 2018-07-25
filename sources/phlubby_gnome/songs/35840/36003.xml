@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36003">
+ <title>Infodesk Funk</title>
+ <status v="A">Active</status>
+ <bitrate>425</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ <info>5th in the streamed music compo at Evoke 2009.</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-01 23:47:29</locked_until>
+ <lastplayed>2017-05-29 21:34:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4026">cTrix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

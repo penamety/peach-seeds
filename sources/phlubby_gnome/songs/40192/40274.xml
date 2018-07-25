@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40274">
+ <title>Freeside Run</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>7 channels, 16.7kb, loops at about 3 mins. I&#39;d have faded it, but the C50-C90 commands don&#39;t really allow very smooth global fading ;) If necessary, I could fix it for the musicdisk with manual CXX commands in each channel...
+There&#39;s some use of the 4XX filter override command, but I think this is fixed in all replayers now, so that&#39;s cool. 
+Thanks again for a great tracker and a great port :)
+
+&#34;Gartantuan greets to the usuals, with extra h&lt;3arts to xeron, spotUP and exobuzz for this amazing software and for their tireless feature implementations:D Words to d0pefish for all the hardware help and fuckings to parapete for killing the scene.&#34;</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-03 14:18:33</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49931</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

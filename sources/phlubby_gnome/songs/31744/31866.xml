@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31866">
+ <title>TRASHe Second Part</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>Second track from &#34;TRASHe&#34; - ZX Spectrum demo by E-Mage, audiovisual art on 8bit machine.</info>
+ <songlength>111</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 06:02:35</locked_until>
+ <lastplayed>2018-05-27 21:40:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2122</pouetid>
+ <ytid>GLUPiM2ICQI</ytid>
+ <ytoffset>174</ytoffset>
+ 
+ <artists>
+  <artist id="4668">Scratcher</artist>
+ </artists>
+ <groups>
+  <group id="444">E-Mage</group>
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GLUPiM2ICQI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3440</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

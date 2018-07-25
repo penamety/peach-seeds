@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9960">
+ <title>Natural Cause of Life</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.2121</rating>
+ <info>2nd at C64 music compo at The SID Compo IV</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-18 05:35:38</locked_until>
+ <lastplayed>2018-01-01 01:08:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

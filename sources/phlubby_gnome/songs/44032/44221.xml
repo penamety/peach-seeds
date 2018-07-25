@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44221">
+ <title>Viagra</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.4375</rating>
+ <info>1st in Assembly 64k intro compo
+Released by Mewlers</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 12:15:52</locked_until>
+ <lastplayed>2018-05-19 01:01:22</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="378">Mad Elks</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tX4GpQ5wd6w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/8547/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

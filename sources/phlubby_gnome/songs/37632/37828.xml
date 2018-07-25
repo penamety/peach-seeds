@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37828">
+ <title>Flash</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.4286</rating>
+ 
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 13:12:50</locked_until>
+ <lastplayed>2018-03-19 05:16:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60864</pouetid>
+ <ytid>D9q718Px-Jo</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="3299">Noisefever</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Speak</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=D9q718Px-Jo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

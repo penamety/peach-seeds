@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3916">
+ <title>Desert Dream 2 (Checknobankh)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.5923</rating>
+ 
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 13:12:35</locked_until>
+ <lastplayed>2018-05-22 15:02:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1483</pouetid>
+ <ytid>JdXkscH84OY</ytid>
+ <ytoffset>240</ytoffset>
+ 
+ <artists>
+  <artist id="1787">Laxity [Kefrens]</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

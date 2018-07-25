@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41450">
+ <title>Titanic Blinky</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Winner of the ExChipO#0 in 64kb Remake Chip Tune Compo. 
+
+Original ZX theme by DOC^Neon soft.</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 00:10:12</locked_until>
+ <lastplayed>2018-06-05 11:56:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56561</pouetid>
+ <ytid>ane6sknc7to</ytid>
+ 
+ 
+ <artists>
+  <artist id="2003">Silent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ane6sknc7to</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/38066/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

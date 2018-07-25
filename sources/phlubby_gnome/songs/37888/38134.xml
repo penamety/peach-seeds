@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38134">
+ <title>Techno-maniac</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">2.2941</rating>
+ <info>Introsong from the musicdisk vibes by Extreme</info>
+ <songlength>327</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 19:18:18</locked_until>
+ <lastplayed>2017-10-18 23:30:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1237">Tonedeaf</artist>
+ </artists>
+ <groups>
+  <group id="723">Extreme</group>
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>prodigy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

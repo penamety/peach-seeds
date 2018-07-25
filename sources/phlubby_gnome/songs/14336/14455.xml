@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14455">
+ <title>What Child is This (Bacter vs. Enya)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">2.5091</rating>
+ 
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 07:01:21</locked_until>
+ <lastplayed>2018-05-04 15:48:49</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>15036</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>traditional</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

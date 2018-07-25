@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12460">
+ <title>Oh No! More Lemmings - Intsy-Wintsy Lemming</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Psygnosis, 1991
+
+The song is named after the first level it appears on
+
+There are six different songs in this game</info>
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 17:25:41</locked_until>
+ <lastplayed>2018-04-08 03:38:38</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="140">Brian Johnston</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>psygnosis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

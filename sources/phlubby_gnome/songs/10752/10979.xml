@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10979">
+ <title>Beyond</title>
+ <status v="A">Active</status>
+ <bitrate>195</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.4857</rating>
+ <info>1st place in pc 64k compo at state of the art 2004
+
+Music for the Beyond demo by Conspiracy</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:06:12</locked_until>
+ <lastplayed>2018-05-27 04:40:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>11452</pouetid>
+ <ytid>E94Re7mL5vs</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1414">Innocent</artist><artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>StateOfTheArt</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=E94Re7mL5vs</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

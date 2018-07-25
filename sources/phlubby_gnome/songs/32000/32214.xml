@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32214">
+ <title>Hollow Man</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ 
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 10:23:40</locked_until>
+ <lastplayed>2018-05-15 15:17:34</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56794</pouetid>
+ <ytid>JoO0Cif72vY</ytid>
+ 
+ 
+ <artists>
+  <artist id="4716">cornandbeans</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JoO0Cif72vY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27609">
+ <title>TRSI2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 07:47:16</locked_until>
+ <lastplayed>2017-10-31 22:16:43</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ <pouetid>29494</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2630">Double Trouble</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

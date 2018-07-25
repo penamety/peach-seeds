@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9856">
+ <title>Stand By</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.9189</rating>
+ <info>[url=ftp://ftp.modland.com/pub/modules/YM/Big%20Alec/standby.ym]Download .AY[/url]
+[url=http://www.filewatcher.com/m/standby.ym.5019-0.html]Download .AY[/url]</info>
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 02:21:01</locked_until>
+ <lastplayed>2018-06-11 18:27:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

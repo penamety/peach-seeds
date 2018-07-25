@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5860">
+ <title>[Project S-11] Space level final</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9355</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 20:37:43</locked_until>
+ <lastplayed>2018-04-30 05:05:49</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

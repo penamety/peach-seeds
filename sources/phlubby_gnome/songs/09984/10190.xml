@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10190">
+ <title>Jet Set Neo</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>Cover of original Rob Hubbard&#39;s &#34;Jet Set Willy&#34; soundtrack.
+
+Recorded from Atari XE (320 Kb of RAM) and COVOX sound-card.
+Tracker: NeoTracker v1.x.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 06:20:03</locked_until>
+ <lastplayed>2018-06-17 13:48:01</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1829">Epi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

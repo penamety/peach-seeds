@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1887">
+ <title>Oktafonik Yannick</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">1.5769</rating>
+ 
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 19:38:58</locked_until>
+ <lastplayed>2018-05-01 08:21:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

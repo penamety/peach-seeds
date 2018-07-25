@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13113">
+ <title>Electricity</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0278</rating>
+ <info>Encoded with no SFX plugins.
+
+Song looped once.</info>
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 21:41:12</locked_until>
+ <lastplayed>2018-02-16 19:24:14</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>21266</pouetid>
+ <ytid>zamIY6PXIGc</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

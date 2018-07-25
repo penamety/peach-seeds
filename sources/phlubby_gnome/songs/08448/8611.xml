@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8611">
+ <title>HappyNext</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.1159</rating>
+ 
+ <songlength>112</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:38:10</locked_until>
+ <lastplayed>2018-05-24 17:10:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>14585</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1637">JosSs</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

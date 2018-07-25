@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40101">
+ <title>Narvik</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="33">2.0909</rating>
+ <info>Not quite Ambient. Not quite Chill-out and not quite Trance. It&#39;s just an awesome tune that builds and builds..</info>
+ <songlength>672</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 11:56:55</locked_until>
+ <lastplayed>2018-06-09 21:57:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5369">Dr Krall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

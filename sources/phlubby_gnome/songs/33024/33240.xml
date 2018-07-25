@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33240">
+ <title>Rest in &#39;peace&#39;</title>
+ <status v="A">Active</status>
+ <bitrate>138</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.0769</rating>
+ <info>Claims to be the music for the greetings part of a demo, but doesn&#39;t say which one.
+
+Original format is AMF, resaved as .XM with modplug.</info>
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 02:49:37</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4784">Dr. Fruid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

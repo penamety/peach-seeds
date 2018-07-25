@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12035">
+ <title>Do Ya Trust Me?</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">2.9375</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 07:45:06</locked_until>
+ <lastplayed>2018-05-08 11:36:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>12346</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="862">Nightshade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>lounge</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

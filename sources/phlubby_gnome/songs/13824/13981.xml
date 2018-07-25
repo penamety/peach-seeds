@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13981">
+ <title>The Last Unicorn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.9429</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 09:02:08</locked_until>
+ <lastplayed>2018-06-02 03:08:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>19977</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

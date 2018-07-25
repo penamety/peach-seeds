@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2275">
+ <title>Total Kaos 08</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">1.5769</rating>
+ 
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 12:37:58</locked_until>
+ <lastplayed>2018-05-05 17:50:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9410</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="395">Echo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>Rave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

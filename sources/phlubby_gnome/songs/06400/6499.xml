@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6499">
+ <title>Deep in her Eyes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.2703</rating>
+ 
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:55:52</locked_until>
+ <lastplayed>2018-06-10 23:18:15</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1282</pouetid>
+ <ytid>QUwLEWgbTCE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Speak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

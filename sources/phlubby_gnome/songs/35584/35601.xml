@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35601">
+ <title>Brightpast</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.6667</rating>
+ <info>Soundtrack from &#34;BRIGHTPAST&#34; demo by thesuper.
+2nd place at The Alternative Party 2011 in alternative demo compo.</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 11:39:20</locked_until>
+ <lastplayed>2018-04-29 19:59:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>57923</pouetid>
+ <ytid>2AhAOQoFpzc</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="5069">Nick Roll</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2AhAOQoFpzc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3657">
+ <title>Dreamdog</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.3636</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-28 23:48:18</locked_until>
+ <lastplayed>2017-09-18 04:22:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5583</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44506">
+ <title>Just A Little Tuna</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.8889</rating>
+ <info>Got last place in streaming music compo at Under Construction 2017 party</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 09:22:00</locked_until>
+ <lastplayed>2018-05-24 05:42:27</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>UnderConstruction</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

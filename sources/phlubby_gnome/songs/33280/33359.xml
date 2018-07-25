@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33359">
+ <title>Vuvuzelatro</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">2.2</rating>
+ <info>On CSDb [http://noname.c64.org/csdb/release/?id=92257]:
+
+Release Date :
+18 June 2010
+
+Type :
+C64 4K Intro
+
+AKA :
+the most annoying release of 2010
+
+User rating :   *********_  8.7/10 (26 votes)   See votestatistics
+
+Credits :
+Code	 .... 	Street Tuff of Red Sector Incorporated, Tristar &amp; Red Sector Incorporated
+Music	 .... 	4-Mat of Ate Bit, Orb
+Graphics	 .... 	Street Tuff of Red Sector Incorporated, Tristar &amp; Red Sector Incorporated
+
+Download :
+http://noname.c64.org/csdb/getinternalfile.php/89701/vuvuzelatro.prg (downloads: 798)
+http://noname.c64.org/csdb/getinternalfile.php/89702/vuvuzela.sid (downloads: 320)</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>55198</pouetid>
+ <ytid>56u4kS_p-rg</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+  <tag>vuvuzela</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HUrAq6NlRy4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

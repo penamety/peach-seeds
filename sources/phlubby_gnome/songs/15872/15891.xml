@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15891">
+ <title>Overdrive vector</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-22 08:29:37</locked_until>
+ <lastplayed>2017-07-16 13:16:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11351</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2401">Chris Mad</artist>
+ </artists>
+ <groups>
+  <group id="418">Phalanx</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

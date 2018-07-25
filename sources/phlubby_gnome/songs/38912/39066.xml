@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39066">
+ <title>0129. My 1st Atari tune, thx cerror!</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.0</rating>
+ <info>No SID effects at all, playback rate at 50hz.
+
+Full version of [song]38977[/song]
+</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 09:43:04</locked_until>
+ <lastplayed>2018-05-24 10:12:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>61553</pouetid>
+ <ytid>VWbsYrUAjx8</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20566">
+ <title>Dennegangenda</title>
+ <status v="A">Active</status>
+ <bitrate>131</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.4344</rating>
+ 
+ <songlength>424</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:45:09</locked_until>
+ <lastplayed>2018-05-26 17:50:58</lastplayed>
+ 
+ <type id="12">Diskmag</type>
+ <pouetid>49817</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist><artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group><group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Dub</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Slow</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>zine</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

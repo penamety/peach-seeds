@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="69">
+ <title>House 2 House</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6</rating>
+ <info>Used in &#34;Terminator Demo&#34; by Slipstream: http://bitworld.bitfellas.org/demo.php?id=2100
+</info>
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 06:35:29</locked_until>
+ <lastplayed>2018-05-01 08:27:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>House</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

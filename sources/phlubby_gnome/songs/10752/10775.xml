@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10775">
+ <title>SideWinder</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.2653</rating>
+ <info>Created using his own tracker</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 06:17:00</locked_until>
+ <lastplayed>2018-04-17 21:13:21</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

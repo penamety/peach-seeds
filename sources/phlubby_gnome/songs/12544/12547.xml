@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12547">
+ <title>My Dear</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="30">4.0</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 08:53:30</locked_until>
+ <lastplayed>2018-05-17 04:27:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1998">Theo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39541">
+ <title>Cykelbitch</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.0</rating>
+ <info>Released at Gerp 2013.
+Was supposed to be released in a wild demo at that party, but I was unable to finish it in time. Instead the wild demo was released in late october 2013.
+Lyrics in swedish.
+
+
+Verse 1    Vad ser jag, en cyklist är där  I vägen för min SUV  Flytta på dig min bil är här  Vägens regent, cool med hjälp av AC      Vinglande i din egen värld du ler  Fan om du stoppar min acceleration  Jag hatar att tvingas att sakta ner  Det gröna alternativet är bara för hjon  
+
+Chorus x2     Flytta nu på din stålkonstruktion  Koldioxidutsläpp är min grundton  Att sitta på sadel är inte min pitch  Försvinn nu din långsamma cykelbitch  
+
+Middle play 
+
+Verse 2     På somrarna känner man deras lukt  Skaffa körkort nu hippieflum  En riktig man är ingen miljöfrukt  Brandkåren! - Spruta dom med skum! 
+Chorus x2 
+Break 
+Chorus x1 + Last row repeated three times</info>
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 12:25:32</locked_until>
+ <lastplayed>2018-05-01 18:20:55</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>62061</pouetid>
+ <ytid>4oWhZi6htoc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>House</tag>
+  
+  <tag>humour</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Pop</tag>
+  
+  <tag>SwedishSpeak</tag>
+  
+  <tag>SwedishTitle</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4oWhZi6htoc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

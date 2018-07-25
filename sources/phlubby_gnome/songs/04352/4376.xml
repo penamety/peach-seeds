@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4376">
+ <title>Smirk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.9444</rating>
+ 
+ <songlength>136</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 16:55:47</locked_until>
+ <lastplayed>2017-12-14 16:23:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>13803</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Banjo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

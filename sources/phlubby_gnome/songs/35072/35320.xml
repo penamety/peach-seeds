@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35320">
+ <title>The Calm Before the Storm</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.2444</rating>
+ <info>3rd place in Amiga Music Compo at Datastorm 2012
+
+Written in ProTracker.</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 06:48:49</locked_until>
+ <lastplayed>2018-05-30 18:57:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/27200/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

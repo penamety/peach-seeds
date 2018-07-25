@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36357">
+ <title>Winterstar</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">4.4286</rating>
+ <info>.Winterstar
+
+written by CarlLarsson/Nightbeat
+
+for music compo at Breakpoint 2005
+
+Samples from JV-1010, WaldorfmQ, K-station etc. 
+
+Placed 8th at Breakpoint &#39;05</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 02:51:07</locked_until>
+ <lastplayed>2018-05-28 02:42:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10756">
+ <title>Nazca</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.5135</rating>
+ 
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 02:55:38</locked_until>
+ <lastplayed>2018-05-25 23:01:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50865</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>IntelDemoCompetition</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

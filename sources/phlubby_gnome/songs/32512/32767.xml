@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32767">
+ <title>Sunbeam</title>
+ <status v="A">Active</status>
+ <bitrate>469</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="44">4.25</rating>
+ 
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 15:11:33</locked_until>
+ <lastplayed>2018-05-18 09:37:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>54108</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

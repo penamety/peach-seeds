@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3114">
+ <title>Ne Groove V5</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.9091</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 21:12:49</locked_until>
+ <lastplayed>2017-12-23 01:35:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8885</pouetid>
+ <ytid>fTXD23r5hUg</ytid>
+ <ytoffset>143</ytoffset>
+ 
+ <artists>
+  <artist id="523">Hithansen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

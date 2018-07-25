@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43514">
+ <title>The Scene is My Life</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.8421</rating>
+ <info>1st in the Deadline 2016 streaming music competition.
+
+The scene is my life, I cannot deny,
+And I would just die if I had to say bye.
+The scene is my life, I cannot ignore,
+And I will always party hard, that&#39;s for sure.
+Coming all the long way down
+To the biggest party in town.
+Gonna win the competitions and get a crown.
+</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 05:29:54</locked_until>
+ <lastplayed>2018-06-06 19:03:22</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2199">Andy [DE]</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>autotune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Deadline</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/163798/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

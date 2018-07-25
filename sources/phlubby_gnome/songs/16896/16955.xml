@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16955">
+ <title>Vitusatana</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ 
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 08:24:04</locked_until>
+ <lastplayed>2018-01-24 02:02:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7696</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="298">Dean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

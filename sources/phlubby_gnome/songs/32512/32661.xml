@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32661">
+ <title>The Cure For Cancer</title>
+ <status v="A">Active</status>
+ <bitrate>172</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="45">2.9556</rating>
+ <info>3rd place in pc demo at underscore 2002</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 15:39:21</locked_until>
+ <lastplayed>2018-06-10 15:10:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6224</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>disease</tag>
+  
+  <tag>Schranz</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>underscore</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

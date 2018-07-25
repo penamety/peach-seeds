@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38834">
+ <title>Electronic white flowers dancing</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ 
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 01:31:53</locked_until>
+ <lastplayed>2018-06-16 17:53:52</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>LVTcs7w7o34</ytid>
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LVTcs7w7o34</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

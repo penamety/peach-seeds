@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30935">
+ <title>Aciiid</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">2.3667</rating>
+ <info>From the 1st part in the megademo :-)
+/pwl</info>
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 20:32:04</locked_until>
+ <lastplayed>2018-03-15 14:16:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10371</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

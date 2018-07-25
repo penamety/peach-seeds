@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35408">
+ <title>Morbid Fascination</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">2.8529</rating>
+ <info>Entry for the Nectarine sample pack compo 2012. OpenMPT was used for tracking.</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 18:26:06</locked_until>
+ <lastplayed>2018-02-28 11:09:40</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4971">NerdN</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

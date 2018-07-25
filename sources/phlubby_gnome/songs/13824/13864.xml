@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13864">
+ <title>Sweet Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">2.5556</rating>
+ 
+ <songlength>746</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 18:42:05</locked_until>
+ <lastplayed>2018-05-26 11:20:38</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2165">Airworx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>long</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>strings</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

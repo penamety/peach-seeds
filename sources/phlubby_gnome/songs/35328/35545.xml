@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35545">
+ <title>Fresh!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ <info>First 64k at Breakpoint 2004</info>
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-08 06:27:30</locked_until>
+ <lastplayed>2017-07-09 03:14:07</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>14110</pouetid>
+ <ytid>7W_mc6RGegg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1096">Smash</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=7W_mc6RGegg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12450</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

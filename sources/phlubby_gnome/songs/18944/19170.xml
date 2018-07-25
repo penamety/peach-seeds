@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19170">
+ <title>Move Your Body</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.875</rating>
+ 
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 03:03:48</locked_until>
+ <lastplayed>2018-05-15 04:18:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18208</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2875">Homicide</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

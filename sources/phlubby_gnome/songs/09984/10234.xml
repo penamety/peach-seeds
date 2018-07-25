@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10234">
+ <title>Grave-yard</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="60">3.9833</rating>
+ 
+ <songlength>320</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 08:40:23</locked_until>
+ <lastplayed>2018-05-19 13:49:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3207</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>scary</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

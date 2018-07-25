@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29402">
+ <title>&amp;0D4A</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.3077</rating>
+ <info>Upcoming Music Disk for Amstrad CPC</info>
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 09:26:36</locked_until>
+ <lastplayed>2018-05-24 09:22:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55996</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

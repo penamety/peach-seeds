@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="45">
+ <title>A City at Night</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="119">4.0504</rating>
+ <info>Released: 1990-10 (unsure) on Magnetic Fields Revenge Party, ranked 1 in the Music competition</info>
+ <songlength>688</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 17:35:39</locked_until>
+ <lastplayed>2018-06-12 14:52:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>68722</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Night</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

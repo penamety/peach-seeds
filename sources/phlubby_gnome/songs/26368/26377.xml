@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26377">
+ <title>Kananpaskaa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">1.5</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-24 19:17:06</locked_until>
+ <lastplayed>2018-01-28 15:52:26</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3210">Mikki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

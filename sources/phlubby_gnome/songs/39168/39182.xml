@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39182">
+ <title>Calcifer</title>
+ <status v="A">Active</status>
+ <bitrate>251</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ 
+ <songlength>352</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 18:21:16</locked_until>
+ <lastplayed>2018-05-20 05:17:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61726</pouetid>
+ <ytid>QXGkfqmUgcw</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

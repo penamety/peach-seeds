@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36183">
+ <title>Kirta</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.6667</rating>
+ <info>2nd in C64 music competition at Assembly&#39;95</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 20:03:47</locked_until>
+ <lastplayed>2017-10-23 22:29:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5137">Thor</artist>
+ </artists>
+ <groups>
+  <group id="689">Extend</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

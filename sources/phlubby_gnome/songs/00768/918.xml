@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="918">
+ <title>Postpicker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>5th place in pc 64k compo at Elevator 2000.
+http://www.youtube.com/watch?v=nwxA93CER9g</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 11:26:55</locked_until>
+ <lastplayed>2017-11-18 08:53:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>551</pouetid>
+ <ytid>nwxA93CER9g</ytid>
+ 
+ 
+ <artists>
+  <artist id="183">Chavez</artist>
+ </artists>
+ <groups>
+  <group id="562">funktion</group><group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

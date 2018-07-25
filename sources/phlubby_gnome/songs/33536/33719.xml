@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33719">
+ <title>Retrograd</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>339</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-01 05:21:45</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4139">Zardax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

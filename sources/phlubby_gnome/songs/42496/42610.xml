@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42610">
+ <title>Dear Jane</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Soundtrack to the textmode demo &#34;2005&#34; by Peisik, was made for TMDC 2015. 
+
+Also, some of the samples are ripped and originally made by [artist]Lizardking[/artist].</info>
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 13:05:30</locked_until>
+ <lastplayed>2018-05-30 23:31:54</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>66688</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5639">cce</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

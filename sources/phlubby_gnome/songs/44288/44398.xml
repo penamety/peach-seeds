@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44398">
+ <title>Music is a bitch</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.6364</rating>
+ <info>Winner of the Deadline 2017 streaming music compo.</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 08:16:29</locked_until>
+ <lastplayed>2018-04-13 04:57:14</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2199">Andy [DE]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Deadline</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

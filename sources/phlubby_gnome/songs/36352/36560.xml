@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36560">
+ <title>E</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ <info>Main soundtrack from &#34;E&#34; demo by thesuper.
+1st place in 8-Bit Demo compo at DiHALT 2012.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 08:36:01</locked_until>
+ <lastplayed>2018-05-14 13:22:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>59436</pouetid>
+ <ytid>9nD6IzMS6Ls</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="5069">Nick Roll</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9nD6IzMS6Ls</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

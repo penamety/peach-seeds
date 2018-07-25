@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38588">
+ <title>Comming Back!</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>This tune was composed to an intro to announce my official return to Midway.</info>
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 11:50:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="729">Midway</group>
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

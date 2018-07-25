@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5747">
+ <title>Sunset Boulevard</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.087</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 08:26:23</locked_until>
+ <lastplayed>2018-03-07 01:29:34</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

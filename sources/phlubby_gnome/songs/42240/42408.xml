@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42408">
+ <title>Robot Music Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.6667</rating>
+ <info>Download link:
+https://files.scene.org/view/music/artists/rage/2007/robotmusic/rage-robot_01_music_intro.mp3</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 01:53:04</locked_until>
+ <lastplayed>2017-11-27 22:35:20</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

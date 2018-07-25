@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38971">
+ <title>Possum Prince</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 12:43:01</locked_until>
+ <lastplayed>2018-03-20 12:29:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58674</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

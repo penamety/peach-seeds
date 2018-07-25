@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35295">
+ <title>Housetrax - Macmix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.0769</rating>
+ <info>From this intro: [url]http://bitworld.bitfellas.org/demo.php?id=7432[/url]
+
+Instruments
+#	Name	Size
+0	ST-01:hh-bd	3018
+1	ST-01:hh-sn	2776
+2	ST-11:BS-SlapBass	9800
+3	ST-15:Drip	312
+4	ST-01:HH-E10.open2	4154
+5	ST-01:hh-bd-sn	2976
+6		0
+7		0
+8	ST-01:HH-E10.clsd	1572
+9	piano.maj	2210
+10	piano.min	2288
+11	ST-15:HallBrass	2462
+12	soundtrack	26602
+13	piano.sus4	2450
+14	piano.-	2398
+15	doctor solo	2550
+16	pelti	11250
+17	squarewave	14710
+18		0
+19	by dragon of nikki	0
+20	corruptions.	0
+21		0
+22		0
+23		0
+24		0
+25		0
+26		0
+27		0
+28		0
+29		0
+30		0</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 01:07:17</locked_until>
+ <lastplayed>2018-05-09 06:26:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>61414</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5030">Ferro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

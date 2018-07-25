@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29748">
+ <title>Onwards</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.5362</rating>
+ <info>1st place in combined demo compo at Stream 2006</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 16:54:46</locked_until>
+ <lastplayed>2018-05-27 10:08:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>26484</pouetid>
+ <ytid>xUQe4w5u5DE</ytid>
+ 
+ 
+ <artists>
+  <artist id="3938">Zeebr</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>atmospheric</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xUQe4w5u5DE</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

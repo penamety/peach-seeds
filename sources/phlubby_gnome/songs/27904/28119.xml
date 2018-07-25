@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28119">
+ <title>Nemesis</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.92</rating>
+ 
+ <songlength>59</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-05 04:48:22</locked_until>
+ <lastplayed>2017-08-30 22:47:22</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4052">Blonde Lion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30131">
+ <title>Insomnia</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.3</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-25 16:03:05</locked_until>
+ <lastplayed>2017-11-05 03:52:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>20023</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12802">
+ <title>Super Street Fighter 2 champion edition - credits theme (one credit finish)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0476</rating>
+ <info>Original by Alfh Lyra &amp; Yoko Shimomura. Not sure about the Project2612 ID...</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 22:37:19</locked_until>
+ <lastplayed>2018-05-29 12:39:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="994">Rayza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://project2612.org/details.php?id=440</url>
+    <comment></comment>
+    <type id="10">
+        <name>Project2612</name>
+        <icon>/static/media/linkicons/project2612-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

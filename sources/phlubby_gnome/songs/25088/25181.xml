@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25181">
+ <title>Suburbia remix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="31">3.2581</rating>
+ 
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 18:56:01</locked_until>
+ <lastplayed>2018-05-09 02:01:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3696">TAR</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>st-02</tag>
+  
+  <tag>st-03</tag>
+  
+  <tag>st-04</tag>
+  
+  <tag>st-XX</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

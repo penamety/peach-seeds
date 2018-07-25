@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39309">
+ <title>Kingston Town</title>
+ <status v="A">Active</status>
+ <bitrate>177</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.9375</rating>
+ <info>Spot&#39;s contribution to Gerp 2013 4ch music compo. Reached 3:rd place</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-05 06:34:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5422">Spot</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

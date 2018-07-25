@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32658">
+ <title>Tsjernobyl</title>
+ <status v="A">Active</status>
+ <bitrate>245</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0</rating>
+ <info>released at Nuclear LAN 2001</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 02:34:03</locked_until>
+ <lastplayed>2018-06-06 18:36:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>52457</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

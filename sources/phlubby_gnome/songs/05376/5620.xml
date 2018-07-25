@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5620">
+ <title>Cruisin</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.325</rating>
+ 
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:26:20</locked_until>
+ <lastplayed>2018-05-25 08:49:54</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>4754</pouetid>
+ <ytid>dwaLPwgOmzM</ytid>
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

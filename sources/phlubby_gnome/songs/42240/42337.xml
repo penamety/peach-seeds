@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42337">
+ <title>Sound Of Factory</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.5833</rating>
+ 
+ <songlength>344</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 07:03:21</locked_until>
+ <lastplayed>2018-05-15 07:16:40</lastplayed>
+ <platform id="45">Oktalyzer</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24105</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4086">Hardsequenzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

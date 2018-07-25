@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42813">
+ <title>Summer Delights (It&#39;s Cool To Be Evil)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.7333</rating>
+ <info>1st place in Sommarhack 2011 Combined Demo Compo
+
+music under Per Almered&#39;s alias &#34;Excellence in Art&#34;</info>
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 22:46:26</locked_until>
+ <lastplayed>2018-04-09 05:26:51</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>57261</pouetid>
+ <ytid>DTVN94dB1u0</ytid>
+ 
+ 
+ <artists>
+  <artist id="424">Excellence in Art</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Sommarhack</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DTVN94dB1u0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/61454/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

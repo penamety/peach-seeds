@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44649">
+ <title>the glory of blipland</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.3333</rating>
+ <info>ppsg tracki</info>
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 22:58:23</locked_until>
+ <lastplayed>2018-06-05 12:01:36</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>PPSG</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4840">
+ <title>Lightforce</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.6087</rating>
+ 
+ <songlength>484</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 12:48:08</locked_until>
+ <lastplayed>2018-05-13 09:30:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="788">Michael Briel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Annoying</tag>
+  
+  <tag>filter</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

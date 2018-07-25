@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40143">
+ <title>Demosatan</title>
+ <status v="A">Active</status>
+ <bitrate>105</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.075</rating>
+ 
+ <songlength>323</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 13:44:42</locked_until>
+ <lastplayed>2018-05-31 09:43:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>20444</pouetid>
+ <ytid>-0LLJiKX0Fw</ytid>
+ 
+ 
+ <artists>
+  <artist id="4455">Reflex (DK)</artist>
+ </artists>
+ <groups>
+  <group id="369">loopit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-0LLJiKX0Fw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12018">
+ <title>Seaway Station</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>279</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 18:08:19</locked_until>
+ <lastplayed>2017-12-16 23:19:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="830">Mutant</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44135">
+ <title>Rastan</title>
+ <status v="A">Active</status>
+ <bitrate>978</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ <info>Covers: Agressive World [from the arcade game Rastan Saga] by Masahiko Takaki.
+
+Cover the version by Martin Galway from game C64 Rastan, Tune #2.</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 02:31:39</locked_until>
+ <lastplayed>2018-05-20 04:43:13</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/118174/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17600">
+ <title>Sahara</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.7381</rating>
+ <info>http://bitworld.bitfellas.org/demo.php?id=16399</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 13:28:01</locked_until>
+ <lastplayed>2018-05-14 07:13:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5500</pouetid>
+ <ytid>gW7sd-4gcQ8</ytid>
+ 
+ 
+ <artists>
+  <artist id="4517">El Cubo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

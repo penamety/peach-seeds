@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27194">
+ <title>Moondance</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.7059</rating>
+ <info>from http://bitworld.bitfellas.org/demo.php?id=1201</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-24 05:54:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>57651</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="919">Peter Salomonsen</artist>
+ </artists>
+ <groups>
+  <group id="107">Pure Metal Coders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

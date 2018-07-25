@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32749">
+ <title>Neutron Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>172</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.7561</rating>
+ <info>3rd place in Executable Music Newskool at Revision 2011</info>
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 10:14:52</locked_until>
+ <lastplayed>2018-05-13 07:37:56</lastplayed>
+ <platform id="37">16K exe</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4114">xtrium</artist>
+ </artists>
+ <groups>
+  <group id="368">FRequency [FRQ]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

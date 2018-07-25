@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19636">
+ <title>Tiikerihai</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.5</rating>
+ <info>This is a remix of AMJ&#39;s remix of Peter and Joe Hodgkinson&#39;s song called &#34;Tiger Shark&#34;.</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 04:34:42</locked_until>
+ <lastplayed>2018-06-15 08:32:49</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3464">Razmo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Schlager</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

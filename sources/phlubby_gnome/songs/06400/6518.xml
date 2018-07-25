@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6518">
+ <title>Muumilaakson Molinat</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">2.5417</rating>
+ 
+ <songlength>81</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 05:56:39</locked_until>
+ <lastplayed>2018-05-19 09:21:49</lastplayed>
+ <platform id="42">STM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Cartoon</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?155862</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

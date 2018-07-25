@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13286">
+ <title>Anxiety</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">2.0965</rating>
+ <info>1st place in combined demo compo at Stream 2005</info>
+ <songlength>280</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 20:44:39</locked_until>
+ <lastplayed>2018-06-06 12:06:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>19023</pouetid>
+ <ytid>PRvGYhpkZzc</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1616">1in10</artist>
+ </artists>
+ <groups>
+  <group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>scary</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>speedcore</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PRvGYhpkZzc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39794">
+ <title>Energetic Moving</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">2.125</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-14 23:43:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13883</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5445">Soundscan</artist>
+ </artists>
+ <groups>
+  <group id="776">Wizzcat</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

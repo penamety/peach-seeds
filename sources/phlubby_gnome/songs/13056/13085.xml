@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13085">
+ <title>Dynamite Dux - Down Town</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.8667</rating>
+ <info>Activision, 1989
+
+Arranged from arcade game
+
+Original by Hiroshi Kawaguchi</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 20:57:01</locked_until>
+ <lastplayed>2017-09-29 21:47:44</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/463</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

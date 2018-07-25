@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38419">
+ <title>Zico</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="38">4.1316</rating>
+ <info>Ranked 9th in the tracked music compo at Revision 2013.</info>
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 12:34:54</locked_until>
+ <lastplayed>2018-05-23 18:33:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>61611</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Nordlicht</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

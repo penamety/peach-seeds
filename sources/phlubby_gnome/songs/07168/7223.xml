@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7223">
+ <title>Learning to Fly</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.1463</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:56:10</locked_until>
+ <lastplayed>2018-05-28 02:05:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3211</pouetid>
+ <ytid>vk0tYg1EhHw</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="1275">Tyrell</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

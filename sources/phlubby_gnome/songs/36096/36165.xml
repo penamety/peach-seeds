@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36165">
+ <title>Mixed Feelings</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.1818</rating>
+ <info>A sample song from the new TinyFM8 VST Synth</info>
+ <songlength>311</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 21:29:16</locked_until>
+ <lastplayed>2018-04-17 00:31:01</lastplayed>
+ <platform id="37">16K exe</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

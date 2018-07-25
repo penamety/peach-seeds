@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41315">
+ <title>Thunderdome the Demo - Part II</title>
+ <status v="D">Dupe</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">4.1667</rating>
+ <info>Dupe of [song]41300[/song]</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2014-12-15 11:49:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>64503</pouetid>
+ <ytid>v=Dwz0JhgDz1g</ytid>
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="775">Checkpoint [CPT]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

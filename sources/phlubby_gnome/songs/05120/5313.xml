@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5313">
+ <title>Anxiety</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.2162</rating>
+ 
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 06:37:27</locked_until>
+ <lastplayed>2018-06-07 14:23:05</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="536">Hunz</artist><artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Remedy</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43948">
+ <title>Maelstrom</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>Maelstrom
+Nemesis [Ren-95/Kosmic/iCE
+Heh... this tune took quite awhile to finish and I hope it shows. If you&#39;re wondering why a happy tune like this has a name like &#34;Maelstrom&#34;, just wait for the evil sounding part that starts at order 22. &gt;:)  &lt;insane cackle&gt; If you would like to hear this type of music in your game, contact me in one of the following ways: email: nemesis@crl.com Greetz: C.C.Catch, who needs to quit mudding but never will. :) Basehead Leviathan StarScream Ä Maelcum (c)1995 Nemesis/Renaissance</info>
+ <songlength>455</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 22:09:51</locked_until>
+ <lastplayed>2018-03-31 11:29:32</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="846">Nemesis</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?48824</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

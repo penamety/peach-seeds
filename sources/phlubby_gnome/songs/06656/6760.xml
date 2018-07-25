@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6760">
+ <title>D0dstekkno</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ <info>From the intro to Upstream #9.</info>
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 22:53:20</locked_until>
+ <lastplayed>2018-03-19 21:36:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9664</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Upstream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

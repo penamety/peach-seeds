@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3679">
+ <title>QB</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.8667</rating>
+ 
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-27 09:45:03</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ <pouetid>5583</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="602">Kaktus</artist><artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

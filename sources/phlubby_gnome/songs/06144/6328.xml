@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6328">
+ <title>Proteus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">4.3896</rating>
+ <info>based on two songs from John Keating´s album Space Experience</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 11:05:39</locked_until>
+ <lastplayed>2018-06-05 01:05:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

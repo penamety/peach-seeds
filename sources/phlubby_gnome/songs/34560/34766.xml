@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34766">
+ <title>Dreamland</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.3333</rating>
+ <info>Tuna for the Amiga Diskmag &#34;C O W S &#39; N   S N A K E F I G H T S   # 7&#34;</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-27 14:39:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>30506</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  <group id="204">Paradise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

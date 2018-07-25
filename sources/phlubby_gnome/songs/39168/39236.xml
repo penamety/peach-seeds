@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39236">
+ <title>The Girl With The Sun In Her Hair</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">2.8824</rating>
+ 
+ <songlength>387</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 19:47:19</locked_until>
+ <lastplayed>2018-05-18 10:08:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3810</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2544">Dave</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Quast</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

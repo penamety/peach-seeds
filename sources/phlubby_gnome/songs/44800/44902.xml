@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44902">
+ <title>Future Voice</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.5</rating>
+ <info>1st place in Tiny (30 sec.) MP3 compo on Multimatograf 2018.</info>
+ <songlength>30</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 03:27:23</locked_until>
+ <lastplayed>2018-06-08 02:39:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Tiny</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/186243/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://soundcloud.com/mmcmstudio/future-voice</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

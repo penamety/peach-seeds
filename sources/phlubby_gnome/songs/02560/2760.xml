@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2760">
+ <title>Free your mind!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.7059</rating>
+ 
+ <songlength>476</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 16:25:13</locked_until>
+ <lastplayed>2018-03-12 05:22:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1024</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="473">Gatekeeper</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

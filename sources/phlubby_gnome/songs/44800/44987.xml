@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44987">
+ <title>Distant Worlds</title>
+ <status v="A">Active</status>
+ <bitrate>1029</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.0</rating>
+ <info>[i]I started to write this song for the Asm&#39;16 listening compo, but running out of ideas I chose to submit &#34;Noah&#39;s URK&#34; instead. Now I&#39;m happy to release this on the SoS4! Safe travels around the galaxy![/i]</info>
+ <songlength>283</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 16:15:40</locked_until>
+ <lastplayed>2018-05-22 06:27:42</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>76212</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4191">Paokala</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/187097/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

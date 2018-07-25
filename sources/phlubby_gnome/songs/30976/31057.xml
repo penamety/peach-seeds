@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31057">
+ <title>Oddity</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="0">None</rating>
+ <info>Dupe of [queue]1221[/queue]</info>
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ 
+ <type id="2">Demo</type>
+ 
+ <ytid>vVNUXolnS8s</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=vVNUXolnS8s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

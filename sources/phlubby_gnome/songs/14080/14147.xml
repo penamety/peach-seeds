@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14147">
+ <title>Alone in the Dark</title>
+ <status v="A">Active</status>
+ <bitrate>131</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0833</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 14:27:09</locked_until>
+ <lastplayed>2018-03-09 04:50:09</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1984">Arachno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

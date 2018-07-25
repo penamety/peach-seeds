@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3881">
+ <title>Humpanhurmaa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>&#34;Heili Karjalasta&#34; by Georg Malmsten (1938)</info>
+ <songlength>48</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 15:33:22</locked_until>
+ <lastplayed>2018-06-12 23:26:11</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="642">Kuollut</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Humppa</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

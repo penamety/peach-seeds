@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2838">
+ <title>Remember Your Name</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3158</rating>
+ <info>19th in the mp3 compo at Takeover 2001.</info>
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 07:39:32</locked_until>
+ <lastplayed>2018-06-03 05:20:46</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="491">G. Hultink</artist>
+ </artists>
+ <groups>
+  <group id="875">GM Vision</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Crooner</tag>
+  
+  <tag>Takeover</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

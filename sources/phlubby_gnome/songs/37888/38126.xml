@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38126">
+ <title>Bimetallic in MSX</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ <info>1st place in combined music compo at Tokyo Demo Fest 2013</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 14:16:15</locked_until>
+ <lastplayed>2018-05-12 21:19:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5297">Tappy Hopping</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

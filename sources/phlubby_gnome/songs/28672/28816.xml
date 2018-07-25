@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28816">
+ <title>Indigestion</title>
+ <status v="A">Active</status>
+ <bitrate>205</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">3.25</rating>
+ 
+ <songlength>334</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 07:43:49</locked_until>
+ <lastplayed>2018-06-10 07:48:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54863</pouetid>
+ <ytid>DciNbQkrt2g</ytid>
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>Blockparty</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DciNbQkrt2g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

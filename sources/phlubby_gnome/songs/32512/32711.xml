@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32711">
+ <title>Lost in Space</title>
+ <status v="A">Active</status>
+ <bitrate>138</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="36">4.0833</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 07:30:00</locked_until>
+ <lastplayed>2018-06-01 18:04:46</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

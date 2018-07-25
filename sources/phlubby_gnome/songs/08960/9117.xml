@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9117">
+ <title>Dark Ages</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.875</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 02:36:27</locked_until>
+ <lastplayed>2018-06-12 18:45:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>25796</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32769">
+ <title>Tranquility</title>
+ <status v="A">Active</status>
+ <bitrate>473</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">4.3846</rating>
+ 
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 02:34:47</locked_until>
+ <lastplayed>2018-06-05 15:57:39</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

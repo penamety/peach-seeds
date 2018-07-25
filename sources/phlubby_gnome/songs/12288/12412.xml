@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12412">
+ <title>Filet Mignon</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.86</rating>
+ <info>Moody tune for Demovibes Compo #2. 
+
+5th place.</info>
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 02:37:50</locked_until>
+ <lastplayed>2018-05-30 15:25:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

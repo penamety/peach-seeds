@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1215">
+ <title>Help tha fool</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ 
+ <songlength>124</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 23:02:32</locked_until>
+ <lastplayed>2018-05-30 04:12:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>407</pouetid>
+ <ytid>MndCm0YfG2U</ytid>
+ <ytoffset>305</ytoffset>
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Saturne</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

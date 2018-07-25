@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3671">
+ <title>Liquid Turtle</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">1.2308</rating>
+ 
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-04-23 14:42:23</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>5583</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="602">Kaktus</artist><artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41420">
+ <title>Digitize Minimize</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">4.1667</rating>
+ <info>1# at Ghettoscene 2014 combined tracked music compo.</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 22:35:58</locked_until>
+ <lastplayed>2018-05-15 03:53:37</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group><group id="26">Speckdrumm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>letsgo</tag>
+  
+  <tag>Software</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/130103/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

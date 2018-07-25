@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33688">
+ <title>Funk</title>
+ <status v="A">Active</status>
+ <bitrate>196</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">2.3846</rating>
+ <info>Slash contribution for LCP 2011. Ranked: 3</info>
+ <songlength>79</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 05:00:44</locked_until>
+ <lastplayed>2018-05-31 00:13:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13597">
+ <title>A Tale About Unnamed Bard</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.55</rating>
+ 
+ <songlength>623</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 19:38:47</locked_until>
+ <lastplayed>2018-06-17 05:02:08</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>harp</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

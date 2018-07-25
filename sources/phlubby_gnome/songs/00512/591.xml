@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="591">
+ <title>The Ultimate Meeting 1999</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.68</rating>
+ <info>Invitation music to the first edition of tUM.</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 02:37:41</locked_until>
+ <lastplayed>2018-05-14 12:15:05</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="107">benJam</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

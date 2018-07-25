@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6223">
+ <title>Roundheeled</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.6471</rating>
+ <info>Ranked 6th in the multichannel music compo at Proxy 2000.</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 02:45:47</locked_until>
+ <lastplayed>2017-11-05 06:07:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Proxy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31823">
+ <title>Catch Me, Sucker!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>Main tune from &#34;Brain Surgery&#34; - ZX Spectrum demo by Dream Makers Software/Rush, audiovisual art on 8bit machine.</info>
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 13:44:06</locked_until>
+ <lastplayed>2018-01-28 06:17:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1933</pouetid>
+ <ytid>crfRLxrIHG0</ytid>
+ <ytoffset>19</ytoffset>
+ 
+ <artists>
+  <artist id="4667">IMP</artist>
+ </artists>
+ <groups>
+  <group id="533">Rush!</group>
+ </groups>
+ 
+ <tags>
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=crfRLxrIHG0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2265</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13172">
+ <title>Hyperzapper</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.4407</rating>
+ <info>Recorded using DeliPlayer</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 14:57:35</locked_until>
+ <lastplayed>2018-05-17 18:45:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>12026</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="390">Camelot</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

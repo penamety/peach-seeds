@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1350">
+ <title>Son of Uluru</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.5632</rating>
+ <info>First place at mp3 compo of Takeover&#39;01. Track consists of 3 .IT files.</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 22:19:25</locked_until>
+ <lastplayed>2018-06-15 16:38:04</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="252">Crystal Score</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

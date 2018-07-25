@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15253">
+ <title>Blue Max</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.4444</rating>
+ <info>Download link: http://modarchive.org/index.php?request=view_by_moduleid&amp;query=102741</info>
+ <songlength>56</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 01:59:40</locked_until>
+ <lastplayed>2018-04-01 09:16:55</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>13284</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

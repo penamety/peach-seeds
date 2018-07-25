@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9662">
+ <title>Cemetery</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5</rating>
+ 
+ <songlength>54</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-07 06:44:10</locked_until>
+ <lastplayed>2018-01-14 10:49:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1804">Pixel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

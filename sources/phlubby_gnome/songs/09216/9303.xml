@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9303">
+ <title>...do things. (TSD)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.8548</rating>
+ <info>And they use the power of their fantasy to...
+...do things.
+
+TSiD version.</info>
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 02:31:37</locked_until>
+ <lastplayed>2018-06-10 19:06:17</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>62</pouetid>
+ <ytid>pVGa125ek8A</ytid>
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pVGa125ek8A</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/84669/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

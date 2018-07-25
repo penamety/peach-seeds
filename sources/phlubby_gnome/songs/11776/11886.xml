@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11886">
+ <title>The Adventures of Captain Beezay</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.7857</rating>
+ 
+ <songlength>91</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 15:44:46</locked_until>
+ <lastplayed>2018-04-19 03:14:27</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1952">bzl</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

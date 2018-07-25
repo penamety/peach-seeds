@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27090">
+ <title>Nocilis</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.375</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 12:53:22</locked_until>
+ <lastplayed>2017-12-19 03:45:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Humppa</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

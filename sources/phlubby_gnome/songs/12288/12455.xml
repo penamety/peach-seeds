@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12455">
+ <title>Oh No! More Lemmings - Down and Out Lemming</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.7222</rating>
+ <info>Psygnosis, 1991
+
+The song is named after the first level it appears on
+
+There are six different songs in this game</info>
+ <songlength>90</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 02:02:35</locked_until>
+ <lastplayed>2018-03-15 12:45:22</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>glWTIKqT1CA</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="140">Brian Johnston</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>psygnosis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

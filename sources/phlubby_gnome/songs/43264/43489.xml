@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43489">
+ <title>Koulu</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.4</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 06:23:33</locked_until>
+ <lastplayed>2018-03-13 03:01:10</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5685">TWN</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

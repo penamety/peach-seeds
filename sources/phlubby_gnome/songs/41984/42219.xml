@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42219">
+ <title>Vilnius</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.2</rating>
+ <info>Winner of the Solskogen 2015 Oldskool Music compo.</info>
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 21:32:30</locked_until>
+ <lastplayed>2018-05-10 11:20:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4462">Esau</artist>
+ </artists>
+ <groups>
+  <group id="371">Traktor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

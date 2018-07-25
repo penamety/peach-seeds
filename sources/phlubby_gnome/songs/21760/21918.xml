@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21918">
+ <title>Macho</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 01:54:39</locked_until>
+ <lastplayed>2018-01-24 04:52:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18770</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3235">Mr Fancy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

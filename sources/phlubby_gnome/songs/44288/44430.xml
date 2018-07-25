@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44430">
+ <title>No Transitions In Heaven</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.875</rating>
+ 
+ <songlength>79</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 23:03:57</locked_until>
+ <lastplayed>2018-04-12 04:46:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71870</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5754">Slimey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Deadline</tag>
+  
+  <tag>PICO-8</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

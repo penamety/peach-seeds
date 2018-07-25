@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29198">
+ <title>Conical (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.4857</rating>
+ <info>Original: [url=http://gallium.prg.dtu.dk/HVSC/C64Music/MUSICIANS/D/DRAX/Conical.sid]DRAX - Conical.sid[/url]</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 13:48:30</locked_until>
+ <lastplayed>2018-06-14 19:57:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

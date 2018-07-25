@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2278">
+ <title>Tubular Bells Grapevine 13</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.1538</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 10:38:03</locked_until>
+ <lastplayed>2018-03-10 02:05:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="395">Echo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Grapevine</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

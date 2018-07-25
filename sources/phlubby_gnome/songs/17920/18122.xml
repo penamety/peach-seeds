@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18122">
+ <title>Desert Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="106">4.0849</rating>
+ 
+ <songlength>815</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 00:02:20</locked_until>
+ <lastplayed>2018-05-30 21:57:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>30213</pouetid>
+ <ytid>oCiCntVGA4M</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=a663UUGSJ6s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

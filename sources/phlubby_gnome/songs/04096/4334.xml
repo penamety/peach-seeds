@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4334">
+ <title>1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="133">4.4812</rating>
+ 
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:12:15</locked_until>
+ <lastplayed>2018-06-10 21:39:05</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AtariST</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="979">
+ <title>Alpha</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.35</rating>
+ <info>Entry from Assembly&#39;98</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 20:18:05</locked_until>
+ <lastplayed>2018-06-09 03:37:36</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="195">Chris</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Melodic</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?141585</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

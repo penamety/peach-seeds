@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27616">
+ <title>Take I Seriously</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.5556</rating>
+ <info>Music fills the gap
+that words leave behind.
+Take I seriously
+you got to too.</info>
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-01 06:16:15</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>676</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3972">Treks</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

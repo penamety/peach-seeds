@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12995">
+ <title>Deflektor [remix]</title>
+ <status v="A">Active</status>
+ <bitrate>267</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.1884</rating>
+ <info>Track #7 from Reyn&#39;s album &#34;Nexus 6581&#34;.</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-11 17:02:15</locked_until>
+ <lastplayed>2018-05-13 00:59:15</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Nexus6581</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

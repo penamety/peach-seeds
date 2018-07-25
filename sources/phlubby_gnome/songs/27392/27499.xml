@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27499">
+ <title>Dance of the Crane</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9063</rating>
+ <info>It&#39;s my contribution for Enlight&#39;97. Sounds a little
+japanesy...The full name of the song should be &#34;Samurai,
+watching the dancing japanese crane during the dusk of the
+sun&#34;.</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 03:24:41</locked_until>
+ <lastplayed>2018-05-22 07:06:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3974">Tangerine</artist>
+ </artists>
+ <groups>
+  <group id="231">T-Rex [TRX]</group><group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>enlight</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

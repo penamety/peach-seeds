@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38251">
+ <title>G [v2]</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">2.45</rating>
+ <info>Soundtrack from &#34;G.&#34; Amiga demo by Noice. 
+3rd place in Amiga demo compo at ECC 1993.</info>
+ <songlength>400</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 06:02:29</locked_until>
+ <lastplayed>2018-05-21 04:38:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>57186</pouetid>
+ <ytid>gB4DfizQj84</ytid>
+ 
+ 
+ <artists>
+  <artist id="4075">Tommy [se]</artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ECC</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

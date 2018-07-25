@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2486">
+ <title>Nicollete</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.3306</rating>
+ 
+ <songlength>401</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 16:02:59</locked_until>
+ <lastplayed>2018-05-16 18:28:40</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21654">
+ <title>Phantom</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">3.7255</rating>
+ 
+ <songlength>350</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 03:00:48</locked_until>
+ <lastplayed>2018-03-17 12:59:47</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3199">MCA</artist><artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>UnrealTournament</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31708">
+ <title>Enter the Ninja</title>
+ <status v="A">Active</status>
+ <bitrate>115</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.1346</rating>
+ 
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 14:07:33</locked_until>
+ <lastplayed>2018-06-04 07:08:17</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>53502</pouetid>
+ <ytid>P1feN5Y9jMo</ytid>
+ <ytoffset>17</ytoffset>
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="443">Resource [RSC]</group><group id="584">The Dreams</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+  <tag>Ninja</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

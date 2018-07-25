@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1991">
+ <title>Bop Till You Flop</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">4.2</rating>
+ 
+ <songlength>392</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 03:03:13</locked_until>
+ <lastplayed>2018-05-01 05:04:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5497</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

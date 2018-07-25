@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5756">
+ <title>Dream Flight</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 02:58:25</locked_until>
+ <lastplayed>2018-05-11 08:32:07</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  <group id="325">Oops! [OPS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8288">
+ <title>Final Reality Music</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.2933</rating>
+ 
+ <songlength>401</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 19:19:59</locked_until>
+ <lastplayed>2018-05-29 09:25:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>7259</pouetid>
+ <ytid>bJSQnfgTNxE</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="574">Remedy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pYOUKXuIpZk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

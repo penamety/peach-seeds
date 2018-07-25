@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2670">
+ <title>Chameleon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ 
+ <songlength>543</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 20:56:36</locked_until>
+ <lastplayed>2018-04-14 12:32:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9569</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="450">Flame</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

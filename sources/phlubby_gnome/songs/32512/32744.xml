@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32744">
+ <title>.frOzen</title>
+ <status v="A">Active</status>
+ <bitrate>228</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">4.1846</rating>
+ <info>3rd place in PC Demo compo at Revision 2011
+Music by reEto, music theme by Chromag.</info>
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 04:01:25</locked_until>
+ <lastplayed>2018-06-08 09:26:40</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56878</pouetid>
+ <ytid>YqLtEdEDMZc</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4443">reEto</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group><group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BIlf2MsWcWE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YqLtEdEDMZc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

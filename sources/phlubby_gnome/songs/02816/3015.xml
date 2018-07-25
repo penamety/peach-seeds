@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3015">
+ <title>Seikkailumies</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-14 06:37:28</locked_until>
+ <lastplayed>2017-10-06 00:47:53</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>4465</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

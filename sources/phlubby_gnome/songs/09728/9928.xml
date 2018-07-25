@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9928">
+ <title>Dosk-Opus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.2553</rating>
+ <info>Undercover Magascene #18
+
+d/l:  http://dma-sc.atari.org/</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 10:49:38</locked_until>
+ <lastplayed>2018-05-22 19:15:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>21222</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="560">LOuD</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

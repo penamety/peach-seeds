@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8795">
+ <title>The Paranoia Complex</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="19">4.0</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-28 08:48:02</locked_until>
+ <lastplayed>2017-06-03 12:06:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>38844</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1736">Georg Brandt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

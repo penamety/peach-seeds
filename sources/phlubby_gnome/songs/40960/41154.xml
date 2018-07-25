@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41154">
+ <title>The house Jack built (Ping-Pong version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Arranged by:	Chronberg
+Member:	Chronberg
+Original composer:	Keith Tinman
+Tune length:	5:27
+Release date:	02/08/2005</info>
+ <songlength>326</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 00:13:58</locked_until>
+ <lastplayed>2018-03-22 03:32:47</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ <ytid>qscsY_A0rbU</ytid>
+ 
+ 
+ <artists>
+  <artist id="2036">Chronberg</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qscsY_A0rbU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

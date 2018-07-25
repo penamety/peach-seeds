@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41396">
+ <title>Slowing down the Chaos</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ <info>ZX Spectrum 48K (BEEPER) 1-bit.
+Engine: OCTODE (9 channels).
+Recorded from real hardware, ZX Spectrum 48K Plus.
+
+This is my guest-track for the German 1-bit musician Irrlicht Project&#39;s ZX48/BEEPER album &#34;dat fuzz&#34;,</info>
+ <songlength>306</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 06:25:10</locked_until>
+ <lastplayed>2018-05-02 13:38:54</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

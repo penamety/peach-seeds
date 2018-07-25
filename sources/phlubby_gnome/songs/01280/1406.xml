@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1406">
+ <title>Tarlada</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.9286</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 12:46:26</locked_until>
+ <lastplayed>2018-06-16 09:25:52</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="259">Cybelius</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

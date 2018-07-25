@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6903">
+ <title>Bubble Bobble</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.8261</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 14:59:05</locked_until>
+ <lastplayed>2018-05-09 11:40:32</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="318">DHS</artist>
+ </artists>
+ <groups>
+  <group id="86">The Soundwavers</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

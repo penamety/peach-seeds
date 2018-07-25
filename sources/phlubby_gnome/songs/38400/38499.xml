@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38499">
+ <title>Weather Girl</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.0</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 22:35:05</locked_until>
+ <lastplayed>2017-10-13 21:49:50</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5258">The Alien</artist>
+ </artists>
+ <groups>
+  <group id="712">Warriors of the Wasteland</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

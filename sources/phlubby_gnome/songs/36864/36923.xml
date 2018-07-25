@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36923">
+ <title>Main Invitation 2012 (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>273</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0</rating>
+ <info>Soundtrack of the Invitation for Main 2012:
+
+fr-050: Main Invitation 2012 by farbrausch  &amp; Rebels </info>
+ <songlength>124</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 16:28:41</locked_until>
+ <lastplayed>2018-06-17 08:17:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59740</pouetid>
+ <ytid>HQoWmyq7Pgc</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4443">reEto</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HQoWmyq7Pgc</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

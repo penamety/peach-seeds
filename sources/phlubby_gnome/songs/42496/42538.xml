@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42538">
+ <title>Aase&#39;s Death</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>Original by Edward Grieg from Peer Gynt Suite No.1, Op.46</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 15:33:17</locked_until>
+ <lastplayed>2018-03-12 09:45:18</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3366">Peacemaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Classical</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Grieg</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12822">
+ <title>Desert Dream - part 1 [videoremake remix]</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7188</rating>
+ <info>Original by Laxity/Kefrens.</info>
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 01:04:30</locked_until>
+ <lastplayed>2018-05-24 14:32:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>25935</pouetid>
+ <ytid>11fowneR08U</ytid>
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=11fowneR08U</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42322">
+ <title>The Graves Come Alive</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ <info>Composed on Amiga with Digibooster</info>
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-27 04:25:36</locked_until>
+ <lastplayed>2018-02-07 07:32:09</lastplayed>
+ <platform id="40">DBM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>spooky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

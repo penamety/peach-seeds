@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38589">
+ <title>Drawline!</title>
+ <status v="A">Active</status>
+ <bitrate>175</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.6364</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 04:08:48</locked_until>
+ <lastplayed>2018-02-26 23:05:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

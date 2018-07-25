@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8185">
+ <title>Flying (Unreal)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.3789</rating>
+ <info>A tune from the game [url=http://www.exotica.org.uk/wiki/Unreal_%28game%29]Unreal[/url] in M.O.N. format.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 21:35:48</locked_until>
+ <lastplayed>2018-06-02 10:28:16</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ <pouetid>63259</pouetid>
+ <ytid>VdhP7HPbbO8</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1819</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

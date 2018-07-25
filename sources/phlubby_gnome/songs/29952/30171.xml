@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30171">
+ <title>Tonikum</title>
+ <status v="A">Active</status>
+ <bitrate>184</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.6</rating>
+ <info>Soundtrack can be extracted from the tum.kx file...</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 13:51:09</locked_until>
+ <lastplayed>2018-06-12 06:44:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>34525</pouetid>
+ <ytid>OwGAzQOOugQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="4429">cp</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

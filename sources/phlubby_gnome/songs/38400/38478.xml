@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38478">
+ <title>Spatism</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="32">3.9688</rating>
+ <info>Used in the 2nd part of the demo.
+/pwl</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 23:11:49</locked_until>
+ <lastplayed>2018-05-21 17:43:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>61182</pouetid>
+ <ytid>gmqiR-zT5OQ</ytid>
+ <ytoffset>203</ytoffset>
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>RinkADink</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zJKtT_Y-tVw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

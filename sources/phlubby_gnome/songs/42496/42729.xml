@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42729">
+ <title>Fan_tastic</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>4th place in Breakpoint 2010 PC 4k intro compo</info>
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 10:19:35</locked_until>
+ <lastplayed>2018-05-14 14:48:02</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>54538</pouetid>
+ <ytid>_rH26Z1_IZs</ytid>
+ 
+ 
+ <artists>
+  <artist id="2039">pOWL </artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

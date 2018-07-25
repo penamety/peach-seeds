@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8275">
+ <title>One Note Cripple</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.2857</rating>
+ <info>2nd place in pc demo compo at Breakpoint 2004
+
+The demo was also released as a screensaver which can be downloaded [url=http://www.scene.org/file.php?file=%2Fparties%2F2004%2Fbreakpoint04%2Fdemo%2Fmoppi-fssetup10.exe&amp;fileinfo]here[/url].</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:46:49</locked_until>
+ <lastplayed>2018-05-24 06:12:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>12031</pouetid>
+ <ytid>P-gMLIL6B6Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="1553">Sumo Lounge</artist>
+ </artists>
+ <groups>
+  <group id="428">Moppi Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PlWv_rVcVDA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=P-gMLIL6B6Y</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

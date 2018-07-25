@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22216">
+ <title>Fantazy World</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.1277</rating>
+ <info>Included in Imphobia #8
+[url]http://www.pouet.net/prod.php?which=6598[/url]</info>
+ <songlength>311</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-25 22:20:55</locked_until>
+ <lastplayed>2018-04-22 18:17:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>53310</pouetid>
+ <ytid>DPgA_ti841M</ytid>
+ <ytoffset>17</ytoffset>
+ 
+ <artists>
+  <artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="186">Devils</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

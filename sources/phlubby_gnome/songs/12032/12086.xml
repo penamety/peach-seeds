@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12086">
+ <title>Friday-13&#39;s Party!</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.913</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 07:44:26</locked_until>
+ <lastplayed>2018-03-09 15:13:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FridayTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

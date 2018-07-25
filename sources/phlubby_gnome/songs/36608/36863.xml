@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36863">
+ <title>Amalgahm</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.3529</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 10:48:15</locked_until>
+ <lastplayed>2017-10-27 08:56:41</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

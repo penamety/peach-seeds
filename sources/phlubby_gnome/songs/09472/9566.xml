@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9566">
+ <title>Synthetic 3</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5882</rating>
+ 
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-10 09:23:31</locked_until>
+ <lastplayed>2018-01-22 02:25:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1682">DJ Uno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurodance</tag>
+  
+  <tag>FirstBase</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

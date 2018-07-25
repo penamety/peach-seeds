@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41874">
+ <title>My Amiga broke so I got a PDP 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.4643</rating>
+ <info>Revision streaming music compowinner</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 05:33:50</locked_until>
+ <lastplayed>2018-06-09 21:18:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

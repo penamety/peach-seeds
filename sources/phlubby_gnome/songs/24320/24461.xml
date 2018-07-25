@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24461">
+ <title>Planet Potion Part 3</title>
+ <status v="A">Active</status>
+ <bitrate>132</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.9149</rating>
+ 
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:08:12</locked_until>
+ <lastplayed>2018-05-18 14:51:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>5633</pouetid>
+ <ytid>S82qUMHJiUw</ytid>
+ <ytoffset>300</ytoffset>
+ 
+ <artists>
+  <artist id="1786">Skipp</artist>
+ </artists>
+ <groups>
+  <group id="55">Potion</group>
+ </groups>
+ 
+ <tags>
+  <tag>64k</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

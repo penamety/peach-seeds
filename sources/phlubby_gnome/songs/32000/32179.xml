@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32179">
+ <title>That&#39;s The Wave It Is (AHX)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="63">4.5079</rating>
+ <info>This one doesn&#39;t seem to be a remix: Geir himself said the SID version was made in 1991.</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 02:13:00</locked_until>
+ <lastplayed>2018-06-17 11:33:33</lastplayed>
+ <platform id="4">AHX</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

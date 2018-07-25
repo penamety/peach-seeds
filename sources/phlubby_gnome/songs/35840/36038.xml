@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36038">
+ <title>Grapevine 8</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="31">3.6129</rating>
+ 
+ <songlength>352</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 19:33:08</locked_until>
+ <lastplayed>2018-03-10 02:09:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14804</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Grapevine</tag>
+  
+  <tag>Jarre</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

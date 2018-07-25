@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4869">
+ <title>Nemesis Remix</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.0</rating>
+ 
+ <songlength>409</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 07:54:31</locked_until>
+ <lastplayed>2018-06-03 12:04:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="801">Daeron</artist><artist id="2132">Misty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

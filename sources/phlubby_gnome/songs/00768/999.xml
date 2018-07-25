@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="999">
+ <title>Dance at Night (Original Synth Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.1667</rating>
+ <info>Recorded from tape (?)</info>
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-08 22:13:12</locked_until>
+ <lastplayed>2017-06-30 20:31:17</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

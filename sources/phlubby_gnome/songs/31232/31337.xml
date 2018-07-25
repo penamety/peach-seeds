@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31337">
+ <title>Light Rythm</title>
+ <status v="A">Active</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.8065</rating>
+ <info>1st place in pc 4k compo at Evoke 2010</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-23 19:18:38</locked_until>
+ <lastplayed>2017-10-18 04:16:24</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>55736</pouetid>
+ <ytid>EivgPHUN5nU</ytid>
+ 
+ 
+ <artists>
+  <artist id="2039">pOWL </artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=t2JtNFEbHAE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EivgPHUN5nU</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

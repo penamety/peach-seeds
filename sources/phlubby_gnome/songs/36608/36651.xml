@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36651">
+ <title>Showtime 8</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.4167</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-07 01:56:19</locked_until>
+ <lastplayed>2017-08-31 08:33:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14628</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="654">Laxical</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Showtime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

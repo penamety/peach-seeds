@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24436">
+ <title>Chateaubriand</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.9474</rating>
+ <info>Simple ambient trance with some melody. My first Buzz song.</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 16:41:49</locked_until>
+ <lastplayed>2018-04-30 02:25:28</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

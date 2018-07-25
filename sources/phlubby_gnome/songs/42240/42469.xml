@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42469">
+ <title>Hip Mix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.3889</rating>
+ <info>by xenox 1990...
+st-03:PUMPUP
+st-03:UGH
+st-03:acidbassdrum
+st-03:acidhihat
+st-03:acidsnare
+st-03:elbass
+st-03:acidpiano 
+</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-27 16:56:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5631">Xenox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Birds</tag>
+  
+  <tag>PumpUpTheVolume</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

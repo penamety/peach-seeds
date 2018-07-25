@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34819">
+ <title>Time Warp</title>
+ <status v="A">Active</status>
+ <bitrate>195</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.3621</rating>
+ <info>Ranked 3rd in the streamed music compo at the Ultimate Meeting 2011. Made with OpenMPT.</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 16:22:37</locked_until>
+ <lastplayed>2018-05-28 02:58:53</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

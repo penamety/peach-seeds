@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40025">
+ <title>Wizball (High Score)</title>
+ <status v="R">Rejected</status>
+ <bitrate>783</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="2">4.0</rating>
+ 
+ <songlength>87</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="726">Marcel Donné</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

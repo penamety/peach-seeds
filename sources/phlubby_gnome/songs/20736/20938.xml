@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20938">
+ <title>Starpaws Digital</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ <info>PCM sound achieved through manipulating volume register</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 08:20:27</locked_until>
+ <lastplayed>2018-04-27 12:31:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11350</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="17">The Exceptions</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>ym2149-pcm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

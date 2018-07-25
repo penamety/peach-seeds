@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44485">
+ <title>tocsin</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.7143</rating>
+ <info>Full-length song made for the tocsin demo</info>
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 19:20:33</locked_until>
+ <lastplayed>2018-05-03 14:57:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>72270</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5757">zoner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

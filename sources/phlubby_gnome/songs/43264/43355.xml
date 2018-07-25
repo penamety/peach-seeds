@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43355">
+ <title>Triumph</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-29 03:37:30</locked_until>
+ <lastplayed>2018-01-10 15:51:12</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4633</pouetid>
+ <ytid>2CfoG0xKajg</ytid>
+ <ytoffset>2054</ytoffset>
+ 
+ <artists>
+  <artist id="1696">Leviathan [US]</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

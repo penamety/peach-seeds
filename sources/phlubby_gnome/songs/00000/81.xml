@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="81">
+ <title>Madness 2 - Part C</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ 
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-07 04:52:43</locked_until>
+ <lastplayed>2018-01-20 12:30:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9276</pouetid>
+ <ytid>cLJPL5Nsqdk</ytid>
+ <ytoffset>376</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

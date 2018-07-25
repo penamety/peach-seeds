@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11360">
+ <title>Xmas in &#39;87</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.3462</rating>
+ <info>Done VERY QUICKLY (as it sounds too) for Bitfellas special podcast last xmas. No commands or effects, only ST-01 sounds.</info>
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 15:52:40</locked_until>
+ <lastplayed>2018-06-14 16:43:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

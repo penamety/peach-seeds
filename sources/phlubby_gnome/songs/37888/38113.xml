@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38113">
+ <title>Everlasting Heroes</title>
+ <status v="A">Active</status>
+ <bitrate>322</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.1</rating>
+ <info>2nd place in amiga chipmusic compo at Datastorm 2013</info>
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-30 13:08:54</locked_until>
+ <lastplayed>2018-04-27 08:45:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1666">Ziphoid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

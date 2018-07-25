@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36059">
+ <title>Digital Culture</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.7273</rating>
+ 
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 16:16:13</locked_until>
+ <lastplayed>2018-06-03 00:43:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>48849</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3931">Bernard Sumner</artist>
+ </artists>
+ <groups>
+  <group id="684">Relay</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

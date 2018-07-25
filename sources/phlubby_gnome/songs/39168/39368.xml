@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39368">
+ <title>Woede</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0625</rating>
+ <info>For Outline 2013 Streaming Music Compo</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-25 09:54:11</locked_until>
+ <lastplayed>2018-02-20 10:01:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

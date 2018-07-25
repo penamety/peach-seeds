@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27576">
+ <title>So-phisticated III (part 3)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ <info>Used in the demo &#34;So-phisticated III&#34; by Blackmail &amp; 20th Century Composers (1989), which was notable for being the first production using FLI graphics.</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 02:16:43</locked_until>
+ <lastplayed>2018-01-25 01:39:20</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>25223</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

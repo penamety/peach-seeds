@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28896">
+ <title>Phloam</title>
+ <status v="A">Active</status>
+ <bitrate>97</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.3333</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:47:34</locked_until>
+ <lastplayed>2018-05-21 07:46:25</lastplayed>
+ <platform id="34">GBA</platform>
+ <type id="2">Demo</type>
+ <pouetid>9439</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3494">Rjv</artist>
+ </artists>
+ <groups>
+  <group id="274">Unique</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

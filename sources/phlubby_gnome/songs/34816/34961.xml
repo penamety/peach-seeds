@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34961">
+ <title>Operation 13</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">2.4444</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-21 00:24:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4227</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4991">Blizzard</artist>
+ </artists>
+ <groups>
+  <group id="663">Epical</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30362">
+ <title>Robot Sneakers</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9091</rating>
+ <info>Track 2 off 8bp086 - Icarus by Trash80. Supposedly a mix of NES 2A03 and PC drums / mastering. Download here: http://www.8bitpeoples.com/discography/8BP086</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 00:36:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3782">Trash80</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3801">
+ <title>Amphetamine</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.3455</rating>
+ 
+ <songlength>434</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 02:58:49</locked_until>
+ <lastplayed>2018-05-11 20:51:45</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ <ytid>VnkfZ1AmuSI</ytid>
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bass</tag>
+  
+  <tag>drugs</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VnkfZ1AmuSI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

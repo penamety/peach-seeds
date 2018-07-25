@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29712">
+ <title>Ino</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">3.9833</rating>
+ <info>2nd place in pc 64k compo at DiHALT 2010</info>
+ <songlength>396</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 17:38:14</locked_until>
+ <lastplayed>2018-04-16 00:31:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55300</pouetid>
+ <ytid>2pBqwsqPfUo</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1515">Preston</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2pBqwsqPfUo</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

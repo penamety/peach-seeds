@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7371">
+ <title>Elsewhere</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-04 05:51:13</locked_until>
+ <lastplayed>2017-09-23 12:40:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2414</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1294">Velo</artist>
+ </artists>
+ <groups>
+  <group id="405">Approximate</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41147">
+ <title>64 Forever</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.1795</rating>
+ <info>X&#39;2014 music compo, 1#</info>
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:36:31</locked_until>
+ <lastplayed>2018-05-25 07:31:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>Funky</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=133926</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

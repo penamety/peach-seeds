@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17478">
+ <title>8-Bit Wonderland</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="130">4.4769</rating>
+ <info>1st place in pc demo compo at Evoke 2007</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 23:46:12</locked_until>
+ <lastplayed>2018-05-26 04:21:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31657</pouetid>
+ <ytid>DaHB-ZmUKVY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1863">DQ</artist>
+ </artists>
+ <groups>
+  <group id="280">Kakiarts</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DaHB-ZmUKVY</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

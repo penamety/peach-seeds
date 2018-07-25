@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22956">
+ <title>Heartbreaker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 05:50:50</locked_until>
+ <lastplayed>2018-03-14 01:24:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>56156</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2872">Hobbes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Cebit</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

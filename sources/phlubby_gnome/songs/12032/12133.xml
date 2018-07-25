@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12133">
+ <title>Theme From &#34;Mortal Kombat&#34;</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-29 10:42:59</locked_until>
+ <lastplayed>2017-10-22 12:27:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1735">DJ Serg</artist>
+ </artists>
+ <groups>
+  <group id="48">Fishbone</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

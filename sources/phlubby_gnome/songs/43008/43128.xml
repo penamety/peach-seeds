@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43128">
+ <title>Outline Bees</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.75</rating>
+ <info>The winner of Outline 2016 newschool music compo.
+
+Vocals sung by Jon from http://studiopros.com/
+
+A concept track mostly using samples from the X-Static Goldmine sample CDs by Polestar Magnetics. Party like it&#39;s 1992 again!
+
+license: CC-BY-NC-SA
+
+Riding in the van on our way to Outline
+Suddenly we spot the bee on our hand
+Riding to the party in the sunshine
+The bee is calling us from Atari land
+
+Bees! Bees! Bees!
+Bees! Bees! Bees!
+
+We&#39;re all covered in bees, we&#39;re calling
+They have bitten our knees, we&#39;re rolling
+A-YA-YA-YA-YAAAA we&#39;re shouting out
+To have us garbage-trucked</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-26 10:32:10</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/156938/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178512</url>
+    <comment>With lyrics</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?178513</url>
+    <comment>Without lyrics</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

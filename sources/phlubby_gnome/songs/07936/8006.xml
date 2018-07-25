@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8006">
+ <title>We Slow Down</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">3.8143</rating>
+ <info>2nd place in combined 64k compo at Simulaatio2 2003</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:16:02</locked_until>
+ <lastplayed>2018-06-10 19:15:06</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>10999</pouetid>
+ <ytid>rGHpGFH8Scs</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="772">Melwyn</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group><group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>Speech-Synth</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rGHpGFH8Scs</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/32406/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

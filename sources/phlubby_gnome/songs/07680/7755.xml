@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7755">
+ <title>Blazzering</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.6538</rating>
+ <info>Release as a part of the Data Becker Demomaker</info>
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 10:58:48</locked_until>
+ <lastplayed>2018-05-01 15:57:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1406">Harvey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Becker</tag>
+  
+  <tag>Data</tag>
+  
+  <tag>Demomaker</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

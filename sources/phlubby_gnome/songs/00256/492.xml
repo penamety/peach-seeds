@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="492">
+ <title>Glow Demotune add</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4286</rating>
+ 
+ <songlength>435</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 15:24:24</locked_until>
+ <lastplayed>2018-05-24 21:02:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>6975</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="80">Azazel</artist><artist id="1162">SuperNao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33661">
+ <title>Chaotic</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.0833</rating>
+ <info>Soundtrack from the demo &#34;Chaotic&#34; by Dekadence, 1st place in Oldskool demo competition @ Assembly Summer 2011.</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 06:23:24</locked_until>
+ <lastplayed>2018-04-15 12:48:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57461</pouetid>
+ <ytid>M6PfPjaafrA</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="100">Dekadence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=M6PfPjaafrA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

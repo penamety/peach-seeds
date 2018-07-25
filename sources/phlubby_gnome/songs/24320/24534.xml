@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24534">
+ <title>Housemix 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 09:32:11</locked_until>
+ <lastplayed>2018-04-23 02:47:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

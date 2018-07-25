@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33285">
+ <title>Outro</title>
+ <status v="B">Banned</status>
+ <bitrate>139</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">1.6111</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-OUTRO.mp3</info>
+ <songlength>437</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-02-09 12:05:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cacophony</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>lowfi</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

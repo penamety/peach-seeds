@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32682">
+ <title>Let&#39;s Go to the Mall -c64 remix- </title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.6522</rating>
+ <info>C64 Remix of Elrinth and Bauers contribution to springcompo.</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 14:42:08</locked_until>
+ <lastplayed>2018-05-27 00:25:20</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4167">Moellpauk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

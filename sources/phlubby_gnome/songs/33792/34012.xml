@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34012">
+ <title>Last Pixels</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">3.55</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 09:51:02</locked_until>
+ <lastplayed>2017-10-28 02:27:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>57689</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Riverwash</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

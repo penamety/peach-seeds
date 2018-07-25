@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36112">
+ <title>Brass Rap</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.1538</rating>
+ <info>Used in NVX&#39;s small game, a port of the C64 Squirm game. http://bitworld.bitfellas.org/demo.php?id=24652
+</info>
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 02:15:40</locked_until>
+ <lastplayed>2018-06-02 02:39:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5121">Jade (William)</artist>
+ </artists>
+ <groups>
+  <group id="553">Nerve Axis</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23831">
+ <title>Criticals Promotion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.1053</rating>
+ 
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 17:10:00</locked_until>
+ <lastplayed>2018-06-12 05:23:26</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>52071</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

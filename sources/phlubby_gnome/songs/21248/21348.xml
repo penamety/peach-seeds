@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21348">
+ <title>Altair 4</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-10 21:38:21</locked_until>
+ <lastplayed>2017-06-03 09:12:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>718</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1472">MC Laser</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34782">
+ <title>Wreck the Halls</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.1613</rating>
+ 
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 20:30:55</locked_until>
+ <lastplayed>2018-06-08 16:55:22</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

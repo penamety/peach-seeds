@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8261">
+ <title>Multi Megamix 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.3404</rating>
+ <info>A megamix, consisting of 5 modules.</info>
+ <songlength>296</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 00:25:03</locked_until>
+ <lastplayed>2018-03-10 11:30:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4709</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>comeon</tag>
+  
+  <tag>megamix</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

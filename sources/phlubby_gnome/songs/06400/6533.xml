@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6533">
+ <title>The Night of the Cats</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.1778</rating>
+ <info>Jazz/Blues sort of music. Competed in the Assembly&#39;94 (didn&#39;t make it to the Top 15)</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 14:20:01</locked_until>
+ <lastplayed>2018-06-15 15:58:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8148">
+ <title>Atrium</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="123">4.6829</rating>
+ <info>1st place at pc 4k compo at Breakpoint 2008</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 08:18:28</locked_until>
+ <lastplayed>2018-06-10 21:40:45</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>50063</pouetid>
+ <ytid>jlRoOqRs0bs</ytid>
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="82">Loonies</group><group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jlRoOqRs0bs</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14092">
+ <title>Loadertune</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">4.5663</rating>
+ <info>Delta Music 2.0 file format - can be played back in xmplay</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:00:28</locked_until>
+ <lastplayed>2018-05-23 20:07:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2060">Archon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

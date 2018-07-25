@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43752">
+ <title>Rama Gardens v1.5</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">4.0</rating>
+ <info>This is a remake of Rama Gardens, using high quality samples and DirectX audio effects. Made for Assembly 2003.
+
+Download link: http://www.futurecrew.com/skaven/song_files/ramagardens_remake.zip</info>
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-13 22:31:54</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?133610</url>
+    <comment>ModArchive Download Link</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

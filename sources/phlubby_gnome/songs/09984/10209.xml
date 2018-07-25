@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10209">
+ <title>Beat it</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ <info>Year: 1994
+Releaser: Samar Productions</info>
+ <songlength>71</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-09 18:27:46</locked_until>
+ <lastplayed>2018-02-13 03:37:37</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1835">Praiser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

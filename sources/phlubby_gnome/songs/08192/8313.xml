@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8313">
+ <title>Madrid in Black</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.4348</rating>
+ 
+ <songlength>106</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 17:14:19</locked_until>
+ <lastplayed>2018-06-11 16:15:26</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="75">Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>Emotional</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>quiet</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

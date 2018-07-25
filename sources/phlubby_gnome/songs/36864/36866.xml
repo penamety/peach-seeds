@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36866">
+ <title>Endpart</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>77</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-13 03:37:03</locked_until>
+ <lastplayed>2017-11-24 22:13:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1692</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

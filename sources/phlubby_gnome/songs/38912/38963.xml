@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38963">
+ <title>Walk On Ice</title>
+ <status v="A">Active</status>
+ <bitrate>220</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.125</rating>
+ 
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 17:43:10</locked_until>
+ <lastplayed>2018-05-26 11:13:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1032</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

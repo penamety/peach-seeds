@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27751">
+ <title>I&#39;m Looking For Vacant Planets</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.7241</rating>
+ <info>12th at Phat0 Music competition.</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 13:24:02</locked_until>
+ <lastplayed>2018-05-12 16:10:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3926">Noize</artist>
+ </artists>
+ <groups>
+  <group id="71">Phantasy</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=4065</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

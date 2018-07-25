@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31466">
+ <title>That&#39;s my People</title>
+ <status v="A">Active</status>
+ <bitrate>287</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.0769</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 23:17:40</locked_until>
+ <lastplayed>2018-04-07 08:56:45</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54656</pouetid>
+ <ytid>CChfCHvGCe0</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="4614">Smokelife</artist>
+ </artists>
+ <groups>
+  <group id="588">CRTC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CChfCHvGCe0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

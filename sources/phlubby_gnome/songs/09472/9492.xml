@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9492">
+ <title>Ngen 01</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.2</rating>
+ 
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-27 22:25:06</locked_until>
+ <lastplayed>2017-11-11 00:26:53</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>light</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

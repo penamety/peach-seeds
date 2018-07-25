@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37271">
+ <title>Beginning</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.5238</rating>
+ <info>Soundtrack for &#34;Beginning&#34;, Android demo released at WeCan 2012.  2nd place.</info>
+ <songlength>315</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:38:51</locked_until>
+ <lastplayed>2018-05-21 02:33:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>60242</pouetid>
+ <ytid>0MtBcjbBy_s</ytid>
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>WeCan</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0MtBcjbBy_s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

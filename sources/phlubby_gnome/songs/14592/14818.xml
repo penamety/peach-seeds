@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14818">
+ <title>Genesis</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 23:57:50</locked_until>
+ <lastplayed>2017-10-28 11:17:12</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>8626</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2295">Bethoven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

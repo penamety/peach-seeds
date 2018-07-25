@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11485">
+ <title>The Arctic Circle (66.56756 edition)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.0685</rating>
+ <info>A remix of Stellan Andersson (Dane) c64 tune :)</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:28:52</locked_until>
+ <lastplayed>2018-05-25 18:55:00</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1801">X-formZ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33369">
+ <title>Critical Error (Full)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.6944</rating>
+ <info>Hi there. As I promised on the occasion of publishing &#34;Winter Funk&#34; song - today I put the entire and full version of &#34;Critical Error&#34; ZX demo original score, that includes the &#34;Winter Funk&#34; song too. It also contains an additional lost &#39;intro&#39; part that isn&#39;t present in the demo, as I lost the sources and now I have it only in a recording form. It&#39;s quite a long song, different in every demo&#39;s part, having various styles and moods of chiptune music. This is a synthetic-music part of the score, there is however also a digital part (outro) available on the Internet under a name &#34;Kaminari&#34;: [song]33373[/song]
+Greetz, ppl.</info>
+ <songlength>330</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:10:12</locked_until>
+ <lastplayed>2018-06-08 02:43:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56765</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>48k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Speccy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MchzKT_oufE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/12882/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

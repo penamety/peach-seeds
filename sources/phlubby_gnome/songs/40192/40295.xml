@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40295">
+ <title>Pop-String</title>
+ <status v="A">Active</status>
+ <bitrate>954</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1154</rating>
+ <info>One of the several soundtracks from Buzz №19 (ZX Spectrum e-Newspaper) by Eternity Industry 2000</info>
+ <songlength>327</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 16:48:10</locked_until>
+ <lastplayed>2018-05-30 04:12:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

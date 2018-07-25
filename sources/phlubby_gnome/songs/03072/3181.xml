@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3181">
+ <title>Forgot the Time</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.4</rating>
+ <info>&#39;Forgot The Time&#39; (Infra/Silicon Records), released 01/1998</info>
+ <songlength>367</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 17:40:16</locked_until>
+ <lastplayed>2018-05-19 01:26:32</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="548">Infra</artist>
+ </artists>
+ <groups>
+  <group id="638">Silicon Records</group>
+ </groups>
+ 
+ <tags>
+  <tag>House</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

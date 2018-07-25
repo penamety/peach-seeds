@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3255">
+ <title>Streaming</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5</rating>
+ <info>Mixed Music Competition at Assembly 2001 :  #3</info>
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 22:48:39</locked_until>
+ <lastplayed>2017-11-03 15:02:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="560">Jammic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

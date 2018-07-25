@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21802">
+ <title>Komeplipop 5.0</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0</rating>
+ 
+ <songlength>385</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 18:08:30</locked_until>
+ <lastplayed>2018-06-01 01:22:40</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="810">Monty</artist><artist id="4363">Superbee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35669">
+ <title>There is No</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.7895</rating>
+ <info>[url=http://www.t-101.org/index.php/there-is-no-by-darklite/]Info on T-101&#39;s website[/url]</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-26 21:18:08</locked_until>
+ <lastplayed>2018-02-20 02:40:35</lastplayed>
+ <platform id="34">GBA</platform>
+ <type id="2">Demo</type>
+ <pouetid>59099</pouetid>
+ <ytid>TXoYPpFEvbM</ytid>
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist><artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TXoYPpFEvbM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

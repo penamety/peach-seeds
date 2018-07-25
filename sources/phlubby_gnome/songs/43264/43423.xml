@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43423">
+ <title>Dear Sophie</title>
+ <status v="A">Active</status>
+ <bitrate>218</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>Winning module from the Amiga Music competition at Gerp 2016.</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 20:42:24</locked_until>
+ <lastplayed>2018-04-10 03:15:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>en5nzyYq3Yw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group><group id="757">Powerline</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

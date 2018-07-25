@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36895">
+ <title>Magnetic Ice</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.56</rating>
+ <info>SID chipset: MOS6581R2</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 08:59:51</locked_until>
+ <lastplayed>2018-05-31 09:27:50</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4529">Rage [of Megastyle]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

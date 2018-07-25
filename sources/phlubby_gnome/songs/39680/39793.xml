@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39793">
+ <title>Don&#39;t make me wait</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.0</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 17:06:21</locked_until>
+ <lastplayed>2017-12-17 17:33:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13883</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5445">Soundscan</artist>
+ </artists>
+ <groups>
+  <group id="776">Wizzcat</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

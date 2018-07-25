@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34100">
+ <title>Supersharp</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="26">2.8077</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-29 17:56:21</locked_until>
+ <lastplayed>2018-06-16 00:14:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>57727</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Jungle</tag>
+  
+  <tag>Sunrise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

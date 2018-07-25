@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17671">
+ <title>Night Vision</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 11:51:50</locked_until>
+ <lastplayed>2017-10-27 05:34:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>16651</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="393">d-Zire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11920">
+ <title>class11.time flies</title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.25</rating>
+ 
+ <songlength>41</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 02:01:15</locked_until>
+ <lastplayed>2018-04-09 05:42:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="720">Maktone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18579">
+ <title>Paranoid title</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.2143</rating>
+ <info>From [url]http://csdb.dk/release/?id=82437[/url]</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 05:16:30</locked_until>
+ <lastplayed>2018-03-13 01:01:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

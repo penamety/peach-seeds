@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22760">
+ <title>Picnicbass</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>100</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-11 11:26:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>50716</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1455">LoadError</artist>
+ </artists>
+ <groups>
+  <group id="184">Ephidrena</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>GREP</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

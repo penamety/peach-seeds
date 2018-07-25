@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4365">
+ <title>Inspecteur G</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.6042</rating>
+ 
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-16 09:20:10</locked_until>
+ <lastplayed>2018-01-28 02:41:26</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Cartoon</tag>
+  
+  <tag>InspectorGadget</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26942">
+ <title>Highway Theme</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">4.15</rating>
+ 
+ <songlength>347</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 18:04:41</locked_until>
+ <lastplayed>2017-12-19 10:19:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21797</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1980">Blue Fox</artist><artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

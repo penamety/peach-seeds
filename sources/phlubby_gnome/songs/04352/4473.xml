@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4473">
+ <title>Flimbo&#39;s Quest 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-09 07:47:06</locked_until>
+ <lastplayed>2017-08-03 01:40:18</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>eHr41zJqYS4</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

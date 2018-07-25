@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28167">
+ <title>Des chiffres et de lettres</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.9778</rating>
+ <info>Cover of a french tv show theme.</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 01:56:37</locked_until>
+ <lastplayed>2018-05-06 15:05:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

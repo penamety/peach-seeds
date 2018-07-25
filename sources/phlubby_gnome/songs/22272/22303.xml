@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22303">
+ <title>Pia Noodle Cover</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.1333</rating>
+ 
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 12:14:25</locked_until>
+ <lastplayed>2017-12-23 08:21:53</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3294">Nobuyuki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

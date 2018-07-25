@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35776">
+ <title>GemX (Title)</title>
+ <status v="R">Rejected</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.2857</rating>
+ 
+ <songlength>266</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2013-01-18 14:28:50</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4538">Patrick Nevian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

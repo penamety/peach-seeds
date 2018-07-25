@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40866">
+ <title>Atari Robot Demo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>This is the first video Boz did, and was made for Back in Time Live 3, held at Gossips in London. It starts off with the robot from an old Atari 800 demo, and in fact the music is a remix Boz made of the original tune that accompanies the robot. The video folds out to a barrage of video clips from the Atari, Commodore 64, Amiga and popular arcade games, with a humorous quirky style. You&#39;ll be able to hear the original tune in the credits section right at the end.
+
+http://www.bozretro.com/</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 03:26:01</locked_until>
+ <lastplayed>2018-03-16 13:25:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>Z7Eg0k-QNwE</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="132">Boz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>BackInTime</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>robotic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Z7Eg0k-QNwE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

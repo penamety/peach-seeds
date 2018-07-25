@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34806">
+ <title>Pandemonium</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.2115</rating>
+ 
+ <songlength>342</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 16:37:31</locked_until>
+ <lastplayed>2018-05-26 18:46:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8082</pouetid>
+ <ytid>CfxDTgK3grg</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1791">Yaz </artist>
+ </artists>
+ <groups>
+  <group id="178">Digital</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

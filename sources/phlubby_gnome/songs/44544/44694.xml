@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44694">
+ <title>Egal part 1</title>
+ <status v="A">Active</status>
+ <bitrate>888</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.4</rating>
+ <info>Appeared in the ZX Spectrum demo &#34;Egal&#34; by The Mad Guys. The song has no other known title.</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 08:45:38</locked_until>
+ <lastplayed>2018-06-06 09:53:11</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>2776</pouetid>
+ <ytid>Pzz0um7DaLM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5780">The Spy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Pzz0um7DaLM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0007384</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

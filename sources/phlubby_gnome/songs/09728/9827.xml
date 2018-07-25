@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9827">
+ <title>Decade Demo - Main Menu</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.3457</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 20:07:26</locked_until>
+ <lastplayed>2018-05-21 11:04:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3243</pouetid>
+ <ytid>KDIc8KtYKi8</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="244">Count Zero</artist>
+ </artists>
+ <groups>
+  <group id="490">Inner Circle [IC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KDIc8KtYKi8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

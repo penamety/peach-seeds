@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29416">
+ <title>Lonely Robot (CPC)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="119">4.6891</rating>
+ 
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:00:00</locked_until>
+ <lastplayed>2018-06-10 01:56:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55996</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>robotic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

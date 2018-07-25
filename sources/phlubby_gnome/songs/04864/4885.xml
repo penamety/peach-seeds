@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4885">
+ <title>Danny Elfmania</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.5758</rating>
+ <info>2nd place in pc demo compo at The Party 1994</info>
+ <songlength>334</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:32:58</locked_until>
+ <lastplayed>2018-06-01 08:17:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>1159</pouetid>
+ <ytid>t-bfGXL4vC4</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  <group id="203">NoooN</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>DannyElfman</tag>
+  
+  <tag>spooky</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

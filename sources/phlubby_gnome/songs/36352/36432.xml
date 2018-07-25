@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36432">
+ <title>Earport</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.1395</rating>
+ <info>The song has been _entirely_ made on ZX81 with ZXpand and two YM/AY chips (6 channels) from ZXpand-AY and Mr-X modules. 
+
+Software used: ZX81 SoundTracker and TurboSound Player - both by Andy Rea. 
+
+Recorded from real ZX81 computer. 
+
+Thx a lot for all the soft/hardware to: Sasha2000, SirMorris, Andy Rea and Moggy (for software-ports for more stupid users like me). </info>
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:57:49</locked_until>
+ <lastplayed>2018-06-09 02:22:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZX81</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18854/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

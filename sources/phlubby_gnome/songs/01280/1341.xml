@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1341">
+ <title>Our Planet the Voice</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.625</rating>
+ <info>Winner of the music compo at Juhla 1997.</info>
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-01 19:03:14</locked_until>
+ <lastplayed>2018-02-10 11:45:55</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="248">Croaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Juhla</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

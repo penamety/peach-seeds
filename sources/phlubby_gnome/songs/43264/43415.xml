@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43415">
+ <title>Spiral Hands On Modern Talking - Cheri Cheri Lady</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>Space remake of Modern Taklings tune Cheri Cheri Lady!</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 13:54:42</locked_until>
+ <lastplayed>2018-05-11 02:07:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>ModernTalking</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

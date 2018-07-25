@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13216">
+ <title>Snowland</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.3889</rating>
+ 
+ <songlength>366</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 05:07:36</locked_until>
+ <lastplayed>2018-03-20 01:57:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18642</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2130">Dr. Bully</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8226">
+ <title>Chaos (TCC 1993 Invite)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="109">4.6422</rating>
+ <info>Soundtrack from &#34;TCC 1993 Invitation&#34; by Electra, released for The Computer Crossroad 1993</info>
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 11:47:21</locked_until>
+ <lastplayed>2018-05-31 21:48:50</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>14189</pouetid>
+ <ytid>OJl44IsTTrc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1041">Scavenger</artist>
+ </artists>
+ <groups>
+  <group id="10">Synergy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OJl44IsTTrc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/59473/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

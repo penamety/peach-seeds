@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21376">
+ <title>Mourning</title>
+ <status v="E">Reported</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">4.0</rating>
+ <info>Dupe of [song]9114[/song]</info>
+ <songlength>199</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6158</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1472">MC Laser</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group><group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4660">
+ <title>Abandon crack01</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0952</rating>
+ 
+ <songlength>97</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 08:23:22</locked_until>
+ <lastplayed>2018-05-21 06:11:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>26992</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="765">Megawatt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

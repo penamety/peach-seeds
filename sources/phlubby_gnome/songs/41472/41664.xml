@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41664">
+ <title>You and Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">1.8065</rating>
+ <info>2nd at Tokyodemofest 2015 combined music compo</info>
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-31 12:27:12</locked_until>
+ <lastplayed>2018-06-09 20:44:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5475">T_S</artist>
+ </artists>
+ <groups>
+  <group id="781">RTX1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>House</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133222/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

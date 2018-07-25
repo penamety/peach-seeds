@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2894">
+ <title>The Dancing Oldschool Girl</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="81">4.1852</rating>
+ <info>4th in Dreamhack 2000 tracked music compo</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 13:45:24</locked_until>
+ <lastplayed>2018-04-22 21:13:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="506">Haggeman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Dreamhack</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>PatternsPlayedBackwards</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DVb1cHejs68</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/47500/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

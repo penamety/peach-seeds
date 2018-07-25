@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15897">
+ <title>Musical Empire</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 04:53:21</locked_until>
+ <lastplayed>2018-05-04 08:42:22</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>3821</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="197">Christian Mæland</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ROM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

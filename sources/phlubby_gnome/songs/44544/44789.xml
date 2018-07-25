@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44789">
+ <title>Just Revision</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.75</rating>
+ <info>10th in Revision 2018 streaming music compo
+
+Released by Ninjadev</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 20:50:38</locked_until>
+ <lastplayed>2018-05-30 16:46:29</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5717">Sigveseb</artist>
+ </artists>
+ <groups>
+  <group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/185507/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

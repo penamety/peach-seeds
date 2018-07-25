@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31184">
+ <title>Window</title>
+ <status v="A">Active</status>
+ <bitrate>242</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>From the &#34;Back to the sources&#34; musicdisk.
+Made with SunVox.</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 20:13:12</locked_until>
+ <lastplayed>2018-06-11 13:09:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52834</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4573">NightRadio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>SunVox</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8218">
+ <title>I Realize (Demo Version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.5902</rating>
+ <info>2nd place in pc non 3d acc demo compo at The Party 1999
+
+Lyrics (by Kim Ault):
+If I could gather all the stars and hold them in my hand,
+the colors I would then possess would not be half as grand
+as those which I have seen when I look deep into your eyes,
+or come across when I have kissed your lips, I realize.
+
+If I could ponder all the truths men sought since time began,
+they would not teach me more than if I were to touch your hand
+For truth to no one you have touched appears as simple lies
+And nothing could be truer than your touch, I realize.
+
+If I were given lasting life as only God could do,
+I&#39;d shun it all and turn away, if I could live with you.
+For even God has never known the immesurable size
+Of the love that is within your heart, I realize.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 02:15:58</locked_until>
+ <lastplayed>2018-06-04 01:10:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>501</pouetid>
+ <ytid>6FbQUmmZTuM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1703">Rymdlego</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6FbQUmmZTuM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42772">
+ <title>W.A.R.</title>
+ <status v="A">Active</status>
+ <bitrate>140</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.5238</rating>
+ <info>R2 recording from stone oakvalley
+
+It has been used in numerous intros, historically especially curious being &#34;First Official Demo&#34; (1987) by Byterapers inc.
+
+Hubbard has stated that this song is his favorite (along with Kentilla) among his own C64 songs.</info>
+ <songlength>573</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 17:15:59</locked_until>
+ <lastplayed>2018-06-10 09:13:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>43409</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2801</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=14365</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=35186</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44026">
+ <title>Masagin (Sonic Dissent remix)</title>
+ <status v="A">Active</status>
+ <bitrate>1063</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6667</rating>
+ 
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 13:52:41</locked_until>
+ <lastplayed>2018-05-23 18:36:26</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4296">Gary J. Hung</artist><artist id="4953">Mark van Den</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="10">Sonic Dissent</label>
+ </labels>
+ <tags>
+  <tag>Hardstyle</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32672">
+ <title>Kinder Voucher (feat Datsua)</title>
+ <status v="A">Active</status>
+ <bitrate>168</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.05</rating>
+ <info>4th in combined demo at Solskogen 2009</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 16:44:09</locked_until>
+ <lastplayed>2018-06-04 19:15:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53518</pouetid>
+ <ytid>t6Z39j9QMfc</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="502">boozoholics</group><group id="447">PlayPsyCo</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

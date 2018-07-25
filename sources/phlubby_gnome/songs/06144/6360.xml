@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6360">
+ <title>Battle Squadron [lose]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="131">4.6947</rating>
+ <info>Format is Ron Klaren (.rk)
+
+A music and fx format created by Ivo Zoer and Ron Klaren. Files in this format have an eagleplayer specific header. </info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 08:08:01</locked_until>
+ <lastplayed>2018-06-05 00:42:14</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ <pouetid>5398</pouetid>
+ <ytid>Q4LnzE8Ea3g</ytid>
+ <ytoffset>135</ytoffset>
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/72</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

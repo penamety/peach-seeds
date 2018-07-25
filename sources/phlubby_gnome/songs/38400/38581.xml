@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38581">
+ <title>Sonical Sensation</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>This tune was composed for a musicdisc.</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 14:55:36</locked_until>
+ <lastplayed>2018-03-24 06:04:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

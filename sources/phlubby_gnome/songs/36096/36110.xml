@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36110">
+ <title>Jennifer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">1.9167</rating>
+ <info>Used in http://bitworld.bitfellas.org/demo.php?id=23852
+</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-05 05:56:16</locked_until>
+ <lastplayed>2017-06-23 01:41:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5122">Mad Phantom</artist>
+ </artists>
+ <groups>
+  <group id="685">Cybernetix</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

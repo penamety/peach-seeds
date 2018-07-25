@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28641">
+ <title>Ooh La La</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.3433</rating>
+ <info>1st place in combined demo compo at Sundown 2008</info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 12:14:15</locked_until>
+ <lastplayed>2018-06-12 08:51:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51650</pouetid>
+ <ytid>jGuDQeUSx4g</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>bigbeat</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>Hip-Hop</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jGuDQeUSx4g</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

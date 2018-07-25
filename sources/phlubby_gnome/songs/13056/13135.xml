@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13135">
+ <title>Selfmade.exe</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1379</rating>
+ <info>MOS6581R4</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 00:00:20</locked_until>
+ <lastplayed>2018-03-08 22:47:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2078">AMJ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

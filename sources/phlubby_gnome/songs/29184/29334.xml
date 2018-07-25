@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29334">
+ <title>Friends Around</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.3333</rating>
+ 
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-27 12:56:22</locked_until>
+ <lastplayed>2017-07-20 07:45:58</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="423">Evrimsson</artist>
+ </artists>
+ <groups>
+  <group id="44">Illusion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

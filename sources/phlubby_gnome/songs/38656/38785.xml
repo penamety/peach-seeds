@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38785">
+ <title>Automutilation</title>
+ <status v="A">Active</status>
+ <bitrate>166</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.8077</rating>
+ 
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:54:53</locked_until>
+ <lastplayed>2018-05-12 10:22:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

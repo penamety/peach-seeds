@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36662">
+ <title>Souls</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-02 06:24:16</locked_until>
+ <lastplayed>2017-08-23 14:08:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14617</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="654">Laxical</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Showtime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

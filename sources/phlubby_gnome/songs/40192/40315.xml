@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40315">
+ <title>Around The Planet</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.2414</rating>
+ 
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 19:07:28</locked_until>
+ <lastplayed>2018-06-14 07:35:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>43086</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5050">FCS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Laserdance</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

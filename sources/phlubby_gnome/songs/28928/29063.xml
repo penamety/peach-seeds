@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29063">
+ <title>Kiberiada</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2</rating>
+ 
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 22:42:02</locked_until>
+ <lastplayed>2018-04-27 08:52:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>20456</pouetid>
+ <ytid>0_6xDq7_mJU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group><group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>video</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0_6xDq7_mJU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28564">
+ <title>Alice Cooper</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="62">3.8548</rating>
+ <info>Slash/AtD
+(c) Atomic Destruction
+(c) Russian Prestige
+1997</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-02-10 18:13:41</locked_until>
+ <lastplayed>2018-01-23 13:56:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1088">Slash [ru]</artist>
+ </artists>
+ <groups>
+  <group id="598">Atomic Destruction</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

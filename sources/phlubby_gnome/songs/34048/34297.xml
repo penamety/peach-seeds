@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34297">
+ <title>Tomhet</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">2.4792</rating>
+ <info>SID port of a fantastic song (in serp&#39;s opinion) Burzum - Tomhet http://www.youtube.com/watch?v=Cmv4unRga40</info>
+ <songlength>830</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 16:46:59</locked_until>
+ <lastplayed>2018-05-28 13:47:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4593">SounDemoN</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>long</tag>
+  
+  <tag>minimalistic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

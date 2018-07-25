@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29450">
+ <title>Vammailua2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">1.7105</rating>
+ <info>&#34;Vammailua2&#34; is an extended version of &#34;Vammailua&#34;
+
+The first version participated in a music compo at Compucam &#39;94 and caused a riot (according to Grendel)
+
+The voice says &#34;ihan paska&#34; (plain shit)</info>
+ <songlength>46</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 04:20:43</locked_until>
+ <lastplayed>2018-05-12 22:30:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4368">Deadbeat</artist><artist id="2855">Hazard</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>Avant-garde</tag>
+  
+  <tag>burp</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>Mystic</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32951">
+ <title>Broken Rules</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.5631</rating>
+ <info>Heh, what to say. It&#39;s been a loooong time since I did ANY scene related work. The task to create a track for this great compilation came really refreshing. Throwing away the commercial based music routine approach, I was free to let the track take it&#39;s natural course from the first chord. Although it was heavily inspired by the recent TRON soundtrack (I&#39;m sure you noticed ;)) I didn&#39;t want to constrain myself in any way, and just let it come together in this hybrid kind of way. Although utilizing symphonic elements with electronica is nothing new, I just like both worlds. Now mixing and orchestrating this was a bit of pain in the ass, since I don&#39;t really have much experience with it. But it was a fun and creative process overall. Thanks to Ziphoid and the SceneSat crew for making this possible! Hope to see you in another great project. Signing off. //Dafunk</info>
+ <songlength>418</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 05:12:05</locked_until>
+ <lastplayed>2018-06-04 18:15:46</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1346">Dafunk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Legacy</tag>
+  
+  <tag>long</tag>
+  
+  <tag>tron</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8oQYPunuwP0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8oQYPunuwP0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

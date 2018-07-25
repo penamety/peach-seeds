@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23099">
+ <title>Nucleophile</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.2609</rating>
+ <info>1st place in pc 4k compo at Assembly 2008
+
+[youtube]89_lx_8hW2s[/youtube]</info>
+ <songlength>93</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 05:47:33</locked_until>
+ <lastplayed>2018-05-22 02:56:41</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>51114</pouetid>
+ <ytid>89_lx_8hW2s</ytid>
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group><group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=89_lx_8hW2s</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31136">
+ <title>Sex&amp;Candy (short one)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.6522</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-17 18:04:19</locked_until>
+ <lastplayed>2017-12-29 23:15:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

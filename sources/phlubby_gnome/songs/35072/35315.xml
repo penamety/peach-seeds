@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35315">
+ <title>Airwalk 98</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.4091</rating>
+ 
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 07:54:48</locked_until>
+ <lastplayed>2018-05-24 22:49:40</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2804">GRG</artist>
+ </artists>
+ <groups>
+  <group id="357">Blues Muz&#39;</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

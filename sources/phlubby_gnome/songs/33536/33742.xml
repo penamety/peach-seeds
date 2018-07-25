@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33742">
+ <title>Selfmade.exe</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="61">3.9836</rating>
+ 
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 01:25:25</locked_until>
+ <lastplayed>2018-05-03 19:19:22</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>wz1yI5nFM3M</ytid>
+ 
+ 
+ <artists>
+  <artist id="4858">Robot2037</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=wz1yI5nFM3M</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

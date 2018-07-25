@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1222">
+ <title>Overtaking [Motion - main]</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="33">4.2121</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 22:48:36</locked_until>
+ <lastplayed>2018-05-30 04:37:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5436</pouetid>
+ <ytid>MWT4Lk2niEM</ytid>
+ <ytoffset>21</ytoffset>
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  <group id="255">BOMB!</group>
+ </groups>
+ 
+ <tags>
+  <tag>prodigy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19985">
+ <title>Golden</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ 
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-01 20:23:52</locked_until>
+ <lastplayed>2017-06-04 11:00:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

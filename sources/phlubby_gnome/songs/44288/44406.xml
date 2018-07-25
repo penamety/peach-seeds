@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44406">
+ <title>The Lady of Mars</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>The music has been made for the NES / FamiCom / Pegasus game-consoles.
+
+They contains Ricoh 2A03 soundchip with 5 channels of sound:
+- two pulse channels,
+- one triangle channel,
+- one noise channel and
+- one DPCM (sample) channel.
+
+This is my very first song for the NES. :)
+
+The full album &#34;DEATH SQUAD&#34; with this song - is here: http://yerzmyey.i-demo.pl/</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 09:31:01</locked_until>
+ <lastplayed>2018-06-10 13:04:29</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176020/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

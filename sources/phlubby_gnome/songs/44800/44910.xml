@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44910">
+ <title>Endless pleasure</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.5</rating>
+ <info>First place for the multichannel music compo at ByteFall 1997.
+
+-=Endless pleasure=-
+This is a multichannel
+compo version of my
+old song...
+     Presented at
+     BYTEFALL &#39;97
+
+Only for Fast Tracker!
+
+  +7-095-496-3474
+         Stanislaw
+
+This song was written
+       on 20.09.96
+     at 15:42-17:56
+ Remixed on 24.08.97.
+
+   Playing time 3:00
+
+  Always in your
+     mind and heart...
+
+
+1996/97 (C) MADMINDER
+
+ Gretz to all muzakerz
+of Moscow, Russia and
+WORLD!
+
+  Special hello to
+Mic/MPS/PGS,Astral,
+GreenPix7, XPEH, LAV
+Slightly Magic, Solo,
+Tangerin, Innocent,
+etc...</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 17:37:55</locked_until>
+ <lastplayed>2018-06-12 17:20:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4957">Madminder</artist>
+ </artists>
+ <groups>
+  <group id="661">Deep Deep Trouble, Ent. [DDT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>ByteFall</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zW-6spibeqw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/34098/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?144659</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38130">
+ <title>Gelsnap-C</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.875</rating>
+ <info>Esaus contribution to Datastorm 2013 Amiga music competition - reached 3:rd place</info>
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 12:26:56</locked_until>
+ <lastplayed>2017-12-04 03:34:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4462">Esau</artist>
+ </artists>
+ <groups>
+  <group id="371">Traktor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

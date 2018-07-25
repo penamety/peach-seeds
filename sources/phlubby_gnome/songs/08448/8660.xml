@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8660">
+ <title>Like a Childbirth</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="134">4.5746</rating>
+ <info>5th place in pc demo compo at Breakpoint 2006.</info>
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 11:08:47</locked_until>
+ <lastplayed>2018-06-15 09:44:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>24486</pouetid>
+ <ytid>WUfph7k4g34</ytid>
+ 
+ 
+ <artists>
+  <artist id="233">CONS</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="136">Anadune</group><group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WUfph7k4g34</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12554</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

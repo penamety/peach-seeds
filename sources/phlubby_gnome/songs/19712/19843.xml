@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19843">
+ <title>Pixeltropia</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.1</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 23:17:06</locked_until>
+ <lastplayed>2018-04-23 15:06:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11926</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1637">JosSs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Ifparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

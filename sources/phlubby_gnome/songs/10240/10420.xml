@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10420">
+ <title>Wired &#39;96 Report</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7368</rating>
+ <info>wired96 party report
+
+tune by necros/fm/ld </info>
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 02:05:55</locked_until>
+ <lastplayed>2018-02-27 16:46:24</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27399">
+ <title>I&#39;ll See You Soon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ <info>from the demo by T-Rex and The SandS. Vocal by me.</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 04:17:08</locked_until>
+ <lastplayed>2018-05-21 23:48:05</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>513</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Paradox</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

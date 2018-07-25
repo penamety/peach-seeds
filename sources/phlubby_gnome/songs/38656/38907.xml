@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38907">
+ <title>TX81Ztest</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>&#34;Just some fun with the Yamaha TX81z FM Synthesis Module.&#34;</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 15:33:35</locked_until>
+ <lastplayed>2017-10-01 00:47:36</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

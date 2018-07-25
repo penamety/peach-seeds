@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10828">
+ <title>Can&#39;t fake the funk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.1429</rating>
+ <info>= basehead / fm =
+This is my debut release for fm (five musicians): a group including necros, mellow-d, bigjim, purple motion plus myself... we plan on doing co-op songs as well as solo songs such as these in the future... hope you enjoy it...
+</info>
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 08:01:02</locked_until>
+ <lastplayed>2018-03-19 19:11:33</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+  <tag>NAID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

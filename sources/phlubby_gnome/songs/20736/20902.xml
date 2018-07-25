@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20902">
+ <title>Knucklebusters</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">2.619</rating>
+ 
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 09:31:07</locked_until>
+ <lastplayed>2018-06-02 17:37:50</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11350</pouetid>
+ <ytid>0HG_I2GOj7M</ytid>
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="17">The Exceptions</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0HG_I2GOj7M</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

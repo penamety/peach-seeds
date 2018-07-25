@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32957">
+ <title>Rox</title>
+ <status v="A">Active</status>
+ <bitrate>168</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.4054</rating>
+ <info>Hoffman here.  This tune is very old indeed but for some reason was never released.  The last modified date on the files say October 2004!.  Anyway, this tune was put together using Reason and Rebirth.  Its main influence comes from a rather popular band from the 80&#39;s, however I&#39;ll leave you lot guessing who.  Although I haven&#39;t done another full mix down, I did manage to find the time to rebalance the drums a bit for this release and also give it a nice L2 squash.  Shout outs to the following friends and influences...  RC55, NE7, DVS, Meaty, Ziphoid, Takomo, Lavaburn, 4Mat, Keith303, Lug00ber, Daxx, PowerTrace, Little Bitchard, Syphus, Sunspire, DFox, Franky and all I forgot.</info>
+ <songlength>414</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 16:45:31</locked_until>
+ <lastplayed>2018-06-13 21:13:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>police</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Hv2mwiwRYF4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

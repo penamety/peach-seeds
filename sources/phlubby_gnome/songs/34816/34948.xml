@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34948">
+ <title>Beyond the Ice Palace</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 08:04:35</locked_until>
+ <lastplayed>2017-11-17 04:00:30</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4985">Memblers</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

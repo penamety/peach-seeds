@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43048">
+ <title>Light of Darkness</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>8th at Revision 2016 Stream Compo</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-25 01:02:10</locked_until>
+ <lastplayed>2018-01-06 13:30:09</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4532">Dakota</artist>
+ </artists>
+ <groups>
+  <group id="830">Futuris</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

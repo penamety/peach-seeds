@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40341">
+ <title>Chromospheric Flares (Bonus Track)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>ZX Spectrum (BEEPER). 1-bit sound. 
+Engine: Phaser1.
+Recorded from real hardware: TIMEX COMPUTER 2048.</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 19:26:17</locked_until>
+ <lastplayed>2017-12-04 17:33:32</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="2">Demo</type>
+ <pouetid>62802</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WwWHs6aQJ1c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34378/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39557">
+ <title>Spy vs Spy (c64 live remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.4186</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 04:52:48</locked_until>
+ <lastplayed>2018-05-22 23:50:36</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3866">LukHash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>electro</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

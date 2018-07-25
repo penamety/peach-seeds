@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43614">
+ <title>Killerclown behind the tree</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>XM, 16ch
+
+Featured in the Desire intro &#34;Fuhai&#34; by mudlord.
+
+2nd place at Syntax demo party 2016, demo competition.</info>
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 11:18:03</locked_until>
+ <lastplayed>2018-03-10 10:13:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>68496</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>glitch</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OjRBw9VloD8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

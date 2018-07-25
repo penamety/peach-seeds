@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29897">
+ <title>Interface Complete</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>267</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-28 04:10:10</lastplayed>
+ 
+ <type id="12">Diskmag</type>
+ <pouetid>55734</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>zine</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

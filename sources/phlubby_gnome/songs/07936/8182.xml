@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8182">
+ <title>Jeroen Tel medley (live at Breakpoint 2008)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="110">2.6182</rating>
+ 
+ <songlength>360</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 08:29:46</locked_until>
+ <lastplayed>2018-06-03 12:08:15</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="10">Live Act</type>
+ <pouetid>50408</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1526">Reyn Ouwehand</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>boring</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

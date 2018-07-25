@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5945">
+ <title>Dandruff Groove</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.5526</rating>
+ 
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 09:25:42</locked_until>
+ <lastplayed>2018-03-15 05:20:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3454</pouetid>
+ <ytid>MqYhH9RjkwM</ytid>
+ 
+ 
+ <artists>
+  <artist id="566">Jazz</artist><artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

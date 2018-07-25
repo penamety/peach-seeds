@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12530">
+ <title>Motion</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.1613</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 10:08:08</locked_until>
+ <lastplayed>2018-05-07 03:11:55</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Bagpipes</tag>
+  
+  <tag>Celtic</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Folk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

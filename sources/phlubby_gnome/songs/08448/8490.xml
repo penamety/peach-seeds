@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8490">
+ <title>Technology</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.0847</rating>
+ <info>Except from being used in musicdisk Musicland, it also competed in The Party&#39;92 4ch music compo and
+got 8:th place.</info>
+ <songlength>386</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 14:48:04</locked_until>
+ <lastplayed>2018-05-17 18:26:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9139</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6436">
+ <title>Tried But Failed</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.125</rating>
+ <info>Ranked 9th in the music compo at Rendezvous 1993.</info>
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 05:06:55</locked_until>
+ <lastplayed>2018-03-04 01:52:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1049">Scott</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

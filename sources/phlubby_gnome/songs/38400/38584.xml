@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38584">
+ <title>Transceptions</title>
+ <status v="A">Active</status>
+ <bitrate>153</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.9375</rating>
+ <info>This tune was placed as number 3 in the music compo at The Midway party in Hudiksvall.</info>
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-16 03:08:31</locked_until>
+ <lastplayed>2017-07-07 17:10:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="729">Midway</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

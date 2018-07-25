@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44124">
+ <title>C-Drug</title>
+ <status v="A">Active</status>
+ <bitrate>519</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Music from the main part of  &#34;C-Drug&#34; demo</info>
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 10:07:54</locked_until>
+ <lastplayed>2018-04-17 06:58:48</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>58120</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5563">stRing</artist>
+ </artists>
+ <groups>
+  <group id="869">Agenda</group><group id="871">LaResistance</group><group id="870">Mad Team</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/56351/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1019">
+ <title>Turrican 2 (The Desert Rocks remake)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.4318</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 21:49:20</locked_until>
+ <lastplayed>2018-06-15 18:55:58</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Turrican</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

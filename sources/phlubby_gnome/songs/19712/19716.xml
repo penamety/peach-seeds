@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19716">
+ <title>Umbrellas of Peru</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.0476</rating>
+ 
+ <songlength>389</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 13:53:54</locked_until>
+ <lastplayed>2018-05-05 13:24:16</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

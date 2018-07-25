@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12200">
+ <title>Unipoerroe</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8889</rating>
+ <info>4th in Listening Music compo @ Stream Six</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 05:52:06</locked_until>
+ <lastplayed>2017-12-14 01:16:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Stream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

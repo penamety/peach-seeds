@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38393">
+ <title>RobKit</title>
+ <status v="A">Active</status>
+ <bitrate>199</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-11 01:36:45</locked_until>
+ <lastplayed>2017-06-05 04:54:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="744">Marvin</artist>
+ </artists>
+ <groups>
+  <group id="632">Skarla</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24458">
+ <title>Gift part 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5789</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 19:25:53</locked_until>
+ <lastplayed>2018-03-31 05:32:24</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3533</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1786">Skipp</artist>
+ </artists>
+ <groups>
+  <group id="55">Potion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

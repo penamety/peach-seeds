@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14975">
+ <title>Armybeat</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.6</rating>
+ 
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 20:49:41</locked_until>
+ <lastplayed>2018-05-17 10:34:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13299</pouetid>
+ <ytid>1L2Hh-7ioOg</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

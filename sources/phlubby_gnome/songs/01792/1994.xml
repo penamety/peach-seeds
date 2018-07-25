@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1994">
+ <title>Bridge To The Universe (part 2)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1379</rating>
+ 
+ <songlength>307</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 21:41:49</locked_until>
+ <lastplayed>2018-05-13 16:58:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3207</pouetid>
+ <ytid>3EVb3SrcuSg</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

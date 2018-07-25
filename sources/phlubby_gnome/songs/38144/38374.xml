@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38374">
+ <title>Flaum (preview)</title>
+ <status v="A">Active</status>
+ <bitrate>207</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ 
+ <songlength>67</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 07:00:48</locked_until>
+ <lastplayed>2018-06-15 03:44:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4238">Key-Jee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>SunVox</tag>
+  
+  <tag>unfinished</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

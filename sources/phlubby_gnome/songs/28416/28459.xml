@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28459">
+ <title>Tounge Shaver</title>
+ <status v="R">Rejected</status>
+ <bitrate>131</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="2">3.0</rating>
+ 
+ <songlength>0</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4090">$tud</artist>
+ </artists>
+ <groups>
+  <group id="291">Ward</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

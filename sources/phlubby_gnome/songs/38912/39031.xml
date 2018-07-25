@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39031">
+ <title>Unleash the Cheese</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.122</rating>
+ <info>#1 at oldschool music compo @ Edison 2013
+(http://csdb.dk/release/?id=119968)</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 18:14:03</locked_until>
+ <lastplayed>2018-05-15 17:25:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Edison</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Schlager</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

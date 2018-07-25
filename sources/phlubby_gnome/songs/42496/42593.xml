@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42593">
+ <title>Jingle in a hurry</title>
+ <status v="J">Jingle</status>
+ <bitrate>321</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.75</rating>
+ <info>2nd place on the Nectarine jingle compo</info>
+ <songlength>7</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-12-12 22:18:18</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4971">NerdN</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jingle</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

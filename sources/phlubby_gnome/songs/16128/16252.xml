@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16252">
+ <title>Amok</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.2292</rating>
+ 
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 00:38:41</locked_until>
+ <lastplayed>2018-05-27 13:43:26</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>16963</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  <group id="625">Confusions</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

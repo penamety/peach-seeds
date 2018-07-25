@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35680">
+ <title>Helou Melou</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7895</rating>
+ 
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:17:09</locked_until>
+ <lastplayed>2018-06-01 13:27:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4755">JuhoAP</artist>
+ </artists>
+ <groups>
+  <group id="641">Cubicle</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

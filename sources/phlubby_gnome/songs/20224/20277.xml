@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20277">
+ <title>Moment of Mental</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.0</rating>
+ <info>Winner of the 4 channel music compo at Gravity 1996.</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-14 14:44:58</locked_until>
+ <lastplayed>2017-10-06 01:33:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="627">KeyG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gravity</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

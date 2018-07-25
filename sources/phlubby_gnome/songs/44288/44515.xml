@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44515">
+ <title>Convergence</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.8333</rating>
+ <info>The .xm contained this text:
+-----------------------------
+  -=ConvergencE=-
+        .-.-.-.-.-.-.
+
+Composed By:
+
+S C I R O C C O
+
+02.04.96
+What I think of the
+United States Proposed
+Communications
+Decency Act:
+
+FUCK THAT SHIT!
+write to your congress
+man to protest the CDA
+Like what you hear?
+I will compose for
+*YOU*!
+Demos, Games, Disks,
+etc.  Email me.</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 12:33:20</locked_until>
+ <lastplayed>2018-06-17 12:15:58</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1042">Scirocco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?149785</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

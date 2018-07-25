@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="924">
+ <title>Drop Zone</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.1818</rating>
+ 
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 21:59:27</locked_until>
+ <lastplayed>2018-04-23 05:23:55</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="186">Chilli Choc</artist><artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

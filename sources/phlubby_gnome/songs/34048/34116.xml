@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34116">
+ <title>The Autumn is Near</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.75</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-04 20:55:22</locked_until>
+ <lastplayed>2017-08-30 11:01:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>20484</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2130">Dr. Bully</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

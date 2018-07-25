@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7329">
+ <title>funky dog</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ 
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 08:35:00</locked_until>
+ <lastplayed>2018-04-04 01:33:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>15783</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="561">Jam and Spoon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Funk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

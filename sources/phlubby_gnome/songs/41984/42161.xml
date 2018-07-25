@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42161">
+ <title>Triple Peaks</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>2nd place in compos.scenemusic.net Open Co-op Compo 2015</info>
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 15:38:08</locked_until>
+ <lastplayed>2018-05-20 09:11:30</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist><artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>TripHop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

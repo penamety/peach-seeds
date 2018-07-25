@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32217">
+ <title>150 Days</title>
+ <status v="A">Active</status>
+ <bitrate>172</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ <info>Ranked 3rd in the 100kb chip category of ExChipO #2, featured as an example tune in OpenMPT 1.19.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-02 06:26:32</locked_until>
+ <lastplayed>2017-08-28 04:05:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>ExChipO</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

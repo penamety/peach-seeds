@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43938">
+ <title>Neon (Neon demo main part)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.6154</rating>
+ 
+ <songlength>284</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 22:27:49</locked_until>
+ <lastplayed>2018-05-20 16:44:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>68868</pouetid>
+ <ytid>5yrCgprL-rU</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="5391">Flex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

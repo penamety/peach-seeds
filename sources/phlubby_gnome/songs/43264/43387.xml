@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43387">
+ <title>Dr Wily&#39;s Castle Stage 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.6667</rating>
+ <info>2xLSDJ.</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 07:38:56</locked_until>
+ <lastplayed>2018-06-16 03:26:03</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5637">Kry.exe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

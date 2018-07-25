@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27570">
+ <title>The Living Umbrella</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 10:49:36</locked_until>
+ <lastplayed>2017-12-03 04:14:48</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chippop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

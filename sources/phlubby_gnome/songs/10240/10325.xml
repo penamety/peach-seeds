@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10325">
+ <title>Papilio</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.1935</rating>
+ <info>Download album
+MP3: http://download.mosaik.se/mosaik--minutes--kahvi108.zip
+FLAC: http://download.mosaik.se/mosaik--minutes--kahvi108-flac.zip</info>
+ <songlength>297</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 19:02:05</locked_until>
+ <lastplayed>2018-06-16 22:30:37</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43479">
+ <title>Hatework</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.125</rating>
+ <info>R5 recording from Stone Oakvalley&#39;s site</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 10:03:39</locked_until>
+ <lastplayed>2018-02-16 22:03:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2096">Wacek</artist>
+ </artists>
+ <groups>
+  <group id="99">Arise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=4018</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

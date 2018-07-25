@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24766">
+ <title>Robotron 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4667</rating>
+ 
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-08 19:59:55</locked_until>
+ <lastplayed>2018-02-13 04:03:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9137</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1130">Starbuck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

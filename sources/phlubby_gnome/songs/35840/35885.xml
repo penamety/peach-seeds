@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35885">
+ <title>P5</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>380</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 03:56:41</locked_until>
+ <lastplayed>2018-04-20 18:21:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>10734</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5105">Havoc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

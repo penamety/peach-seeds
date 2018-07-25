@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1408">
+ <title>Tiger Mate</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-21 21:00:24</locked_until>
+ <lastplayed>2017-06-14 22:12:22</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="259">Cybelius</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Hammond</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

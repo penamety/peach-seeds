@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29932">
+ <title>Mageau</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.4857</rating>
+ <info>Ranked 12th in the mp3/ogg music compo at Evoke 2010</info>
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-28 15:29:00</locked_until>
+ <lastplayed>2017-07-21 23:10:59</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

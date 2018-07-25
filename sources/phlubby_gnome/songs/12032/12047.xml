@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12047">
+ <title>World Domination</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.1735</rating>
+ <info>1st place in combined demo compo at The Gathering 2003
+
+If you want the soundtrack, download the demo and rename data.dat to data.rar... :)
+
+Lyrics:
+
+Back once again in control of base
+It&#39;s O-D-D in your mother-f**king face
+We&#39;re the Scene messiah and here&#39;s the revelation
+Two-thousand-and-three, ODD world domination
+
+We&#39;re back...
+
+Mad props out to Deux ex Machina
+And to Valium!Design, but not to Ephidrena
+All of their crew consists only of Lamers
+Quit the Scene, go home and be gamers
+
+We molest the bigscreen in three dimensions
+While LfODD is building up the tension
+Other crews can piss the f**k off cause we eat your code raw
+Showing you all that we&#39;re f**king hardcore
+
+Back once again in control of base
+It&#39;s O-D-D in your mother-f**king face
+We&#39;re the Scene messiah and here&#39;s the revelation
+Two-thousand-and-three, ODD world domination
+
+ODD WORLD DOMINATION!</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 08:37:54</locked_until>
+ <lastplayed>2018-05-18 17:07:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9493</pouetid>
+ <ytid>rgnBi6PuA5M</ytid>
+ 
+ 
+ <artists>
+  <artist id="1950">lfODD &amp; MC vocODD</artist>
+ </artists>
+ <groups>
+  <group id="142">Odd</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13327</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rgnBi6PuA5M</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7852">
+ <title>Ambrozia</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="180">4.6111</rating>
+ 
+ <songlength>726</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 07:35:24</locked_until>
+ <lastplayed>2018-06-16 19:10:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  <group id="21">Pulse [PLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>quiet</tag>
+  
+  <tag>soft</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/2216/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?33432</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

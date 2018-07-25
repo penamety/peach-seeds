@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39409">
+ <title>Draconus (cover)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.6818</rating>
+ <info>Winner of Cover compo (any Atari model, any music engine) at WAPNIAK 2013 Atari party.
+
+Platform: Atari 520ST, YM chip. Requires 2mb of RAM. 6 channels, 22kHz. 
+
+Made with HEX-Tracker on Atari 520ST and Octalyser on Atari 1040STe.
+
+Original song by Adam Gilmore.
+
+</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:07:46</locked_until>
+ <lastplayed>2018-06-10 02:32:38</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>WAP-NIAK</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="78">
+ <title>Madness</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="136">4.4779</rating>
+ 
+ <songlength>397</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 04:15:01</locked_until>
+ <lastplayed>2018-06-13 08:34:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9193</pouetid>
+ <ytid>ziVxIaomY5s</ytid>
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Bell</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

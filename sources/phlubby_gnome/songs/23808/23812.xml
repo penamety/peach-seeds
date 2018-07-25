@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23812">
+ <title>Crack of Dawn</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.7805</rating>
+ 
+ <songlength>307</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 14:32:17</locked_until>
+ <lastplayed>2018-05-11 11:26:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7067</pouetid>
+ <ytid>7vNNQ9b0wvQ</ytid>
+ <ytoffset>165</ytoffset>
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

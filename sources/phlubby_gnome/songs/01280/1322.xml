@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1322">
+ <title>Decade Demo - Giga Dist</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.046</rating>
+ 
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 19:29:41</locked_until>
+ <lastplayed>2018-04-10 00:08:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3243</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="244">Count Zero</artist>
+ </artists>
+ <groups>
+  <group id="490">Inner Circle [IC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

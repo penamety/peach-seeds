@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13661">
+ <title>Pulsarmix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ <info>BP SoundMon 2 module http://www.exotica.org.uk/wiki/SoundMon
+
+Original is of course Vangelis - Pulstar [url]http://www.youtube.com/watch?v=8UwGl0Yk_jU[/url]</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 08:23:30</locked_until>
+ <lastplayed>2018-06-04 15:39:55</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1612">Zzzax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35415">
+ <title>Lifeblood</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-04 18:13:03</locked_until>
+ <lastplayed>2017-06-26 22:30:30</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4223">Kjell Nordbø</artist>
+ </artists>
+ <groups>
+  <group id="357">Blues Muz&#39;</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34823">
+ <title>Albatross</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.1774</rating>
+ 
+ <songlength>392</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 06:48:53</locked_until>
+ <lastplayed>2018-06-09 01:45:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>panflutes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

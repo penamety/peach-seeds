@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5295">
+ <title>Zelda 3</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.1176</rating>
+ 
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 16:21:39</locked_until>
+ <lastplayed>2018-05-25 03:24:10</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="860">Nighthawk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

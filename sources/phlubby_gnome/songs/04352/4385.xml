@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4385">
+ <title>Golden Axe (title remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.1573</rating>
+ <info>The original arcade music composed by Tohru Nakabayashi and Y. &#34;Dolphin&#34; Takada
+</info>
+ <songlength>272</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 20:22:01</locked_until>
+ <lastplayed>2018-05-04 00:04:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="719">Makke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

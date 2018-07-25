@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2891">
+ <title>Menu-zik</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.6364</rating>
+ 
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-25 21:54:11</locked_until>
+ <lastplayed>2018-05-07 03:40:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12367</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="504">Gryzor</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

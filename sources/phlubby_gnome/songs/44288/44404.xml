@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44404">
+ <title>Agartha</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0833</rating>
+ <info>Just a small new ballad today. A regular 3-channels song for ZX Spectrum 48K with AY-interface. Made with SoundTracker 1.1 for Jonathan Cauldwell&#39;s game. :)
+
+The full album &#34;DEATH SQUAD&#34; with this song - is here: http://yerzmyey.i-demo.pl/
+
+Take care dudez!
+</info>
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 14:15:13</locked_until>
+ <lastplayed>2018-05-06 22:01:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176020/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14029">
+ <title>M demo 3 part 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.1481</rating>
+ <info>The songs were originally written with TCB Tracker, and later converted to M.K. format (available via link from pouet listed below).  We don&#39;t have a platform that really matches this situation.  For now, we leave the platform blank, pending a better resolution.
+
+See also [url]https://www.youtube.com/watch?v=BB8DBtwp_fM[/url].</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 20:57:31</locked_until>
+ <lastplayed>2018-05-26 03:25:49</lastplayed>
+ 
+ 
+ <pouetid>13906</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2221">AN Cool</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

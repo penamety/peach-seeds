@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36864">
+ <title>Audio Man [in-game tune 1]</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0588</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-22 20:20:17</locked_until>
+ <lastplayed>2018-02-05 13:15:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9260</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

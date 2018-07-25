@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42306">
+ <title>Bannockburn Blood</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="27">4.3333</rating>
+ <info>Winner of listening music compo at Assembly 2015.</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 12:54:45</locked_until>
+ <lastplayed>2018-05-24 17:30:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1912">Aikapallo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

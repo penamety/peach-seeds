@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31501">
+ <title>My History</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.96</rating>
+ <info>1st in the streamed music compo @ Symphony 2006.</info>
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 07:26:39</locked_until>
+ <lastplayed>2018-03-06 21:12:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1258">Traymuss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Symphony</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

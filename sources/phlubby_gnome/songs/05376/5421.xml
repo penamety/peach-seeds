@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5421">
+ <title>Popkorn</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ 
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-31 03:20:38</locked_until>
+ <lastplayed>2017-12-09 05:54:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Popcorn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

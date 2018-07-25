@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43155">
+ <title>stone gold grazy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.2222</rating>
+ <info>released on 29.10.1992</info>
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 20:02:23</locked_until>
+ <lastplayed>2018-04-04 23:33:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3764">T.o.B</artist>
+ </artists>
+ <groups>
+  <group id="646">Damones</group>
+ </groups>
+ 
+ <tags>
+  <tag>metallica</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?131145</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

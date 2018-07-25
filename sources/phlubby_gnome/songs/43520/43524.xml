@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43524">
+ <title>Fertile</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>Composed by Bernd &#34;Dascon&#34; Hoffmann and Jochen &#34;Virgill&#34; Feldkötter.
+
+Amiga ProTracker file, MOD-Format, 4ch
+
+Done for issue 06 of the &#34;Chiperia&#34; chipseries.
+
+</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 00:02:54</locked_until>
+ <lastplayed>2018-03-31 14:20:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>68274</pouetid>
+ <ytid>AJPDNb_Jh0U</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

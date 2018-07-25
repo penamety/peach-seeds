@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9156">
+ <title>Electric City (the cover)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="104">4.1731</rating>
+ <info>AY chip music from ZX Spectrum from &#34;YOU ARE ADULT&#34; music-collection by AY-RIDERS (released in 2003).</info>
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 12:36:03</locked_until>
+ <lastplayed>2018-05-25 05:34:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1184">TDM</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

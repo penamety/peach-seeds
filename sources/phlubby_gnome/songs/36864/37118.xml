@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37118">
+ <title>So-Phisticated III (part 6)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-30 22:03:31</locked_until>
+ <lastplayed>2017-06-22 16:31:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>25223</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5213">Falco</artist>
+ </artists>
+ <groups>
+  <group id="52">20th Century Composers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=32900</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

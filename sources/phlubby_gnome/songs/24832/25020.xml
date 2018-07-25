@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25020">
+ <title>Nuove Fantasie</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">2.8421</rating>
+ 
+ <songlength>842</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 13:03:26</locked_until>
+ <lastplayed>2018-05-30 22:24:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1163">Superted</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

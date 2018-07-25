@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11065">
+ <title>Lonely Planet</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.9286</rating>
+ <info>(c) basehead / fm 1996
+
+all samples by me, from roland jv800, aux88, korg ms20, rol.909, banco de gaia, j.myerson, plastikman, and mad professor.
+</info>
+ <songlength>329</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 11:43:35</locked_until>
+ <lastplayed>2018-03-08 04:22:58</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?48735</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

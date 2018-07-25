@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17690">
+ <title>Spijkerhoek</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.5156</rating>
+ 
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 23:32:27</locked_until>
+ <lastplayed>2018-06-05 13:26:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

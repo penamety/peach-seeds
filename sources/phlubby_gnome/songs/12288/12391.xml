@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12391">
+ <title>Shape</title>
+ <status v="A">Active</status>
+ <bitrate>245</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.8409</rating>
+ <info>1988</info>
+ <songlength>118</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 16:33:24</locked_until>
+ <lastplayed>2018-06-04 07:00:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>35625</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1638">Jozz</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

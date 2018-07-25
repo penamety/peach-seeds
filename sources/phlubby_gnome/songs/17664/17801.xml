@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17801">
+ <title>Talentiaden</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>94</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 05:59:53</locked_until>
+ <lastplayed>2018-05-30 07:28:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12318</pouetid>
+ <ytid>XKdk830hMkY</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="409">El Loco</artist><artist id="3870">Sundance Kid</artist>
+ </artists>
+ <groups>
+  <group id="125">Talent</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Talent</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XKdk830hMkY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

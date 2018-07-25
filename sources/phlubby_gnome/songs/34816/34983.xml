@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34983">
+ <title>Elohim (Gods remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0</rating>
+ <info>Winner of the music compo at Tokyo Demo Fest 2012.</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 15:49:23</locked_until>
+ <lastplayed>2018-06-17 07:46:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="904">Parsec</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

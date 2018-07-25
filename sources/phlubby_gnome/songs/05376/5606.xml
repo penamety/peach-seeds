@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5606">
+ <title>Bionic Impressions</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5714</rating>
+ <info>Really a remix of the NES soundtrack and not really related to: [song]12463[/song]</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 05:18:22</locked_until>
+ <lastplayed>2018-03-09 06:10:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>13344</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

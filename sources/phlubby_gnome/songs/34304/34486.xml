@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34486">
+ <title>Leipää Laatikko</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0833</rating>
+ <info>5th place in 32k executable music at Kindergarden 2011</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:16:52</locked_until>
+ <lastplayed>2018-06-13 01:27:22</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4167">Moellpauk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

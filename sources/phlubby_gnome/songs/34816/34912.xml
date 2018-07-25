@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34912">
+ <title>Chimera</title>
+ <status v="A">Active</status>
+ <bitrate>56</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.1613</rating>
+ 
+ <songlength>333</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 22:06:10</locked_until>
+ <lastplayed>2018-06-02 13:03:59</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>7119</pouetid>
+ <ytid>2iK2Aibbh1E</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="248">Croaker</artist>
+ </artists>
+ <groups>
+  <group id="415">Halcyon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>midnight</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2iK2Aibbh1E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

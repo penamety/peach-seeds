@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32834">
+ <title>Inhale / Exhale</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.6</rating>
+ <info>The tune for our 64k intro called &#34;inhale / exhale&#34; for Revision 2011 intro compo. Got horribly rushed and the tune got completed in two nights the days before I left to join the rest of the danes on the bus towards Revision.</info>
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-11 02:36:19</locked_until>
+ <lastplayed>2017-10-04 17:01:18</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56923</pouetid>
+ <ytid>_eQU4kC7NQQ</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_eQU4kC7NQQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

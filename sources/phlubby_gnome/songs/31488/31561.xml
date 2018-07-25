@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31561">
+ <title>The Absence of Julia</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ 
+ <songlength>60</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 23:33:28</locked_until>
+ <lastplayed>2018-03-30 03:02:13</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4639">Encore</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

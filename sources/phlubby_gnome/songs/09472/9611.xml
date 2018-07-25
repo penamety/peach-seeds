@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9611">
+ <title>Gone</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.4615</rating>
+ 
+ <songlength>80</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 12:45:10</locked_until>
+ <lastplayed>2018-05-23 21:08:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>45202</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Epic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27511">
+ <title>Guitarous</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ <info>From e-zine &#34;ZX-Format #4&#34; / track 6.</info>
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-15 16:47:59</locked_until>
+ <lastplayed>2017-07-09 19:14:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>AY</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZX-Format</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

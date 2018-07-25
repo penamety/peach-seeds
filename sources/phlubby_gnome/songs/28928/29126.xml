@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29126">
+ <title>Chill Gates</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.3889</rating>
+ <info>Second place in the &#34;Surprise Music&#34; compo at Wired&#39;98</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-17 02:04:22</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3386">Phred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>brianeno</tag>
+  
+  <tag>Windows</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

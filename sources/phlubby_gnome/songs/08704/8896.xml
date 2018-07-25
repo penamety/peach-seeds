@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8896">
+ <title>Bakte Poteter</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ 
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 13:05:40</locked_until>
+ <lastplayed>2018-05-20 06:41:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist><artist id="3869">Reflect</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

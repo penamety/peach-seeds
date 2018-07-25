@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15260">
+ <title>Highlander</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.0714</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 12:51:34</locked_until>
+ <lastplayed>2018-06-11 08:17:35</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist><artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Queen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

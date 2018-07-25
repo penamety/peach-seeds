@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42560">
+ <title>4CHETH</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ <info>An unreleased track I did as a 4 channel tune for my old group KOMBO. Meant to be used in an intro, but we never got around to it.</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-07 11:11:58</locked_until>
+ <lastplayed>2017-09-26 22:21:22</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3852">elblanco</artist>
+ </artists>
+ <groups>
+  <group id="147">Fulcrum</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

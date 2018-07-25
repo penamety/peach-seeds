@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18500">
+ <title>Delta</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.875</rating>
+ <info>Gasman / H-Prg / RA - Delta</info>
+ <songlength>90</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 10:35:48</locked_until>
+ <lastplayed>2018-03-16 23:43:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="472">Gasman</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

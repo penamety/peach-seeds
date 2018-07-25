@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6340">
+ <title>Boesendorfer P.S.S.</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="127">4.2677</rating>
+ <info>Quote: &#34;My most famous and maybe best mod to date. &#34;Boesendorfer plays some shit&#34; was featured in the credit part of 1992&#39;s &#34;Wicked Sensation&#34;-Demo. The piano was multi-sampled from my Ensoniq EPS16 sampler&#34;</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 23:09:37</locked_until>
+ <lastplayed>2018-06-15 18:59:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3118</pouetid>
+ <ytid>LH031ZLdfI0</ytid>
+ <ytoffset>416</ytoffset>
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>ragtime</tag>
+  
+  <tag>WorldOfCommodore</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?119303</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

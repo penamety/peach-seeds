@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34195">
+ <title>Colorblind (Ans Democut)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.7429</rating>
+ <info>1st place in combined demo compo at Simulaatio 2005</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 14:43:46</locked_until>
+ <lastplayed>2018-05-06 12:47:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>17661</pouetid>
+ <ytid>QY20bh14nPc</ytid>
+ 
+ 
+ <artists>
+  <artist id="4895">TMT</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=QY20bh14nPc</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

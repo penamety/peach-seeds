@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36039">
+ <title>Grapevine 7</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.3125</rating>
+ 
+ <songlength>308</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 03:57:01</locked_until>
+ <lastplayed>2018-06-17 12:08:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14802</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1123">Spirit</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Grapevine</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34315">
+ <title>Deferred Colonoscopy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4</rating>
+ <info>3rd place in combined demo compo at TRSAC 2011</info>
+ <songlength>65</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 14:10:11</locked_until>
+ <lastplayed>2018-06-03 06:10:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57928</pouetid>
+ <ytid>4xDhgBWIqro</ytid>
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist><artist id="1683">OptimizE</artist>
+ </artists>
+ <groups>
+  <group id="188">Nazareth</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

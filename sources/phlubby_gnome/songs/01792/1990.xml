@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1990">
+ <title>Bomb</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.35</rating>
+ 
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 01:55:44</locked_until>
+ <lastplayed>2017-12-20 13:58:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9344</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>PinkFloyd</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37337">
+ <title>Infravaganza Galore</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Soundtrack for the demo Twogather by 3LN shown at both Outline 2012 and MAiN Splash 2012.
+
+The demo can be seen live on 3LN&#39;s website : [url]http://3ln.eu/twogather/[/url]
+
+The soundtrack (ogg) can be downloaded from Den&#39;s Soundcloud: [url]https://soundcloud.com/den/infravaganza-galore-twogather[/url]</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 09:09:56</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>60485</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4959">Den</artist>
+ </artists>
+ <groups>
+  <group id="695">3LN</group>
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

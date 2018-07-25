@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3186">
+ <title>Just Rock&#39;n&#39;Roll</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>&#39;Just Rock &#39;n&#39; Roll&#39; (Infra/BLooD/Silicon Records), made for the multichannel compo @ Mekka 1997, but didn&#39;t pass pre-selection. Released 03/1997</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 14:26:21</locked_until>
+ <lastplayed>2018-05-20 02:27:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="548">Infra</artist>
+ </artists>
+ <groups>
+  <group id="638">Silicon Records</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

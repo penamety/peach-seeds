@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42514">
+ <title>The Lyra III part 6</title>
+ <status v="A">Active</status>
+ <bitrate>906</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.9286</rating>
+ <info>For the SAM Coupé (SAA1099), recorded using SimCoupe.
+
+Remix of Here We Go Again by  Paradiso — [yt]N-z5g59ai7Q[/yt].</info>
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 22:56:49</locked_until>
+ <lastplayed>2018-06-16 02:29:58</lastplayed>
+ <platform id="51">Philips SAA</platform>
+ <type id="2">Demo</type>
+ <pouetid>20333</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12201">
+ <title>Sinus</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.0571</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-04 09:34:34</locked_until>
+ <lastplayed>2017-11-16 23:06:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

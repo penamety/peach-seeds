@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39696">
+ <title>Alpha</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ <info>Cover of Vangelis - Alpha
+
+Made with Aegis Sonix</info>
+ <songlength>308</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 15:23:31</locked_until>
+ <lastplayed>2018-06-02 01:39:08</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>62203</pouetid>
+ <ytid>zj-5jRiEMps</ytid>
+ <ytoffset>60</ytoffset>
+ 
+ <artists>
+  <artist id="5440">Music For Impact</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>sonix</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Vangelis</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XomMaK9Lqdo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zj-5jRiEMps</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

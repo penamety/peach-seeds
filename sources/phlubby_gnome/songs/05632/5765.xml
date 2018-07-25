@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5765">
+ <title>Seduction</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7857</rating>
+ <info>Ranked 4th in the 4ch compo at SiH 1995.</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 13:18:04</locked_until>
+ <lastplayed>2018-06-13 12:53:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  <group id="325">Oops! [OPS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>SomewhereInHolland</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

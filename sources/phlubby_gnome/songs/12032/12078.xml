@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12078">
+ <title>Country Punk</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5455</rating>
+ <info>Remix of song of the russian punk-rock group: Сектор Газа (Gas Sector) - Колхозный панк (Country Punk)</info>
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 21:14:56</locked_until>
+ <lastplayed>2018-06-14 21:48:51</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>RussianPunk</tag>
+  
+  <tag>SectorGaza</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

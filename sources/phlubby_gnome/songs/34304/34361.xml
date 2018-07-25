@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34361">
+ <title>Manimalize</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.8</rating>
+ <info>[url]http://noname.c64.org/csdb/sid/?id=17810[/url]</info>
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 19:55:50</locked_until>
+ <lastplayed>2018-06-11 05:41:58</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>36606</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="614">2000 A.D. [AD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

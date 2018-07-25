@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5531">
+ <title>Heavy But Cool</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.0</rating>
+ 
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 15:36:13</locked_until>
+ <lastplayed>2018-06-01 07:28:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4033</pouetid>
+ <ytid>FyMxYap42LA</ytid>
+ <ytoffset>272</ytoffset>
+ 
+ <artists>
+  <artist id="906">Pat</artist>
+ </artists>
+ <groups>
+  <group id="430">Wild Copper</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FyMxYap42LA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

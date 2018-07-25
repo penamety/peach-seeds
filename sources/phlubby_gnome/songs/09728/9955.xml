@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9955">
+ <title>Ferrero</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.3729</rating>
+ <info>7th in the C64 music compo at Mekka and Symposium 1999.</info>
+ <songlength>111</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:14:48</locked_until>
+ <lastplayed>2018-05-28 13:03:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

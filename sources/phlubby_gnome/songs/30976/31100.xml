@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31100">
+ <title>6am on 3rd of December</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2037</rating>
+ <info>Morning mood in darkness.</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 08:43:36</locked_until>
+ <lastplayed>2018-06-06 14:16:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>minimalistic</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

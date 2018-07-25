@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35902">
+ <title>Beach Buggy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.4179</rating>
+ <info>Placed 4th in the scenecompos.net Ibiza Compo</info>
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 10:22:42</locked_until>
+ <lastplayed>2018-05-30 07:58:44</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ibiza</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

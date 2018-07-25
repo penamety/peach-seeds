@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6792">
+ <title>Guggle Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ 
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 22:56:26</locked_until>
+ <lastplayed>2017-11-16 13:01:55</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>32</pouetid>
+ <ytid>9M5I6VpeqFg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1167">Swallow</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9M5I6VpeqFg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

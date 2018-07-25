@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2937">
+ <title>Dawn Mosaic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.88</rating>
+ 
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:48:51</locked_until>
+ <lastplayed>2018-06-05 12:12:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31148</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="89">Cyberiad</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>slapbass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

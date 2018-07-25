@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13033">
+ <title>Duck Season</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.9444</rating>
+ <info>Co-op with Reed.
+
+From collection Selected Microgrooves 1999-2002.
+
+http://www.fairlight.fi/tempest/microgrooves/</info>
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 06:43:05</locked_until>
+ <lastplayed>2018-04-21 04:16:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist><artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42914">
+ <title>Survive</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>From &#34;Just Musix 4&#34; Atari Falcon music disk by DHS</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-29 17:46:54</locked_until>
+ <lastplayed>2017-12-10 22:27:12</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>16165</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/82520/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

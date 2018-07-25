@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14251">
+ <title>Cold as Charity</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 07:47:31</locked_until>
+ <lastplayed>2017-12-16 19:33:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3988</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2240">Atheist</artist><artist id="304">Deelite</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6323">
+ <title>Dragons Lair II</title>
+ <status v="A">Active</status>
+ <bitrate>136</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">2.7451</rating>
+ 
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 02:49:06</locked_until>
+ <lastplayed>2018-04-07 21:19:26</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Fantasy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

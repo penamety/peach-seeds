@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31592">
+ <title>The ventures of Prince Dakkar and his pilgrimage to the abyss</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.8889</rating>
+ <info>6th @ Breakpoint 2010 at Amiga Demo comp</info>
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 14:58:05</locked_until>
+ <lastplayed>2018-04-29 08:33:22</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54573</pouetid>
+ <ytid>CNfgu-1_-18</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="4462">Esau</artist>
+ </artists>
+ <groups>
+  <group id="542">Tulou</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CNfgu-1_-18</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

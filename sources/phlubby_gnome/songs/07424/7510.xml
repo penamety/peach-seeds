@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7510">
+ <title>Kirkas tie</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.5625</rating>
+ <info>Originally released on Suojain Records 2 disc compilation CD-R SUOJAIN002 in 2001. The compilation saw a legal MP3 release on 4.10.2002. It is available at http://www.tpolm.org/suojain002/</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-23 00:39:04</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="224">CNCD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>midnight</tag>
+  
+  <tag>scary</tag>
+  
+  <tag>Suojain002</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

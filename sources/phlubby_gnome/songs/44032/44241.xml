@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44241">
+ <title>Arbitrage</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>BPM 150</info>
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 04:46:50</locked_until>
+ <lastplayed>2018-04-20 16:12:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1296">Vesuri</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?126395</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

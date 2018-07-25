@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44225">
+ <title>demolition - on&#39;n&#39;on</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ <info>16th in Demolition 1997 music compo</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 08:19:33</locked_until>
+ <lastplayed>2018-03-08 21:42:16</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="306">Deetsay</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group><group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>Demolition</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/34482/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?141614</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6820">
+ <title>... Im morgengrauen</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5833</rating>
+ 
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 09:19:49</locked_until>
+ <lastplayed>2018-05-14 09:33:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="725">Manx</artist>
+ </artists>
+ <groups>
+  <group id="866">Never</group><group id="867">TAME</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

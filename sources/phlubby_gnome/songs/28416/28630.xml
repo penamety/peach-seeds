@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28630">
+ <title>Agenda Circling Forth</title>
+ <status v="A">Active</status>
+ <bitrate>217</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">3.7303</rating>
+ 
+ <songlength>291</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 13:09:03</locked_until>
+ <lastplayed>2018-06-05 08:25:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>54603</pouetid>
+ <ytid>GJruj0YkDsg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4108">Varia</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>Vangelis</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GJruj0YkDsg</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

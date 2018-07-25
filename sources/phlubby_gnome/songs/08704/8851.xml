@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8851">
+ <title>Paranoid Android (b2 mix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.2526</rating>
+ <info>Cover of Radiohead</info>
+ <songlength>309</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 07:28:13</locked_until>
+ <lastplayed>2018-06-11 23:30:43</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>radiohead</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33762">
+ <title>Whiteboy (Evokecut)</title>
+ <status v="A">Active</status>
+ <bitrate>242</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1765</rating>
+ <info>Ranked 4th in the mp3/ogg compo at Evoke 2011.</info>
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 08:19:44</locked_until>
+ <lastplayed>2018-03-19 05:28:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

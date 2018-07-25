@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="917">
+ <title>Mattias&#39; Adventures</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.3151</rating>
+ 
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 11:50:01</locked_until>
+ <lastplayed>2018-06-16 15:59:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>19778</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="183">Chavez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5382">
+ <title>Digital Innovation 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.3263</rating>
+ 
+ <songlength>272</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 08:45:48</locked_until>
+ <lastplayed>2018-06-16 11:49:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8880</pouetid>
+ <ytid>yeklNDdB21U</ytid>
+ <ytoffset>613</ytoffset>
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

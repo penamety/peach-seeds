@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36820">
+ <title>Infinity</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.2295</rating>
+ <info>Track is taken from CD Out of Silence by Jogeir Liljedahl, uploaded with permission from Jogeir.
+
+This track is a coop by Jogeir and Rapture, made with Steinberg Cubase.</info>
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:35:28</locked_until>
+ <lastplayed>2018-06-14 10:54:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

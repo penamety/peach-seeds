@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44561">
+ <title>MuZaFuCkab!t</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ <info>Internal title:	MuZaFuCkab!t ... ;) h1 f4nZz &lt;&lt;&lt;
+Internal author:	Mm&lt;M of Sa9e 24.Nov.XX twr 14:04</info>
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 12:48:22</locked_until>
+ <lastplayed>2018-06-09 12:19:19</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/mmcm/03-mmcm-muzafuckabit</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42059">
+ <title>Surfacing</title>
+ <status v="A">Active</status>
+ <bitrate>231</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>Soundtrack for the animation &#34;Surfacing&#34; released at Revision 2014.</info>
+ <songlength>284</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-11 00:56:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62956</pouetid>
+ <ytid>U63d4V0tdgA</ytid>
+ 
+ 
+ <artists>
+  <artist id="4109">Subdream</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Animation</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=U63d4V0tdgA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/109005/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

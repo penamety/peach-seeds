@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12300">
+ <title>Pac-Mania - Block Town [Amiga]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.1563</rating>
+ <info>From Pac-Mania soundtrack which Ben Daglish arranged for Amiga version of the game.
+
+The song appears on stages 1 &amp; 3 (Block Town and Sandbox Land)</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 06:24:17</locked_until>
+ <lastplayed>2018-03-02 22:12:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Arcade</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

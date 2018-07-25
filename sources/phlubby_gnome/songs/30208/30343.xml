@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30343">
+ <title>Absolutely Interstellar (Full Renoise 2.0 beta)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.2879</rating>
+ 
+ <songlength>531</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 21:56:09</locked_until>
+ <lastplayed>2018-06-12 01:42:39</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>club</tag>
+  
+  <tag>Dark</tag>
+  
+  <tag>House</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e8xhs2M9_X0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e8xhs2M9_X0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

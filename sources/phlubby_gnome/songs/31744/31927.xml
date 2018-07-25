@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31927">
+ <title>TwinFlix Main Theme</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.6154</rating>
+ <info>http://www.twinflix.com/
+
+My first mod written after 15 years, I started to do this because I was engaged to make some game soundtracks.
+Thanks to Renoise, It took me a little to write modular music and soon I had the idea to make a mod / xm converter for it: 
+I decided to call it Xrns2XMOD</info>
+ <songlength>298</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 02:45:55</locked_until>
+ <lastplayed>2017-12-15 14:45:37</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ <ytid>VGBMDFH-k5Q</ytid>
+ 
+ 
+ <artists>
+  <artist id="4644">Zenon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TwinFlix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FOzQxVLWuNw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

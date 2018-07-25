@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11661">
+ <title>Fractalize</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.5667</rating>
+ <info>From a cute 64k intro &#34;fractalize&#34; wich won inércia Demoparty 2003.</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 09:36:24</locked_until>
+ <lastplayed>2017-10-24 20:45:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10432</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="607">KammutierSpule</artist>
+ </artists>
+ <groups>
+  <group id="736">Hybrid-2k</group><group id="737">True Dimensions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>inerciaDemoparty</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33171">
+ <title>Flawed</title>
+ <status v="A">Active</status>
+ <bitrate>176</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ <info>1st place in PC demo compo at Very Important Party 2011
+
+Code for the demo by [user]LittleWhite[/user]</info>
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 12:11:56</locked_until>
+ <lastplayed>2018-02-21 06:15:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57026</pouetid>
+ <ytid>Xt_PY03Li_Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="4807">Wullon</artist>
+ </artists>
+ <groups>
+  <group id="433">Adinpsz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Xt_PY03Li_Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

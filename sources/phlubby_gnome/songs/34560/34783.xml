@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34783">
+ <title>White Christmas (Gabber version)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">2.1928</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-02 05:26:08</locked_until>
+ <lastplayed>2018-06-14 09:00:53</lastplayed>
+ 
+ <type id="5">Remix</type>
+ <pouetid>58214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4127">ThunderBass</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>Gabber</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

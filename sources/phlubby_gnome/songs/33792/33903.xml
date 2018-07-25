@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33903">
+ <title>Magnificent Spacetrap</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="54">4.3148</rating>
+ <info>Released at buenzli/demodays 2011  :)
+Ranked 6th in the music compo.</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:08:23</locked_until>
+ <lastplayed>2018-06-11 02:05:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

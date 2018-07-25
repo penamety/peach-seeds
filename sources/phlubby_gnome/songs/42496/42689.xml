@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42689">
+ <title>Stay Another Day</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 19:47:46</locked_until>
+ <lastplayed>2018-06-17 12:34:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>66739</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5166">Hydlide</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

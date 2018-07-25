@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20946">
+ <title>Thats the Way it is</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.1228</rating>
+ 
+ <songlength>433</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 07:54:57</locked_until>
+ <lastplayed>2018-05-14 19:14:05</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ <pouetid>11060</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

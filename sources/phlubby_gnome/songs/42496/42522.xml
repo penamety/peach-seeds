@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42522">
+ <title>Flight to Austria</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>Music from the invitro to PixelShow 2007 Greek demoparty.
+
+&#34;PixelShow will take place between 11 and 13 of May, 2007 at the theater of Patra&#39;s University campus.It&#39;s the same place as for the last PixelShow 2005 and exactly in the same spot where ReAct and Gardening 96/97 took place in the past.
+
+We have decided to make a major change to the demo compo.
+For PixelShow 2007 we will hold a Combined Demo Compo, hopefully, featuring demos on a vast variety of platforms.&#34;</info>
+ <songlength>86</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 16:23:38</locked_until>
+ <lastplayed>2017-11-11 08:30:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>30587</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist>
+ </artists>
+ <groups>
+  <group id="835">The Lab</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Pixelshow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

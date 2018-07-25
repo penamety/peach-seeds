@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29286">
+ <title>Beams of Light</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="81">4.1728</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:51:58</locked_until>
+ <lastplayed>2018-05-25 19:51:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10306</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

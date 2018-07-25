@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1172">
+ <title>Girl of Innocence</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.2</rating>
+ 
+ <songlength>306</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 06:54:57</locked_until>
+ <lastplayed>2018-05-24 02:22:58</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="211">Rico</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

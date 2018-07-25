@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44230">
+ <title>Hanskas</title>
+ <status v="D">Dupe</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">2.8333</rating>
+ <info>MS-DOS/GUS</info>
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2017-10-21 10:41:24</locked_until>
+ <lastplayed>2017-10-13 14:07:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>71429</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

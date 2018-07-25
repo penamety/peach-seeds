@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19635">
+ <title>Do You Speak Russian?</title>
+ <status v="A">Active</status>
+ <bitrate>153</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">3.8929</rating>
+ <info>[b]TITLE[/b]
+Do Ya Speak Russian ? (Atari, 1992)
+duration : 00:06:56
+
+[b]CATEGORY[/b]
+Chiptune
+
+[b]HARDWARE[/b]
+Atari 1040STF
+ Yamaha YM2149 SoundChip
+
+[b]SOFTWARE[/b]
+Music Editor : GenST
+ Player Routine by Ben / OVR
+
+[b]COMMENT[/b]
+One of my favorite.
+</info>
+ <songlength>416</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 20:05:49</locked_until>
+ <lastplayed>2018-05-25 23:29:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>disk</tag>
+  
+  <tag>frogs</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/96400/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/4086/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

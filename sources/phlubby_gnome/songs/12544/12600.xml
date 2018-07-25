@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12600">
+ <title>Satellite One</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.3378</rating>
+ <info>Uses 8 Channels and is Played on three ZX Spectrums
+</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 04:27:22</locked_until>
+ <lastplayed>2018-05-28 09:36:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist><artist id="1184">TDM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

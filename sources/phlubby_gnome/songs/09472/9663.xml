@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9663">
+ <title>Cave Story - Safety</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.875</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-04 23:12:13</locked_until>
+ <lastplayed>2018-01-14 10:39:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1804">Pixel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

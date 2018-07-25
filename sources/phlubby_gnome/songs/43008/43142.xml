@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43142">
+ <title>Netherworld</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ <info>Apparently was meant for Amiga port of game Netherworld but wasnt used in the end. Used at least in [url]http://janeway.exotica.org.uk/release.php?id=29009[/url]</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 21:19:44</locked_until>
+ <lastplayed>2018-04-29 11:24:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2115">Yip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

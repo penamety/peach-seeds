@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42010">
+ <title>Jackdance - Chug Mix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>This is not going to win any awards but I wanted to include it for posterity..
+
+A previously unreleased Amiga remix from 2006 which I tried to retain the understated simplicity of the original.  Jackdance was one of the earliest Amiga modules released and part of the infamous ST-01 collection composed by the Soundtracker legend himself, Karsten Obarski.  </info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-11 12:12:25</locked_until>
+ <lastplayed>2018-05-06 09:17:28</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1348">HideawayStudio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

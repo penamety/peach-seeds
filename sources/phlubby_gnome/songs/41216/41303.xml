@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41303">
+ <title>(My) Doom</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.5</rating>
+ <info>► (MY) DOOM - Tribute to Doom 1 &amp; 2
+► Written by melcom
+► Composed with Impulse Tracker in 2000
+► My tribute to the video game Doom!
+
+more tracks @ [url]www.facebook.com/melcom2630[/url]
+
+► MP3 Download
+http://bit.ly/DOOM_MP3
+
+► Impulse Tracker File
+http://bit.ly/DOOM_IT
+
+► YT-Video
+[yt]0qQi7ANyRB4[/yt]</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-01-23 09:43:40</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ <ytid>0qQi7ANyRB4</ytid>
+ 
+ 
+ <artists>
+  <artist id="766">Melcom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0qQi7ANyRB4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

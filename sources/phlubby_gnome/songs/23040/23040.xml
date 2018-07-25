@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23040">
+ <title>3D Mark 2001</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.5079</rating>
+ <info>Download link: http://prostopleer.com/search?q=artist%3APurple+Motion+track%3A3DMark+2001+soundtrack+%5E%5E</info>
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 02:32:17</locked_until>
+ <lastplayed>2018-05-23 09:36:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>dQHtk9hmA94</ytid>
+ 
+ 
+ <artists>
+  <artist id="163">Captain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dQHtk9hmA94</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

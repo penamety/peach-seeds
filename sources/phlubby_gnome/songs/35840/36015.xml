@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36015">
+ <title>Konami / Raze (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.44</rating>
+ <info>1st place in combined 64k compo at The Gathering 2008</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 11:22:25</locked_until>
+ <lastplayed>2018-06-07 10:21:09</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>50118</pouetid>
+ <ytid>FZa-fF835LQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1427">Kaktusen</artist>
+ </artists>
+ <groups>
+  <group id="447">PlayPsyCo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FZa-fF835LQ</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

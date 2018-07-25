@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28918">
+ <title>Absolute</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>427</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 09:02:51</locked_until>
+ <lastplayed>2018-01-30 20:43:12</lastplayed>
+ 
+ <type id="12">Diskmag</type>
+ <pouetid>24389</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3309">Nutman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

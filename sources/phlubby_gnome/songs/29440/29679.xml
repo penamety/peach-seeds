@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29679">
+ <title>Is Past But a Fleeting Moment</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.1556</rating>
+ <info>Originally released under Kahvi 276 in 2009, later used in Secret Rooms demo which won first place demo at NVScene in 2014.</info>
+ <songlength>411</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 18:59:21</locked_until>
+ <lastplayed>2018-05-24 19:38:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ <pouetid>62853</pouetid>
+ <ytid>SIxi2uqFVmc</ytid>
+ 
+ 
+ <artists>
+  <artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>2014</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EHSAMbDYj2U</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

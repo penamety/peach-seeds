@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31996">
+ <title>Encube</title>
+ <status v="A">Active</status>
+ <bitrate>420</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-22 01:06:35</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56103</pouetid>
+ <ytid>mvKn9qpG2Dw</ytid>
+ 
+ 
+ <artists>
+  <artist id="4688">Firebug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mvKn9qpG2Dw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

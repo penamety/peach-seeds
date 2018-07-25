@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40981">
+ <title>Amiga Demoscene Mixtape 001 - Oldskool Classics</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.875</rating>
+ <info>
+A non-stop DJ Continous Mix featuring some of the greatest and most popular Soundtracks from the early 90s Old School Amiga Demos.
+
+Playlist:
+0:00 &#34;Deep Space&#34; by Greg (from &#34;Odyssey&#34; by Alcatraz, 1992)
+0:45 &#34;Stardust Memories&#34; by Jester (from &#34;World of Commodore&#34; by Sanity, 1992)
+4:15 &#34;Part6&#34; by Greg (from &#34;Odyssey&#34; by Alcatraz, 1992)
+6:35 &#34;Hyperbased&#34; by Firefox &amp; Tip (from &#34;Enigma&#34; by Phenomena, 1991)
+11:19 &#34;Checknobankh&#34; by Laxity (from &#34;Desert Dream&#34; by Kefrens, 1993)
+14:25 &#34;Elysium&#34; by Jester (from &#34;Elysium&#34; by Sanity, 1991)
+17:50 &#34;Vite and Plack&#34; by Virgill (from &#34;Interference&#34; by Sanity, 1993)
+21:41 &#34;Part3&#34; by Greg (from &#34;Odyssey&#34; by Alcatraz, 1992)
+23:21 &#34;Overload&#34; by Firefox &amp; Tip (from &#34;Voyage&#34; by Razor 1911, 1991)
+29:30 &#34;Nagual Dance&#34; by Jugi (from &#34;Paradigma&#34; by Complex, 1993)
+33:35 &#34;Demomodul#3&#34; by Laxity (from &#34;Desert Dream&#34; by Kefrens, 1993)
+37:55 &#34;Cyberride&#34; by Jester (from &#34;Extension&#34; by Pygmy Projects, 1993)
+42:16 &#34;A nice Day for a Walk&#34; by Julius / Mad Freak (from &#34;3D Demo II&#34; by Anarchy, 1992)
+
+If you want to listen to it with the Video capture of the Demos, you&#39;ll find it here:
+
+youtu.be/s7WyhlRetU0
+
+Mixed only using OpenMPT (for converting the mods to .wav) and Audacity (for putting them 2gether) .
+
+Enjoy the memories :-)
+</info>
+ <songlength>2708</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-25 18:18:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>s7WyhlRetU0</ytid>
+ 
+ 
+ <artists>
+  
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=s7WyhlRetU0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10407">
+ <title>Throw Navis off the Train (Demo Version)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="156">4.4103</rating>
+ <info>1st place in combined demo at The Gathering 2009</info>
+ <songlength>401</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 02:00:45</locked_until>
+ <lastplayed>2018-05-17 20:30:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52931</pouetid>
+ <ytid>pmw87w7i6rQ</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist><artist id="661">Leviathan [GR]</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=pmw87w7i6rQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

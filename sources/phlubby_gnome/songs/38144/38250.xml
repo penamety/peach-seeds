@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38250">
+ <title>Celtic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">2.875</rating>
+ 
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-15 13:24:15</locked_until>
+ <lastplayed>2017-10-06 11:57:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>21213</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3298">Noise [DE]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4038">
+ <title>Fellowship</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7391</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 05:37:41</locked_until>
+ <lastplayed>2018-04-07 17:18:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7358</pouetid>
+ <ytid>Z5fA4q7KX9g</ytid>
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

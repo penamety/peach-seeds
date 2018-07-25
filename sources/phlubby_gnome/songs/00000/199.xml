@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="199">
+ <title>Assassin</title>
+ <status v="A">Active</status>
+ <bitrate>249</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">4.0746</rating>
+ 
+ <songlength>435</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 00:41:23</locked_until>
+ <lastplayed>2018-06-04 17:52:54</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

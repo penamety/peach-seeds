@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29336">
+ <title>Moonlight Shadow</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="22">1.7727</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 16:20:32</locked_until>
+ <lastplayed>2017-10-20 01:25:32</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="423">Evrimsson</artist>
+ </artists>
+ <groups>
+  <group id="44">Illusion</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

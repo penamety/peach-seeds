@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27017">
+ <title>Happy NY, scener!</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">2.8889</rating>
+ <info>composed for Incube#4 e-mag</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-23 08:28:03</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+  <tag>Beat</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

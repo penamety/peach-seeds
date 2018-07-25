@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9219">
+ <title>Enigmatique</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="165">4.6303</rating>
+ <info>5th in the mp3 compo at Assembly 1999.</info>
+ <songlength>335</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 22:17:27</locked_until>
+ <lastplayed>2018-06-10 02:06:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="84">Trauma Child Genesis [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

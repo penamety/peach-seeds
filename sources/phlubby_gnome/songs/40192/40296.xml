@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40296">
+ <title>WE DON&#39;T CARE</title>
+ <status v="A">Active</status>
+ <bitrate>917</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5</rating>
+ <info>Оriginal Russian name of this song: &#39;NAM VSE PO-BARABANU&#39; / &#34;Нам всё по барабану&#34; (To Us All Things Are On The Drum).
+
+From &#34;Abyss of Ice&#34; musicdisk by Scene&#39;99.
+
+The original song is called &#34;Champion&#34;, which is performed by VIA &#34;Pesnyary&#34; (a popular Soviet Belarusian folk-rock group) and a children&#39;s choir.
+It comes from &#34;Strutting croaker&#34; - the Soviet musical cartoon about the boastful frog, released by BelarusFilm in 1975.</info>
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 20:31:53</locked_until>
+ <lastplayed>2018-06-10 07:41:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=1350</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

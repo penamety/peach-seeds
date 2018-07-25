@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10118">
+ <title>Still Big Boss (Bruce Lee Rmx)</title>
+ <status v="A">Active</status>
+ <bitrate>133</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.6216</rating>
+ 
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 15:36:10</locked_until>
+ <lastplayed>2018-06-08 16:41:22</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>24948</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

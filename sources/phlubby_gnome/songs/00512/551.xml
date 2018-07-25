@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="551">
+ <title>Space Reflections</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="110">4.3182</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 03:41:52</locked_until>
+ <lastplayed>2018-05-27 10:20:38</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="94">Bart Roijmans</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

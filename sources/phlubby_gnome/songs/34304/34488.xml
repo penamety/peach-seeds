@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34488">
+ <title>Cortex Sous-vide</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1552</rating>
+ <info>1st place in combined demo compo at Kindergarden 2011
+</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 15:53:25</locked_until>
+ <lastplayed>2018-06-03 14:02:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58005</pouetid>
+ <ytid>-VZ-hltjwq0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>Scream</tag>
+  
+  <tag>Speak</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-VZ-hltjwq0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="184">
+ <title>Breathtaker Part 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5833</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-09 18:44:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2568</pouetid>
+ <ytid>x-QUFFcxVjc</ytid>
+ <ytoffset>44</ytoffset>
+ 
+ <artists>
+  <artist id="35">Alien</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

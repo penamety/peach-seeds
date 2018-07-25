@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15889">
+ <title>Overdrive dots</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 22:16:14</locked_until>
+ <lastplayed>2018-02-10 03:31:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11351</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2401">Chris Mad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

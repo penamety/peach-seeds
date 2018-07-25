@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42996">
+ <title>Chiken in Chaos</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">1.6316</rating>
+ <info>Released in The Computer Crossroads 1993 as part of the Atari music competition.  Teque was using the alias Billy Bronx at this time.
+
+Embedded text:
+
+By Billy Bronx 1993.
+Remember.............
+There is No Fucking
+Limit!!!</info>
+ <songlength>375</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 03:46:21</locked_until>
+ <lastplayed>2018-05-25 08:20:36</lastplayed>
+ <platform id="52">Atari STe</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2Unlimited</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/108836/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?126902</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

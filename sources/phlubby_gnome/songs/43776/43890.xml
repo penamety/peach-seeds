@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43890">
+ <title>Happy Fluffy Thing</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">1.5556</rating>
+ <info>Placed 16th in Tracked Music compo at Revision 2017.
+
+ModEdit2 / OpenMPT / Linux
+74.9KiB MOD</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 19:18:36</locked_until>
+ <lastplayed>2018-05-12 06:43:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5590">KamikaTze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

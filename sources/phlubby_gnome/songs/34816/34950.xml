@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34950">
+ <title>Metroid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.3636</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-03 06:23:13</locked_until>
+ <lastplayed>2017-06-22 14:03:43</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4985">Memblers</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

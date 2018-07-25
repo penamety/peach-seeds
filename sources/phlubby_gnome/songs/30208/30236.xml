@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30236">
+ <title>Cabaret in a Box</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.2857</rating>
+ <info>Sources:
+[queue]10757[/queue]
+[queue]12399[/queue]
+
+</info>
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-17 23:50:10</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4442">Gaspode</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>mashup</tag>
+  
+  <tag>turntablism</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

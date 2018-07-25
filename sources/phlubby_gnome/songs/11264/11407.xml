@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11407">
+ <title>Silent Voyage</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.3182</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 15:25:13</locked_until>
+ <lastplayed>2018-01-23 03:34:36</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>8447</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38965">
+ <title>Zoolook</title>
+ <status v="A">Active</status>
+ <bitrate>251</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ <info>Remix of JMJ Zoolook</info>
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 02:01:26</locked_until>
+ <lastplayed>2018-05-07 04:39:00</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>29195</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jarre</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

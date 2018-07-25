@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8381">
+ <title>Orientation</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.0962</rating>
+ 
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 02:04:00</locked_until>
+ <lastplayed>2018-06-09 14:38:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9107</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  <group id="739">Osmium</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Equinoxe</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

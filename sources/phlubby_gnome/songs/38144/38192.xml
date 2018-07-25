@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38192">
+ <title>Taste Likes Fish</title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.625</rating>
+ 
+ <songlength>59</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 06:41:43</locked_until>
+ <lastplayed>2018-03-13 09:59:51</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

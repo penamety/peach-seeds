@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41449">
+ <title>Pokeyama</title>
+ <status v="A">Active</status>
+ <bitrate>273</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>6th place at RetroKomp / Load Error 2013 8-bit Music competition</info>
+ <songlength>94</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 08:54:21</locked_until>
+ <lastplayed>2017-11-05 01:39:38</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5563">stRing</artist>
+ </artists>
+ <groups>
+  <group id="869">Agenda</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/98906/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30045">
+ <title>Kickstart</title>
+ <status v="A">Active</status>
+ <bitrate>232</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.1296</rating>
+ <info>8th at Sundown 2010 newschool music competition</info>
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 10:26:40</locked_until>
+ <lastplayed>2018-04-10 07:42:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

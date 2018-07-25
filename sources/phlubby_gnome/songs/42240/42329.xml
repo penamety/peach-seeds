@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42329">
+ <title>Dancing in HappyTown</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>Ahahah !
+Hihihi !</info>
+ <songlength>39</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-10 08:57:17</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>chipmunk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

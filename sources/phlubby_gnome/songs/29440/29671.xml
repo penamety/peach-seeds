@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29671">
+ <title>Faith of the Fallen</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.2258</rating>
+ <info>track #2 from &#34;St. Mare Abelle&#34;
+[url=http://www.kahvi.org/releases.php?release_number=175]www.kahvi.org[/url]
+
+/pwl</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 05:01:46</locked_until>
+ <lastplayed>2018-06-03 19:16:51</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1108">Some1</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CHKk4c7GOxU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

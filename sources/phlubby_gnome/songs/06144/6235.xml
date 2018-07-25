@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6235">
+ <title>Human Weakeness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8095</rating>
+ 
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-28 13:37:43</locked_until>
+ <lastplayed>2018-05-10 03:43:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2737</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1006">Reflex</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

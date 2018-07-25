@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3684">
+ <title>Symphony-89</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.1765</rating>
+ 
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 04:26:08</locked_until>
+ <lastplayed>2017-11-17 00:10:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5583</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="602">Kaktus</artist><artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funny</tag>
+  
+  <tag>opera</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

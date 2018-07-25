@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31795">
+ <title>Second Coming</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="49">3.8163</rating>
+ <info>Main soundtrack from &#34;Shit 4 Brainz&#34; demo by Progress.
+1st at Enlight&#39;97 Demo competition.</info>
+ <songlength>307</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 00:46:38</locked_until>
+ <lastplayed>2018-06-11 23:19:40</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1897</pouetid>
+ <ytid>TkPYTUV3wx0</ytid>
+ <ytoffset>110</ytoffset>
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Y9KzgbZE3eY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3274</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

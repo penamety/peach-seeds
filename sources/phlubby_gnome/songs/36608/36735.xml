@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36735">
+ <title>Vasarely - soundtrack version</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0</rating>
+ <info>Soundtrack to demoscene animation Beta by Still ([url]http://awards.scene.org/awards.php?year=2011&amp;cat=7[/url]) 
+
+1st place, Scene.org Award for most original concept from 2011 (Helsinki, Finland) 
+1st place, PCdemo Competition, Evoke 2011 (Cologne, Germany)</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 17:48:36</locked_until>
+ <lastplayed>2018-03-14 03:37:23</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57514</pouetid>
+ <ytid>fUawxurEQJU</ytid>
+ 
+ 
+ <artists>
+  <artist id="5174">Lucid</artist>
+ </artists>
+ <groups>
+  <group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fUawxurEQJU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40292">
+ <title>Micro soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>937</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.5556</rating>
+ <info>Soundtrack from &#34;Micro&#34; demo by Gembaboys 2014.
+
+2nd place in ZX Demo compo @ Forever 2014.</info>
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-10 07:21:17</locked_until>
+ <lastplayed>2018-01-22 02:59:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>62811</pouetid>
+ <ytid>LBj_Zm9-XMc</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LBj_Zm9-XMc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34366/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

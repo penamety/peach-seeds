@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8192">
+ <title>Ballblazer (feat. Beastie Boys)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">3.314</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 09:20:27</locked_until>
+ <lastplayed>2017-10-31 02:06:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>Rap</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

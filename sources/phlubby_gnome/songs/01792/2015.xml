@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2015">
+ <title>Ecstacy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0</rating>
+ <info>Download link (module with extra null bytes at the end, and seemingly broken speech samples): http://modarchive.org/index.php?request=view_by_moduleid&amp;query=92601
+
+Download link (module that actually sounds better, and has no extra null bytes at the end): http://modarchive.org/index.php?request=view_by_moduleid&amp;query=40458</info>
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-23 04:56:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5500</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Record</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

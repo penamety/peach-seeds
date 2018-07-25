@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23616">
+ <title>Insomnia</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.1905</rating>
+ <info>2nd in the Psycle Compo 5.</info>
+ <songlength>306</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:55:07</locked_until>
+ <lastplayed>2018-06-15 01:15:12</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1752">Rhino</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Relaxing</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

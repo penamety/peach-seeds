@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36795">
+ <title>Hedron</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1333</rating>
+ 
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 17:05:05</locked_until>
+ <lastplayed>2018-06-04 17:10:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59618</pouetid>
+ <ytid>Nw3Cc6zUFOE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1912">Aikapallo</artist>
+ </artists>
+ <groups>
+  <group id="589">Division</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>demostyle</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Nw3Cc6zUFOE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

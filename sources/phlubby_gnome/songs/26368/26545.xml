@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26545">
+ <title>I Can Has Drums</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">1.5152</rating>
+ <info>Download Link: ftp://ftp.scene.org/pub/parties/2008/altparty08/1ch_tracker/i_can_has_drums_by_little_bitchard.xm</info>
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 03:24:52</locked_until>
+ <lastplayed>2018-06-01 10:06:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group><group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>glitch</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

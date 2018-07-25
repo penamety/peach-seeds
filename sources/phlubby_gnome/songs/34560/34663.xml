@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34663">
+ <title>Into the Shadows intro</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>This tune was composed by Vogue for the game Into the Shadows that Triton was producing. The game would have been awesome if it would have been finished and released.</info>
+ <songlength>103</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 06:24:51</locked_until>
+ <lastplayed>2018-04-01 09:40:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2588</pouetid>
+ <ytid>f_rIMO04m4E</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=f_rIMO04m4E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

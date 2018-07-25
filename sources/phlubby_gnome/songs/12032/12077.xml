@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12077">
+ <title>Musicmania</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5909</rating>
+ 
+ <songlength>330</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-02 04:40:54</locked_until>
+ <lastplayed>2017-06-25 14:25:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>11342</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1832">Time Traveller</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

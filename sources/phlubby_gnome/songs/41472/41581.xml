@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41581">
+ <title>Mirage</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>Don&#39;t listen with hardware mixing (ie. AWE32 or GUS) if possible- you&#39;ll
+miss out on a LOT of notes. (both on reasons of pitch an number of notes)
+
+If your computer can&#39;t handle the number of channels, lower the mixing
+rate (as opposed to limiting the channels). The channels are more
+important that high playback quality.
+
+Channels used: 36
+Virtual channels: 96</info>
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-06 19:52:25</locked_until>
+ <lastplayed>2017-12-18 08:18:12</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2927">Pulse</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37160">
+ <title>Whale&#39;s Voyage: Title (The Whale&#39;s Scream)</title>
+ <status v="R">Rejected</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="0">None</rating>
+ <info>From the 1994 PC space-trader RPG, &#34;Whale&#39;s Voyage&#34;.</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2845">Hannes Seifert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

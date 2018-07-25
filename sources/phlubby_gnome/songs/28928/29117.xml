@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29117">
+ <title>Sexadelic Force</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.5161</rating>
+ <info>From sample info:
+Remy LeBeau &#39;98 aka Legend / CNCD
+
+Unexpectionizaled
+aktion force.
+
+* Sexadelic
+* Dance
+* Party
+- Vampyros Lesbos
+
+kox beniyakh.	
+
+
+
+
+7.8.1998 at Tampere
+
+hello all my friends:)
+where ever you are</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 01:02:15</locked_until>
+ <lastplayed>2018-06-17 16:09:07</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>308</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="658">Legend</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=9286</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

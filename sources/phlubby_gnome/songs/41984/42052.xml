@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42052">
+ <title>Lovely house</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">2.125</rating>
+ <info>Bass Megademo II - End part</info>
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-26 03:29:26</locked_until>
+ <lastplayed>2017-11-01 06:39:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10285</pouetid>
+ <ytid>fMV79lcODnY</ytid>
+ <ytoffset>1042</ytoffset>
+ 
+ <artists>
+  <artist id="5606">DJ Bass</artist>
+ </artists>
+ <groups>
+  <group id="826">Bass</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=fMV79lcODnY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

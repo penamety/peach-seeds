@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4781">
+ <title>Dark Chocolate</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-30 01:26:06</locked_until>
+ <lastplayed>2017-08-23 20:02:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist><artist id="1714">Nutcase</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12119">
+ <title>Dirty Mary 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="38">4.2105</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 23:13:45</locked_until>
+ <lastplayed>2018-04-19 13:59:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8688</pouetid>
+ <ytid>BwOANhbOMvk</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1980">Blue Fox</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

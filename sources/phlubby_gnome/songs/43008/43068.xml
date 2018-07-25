@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43068">
+ <title>Bassment</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ 
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-01 02:35:25</locked_until>
+ <lastplayed>2017-10-22 12:50:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12565</pouetid>
+ <ytid>JJCwAEDWWOg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5656">Meta</artist>
+ </artists>
+ <groups>
+  <group id="850">Ethic</group><group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

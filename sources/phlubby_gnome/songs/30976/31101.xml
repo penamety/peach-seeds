@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31101">
+ <title>Fibomoodcci O.S.T.</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.3529</rating>
+ <info>Original soundtrack to the Amiga 64k intro released at Breakpoint 2010.</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-25 13:27:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>54654</pouetid>
+ <ytid>PWdJipUjjAg</ytid>
+ 
+ 
+ <artists>
+  <artist id="3551">Selectanovel</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PWdJipUjjAg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

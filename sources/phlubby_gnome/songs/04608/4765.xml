@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4765">
+ <title>S furioso</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5</rating>
+ <info>4th place in pc demo at Icing 1999.
+http://www.youtube.com/watch?v=cs34HLLzBuA</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 07:29:24</locked_until>
+ <lastplayed>2018-05-03 14:16:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1253</pouetid>
+ <ytid>cs34HLLzBuA</ytid>
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Icing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

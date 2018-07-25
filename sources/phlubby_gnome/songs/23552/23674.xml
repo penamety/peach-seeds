@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23674">
+ <title>Virus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.35</rating>
+ 
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 20:13:59</locked_until>
+ <lastplayed>2018-05-11 06:10:55</lastplayed>
+ <platform id="34">GBA</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3494">Rjv</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

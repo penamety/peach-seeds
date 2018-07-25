@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22420">
+ <title>Bump Pixel Vicissitude</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.6552</rating>
+ <info>From the Megademo OMD by Orb which scored 2nd place in oldskool demo compo at Sundown 2007.
+
+</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 07:39:16</locked_until>
+ <lastplayed>2018-04-18 08:46:49</lastplayed>
+ <platform id="26">VIC-20</platform>
+ 
+ <pouetid>32034</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

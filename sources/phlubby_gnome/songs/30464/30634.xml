@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30634">
+ <title>Beginning</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.4074</rating>
+ 
+ <songlength>250</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:20:55</locked_until>
+ <lastplayed>2018-06-04 14:59:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>midnight</tag>
+  
+  <tag>moody</tag>
+  
+  <tag>Violin</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

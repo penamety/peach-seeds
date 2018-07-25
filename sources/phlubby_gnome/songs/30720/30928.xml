@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30928">
+ <title>Needs More ATARI</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="90">4.4667</rating>
+ <info>100% Atari STe, 49 Ko SNDH file tracked in maxYMiser. 4 Channels (3 YM + 1 DMA)</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:10:45</locked_until>
+ <lastplayed>2018-05-23 11:42:21</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>AtariSTe</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

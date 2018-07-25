@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43928">
+ <title>Move</title>
+ <status v="A">Active</status>
+ <bitrate>1126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>Move! Bitbear&#39;s music entry for the demoscene party Solskogen 2015&#39;s Newschool Music Competition. 
+
+The first sketch of the song was started many years ago and then placed in hibernation until the night of Thursday 8th of July, where I finally had some time to attempt doing a track for Solskogen&#39;s Newschool Music Competition. 
+
+I brute forced myself through the night and produce an arrangement-wise complete song that I delivered at the party the 10th of July, but it was full of bugs so the mix sounded awful. Thus, I&#39;ve reworked large parts of it so it sounds like this. Hope you like it!</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 10:52:46</locked_until>
+ <lastplayed>2018-03-28 20:05:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5379">Bitbear</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://open.spotify.com/track/3MjDDTm0iPw6BhtBDjFwDC</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/141390/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

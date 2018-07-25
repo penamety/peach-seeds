@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9834">
+ <title>Unreeeal Superhero 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.5699</rating>
+ 
+ <songlength>117</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 03:43:52</locked_until>
+ <lastplayed>2018-06-15 23:25:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3604</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="619">Kenet</artist><artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

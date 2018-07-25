@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3752">
+ <title>Pretend</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.8462</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 20:53:09</locked_until>
+ <lastplayed>2018-05-01 08:46:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9146</pouetid>
+ <ytid>Dc5uQahyTlg</ytid>
+ <ytoffset>458</ytoffset>
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

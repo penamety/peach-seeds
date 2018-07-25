@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34224">
+ <title>Toytone Tribe</title>
+ <status v="A">Active</status>
+ <bitrate>137</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4118</rating>
+ <info>(1994 for Pandora)
+
+http://www.chotaire.net/index.php?/categories/4-3-Commodore-64-Sids</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-22 07:15:46</locked_until>
+ <lastplayed>2017-07-15 05:05:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ <ytid>dCvltLJVpW0</ytid>
+ 
+ 
+ <artists>
+  <artist id="194">Chotaire</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dCvltLJVpW0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

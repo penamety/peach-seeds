@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39180">
+ <title>Wishful Twisting</title>
+ <status v="A">Active</status>
+ <bitrate>273</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">3.8333</rating>
+ 
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 19:21:06</locked_until>
+ <lastplayed>2018-03-16 11:44:43</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61733</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group><group id="82">Loonies</group><group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

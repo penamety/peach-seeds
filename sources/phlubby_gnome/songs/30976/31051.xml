@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31051">
+ <title>Poison (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.4655</rating>
+ 
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:50:38</locked_until>
+ <lastplayed>2018-06-17 14:22:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2040">Mordi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>smooth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

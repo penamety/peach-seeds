@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42896">
+ <title>Way&#39;s Of Air</title>
+ <status v="A">Active</status>
+ <bitrate>80</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.8667</rating>
+ <info>[i]1991?Original Amiga module[/i]</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-02 07:09:03</locked_until>
+ <lastplayed>2017-09-19 21:05:38</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4475">M.A.F</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

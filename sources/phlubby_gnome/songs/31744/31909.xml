@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31909">
+ <title>Megamix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>This one is a cover of a Soundtrakker (Amstrad) (and Soundtracker (ZX Spectrum)) tune that I liked a lot. I don&#39;t know who&#39;s made it in the first place but I&#39;d be happy if someone knew (and even told me!)  </info>
+ <songlength>92</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-01 18:02:43</locked_until>
+ <lastplayed>2017-12-13 01:39:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Koto</tag>
+  
+  <tag>Laserdance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

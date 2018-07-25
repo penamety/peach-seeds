@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6468">
+ <title>Shape Shifter 2k-1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="79">4.1266</rating>
+ <info>1st place in PC demo compo at Mekka &amp; Symposium 1999</info>
+ <songlength>286</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 14:56:08</locked_until>
+ <lastplayed>2018-04-30 12:07:24</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>590</pouetid>
+ <ytid>LsrmO44bNWM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1068">Sierra</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Borg</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Racing</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LsrmO44bNWM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

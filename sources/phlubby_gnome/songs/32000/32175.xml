@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32175">
+ <title>The Unknown Stuntman</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.9545</rating>
+ 
+ <songlength>77</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 09:11:46</locked_until>
+ <lastplayed>2018-04-03 18:19:29</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33973</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  <group id="263">The Ravebusters</group>
+ </groups>
+ 
+ <tags>
+  <tag>happy</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

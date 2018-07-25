@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29491">
+ <title>Color Lines</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.3235</rating>
+ <info>Game for Amstrad CPC, with many sceners involved in the project (T&amp;J, Eldrik/GPA, Supersly/Béghin Say, Ced, Papy-CPC, Mac Death, Rex/Dirty Minds, Voxfreax, Nori, Winner, Zenith/FaTaLiTy, Ultrasyd, Lobo &amp; Kukulcan). Link : http://tj.gpa.free.fr/</info>
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 18:23:16</locked_until>
+ <lastplayed>2018-05-15 22:49:17</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ <pouetid>55246</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="508">GPA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6680">
+ <title>Rubicon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3043</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 18:27:33</locked_until>
+ <lastplayed>2018-04-18 11:38:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1132">Stargazer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>compo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

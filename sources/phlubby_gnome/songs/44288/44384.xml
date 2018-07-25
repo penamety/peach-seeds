@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44384">
+ <title>Otaku [demo soundtrack]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">2.7143</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 01:13:40</locked_until>
+ <lastplayed>2018-03-08 13:03:31</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>71719</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Riverwash</tag>
+  
+  <tag>Scream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

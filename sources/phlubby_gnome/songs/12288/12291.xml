@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12291">
+ <title>Blueberry [Blueberry Remix]</title>
+ <status v="A">Active</status>
+ <bitrate>243</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">4.5059</rating>
+ 
+ <songlength>338</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 15:31:35</locked_until>
+ <lastplayed>2018-05-24 00:27:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2007">Amok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

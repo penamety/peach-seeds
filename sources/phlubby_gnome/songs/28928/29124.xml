@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29124">
+ <title>fr-08 (end)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.18</rating>
+ 
+ <songlength>357</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 06:26:40</locked_until>
+ <lastplayed>2018-06-17 10:16:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>13261</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2412">Ciaran</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

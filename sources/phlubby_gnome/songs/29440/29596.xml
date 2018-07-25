@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29596">
+ <title>Rambo: First Blood Part 2 - Highscore (subtune 4)</title>
+ <status v="A">Active</status>
+ <bitrate>232</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.35</rating>
+ 
+ <songlength>246</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 02:37:48</locked_until>
+ <lastplayed>2017-11-21 17:01:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

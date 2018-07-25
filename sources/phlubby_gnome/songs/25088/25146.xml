@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25146">
+ <title>Dirty Desaster</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ 
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 21:22:08</locked_until>
+ <lastplayed>2017-11-25 01:23:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9378</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3696">TAR</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

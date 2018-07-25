@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34843">
+ <title>Epsilon</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.4677</rating>
+ <info>1st place in pc 64k compo at the Ultimate Meeting 2011
+
+Cubase / Mercury softsynth</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 13:41:26</locked_until>
+ <lastplayed>2018-05-19 21:58:36</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>58262</pouetid>
+ <ytid>I8pRJ0q8OlY</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  <group id="301">Mercury</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>2012</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=I8pRJ0q8OlY</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

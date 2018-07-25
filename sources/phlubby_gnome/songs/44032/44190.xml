@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44190">
+ <title>Soppedans</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Supposed to be released at Solskogen. Did not make the deadline. </info>
+ <songlength>224</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 01:18:55</locked_until>
+ <lastplayed>2018-03-13 18:05:52</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4167">Moellpauk</artist>
+ </artists>
+ <groups>
+  <group id="763">Hoaxers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

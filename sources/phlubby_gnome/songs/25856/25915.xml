@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25915">
+ <title>Monster Business All Places</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">3.6082</rating>
+ 
+ <songlength>1071</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:21:22</locked_until>
+ <lastplayed>2018-05-15 13:41:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3091">Lotus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>megamix</tag>
+  
+  <tag>multipart</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

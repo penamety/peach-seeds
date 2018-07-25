@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40353">
+ <title>1-bit Synthetic</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.75</rating>
+ <info>ZX Spectrum 48K / TIMEX COMPUTER 2048 (BEEPER). 1-bit sound. 5 channels (4 channels of tones and 1 channel of drums).
+Engine: Qchan.
+Recorded from real hardware: TIMEX COMPUTER 2048.
+
+This song comes from &#34;Z80&#34; chiptune album by MISTER BEEP 2012.</info>
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-15 18:57:44</locked_until>
+ <lastplayed>2017-08-09 22:28:01</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/17180/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

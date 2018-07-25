@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9853">
+ <title>PYM - When Colours Are Going Bang Bang</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0625</rating>
+ <info>best screen in PYM</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-06 06:53:49</locked_until>
+ <lastplayed>2017-06-27 21:08:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11806</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="114">Big Alec</artist>
+ </artists>
+ <groups>
+  <group id="62">Delta Force</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

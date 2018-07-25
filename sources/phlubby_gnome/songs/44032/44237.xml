@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44237">
+ <title>Ikigai</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>Fourth release and first video from pROPER dISCO. Enjoy! https://youtu.be/gDZ94u4pUbg</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 02:51:51</locked_until>
+ <lastplayed>2018-02-17 00:33:40</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5709">Proper Disco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gDZ94u4pUbg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

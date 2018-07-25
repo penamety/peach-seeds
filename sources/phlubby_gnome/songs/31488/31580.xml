@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31580">
+ <title>The Entertainer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">2.7895</rating>
+ 
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-25 13:42:16</locked_until>
+ <lastplayed>2017-07-16 06:53:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>ragtime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

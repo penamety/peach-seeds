@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10776">
+ <title>Enchanted Lands Intro</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.3704</rating>
+ 
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 09:27:11</locked_until>
+ <lastplayed>2018-06-15 20:13:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>5lnbS-ILkkI</ytid>
+ <ytoffset>53</ytoffset>
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5lnbS-ILkkI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

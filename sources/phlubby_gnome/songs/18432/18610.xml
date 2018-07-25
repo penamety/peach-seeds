@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18610">
+ <title>Hier hängt der Hammer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 07:25:32</locked_until>
+ <lastplayed>2018-04-08 06:50:51</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1395">Genetic Gemini</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

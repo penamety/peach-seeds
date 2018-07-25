@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5752">
+ <title>Excellate</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.675</rating>
+ <info>1:st place at ECC 1993 4ch music compo.
+
+Later used as endpart song in Virtual Dreams/FLT Amiga demo &#34;Psychedelic&#34;
+which placed 2:nd at The Party 4 (1994).</info>
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 08:51:58</locked_until>
+ <lastplayed>2018-04-13 13:50:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>3057</pouetid>
+ <ytid>kCFnS8uLUCg</ytid>
+ <ytoffset>285</ytoffset>
+ 
+ <artists>
+  <artist id="946">Probe</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

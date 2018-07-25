@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32375">
+ <title>Deep Blue</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.8947</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 07:11:45</locked_until>
+ <lastplayed>2018-02-18 20:34:37</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56810</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2526">Damo</artist>
+ </artists>
+ <groups>
+  <group id="431">YM Rockerz</group>
+ </groups>
+ 
+ <tags>
+  <tag>bass</tag>
+  
+  <tag>cowbell</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

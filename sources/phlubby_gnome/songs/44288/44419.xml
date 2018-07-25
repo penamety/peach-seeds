@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44419">
+ <title>Dreaming High</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">2.6</rating>
+ <info>C64 Music Competition at Zoo 2017 :  #9
+</info>
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 19:59:13</locked_until>
+ <lastplayed>2018-05-15 10:10:51</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Zoo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

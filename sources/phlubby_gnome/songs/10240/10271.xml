@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10271">
+ <title>Darkfire</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7059</rating>
+ 
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 01:24:40</locked_until>
+ <lastplayed>2018-03-08 04:44:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13363</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1818">DeathJester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

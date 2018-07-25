@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42770">
+ <title>Ain&#39;t Seen Nothing Yet</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.3077</rating>
+ <info>I started it originally for Deadline 2014, but then found out there wasn&#39;t gonna be an executable music compo. </info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 13:54:18</locked_until>
+ <lastplayed>2018-05-28 13:53:37</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/shinobimar/shinobi-aint-seen-nothing-yet</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22248">
+ <title>Greensleeves</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.625</rating>
+ 
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 06:38:44</locked_until>
+ <lastplayed>2018-06-15 16:19:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14548</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

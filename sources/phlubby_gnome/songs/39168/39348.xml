@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39348">
+ <title>Cloudless Rain</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8889</rating>
+ <info>Song for Samar  &#34;20 years&#34; anniversary musicdisk .</info>
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-23 03:26:09</locked_until>
+ <lastplayed>2017-08-17 15:46:28</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

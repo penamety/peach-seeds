@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30128">
+ <title>Futuricon</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.4304</rating>
+ <info>3rd place in combined demo compo at Riverwash 2010</info>
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 10:20:00</locked_until>
+ <lastplayed>2018-06-06 08:08:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55943</pouetid>
+ <ytid>rFkH_m-iJrQ</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Riverwash</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rFkH_m-iJrQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

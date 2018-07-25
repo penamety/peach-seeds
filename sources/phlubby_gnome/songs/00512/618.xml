@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="618">
+ <title>Reach Tech-no Limit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">4.0625</rating>
+ 
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 13:54:55</locked_until>
+ <lastplayed>2018-05-29 14:47:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2938</pouetid>
+ <ytid>Byajsm8ZGNY</ytid>
+ <ytoffset>250</ytoffset>
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>video</tag>
+  
+  <tag>WorldOfCommodore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

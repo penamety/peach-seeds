@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7154">
+ <title>Shad - Part 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 13:43:00</locked_until>
+ <lastplayed>2018-03-31 05:22:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>304</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1254">Traven</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>multipart</tag>
+  
+  <tag>scary</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

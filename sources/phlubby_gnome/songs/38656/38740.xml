@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38740">
+ <title>Cybernetic Celtic Wizard</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="50">4.22</rating>
+ <info>Soundtrack from &#34;The Board II&#39; ATM 2 Turbo demo by Alone Coder &amp; [group]50[/group] &amp; [group]295[/group],
+ranked 2nd at ZXAAA Demo Compo 2013.
+
+Sample List:
+-title:
+&#34;cybernetic
+celtic wizard&#34;
+(c) 09.2010 by
+yerzmyey/h-prg.
+some samples
+made by me
+and some are
+ripped -
+as usual. :)
+made for
+&#34;ym-digital&#34;
+atari st
+project.
+i hope you
+enjoy
+the song!
+
+More info &amp; download :
+[url=http://www.modules.pl/index.php?id=module&amp;mod=7414]:: modules.pl :: YERZMYEY - Cybernetic Celtic Wizard[/url]</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 18:35:21</locked_until>
+ <lastplayed>2018-05-23 06:01:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>61307</pouetid>
+ <ytid>SJQm-5qAL2g</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>2013</tag>
+  
+  <tag>AAAZXDemoCompo</tag>
+  
+  <tag>ATMTurbo2</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GS</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SJQm-5qAL2g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/27688/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

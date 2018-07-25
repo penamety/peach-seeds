@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32370">
+ <title>Rules of Fairies</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ <info>Made for a 2 hour compo</info>
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 11:19:41</locked_until>
+ <lastplayed>2018-05-26 01:02:01</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="792">Mick Rippon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

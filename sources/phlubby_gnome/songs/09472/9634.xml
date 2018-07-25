@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9634">
+ <title>Complex Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ <info>Original Amiga tune by Tor Gausen (Walkman)
+Famicommonized by Chibi-Tech
+
+Original flavor: Futurecomposer v1.3
+
+Yes, the original one is tenfolds better than what I would interpret it as in a NES chip engine with only 4 useable duty cycles. Wah... &gt;_&lt;;;
+
+Just call it one of my bored moments in composing stuff. Please.</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 18:36:23</locked_until>
+ <lastplayed>2018-04-23 13:48:23</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1799">Chibi-Tech</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>NES</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

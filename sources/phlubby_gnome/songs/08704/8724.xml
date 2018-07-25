@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8724">
+ <title>Versions</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.0323</rating>
+ <info>           &#34;two years&#34;
+  a new five musicians musicdisk
+celebrating our 2-year anniversary
+
+new songs from: basehead, mellow-d,
+       necros, and wave.
+
+   released on March 27, 1997
+</info>
+ <songlength>825</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 02:53:36</locked_until>
+ <lastplayed>2018-05-28 07:00:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

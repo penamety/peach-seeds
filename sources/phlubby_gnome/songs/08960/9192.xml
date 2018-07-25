@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9192">
+ <title>Mixei theme music</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0</rating>
+ <info>For Stream 08 music compo
+
+Edit: Also used for winning Amiga demo at FAP 2013.</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 07:29:59</locked_until>
+ <lastplayed>2018-04-26 00:50:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>62226</pouetid>
+ <ytid>xeC3-pWDbkA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xeC3-pWDbkA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

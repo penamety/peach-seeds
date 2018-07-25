@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44382">
+ <title>Raatointro</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>from &#34;Elektrik Baby&#34;,  4th in the Assembly 1998 Amiga 64K Intro competition (AGA)</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 06:46:51</locked_until>
+ <lastplayed>2018-06-04 19:34:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11975</pouetid>
+ <ytid>N_aoXewguaQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="5744">Pekka Pou</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/20971/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?93372</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

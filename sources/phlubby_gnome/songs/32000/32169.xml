@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32169">
+ <title>Mixed Module Arts</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.8889</rating>
+ <info>2nd in the 8-Bit Music compo at @party 2010.</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-30 20:59:18</locked_until>
+ <lastplayed>2017-11-12 13:44:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist><artist id="3106">Madbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>atparty</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

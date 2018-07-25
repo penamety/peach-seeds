@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9350">
+ <title>Meditator</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.381</rating>
+ <info>Used in Digital Disco 1 by Chrome. A tune back from 1991 relying into a huge load of veeeeery old samples.</info>
+ <songlength>447</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 13:11:17</locked_until>
+ <lastplayed>2018-04-21 04:19:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>18723</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

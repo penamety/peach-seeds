@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32001">
+ <title>ZajawkaM3</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>318</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 12:33:44</locked_until>
+ <lastplayed>2018-05-29 05:47:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54517</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4690">Stilgar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Abstract</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

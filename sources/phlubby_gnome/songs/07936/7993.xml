@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7993">
+ <title>The Space Scroll</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.0556</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 10:46:52</locked_until>
+ <lastplayed>2018-02-24 09:48:54</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2742</pouetid>
+ <ytid>MqlT7fl2RX8</ytid>
+ 
+ 
+ <artists>
+  <artist id="728">Marillion</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>laugh</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

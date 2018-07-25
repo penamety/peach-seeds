@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10250">
+ <title>Hymn to Aurora</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="120">4.3583</rating>
+ 
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 15:27:31</locked_until>
+ <lastplayed>2018-05-17 07:14:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>48800</pouetid>
+ <ytid>peDbd54Vsm0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1823">Horace Wimp</artist>
+ </artists>
+ <groups>
+  <group id="64">Aurora</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

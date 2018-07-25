@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8030">
+ <title>Tournesol</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="153">4.7516</rating>
+ <info>2nd place in pc demo compo at horizon 2000</info>
+ <songlength>361</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 04:55:25</locked_until>
+ <lastplayed>2018-06-08 02:37:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>33</pouetid>
+ <ytid>MGzyOxNyd4U</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="679">Lluvia</artist><artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="500">Sunflower</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>horizon</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MGzyOxNyd4U</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

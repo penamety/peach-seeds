@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10095">
+ <title>Remark Remix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="104">4.4615</rating>
+ <info>Original tune by Jeroen Tel. Remixed and extended in 2007 by Torben Metal Hansen and Thomas Drax Mogensen.
+
+Download: http://remix.kwed.org/download.php/3352/Metal%20and%20Drax%20-%20Remark%20Remix.mp3</info>
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 18:34:11</locked_until>
+ <lastplayed>2018-05-22 22:25:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist><artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

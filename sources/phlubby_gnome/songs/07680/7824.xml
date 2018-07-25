@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7824">
+ <title>Dreamchaser</title>
+ <status v="A">Active</status>
+ <bitrate>223</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="142">4.1831</rating>
+ 
+ <songlength>331</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 03:24:55</locked_until>
+ <lastplayed>2018-06-01 06:20:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>24546</pouetid>
+ <ytid>WftfnSgXaE8</ytid>
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>Mindwave</tag>
+  
+  <tag>NeuroConcept</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tUIaaT4STlg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

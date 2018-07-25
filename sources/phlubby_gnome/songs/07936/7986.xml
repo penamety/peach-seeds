@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7986">
+ <title>Pimp My Spectrum</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="137">4.5036</rating>
+ 
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 12:23:34</locked_until>
+ <lastplayed>2018-05-25 20:43:25</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>50107</pouetid>
+ <ytid>mdkKLlUEAow</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1701">Mofobaru</artist>
+ </artists>
+ <groups>
+  <group id="41">Ate Bit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mdkKLlUEAow</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

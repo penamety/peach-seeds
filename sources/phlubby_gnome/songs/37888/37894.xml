@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37894">
+ <title>The Right Path Of Anger</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1154</rating>
+ 
+ <songlength>309</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 07:41:16</locked_until>
+ <lastplayed>2018-05-28 22:38:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>60273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

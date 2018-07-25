@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36073">
+ <title>The Edge of Infinity</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.0</rating>
+ <info>Download here (demo &amp; songs): http://cd.textfiles.com/naidorabilia/1996/compo/demo/infinity/</info>
+ <songlength>477</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 12:56:06</locked_until>
+ <lastplayed>2018-01-26 03:17:06</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>2501</pouetid>
+ <ytid>eCsCbdf4LF4</ytid>
+ 
+ 
+ <artists>
+  <artist id="3033">Lakeee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>NAID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=eCsCbdf4LF4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

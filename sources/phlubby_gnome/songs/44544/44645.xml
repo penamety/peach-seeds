@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44645">
+ <title>Metallic</title>
+ <status v="A">Active</status>
+ <bitrate>263</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.75</rating>
+ <info>1st in the Evoke 2015 PC 4K intro competition</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 07:00:55</locked_until>
+ <lastplayed>2018-06-04 06:44:04</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>66062</pouetid>
+ <ytid>mIRdcRXne4E</ytid>
+ 
+ 
+ <artists>
+  <artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>4klang</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/142993/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mIRdcRXne4E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

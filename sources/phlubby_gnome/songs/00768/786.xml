@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="786">
+ <title>Vernal Equinox</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.225</rating>
+ 
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 09:11:08</locked_until>
+ <lastplayed>2018-06-08 18:36:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>14977</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="137">Breeze</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

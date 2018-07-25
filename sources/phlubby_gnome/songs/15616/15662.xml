@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15662">
+ <title>Got to Keep on Dancing</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.4286</rating>
+ <info>Ranked 4th in the music compo at Gelloween 1994.</info>
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-08 04:09:34</locked_until>
+ <lastplayed>2018-01-15 00:32:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Gelloween</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

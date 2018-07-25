@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39304">
+ <title>Heatwave BMX </title>
+ <status v="A">Active</status>
+ <bitrate>322</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.129</rating>
+ <info>Originally made for Desire ChipChop Musicdisk, but they ditched all AHX entries. 
+I developed it some further for usage in Planet Jazz&#39; &#34;Panurus Biarmicus&#34;-demo, which was released at gerp party 2013 in Sweden.</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 21:51:47</locked_until>
+ <lastplayed>2018-05-02 19:11:38</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>61855</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="748">Planet Jazz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

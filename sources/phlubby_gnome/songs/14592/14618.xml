@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14618">
+ <title>Girri Girri</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.3793</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 16:15:05</locked_until>
+ <lastplayed>2018-04-05 11:03:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="92">Bartesek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funny</tag>
+  
+  <tag>maf-inspired</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>Silly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

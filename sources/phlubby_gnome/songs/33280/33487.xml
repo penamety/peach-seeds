@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33487">
+ <title>GiANT Beatz</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>Samples from Casio CZ1000
+Other samples taken from various MODs
+
+Composed using Flextracker on an Atari Falcon</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-24 00:40:54</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4832">Nativ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

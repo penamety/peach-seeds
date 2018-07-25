@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42324">
+ <title>Queen of the Rain</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>392</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-24 10:30:38</locked_until>
+ <lastplayed>2018-02-03 15:22:55</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+  <tag>Ethnic</tag>
+  
+  <tag>Female</tag>
+  
+  <tag>rain</tag>
+  
+  <tag>stereofx</tag>
+  
+  <tag>thunder</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

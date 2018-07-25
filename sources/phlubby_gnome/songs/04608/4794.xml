@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4794">
+ <title>Satisfaction</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.6154</rating>
+ <info>From &#34;Satisfaction Guaranteed&#34; by Pearl.</info>
+ <songlength>512</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 01:13:08</locked_until>
+ <lastplayed>2018-05-19 17:37:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>7645</pouetid>
+ <ytid>e_Mcm4LcGEY</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="771">Mel</artist>
+ </artists>
+ <groups>
+  <group id="547">Pearl</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

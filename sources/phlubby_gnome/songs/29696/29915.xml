@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29915">
+ <title>Party Hard @ Evoke</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.3289</rating>
+ <info>Real time MIDI sync - Atari ST, Game Boy, Renoise
+
+Ranked 2nd in the mp3/ogg music compo at Evoke 2010.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 03:53:27</locked_until>
+ <lastplayed>2018-05-25 12:52:25</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>gameboy</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>TechHouse</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

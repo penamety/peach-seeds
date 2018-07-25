@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21701">
+ <title>Bourbon Street II</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.75</rating>
+ 
+ <songlength>77</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 16:57:47</locked_until>
+ <lastplayed>2018-06-01 11:07:43</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3216">Mise</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

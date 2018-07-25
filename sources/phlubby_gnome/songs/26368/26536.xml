@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26536">
+ <title>Legend Of Faerghail [title remix]</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.0</rating>
+ 
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 08:46:00</locked_until>
+ <lastplayed>2018-05-12 08:33:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="272">CZ Tunes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/860</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

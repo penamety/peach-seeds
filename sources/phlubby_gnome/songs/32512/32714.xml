@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32714">
+ <title>Blue Flame</title>
+ <status v="A">Active</status>
+ <bitrate>145</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="44">4.25</rating>
+ 
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 17:48:37</locked_until>
+ <lastplayed>2018-03-23 06:39:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>54108</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  <group id="570">Xenon</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

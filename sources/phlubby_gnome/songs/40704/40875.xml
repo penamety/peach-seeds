@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40875">
+ <title>Flashdance</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.7</rating>
+ <info>Soundtrack from &#34;#Z80&#34; ZX Spectrum E-paper Issue #03 by [group]796[/group], Condor Soft [CDS] &amp; [group]792[/group]. 
+
+Original song &#34;Flashdance... What a feeling&#34; by Irene Cara from her album &#34;What a Feeling&#39;&#34; and soundtrack of &#34;Flashdance&#34; movie.
+</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 21:22:53</locked_until>
+ <lastplayed>2018-05-30 02:54:08</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5531">Black Lord</artist>
+ </artists>
+ <groups>
+  <group id="792">Light Future Group [LFG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>Z80</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37380/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

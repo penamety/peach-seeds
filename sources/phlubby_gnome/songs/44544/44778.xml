@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44778">
+ <title>Aerophagic Bike Club</title>
+ <status v="A">Active</status>
+ <bitrate>162</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.6</rating>
+ <info>Revision 2018 streaming music compo</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 22:38:11</locked_until>
+ <lastplayed>2018-06-04 11:41:34</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5792">The Hardliner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/185512/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

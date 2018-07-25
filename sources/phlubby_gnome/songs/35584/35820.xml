@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35820">
+ <title>Improvisation #9</title>
+ <status v="A">Active</status>
+ <bitrate>201</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.8</rating>
+ 
+ <songlength>65</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-30 23:42:20</locked_until>
+ <lastplayed>2018-01-08 14:34:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5099">Ivan Roshin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

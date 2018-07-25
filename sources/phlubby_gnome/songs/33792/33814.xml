@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33814">
+ <title>Super Hang-On - The Winning Run</title>
+ <status v="A">Active</status>
+ <bitrate>278</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7</rating>
+ 
+ <songlength>146</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 07:05:25</locked_until>
+ <lastplayed>2018-05-25 06:10:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3845">Gibs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arcade</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

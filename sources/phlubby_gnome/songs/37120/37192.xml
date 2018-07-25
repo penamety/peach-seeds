@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37192">
+ <title>Lightspeed</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.8235</rating>
+ 
+ <songlength>284</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 10:29:51</locked_until>
+ <lastplayed>2018-06-10 01:41:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  <group id="176">Reality</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

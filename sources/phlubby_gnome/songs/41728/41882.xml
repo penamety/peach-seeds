@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41882">
+ <title>My Prince Will Come</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>12th at Revision 2015 streaming music compo</info>
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 07:46:38</locked_until>
+ <lastplayed>2018-05-03 02:46:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="36">Alkama</artist>
+ </artists>
+ <groups>
+  <group id="238">Calodox</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

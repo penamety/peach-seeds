@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37031">
+ <title>Wheels within Wheels (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0333</rating>
+ <info>1st place in combined 4k/64k compo at Demodays (Buenzli) 2012</info>
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 04:53:11</locked_until>
+ <lastplayed>2018-06-09 09:02:32</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59918</pouetid>
+ <ytid>W8lBIQcHhLw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5209">Westlicht</artist>
+ </artists>
+ <groups>
+  <group id="699">Horology</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=W8lBIQcHhLw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

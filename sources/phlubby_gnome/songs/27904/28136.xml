@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28136">
+ <title>Industrial Progress (TMDC9 Invitation)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-30 21:54:56</locked_until>
+ <lastplayed>2017-11-11 22:16:12</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>26965</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1459">LPChip</artist>
+ </artists>
+ <groups>
+  <group id="273">Crimson Shine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>TMDC</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

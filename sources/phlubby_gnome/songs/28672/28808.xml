@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28808">
+ <title>Grey Love [short ver-]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-06 06:35:04</locked_until>
+ <lastplayed>2018-02-14 02:35:32</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3455">Random</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37889">
+ <title>Thunderloop</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ <info>A little remix of Jochen Hippel&#39;s teramis menu Music aka Thunderloop from Amiga.</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-11 11:29:39</locked_until>
+ <lastplayed>2017-08-05 08:54:05</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

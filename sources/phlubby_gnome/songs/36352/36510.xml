@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36510">
+ <title>Goa</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.3077</rating>
+ <info>Me and Vedders contribution to Edison 2012 Tracked music compo. Reached 12:th place</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 10:17:48</locked_until>
+ <lastplayed>2018-03-14 12:29:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist><artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

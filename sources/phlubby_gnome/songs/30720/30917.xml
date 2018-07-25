@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30917">
+ <title>La Chanson Des Granges Brulées</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">3.7333</rating>
+ <info>This is a remix of an old but beautiful song by Jean Michel Jarre.
+
+It&#39;s very simple, I just wanted to make a real organ version and add some choir elements. Apart from that, there are a few structure changes as well as a new organ solo for some added sweetness.</info>
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-08 15:41:25</locked_until>
+ <lastplayed>2017-12-20 14:09:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1872">Oliwerko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jarre</tag>
+  
+  <tag>Organ</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

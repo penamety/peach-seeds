@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34952">
+ <title>SoftNES</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.2273</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 08:22:45</locked_until>
+ <lastplayed>2018-06-02 21:08:13</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ <ytid>kLfAXNYVTqY</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4986">PhD</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Mainframe</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>NES</tag>
+  
+  <tag>Upbeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kLfAXNYVTqY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/74846/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

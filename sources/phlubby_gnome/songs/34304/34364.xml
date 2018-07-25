@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34364">
+ <title>Something</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ <info>[url]http://noname.c64.org/csdb/sid/?id=17861[/url]</info>
+ <songlength>93</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-24 10:45:23</locked_until>
+ <lastplayed>2017-12-06 03:02:31</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>47611</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="614">2000 A.D. [AD]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

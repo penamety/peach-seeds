@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44313">
+ <title>Brotherhood</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.25</rating>
+ 
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 04:38:09</locked_until>
+ <lastplayed>2018-04-13 04:48:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chirpy</tag>
+  
+  <tag>whistle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

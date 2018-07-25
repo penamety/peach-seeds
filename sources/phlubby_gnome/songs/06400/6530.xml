@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6530">
+ <title>Unreal Symphony</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">3.8478</rating>
+ 
+ <songlength>459</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 00:11:24</locked_until>
+ <lastplayed>2018-06-16 01:11:43</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1274</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

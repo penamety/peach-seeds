@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10517">
+ <title>Cannon Fodder (studio version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">3.8684</rating>
+ <info>The studio version of the song that was used to create the mod. It was released on Amiga CD32 as a video (see Youtube link). 
+Lyrics:
+War!
+Never been so much fun
+War!
+Never been so much fun
+
+Go to you brother
+Kill him with your gun
+Leave him lying in his uniform
+Dying in the sun</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 14:42:19</locked_until>
+ <lastplayed>2018-05-17 08:16:12</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>J4iwM3fpEVM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5486">Jops</artist><artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CD32</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=J4iwM3fpEVM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

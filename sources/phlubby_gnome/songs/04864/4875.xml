@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4875">
+ <title>Gloria</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="162">4.7346</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 10:47:20</locked_until>
+ <lastplayed>2018-06-06 07:28:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>31199</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist><artist id="2026">Mitch</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Arok</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

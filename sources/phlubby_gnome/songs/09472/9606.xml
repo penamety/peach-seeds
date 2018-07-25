@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9606">
+ <title>Drunk Diver</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1852</rating>
+ 
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 14:14:36</locked_until>
+ <lastplayed>2018-05-13 19:28:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>24686</pouetid>
+ <ytid>LVQj44j8Ilo</ytid>
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

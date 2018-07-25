@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13512">
+ <title>Inquiries</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>&#34;ACE-tracker samplecompo (1st)&#34;
+
+ACE Tracker format
+
+Recording from 505&#39;s website.</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 07:26:20</locked_until>
+ <lastplayed>2018-05-02 01:30:43</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

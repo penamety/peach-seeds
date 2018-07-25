@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10228">
+ <title>Chrom Atom</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="38">3.2368</rating>
+ 
+ <songlength>387</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 02:53:06</locked_until>
+ <lastplayed>2018-06-17 13:08:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>fusion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

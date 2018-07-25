@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41880">
+ <title>Raw Data (Revision edit)</title>
+ <status v="A">Active</status>
+ <bitrate>217</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ <info>3rd at Revision 2015 streaming music compo</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 11:46:39</locked_until>
+ <lastplayed>2018-05-12 01:20:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

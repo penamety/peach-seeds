@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3563">
+ <title>Physical Presence</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="178">4.5674</rating>
+ 
+ <songlength>331</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 00:47:17</locked_until>
+ <lastplayed>2018-05-22 17:20:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>409</pouetid>
+ <ytid>y0ak4FZ3vsU</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>SouthSealandParty</tag>
+  
+  <tag>Upbeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

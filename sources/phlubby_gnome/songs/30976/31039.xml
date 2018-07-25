@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31039">
+ <title>Kromi</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ 
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:54:58</locked_until>
+ <lastplayed>2018-05-23 22:31:23</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>1232</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="296">db</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41250">
+ <title>Kauken Drei</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 19:31:51</locked_until>
+ <lastplayed>2018-02-01 20:57:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>61596</pouetid>
+ <ytid>GyPJELP3iXI</ytid>
+ 
+ 
+ <artists>
+  <artist id="2071">Mr. Death</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GyPJELP3iXI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

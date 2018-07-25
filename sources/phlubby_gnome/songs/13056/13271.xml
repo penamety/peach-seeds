@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13271">
+ <title>Little Nell</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">4.3099</rating>
+ <info>Soundtrack from TBL&#39;s winning Amiga demo Little Nell at Mekka Symposium 2002.</info>
+ <songlength>391</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 08:24:23</locked_until>
+ <lastplayed>2018-06-06 18:55:00</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>5629</pouetid>
+ <ytid>9cnA4J9iHvM</ytid>
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group><group id="84">Trauma Child Genesis [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

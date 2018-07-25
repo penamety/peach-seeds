@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27014">
+ <title>Heximal Heaven</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">4.0</rating>
+ <info>composed for Chaos Constructions&#39;2006, chip-tune compo</info>
+ <songlength>95</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 01:26:37</locked_until>
+ <lastplayed>2017-11-01 05:26:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

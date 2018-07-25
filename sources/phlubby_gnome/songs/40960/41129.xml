@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41129">
+ <title>Funny old Farts</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>Coop-Tune of Dascon and Triace
+
+Entry for the VIP Party Chip Music Compo
+
+Instant Winner there as it was the only entry :P
+
+First try to include some visual effects in the pattern data (check the video ;) )</info>
+ <songlength>139</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 17:35:36</locked_until>
+ <lastplayed>2018-05-26 22:24:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>65327</pouetid>
+ <ytid>p7_rhmPbe1s</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>2015</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>ChipChop</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Uv3uI-MjQ_g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=p7_rhmPbe1s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

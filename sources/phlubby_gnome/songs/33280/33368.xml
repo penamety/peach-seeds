@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33368">
+ <title>fr-08 credits</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="120">4.7</rating>
+ <info>1st place in pc 64k compo at The Party 2000
+
+Just the Credits segment from the infamous fr-08 .the .product demo.
+
+http://www.theproduct.de/midi.html, downloaded the WAV renderer -&gt; use Audacity to cut in -&gt; lame --preset extreme -q0</info>
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 16:16:14</locked_until>
+ <lastplayed>2018-06-04 12:12:37</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>1221</pouetid>
+ <ytid>Y3n3c_8Nn2Y</ytid>
+ <ytoffset>321</ytoffset>
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Y3n3c_8Nn2Y</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

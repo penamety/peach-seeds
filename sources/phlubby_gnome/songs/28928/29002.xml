@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29002">
+ <title>Strawberry Blonde</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.2449</rating>
+ 
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 02:20:56</locked_until>
+ <lastplayed>2018-06-16 16:40:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="969">Quasian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hammond</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

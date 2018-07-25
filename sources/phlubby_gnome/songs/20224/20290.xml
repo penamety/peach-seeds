@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20290">
+ <title>Cosmosis Remix 3</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.0667</rating>
+ 
+ <songlength>296</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 01:44:53</locked_until>
+ <lastplayed>2018-05-30 07:58:40</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>31338</pouetid>
+ <ytid>UtdZur0A5bM</ytid>
+ <ytoffset>23</ytoffset>
+ 
+ <artists>
+  <artist id="1432">Khrome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acid</tag>
+  
+  <tag>Energetic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

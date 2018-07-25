@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43205">
+ <title>Phallanx</title>
+ <status v="A">Active</status>
+ <bitrate>180</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 02:17:15</locked_until>
+ <lastplayed>2018-05-22 03:16:06</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="179">Cemik</artist><artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

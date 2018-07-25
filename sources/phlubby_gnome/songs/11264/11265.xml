@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11265">
+ <title>F.I.R.E.</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 12:16:10</locked_until>
+ <lastplayed>2018-05-14 12:47:07</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ <pouetid>26731</pouetid>
+ <ytid>g2GgCdAcN2g</ytid>
+ <ytoffset>90</ytoffset>
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=g2GgCdAcN2g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0001766</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/905/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

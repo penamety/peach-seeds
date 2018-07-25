@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31747">
+ <title>Reality is None</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ <info>Soundtrack by Dma SC/Sector One &amp; Seasons (performing John M. Phillips&#39;s Eliminator theme on electric guitar).</info>
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 22:42:22</locked_until>
+ <lastplayed>2018-05-29 20:48:11</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>33972</pouetid>
+ <ytid>XruJCgYlPfw</ytid>
+ 
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="440">Dune</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XruJCgYlPfw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

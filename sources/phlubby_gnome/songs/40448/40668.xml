@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40668">
+ <title>Musraket</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>Ghidorah + Svenzzon
+
+a bonus chiptune! #
+by ghidorah
+(petter borling),
+svenzzon
+(jonne dahlberg)
+and
+zalza
+(alexander buler)
+of titan! enjoy
+the demoscene rules! %</info>
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-11 17:46:13</locked_until>
+ <lastplayed>2017-11-22 00:05:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59096</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist><artist id="1695">Svenzzon</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

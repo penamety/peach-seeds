@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36870">
+ <title>Oldies 2</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.4048</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>314</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 11:15:31</locked_until>
+ <lastplayed>2018-05-27 00:51:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>42364</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>diskmag</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="54">
+ <title>Chuck Rock Title</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">3.9091</rating>
+ <info>some info: http://www.exotica.org.uk/wiki/Chuck_Rock</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 18:19:26</locked_until>
+ <lastplayed>2018-06-04 09:58:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>8rm0eTagViU</ytid>
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

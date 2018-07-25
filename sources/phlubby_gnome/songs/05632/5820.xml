@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5820">
+ <title>Tribute to the Scene</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.6207</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 13:24:31</locked_until>
+ <lastplayed>2018-03-16 04:41:09</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>megamix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

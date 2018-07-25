@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29530">
+ <title>Intro</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.3333</rating>
+ 
+ <songlength>55</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-04 14:32:17</locked_until>
+ <lastplayed>2017-12-11 05:30:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>54121</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4322">Vedem</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

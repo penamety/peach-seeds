@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8767">
+ <title>Mermaid</title>
+ <status v="A">Active</status>
+ <bitrate>279</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">2.4394</rating>
+ <info>album: Dawn Metropolis</info>
+ <songlength>470</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 21:31:31</locked_until>
+ <lastplayed>2018-06-15 08:55:11</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1700">Anamanaguchi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gtq9oYVGSH8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

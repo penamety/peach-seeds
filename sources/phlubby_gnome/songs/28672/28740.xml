@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28740">
+ <title>Krok</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.3529</rating>
+ <info>This song is a part of KaEnn&#39;s album &#34;Dźwięki Epoki&#34;.</info>
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-12 17:47:14</locked_until>
+ <lastplayed>2017-08-01 22:15:44</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4136">KaEnn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>PolishSpeak</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

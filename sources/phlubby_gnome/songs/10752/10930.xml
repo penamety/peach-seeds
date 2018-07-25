@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10930">
+ <title>Sanctuary</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5714</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-10 21:41:18</locked_until>
+ <lastplayed>2017-09-30 12:34:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31407</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1873">Dezecrator</artist>
+ </artists>
+ <groups>
+  <group id="253">Bloodsuckers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

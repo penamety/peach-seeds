@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39200">
+ <title>Demoscene Flow (Evoke Edition)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-20 21:43:36</locked_until>
+ <lastplayed>2017-10-11 00:43:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4442">Gaspode</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Rap</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

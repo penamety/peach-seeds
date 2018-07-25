@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39076">
+ <title>Future Comets</title>
+ <status v="A">Active</status>
+ <bitrate>318</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.4333</rating>
+ <info>Compo entry for executable music compo at Nordlicht 2013</info>
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 18:47:56</locked_until>
+ <lastplayed>2018-05-22 14:57:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>ALARM</tag>
+  
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

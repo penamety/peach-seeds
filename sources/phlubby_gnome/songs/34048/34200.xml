@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34200">
+ <title>Picante (refix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.925</rating>
+ <info>Yolk/CNCD feat. Busy Signal
+
+Ranked 9th in the music compo at Assembly 2011.</info>
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 12:05:10</locked_until>
+ <lastplayed>2017-09-29 12:34:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1713">Yolk</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

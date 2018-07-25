@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38961">
+ <title>Sunriders</title>
+ <status v="A">Active</status>
+ <bitrate>215</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.8571</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-04 06:25:52</locked_until>
+ <lastplayed>2017-12-16 21:40:48</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1032</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="76">Cream</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

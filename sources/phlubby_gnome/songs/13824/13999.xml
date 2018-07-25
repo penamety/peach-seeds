@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13999">
+ <title>Rooms boxes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.7826</rating>
+ 
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 02:03:36</locked_until>
+ <lastplayed>2018-06-01 05:22:21</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>11456</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1632">A-move</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

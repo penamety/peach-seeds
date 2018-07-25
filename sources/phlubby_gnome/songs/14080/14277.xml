@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14277">
+ <title>Hysteria</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">4.0685</rating>
+ <info>New download link to demo: [url=ftp://ftp.amigascne.org/pub/amiga/Groups/T/Tom_Soft/TOM_SOFT-VirtualWorld.dms]dl[/url]</info>
+ <songlength>352</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 06:37:37</locked_until>
+ <lastplayed>2018-06-15 10:25:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3645</pouetid>
+ <ytid>iAyAz_aTdsY</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  <group id="561">TomSoft</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amega</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=iAyAz_aTdsY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

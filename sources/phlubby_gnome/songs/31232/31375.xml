@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31375">
+ <title>Beware the Bear</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.0476</rating>
+ <info>I am hungry and the fork is going nuts
+I am hungry and the bear is coming back
+I am hungry and I&#39;m running low on beer
+I am hungry and I&#39;m playing the guitar
+
+I am hungry
+I am hungry
+
+I am hungry and the fork is going nuts
+I am hungry and the bear is coming back
+I am hungry and I&#39;m running low on beer
+I am hungry and I&#39;m playing the guitar
+
+I am hungry
+I am hungry
+</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 15:34:45</locked_until>
+ <lastplayed>2018-05-08 19:53:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31688</pouetid>
+ <ytid>GUXOmxtHoVM</ytid>
+ 
+ 
+ <artists>
+  <artist id="2918">Jason Cane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GUXOmxtHoVM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13056</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27508">
+ <title>Lav 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>This is an author&#39;s remake of his original song - the title track from the first issue of &#34;ZX-FORMAT&#34;, the legendary Speccy e-zine.</info>
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 20:54:45</locked_until>
+ <lastplayed>2018-06-15 03:50:02</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3973">LAVender</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>hymn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

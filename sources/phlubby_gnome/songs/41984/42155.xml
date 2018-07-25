@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42155">
+ <title>Ze Song</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">4.0</rating>
+ 
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 14:49:51</locked_until>
+ <lastplayed>2018-05-05 16:26:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>66373</pouetid>
+ <ytid>NnOdJxW7Mg</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiperia</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

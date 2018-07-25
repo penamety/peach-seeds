@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25605">
+ <title>Castlemiga</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.4</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 14:16:02</locked_until>
+ <lastplayed>2018-04-19 17:38:30</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1463">Lukelove</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Castlevania</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

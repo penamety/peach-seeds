@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15273">
+ <title>Toalettpapir</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5238</rating>
+ 
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:28:31</locked_until>
+ <lastplayed>2018-05-27 07:09:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>34607</pouetid>
+ <ytid>W66Zg1-5qbE</ytid>
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

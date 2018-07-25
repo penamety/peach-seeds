@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41758">
+ <title>Uuno Turhapuro Muuttaa Maalle - Ingame</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.85</rating>
+ <info>The game is based on the movie of the same name (&#34;Uuno Turhapuro goes to countryside&#34;).
+
+The Finnish low budget comedy movie (shot in 20 days) tells a story about notorious guy Uuno Turhapuro who this time moves to the countryside where his father produces illicit booze.
+
+Recording is taken from Stone Oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 20:29:59</locked_until>
+ <lastplayed>2018-06-15 17:01:02</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>Z3d7XK-a3MU</ytid>
+ <ytoffset>49</ytoffset>
+ 
+ <artists>
+  <artist id="2115">Yip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Bleepy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1769</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

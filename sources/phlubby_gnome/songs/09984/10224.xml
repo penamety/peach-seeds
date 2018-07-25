@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10224">
+ <title>Chapter 7</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5</rating>
+ <info>Year: 1995
+Release: Galicya</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-24 15:44:18</locked_until>
+ <lastplayed>2017-10-17 23:02:10</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1835">Praiser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

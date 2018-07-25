@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11119">
+ <title>I Have No Ideas</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.6364</rating>
+ 
+ <songlength>83</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 04:48:56</locked_until>
+ <lastplayed>2018-05-21 22:50:06</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>13945</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1130">Starbuck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

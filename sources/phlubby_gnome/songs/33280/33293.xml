@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33293">
+ <title>Santaklaus</title>
+ <status v="B">Banned</status>
+ <bitrate>133</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">1.1538</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-SANTAKLAUS.mp3</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-03-29 06:07:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

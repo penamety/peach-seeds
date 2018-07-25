@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7646">
+ <title>Kusi</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">2.8681</rating>
+ <info>The soundtrack to Orange&#39;s demo The Secret Life of Mr. Black from Assembly 1997. The actual module (kusi.it) is untitled and other markings only contain sample names.
+
+Lyrics:
+My family.
+This is my family.
+My wife, my son, my daughter and I.
+I am Mrs. Black. My wife is Mr. Black.
+I am Mr. Black&#39;s husband.
+We have two children, a boy and a girl.
+The boy&#39;s name is John, he&#39;s twelve years old.
+The girl&#39;s name is Mary, she&#39;s still quite young.
+I am a woman, my wife is a man, he&#39;s twelve years old. (9x)
+I am daughter and I. My wife, two children, a boy and a girl. (2x)</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 09:44:42</locked_until>
+ <lastplayed>2018-05-17 11:24:02</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>86</pouetid>
+ <ytid>ZR2KBDa7lAg</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>polarizing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZR2KBDa7lAg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

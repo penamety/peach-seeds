@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12419">
+ <title>Star-Blaze</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8148</rating>
+ <info>Logotron, 1989
+[url]http://files.exotica.org.uk/?file=exotica/media%2Faudio%2FUnExoticA%2FGame%2FWhittaker_David%2FStar-Blaze.lha[/url]
+David Whittaker Module</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 04:51:25</locked_until>
+ <lastplayed>2018-05-24 15:46:20</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ <pouetid>2103</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

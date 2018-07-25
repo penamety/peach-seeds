@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30992">
+ <title>Usualities</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.3529</rating>
+ 
+ <songlength>465</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 21:32:09</locked_until>
+ <lastplayed>2017-10-11 01:08:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18575</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4533">Echo [CFX]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

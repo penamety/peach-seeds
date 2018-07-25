@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41922">
+ <title>Shinning Unceasantly</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Music for XPLSV&#39;s Sound Pressure demo. Thanks to Trace for some intervention :)</info>
+ <songlength>457</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-09 17:21:46</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ <pouetid>18250</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5588">Wizard [ES]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=C6zJrsZcKlc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

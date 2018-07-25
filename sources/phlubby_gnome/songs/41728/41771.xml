@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41771">
+ <title>Coronoid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ <info>The Meteoriks award nominee for the best soundtrack in 2015</info>
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 14:58:59</locked_until>
+ <lastplayed>2018-05-22 14:29:04</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>65256</pouetid>
+ <ytid>qGvaovrwuL4</ytid>
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

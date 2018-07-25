@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26154">
+ <title>Fun Tune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ 
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-13 17:00:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>15261</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1092">SLL</artist>
+ </artists>
+ <groups>
+  <group id="249">Bamiga Sector One (BS1)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

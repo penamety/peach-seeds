@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33948">
+ <title>Tooombogs (fr-69 edit)</title>
+ <status v="A">Active</status>
+ <bitrate>352</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6923</rating>
+ <info>1st place in combined demo compo at Demodays 2011</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 08:31:11</locked_until>
+ <lastplayed>2018-05-21 17:18:40</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57608</pouetid>
+ <ytid>K8cygiOJWKk</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="4443">reEto</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Boom</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=K8cygiOJWKk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

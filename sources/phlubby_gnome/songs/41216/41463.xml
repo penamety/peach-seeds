@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41463">
+ <title>Maaaaniac</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>For the live act &#34;Exile&#34;, made under alias Justin Case.</info>
+ <songlength>145</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 06:44:13</locked_until>
+ <lastplayed>2018-05-15 09:02:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4469">Gore</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>prodigy</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

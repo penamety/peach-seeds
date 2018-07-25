@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43595">
+ <title>Electrified Tunes</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ 
+ <songlength>368</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 19:07:31</locked_until>
+ <lastplayed>2018-03-09 20:13:50</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>33493</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5697">Illuminator</artist>
+ </artists>
+ <groups>
+  <group id="172">Acme</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35440">
+ <title>Jetpack Bunny</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.8571</rating>
+ <info>A quick tune for Battle of the Bits&#39; Winter Chip VII compo, submitted to the Wildcard category. Done in OpenMPT 1.20.
+
+Licensed under CC LIcense: [url=http://soundcloud.com/alpha_c/jetpack-bunny]download here[/url]</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 14:06:21</locked_until>
+ <lastplayed>2018-06-02 08:17:14</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>dance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

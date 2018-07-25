@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33336">
+ <title>No past, just futur</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="29">2.6552</rating>
+ <info>Music from the demo &#34;Rapsody&#34; by Cocoon</info>
+ <songlength>379</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-07 09:01:22</locked_until>
+ <lastplayed>2018-01-15 05:13:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>455</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>ALARM</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

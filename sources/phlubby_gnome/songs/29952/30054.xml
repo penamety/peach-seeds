@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30054">
+ <title>One and Only</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 16:35:43</locked_until>
+ <lastplayed>2018-04-19 03:24:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>55738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

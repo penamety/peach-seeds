@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34779">
+ <title>Fastnukkah</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">2.9574</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 17:05:39</locked_until>
+ <lastplayed>2018-05-22 08:35:56</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Accordion</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Hanukkah</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

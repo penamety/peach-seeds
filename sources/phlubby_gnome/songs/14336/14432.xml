@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14432">
+ <title>Bite the Miracleman</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.0159</rating>
+ <info>Placed 15th at Takeover 2000.</info>
+ <songlength>345</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 16:19:34</locked_until>
+ <lastplayed>2018-06-11 10:35:22</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="355">DNA-Groove</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

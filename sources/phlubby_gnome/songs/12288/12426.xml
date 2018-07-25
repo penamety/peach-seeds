@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12426">
+ <title>Handymukke</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.4737</rating>
+ 
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 23:37:44</locked_until>
+ <lastplayed>2018-03-07 02:54:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50134</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2028">tEiS</artist>
+ </artists>
+ <groups>
+  <group id="499">Royal Belgian Beer Squadron [RBBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Rewired</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

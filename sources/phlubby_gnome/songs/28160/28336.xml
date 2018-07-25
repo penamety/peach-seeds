@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28336">
+ <title>Testi</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.7273</rating>
+ <info>Made with Linux MultiMedia Studio (LMMS).
+
+*Remix of Heat Man from Mega Man 2
+Original ([url]http://www.youtube.com/watch?v=j7rMVIfHtDU[/url])</info>
+ <songlength>36</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-03 23:53:28</locked_until>
+ <lastplayed>2017-08-29 03:57:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4069">Skiessi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

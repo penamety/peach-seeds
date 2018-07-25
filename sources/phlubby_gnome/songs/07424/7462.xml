@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7462">
+ <title>Silkcut</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">4.2609</rating>
+ 
+ <songlength>337</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 16:59:09</locked_until>
+ <lastplayed>2018-05-20 06:00:05</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>12034</pouetid>
+ <ytid>Mf5yFC_gNzs</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1321">Blaizer</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

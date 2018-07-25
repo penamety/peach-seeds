@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43353">
+ <title>Starlit Sky</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0476</rating>
+ <info>Released in the music disk &#34;Analysis&#34; by Bitfellas, which won 1st place (interactive compo) at Evoke 2016!</info>
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 20:01:25</locked_until>
+ <lastplayed>2018-05-27 23:02:42</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2711">Rapture</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

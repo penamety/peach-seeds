@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2668">
+ <title>Macrocosm</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="137">4.6204</rating>
+ <info>Originally (1990) used in Team17 game &#34;Miami Chase&#34; as menu music
+
+Released on Phenomena&#39;s musicdisk in the following year
+</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 21:46:10</locked_until>
+ <lastplayed>2018-05-21 06:18:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3418</pouetid>
+ <ytid>oKFINEgRKB8</ytid>
+ <ytoffset>330</ytoffset>
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2458</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

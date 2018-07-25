@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12876">
+ <title>When Present Is Past</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="57">4.2632</rating>
+ <info>[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:57:25</locked_until>
+ <lastplayed>2018-06-01 14:25:24</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist><artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

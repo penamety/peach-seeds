@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26203">
+ <title>Nightfall</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">2.3939</rating>
+ 
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-27 19:23:36</locked_until>
+ <lastplayed>2018-04-12 11:48:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13011</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4216">The Omen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

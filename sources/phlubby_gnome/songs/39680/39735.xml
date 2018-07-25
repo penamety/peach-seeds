@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39735">
+ <title>Sunnyvale (part 2)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.5</rating>
+ <info>From the album DATA019 - La Danse de Carla</info>
+ <songlength>330</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 03:40:56</locked_until>
+ <lastplayed>2018-05-24 17:37:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5044">Gem Tos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="13">Data Airlines</label>
+ </labels>
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

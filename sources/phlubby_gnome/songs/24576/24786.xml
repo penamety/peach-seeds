@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24786">
+ <title>Deva</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.875</rating>
+ 
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-21 01:28:46</locked_until>
+ <lastplayed>2017-10-12 08:11:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2722</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1133">Static</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

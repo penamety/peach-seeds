@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6219">
+ <title>Gutbucket</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.5053</rating>
+ 
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 11:06:12</locked_until>
+ <lastplayed>2018-06-02 20:21:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>10231</pouetid>
+ <ytid>uu9g95kZTjA</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="469">encore</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Symphony</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

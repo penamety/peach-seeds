@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28801">
+ <title>Icarus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">4.386</rating>
+ <info>Track 1 off 8bp086 - Icarus by Trash80.  Supposedly a mix of NES 2A03 and PC drums/mastering.  Download here: http://www.8bitpeoples.com/products/520270-trash80-icarus</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 15:09:55</locked_until>
+ <lastplayed>2018-05-22 03:54:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3782">Trash80</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>NES</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

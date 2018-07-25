@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44138">
+ <title>Triple Threat</title>
+ <status v="A">Active</status>
+ <bitrate>521</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>&#34;Triple Threat&#34; demo soundtrack</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 02:43:20</locked_until>
+ <lastplayed>2018-04-25 00:29:36</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>62125</pouetid>
+ <ytid>qGRj7YPpsQI</ytid>
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  <group id="774">Mystic Bytes [MSB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/118175/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

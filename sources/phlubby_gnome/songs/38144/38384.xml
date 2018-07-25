@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38384">
+ <title>Credulity</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>82</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 13:58:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>60504</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1">Øistein Eide</artist>
+ </artists>
+ <groups>
+  <group id="107">Pure Metal Coders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

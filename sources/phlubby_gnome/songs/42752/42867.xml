@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42867">
+ <title>Title Muzak</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>All custom samples, all guitars played by me. This was intended to be the title music for a racing game we were working on with Maxwood/Majic 12 which was never released.</info>
+ <songlength>146</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 20:05:21</locked_until>
+ <lastplayed>2018-05-24 08:41:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2675">Elijah</artist>
+ </artists>
+ <groups>
+  <group id="119">Majic 12</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

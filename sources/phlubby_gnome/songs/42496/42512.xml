@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42512">
+ <title>The Lyra III part 4</title>
+ <status v="A">Active</status>
+ <bitrate>929</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.8</rating>
+ <info>For the SAM Coupé (SAA1099), recorded using SimCoupe.
+
+This is a remix of Kato’s remix of Pulstar: [yt]ZS695yIbfbE[/yt].</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 00:25:55</locked_until>
+ <lastplayed>2018-03-31 15:34:26</lastplayed>
+ <platform id="51">Philips SAA</platform>
+ <type id="2">Demo</type>
+ <pouetid>20333</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1726">Ziutek</artist>
+ </artists>
+ <groups>
+  <group id="43">ESI</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

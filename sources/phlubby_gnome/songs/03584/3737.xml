@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3737">
+ <title>Amegas [title]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">4.2342</rating>
+ <info>Karsten Obarski:
+So, my very first finished Software ever, was this Soundtracker. The very
+first game which used its playroutine and my very first Song on Amiga were the
+Arkanoid Clone named &#34;Amegas&#34; programmed by this friend who forced me to do
+it: Guido Bartels.</info>
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 01:58:52</locked_until>
+ <lastplayed>2018-06-16 13:54:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>16958</pouetid>
+ <ytid>6pBBZ7NdJCE</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="612">Karsten Obarski</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6pBBZ7NdJCE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/3258</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11139">
+ <title>Es gibt Hippies</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">2.7935</rating>
+ <info>1st place in streamed music compo at TUM 2007</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 23:30:04</locked_until>
+ <lastplayed>2018-06-14 05:58:06</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5543">Crome [de]</artist><artist id="1904">Xena </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

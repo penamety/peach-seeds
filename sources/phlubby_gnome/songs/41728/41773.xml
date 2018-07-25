@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41773">
+ <title>aTTraction</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ <info>I&#39;m always interested in pushing classic computers to their limits.
+This time I was given this opportunity by Paulo Simoes who programmed the Hex-Tracker 849a.
+
+This song has been made on a pure ATARI TT, a machine released in 1990, with 4Mb of RAM, 8-bit sound quality, with 2 hardware digi-channels only.
+The trick it - Hex gives 16 channels, using the Atari&#39;s 32Mhz Motorola CPU.
+(Can make more but with a substantial sound quality reduction).
+
+This song is a MOD format and has all its limitations (8 bit samples, only 64Kb for a sample, only 31 samples in the module, octaves limitation) but the only difference - are those 16 channels in the MOD (software mixing).
+
+Recorded from real hardware (that originally has only 2 digi-channels, haha).
+
+Enjoy, if possible.
+Yerz
+</info>
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 18:22:32</locked_until>
+ <lastplayed>2018-05-11 23:25:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

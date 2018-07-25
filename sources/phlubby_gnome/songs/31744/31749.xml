@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31749">
+ <title>Merkelig</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 16:51:51</locked_until>
+ <lastplayed>2018-05-12 19:57:05</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist><artist id="4661">Stein Pedersen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

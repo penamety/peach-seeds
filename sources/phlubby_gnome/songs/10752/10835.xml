@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10835">
+ <title>The Adventures of Quik and Silva Title 1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ <info>Created using TFMX Pro.</info>
+ <songlength>336</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-22 00:52:02</locked_until>
+ <lastplayed>2017-07-15 22:19:00</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

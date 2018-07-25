@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41381">
+ <title>One Does Not Simply AHX</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.2727</rating>
+ <info>Entry for the Scenecompos #32 -AHX Compo - Placed 18</info>
+ <songlength>49</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 18:52:52</locked_until>
+ <lastplayed>2018-05-20 03:38:10</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5037">STS-136</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

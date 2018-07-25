@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7331">
+ <title>Run the Gauntlet</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.8936</rating>
+ 
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 18:48:59</locked_until>
+ <lastplayed>2018-05-04 11:03:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3180</pouetid>
+ <ytid>xoAo2-NGmfE</ytid>
+ <ytoffset>115</ytoffset>
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Organ</tag>
+  
+  <tag>spooky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

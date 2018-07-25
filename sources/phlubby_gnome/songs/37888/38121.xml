@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38121">
+ <title>Dancing Frogs</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.2813</rating>
+ <info>This was my entry for the &#34;Amiga Executable Music&#34; compo at the Datastorm demo party in Gothenburg.
+
+Somewhat rushed and handed in right around the deadline. 
+
+The audio track, recorded from a real Amiga, was graciously provided by Xiny6581.
+
+Winner and only entry at Amiga Executable Music @ Datastorm 2013. Originally a Hively Tracker tune with a replayer added on top.</info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 01:55:07</locked_until>
+ <lastplayed>2018-06-03 21:23:10</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>ex90Jri-z6s</ytid>
+ 
+ 
+ <artists>
+  <artist id="4905">Brandon Walsh</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44255">
+ <title>Mère Hiver</title>
+ <status v="A">Active</status>
+ <bitrate>481</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">1.875</rating>
+ <info>Made with GoatTracker. Recorded from SID 6581</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 18:58:47</locked_until>
+ <lastplayed>2018-03-28 05:40:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5683">Garvalf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=52807</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

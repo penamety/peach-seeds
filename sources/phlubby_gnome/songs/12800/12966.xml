@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12966">
+ <title>In Your Arms</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.4894</rating>
+ <info>[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>60</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 09:19:29</locked_until>
+ <lastplayed>2018-05-22 18:58:08</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9551">
+ <title>Ocean Loader v1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.3049</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 01:21:15</locked_until>
+ <lastplayed>2018-06-06 21:44:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>qn1sQLxvTac</ytid>
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Epic</tag>
+  
+  <tag>Loader</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

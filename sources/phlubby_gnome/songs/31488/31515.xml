@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31515">
+ <title>Super Mario Galaxy 2 - Purple Comet</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.75</rating>
+ <info>The following songs were tracked with Famitracker (a tracker that emulates the sound of the NES). The expansion chip used is given next to the release date.
+
+Super Mario Galaxy 2: Purple Comet (VRC6 Cover, Dec 2010)
+
+http://www.fodxm.co.uk/music.htm</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 06:31:41</locked_until>
+ <lastplayed>2018-06-01 21:37:46</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4034">FearofDark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

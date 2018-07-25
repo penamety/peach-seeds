@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23417">
+ <title>Rasterscan</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ 
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 08:41:01</locked_until>
+ <lastplayed>2017-10-07 23:55:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>etGb6z5G618</ytid>
+ <ytoffset>107</ytoffset>
+ 
+ <artists>
+  <artist id="2012">Jas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Mastertronic</tag>
+  
+  <tag>Platformer</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2097</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0004038</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

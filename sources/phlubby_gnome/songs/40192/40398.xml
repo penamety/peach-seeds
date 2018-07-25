@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40398">
+ <title>Sir Bomb-A-Lot</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.3333</rating>
+ <info>Hellfire&#39;s Bomberman Clone</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:30:07</locked_until>
+ <lastplayed>2018-06-08 00:02:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  <group id="317">Park Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

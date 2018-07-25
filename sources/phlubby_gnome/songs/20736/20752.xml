@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20752">
+ <title>True Feelings</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="30">4.2</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 10:15:08</locked_until>
+ <lastplayed>2017-12-23 08:49:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10289</pouetid>
+ <ytid>F0osPJXWY4E</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="694">Loxley</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=F0osPJXWY4E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

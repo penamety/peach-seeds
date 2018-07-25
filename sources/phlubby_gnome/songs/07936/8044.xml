@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8044">
+ <title>Aces High</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.3148</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 06:57:01</locked_until>
+ <lastplayed>2018-05-23 10:22:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11070</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

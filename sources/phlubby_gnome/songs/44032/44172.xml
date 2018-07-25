@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44172">
+ <title>Summer of Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.4615</rating>
+ <info>1st place in competition «ZX Spectrum AY/YM-Music» on DiHalt 2017.
+
+Picture cut &#34;In search of the googloscreens to win the compo&#34; by dman. 2nd place in the DiHalt 2017 LowEnd Graphics Competition.</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 05:30:50</locked_until>
+ <lastplayed>2018-05-21 13:37:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>summer</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/173710/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36484">
+ <title>Lieber guter Weihnachtsmann</title>
+ <status v="A">Active</status>
+ <bitrate>98</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">2.2041</rating>
+ 
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 05:21:22</locked_until>
+ <lastplayed>2018-05-31 11:17:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8255</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1855">Spy-da</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

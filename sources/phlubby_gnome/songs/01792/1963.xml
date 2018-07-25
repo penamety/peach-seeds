@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1963">
+ <title>Aldebaran short</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.2</rating>
+ 
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-30 20:33:16</locked_until>
+ <lastplayed>2017-06-19 16:11:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>16732</pouetid>
+ <ytid>zj5yulQIqnk</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="375">Drj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>hitit</tag>
+  
+  <tag>PumpUpTheVolume</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37473">
+ <title>Raising Madness</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>106</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 11:06:26</locked_until>
+ <lastplayed>2018-06-17 01:54:02</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1793</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="106">Beek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

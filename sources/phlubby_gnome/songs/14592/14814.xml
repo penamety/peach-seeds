@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14814">
+ <title>At the End of the Day</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.75</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-06 03:58:56</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ <pouetid>14171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2293">Betelgeuze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>NAID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

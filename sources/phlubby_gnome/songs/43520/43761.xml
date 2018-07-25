@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43761">
+ <title>Spring Breeze</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="8">2.25</rating>
+ <info>Plain 4ch Amiga Mod, size just below 500k (sic!), but the guitars and vocals just need space ;)
+
+Enjoy some positive Vibes</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 01:24:06</locked_until>
+ <lastplayed>2018-04-14 05:40:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>aznotwwbuDc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>mod</tag>
+  
+  <tag>Tracked</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=aznotwwbuDc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/168045/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

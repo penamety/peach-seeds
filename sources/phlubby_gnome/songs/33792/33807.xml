@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33807">
+ <title>No Ecuador</title>
+ <status v="A">Active</status>
+ <bitrate>141</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ <info>Ranked 2nd in Sommarhack 2010 music compo</info>
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 11:06:01</locked_until>
+ <lastplayed>2018-06-14 01:51:57</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

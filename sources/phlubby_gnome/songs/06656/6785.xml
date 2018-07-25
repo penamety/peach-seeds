@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6785">
+ <title>Sound Traveller</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6667</rating>
+ 
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-27 10:25:48</locked_until>
+ <lastplayed>2017-09-21 04:39:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14882</pouetid>
+ <ytid>A8dlVpIQX_Q</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="1162">SuperNao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>RAW</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

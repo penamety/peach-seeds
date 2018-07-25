@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44188">
+ <title>Gares de la Tropopause</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">4.0</rating>
+ <info>8th in Solskogen 2017 oldskool music compo
+
+32-channel Impulse Tracker module
+sound: Yamaha DX7 (emulated), miscellaneous drum samples
+tools: OpenMPT, wine, Dexed</info>
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 08:39:38</locked_until>
+ <lastplayed>2018-02-23 19:28:11</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>Space</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/174671/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

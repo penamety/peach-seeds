@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2626">
+ <title>Trapped In China</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.3667</rating>
+ 
+ <songlength>402</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-07 19:32:24</locked_until>
+ <lastplayed>2017-12-18 01:48:49</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>needs_reencoding</tag>
+  
+  <tag>OutOfSync</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

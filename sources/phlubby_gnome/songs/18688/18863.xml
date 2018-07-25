@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18863">
+ <title>System Shock Intro</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.7222</rating>
+ <info>From the pc-DOS game from 1994.</info>
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-25 11:19:18</locked_until>
+ <lastplayed>2018-02-18 06:59:58</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2822">Greg Lo Piccolo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

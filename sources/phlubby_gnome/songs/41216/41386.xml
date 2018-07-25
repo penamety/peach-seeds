@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41386">
+ <title>Curse of Ham</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Entry for the Scenecompos #32 - AHX Compo. Composed with Hivelytracker.</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 06:58:12</locked_until>
+ <lastplayed>2018-03-17 06:43:46</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

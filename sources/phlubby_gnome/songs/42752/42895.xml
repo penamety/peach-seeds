@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42895">
+ <title>Sid Satan</title>
+ <status v="A">Active</status>
+ <bitrate>108</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.3</rating>
+ <info>Dekadence Dataparty 2011 compo entry</info>
+ <songlength>100</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 22:21:55</locked_until>
+ <lastplayed>2018-05-03 19:20:17</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5056">Terwiz</artist>
+ </artists>
+ <groups>
+  <group id="829">Alumni</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

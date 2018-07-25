@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28565">
+ <title>Auf Wiederscene</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5238</rating>
+ <info>My entry for Breakpoint 2010 32k Executable music (Newschool) featuring an awesome synth with wavetable and paderizer by Revival / Fnuque
+
+Finished 4th.</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-28 19:26:23</locked_until>
+ <lastplayed>2017-08-22 04:04:26</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

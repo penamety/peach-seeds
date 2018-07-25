@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14009">
+ <title>Animal Attraction</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="104">4.0288</rating>
+ <info>1st place in combined demo at The Gathering 2006
+
+Lyrics:
+A smell in the air
+A game never fair
+I&#39;m holding the dice and you just move a square
+You&#39;re facing the wall
+once again when I roll
+Not letting the fate to take it&#39;s toll
+Don&#39;t you fear my maze
+It&#39;s natural to bite your lip and tremble in this fashion
+Mesmerize my gaze
+Touch me and surrender to the animal attraction</info>
+ <songlength>350</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 22:16:54</locked_until>
+ <lastplayed>2018-05-30 13:34:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>24464</pouetid>
+ <ytid>xOYpKnl1B_g</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xOYpKnl1B_g</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

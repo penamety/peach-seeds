@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37003">
+ <title>Sea Level</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 06:33:59</locked_until>
+ <lastplayed>2018-04-02 05:55:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>59847</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1293">Vegard</artist>
+ </artists>
+ <groups>
+  <group id="267">Instinct</group>
+ </groups>
+ 
+ <tags>
+  <tag>norsktoppen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

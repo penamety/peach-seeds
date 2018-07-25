@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43494">
+ <title>Jakub</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>XM, 16 channels
+
+3rd place at Nordlicht Demoparty 2016 Tracked Music Competition
+</info>
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 06:20:54</locked_until>
+ <lastplayed>2018-06-01 00:16:55</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>2htk_y7SnmE</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2htk_y7SnmE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30259">
+ <title>Sisumies</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.4035</rating>
+ <info>track #5 from the album &#34;Suunta&#34;.</info>
+ <songlength>412</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 13:06:50</locked_until>
+ <lastplayed>2018-06-02 22:11:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist><artist id="4072">Planet Boelex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

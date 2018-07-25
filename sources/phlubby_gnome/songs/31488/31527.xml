@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31527">
+ <title>Canonstep</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">2.8929</rating>
+ <info>6th @ solskogen 2010 in Newschool music</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 05:20:04</locked_until>
+ <lastplayed>2018-05-12 19:49:00</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4625">Skepsis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>pachelbel</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

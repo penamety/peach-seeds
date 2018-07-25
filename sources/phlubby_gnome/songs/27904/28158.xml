@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28158">
+ <title>Dragonfruit</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.1389</rating>
+ <info>5th place, EDiS Compo at Stockholm Demobeer 12.02.2010.</info>
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 16:02:36</locked_until>
+ <lastplayed>2018-03-15 01:50:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1995">Joule</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

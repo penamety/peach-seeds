@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44577">
+ <title>Lothlorien</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>#feekzoid 12/10/95
+#wooow... i like this
+#mod... (ego!)
+#its kind of a mix of
+#styles, from sort of
+#twinpeaksesque, to
+#trippy, mellow bits,
+#and a bit of homage
+#martin galway.. :)
+#this mod was a real
+#pain to do, bcoz
+#one sample - flutey
+#thing had a shitty
+#amount of 8-bit ring
+#in it, and i could
+#not get anyother sam
+#to suit the piece...
+#putting the filter
+#on doesnt wreck the#
+#mod, y&#39;know... :(
+#turn it off if ya
+#like.... :p
+#anywayz, greets to
+#kenz,mat,bobo,fiend,
+#bod,jon,shamus,
+#and you... :d
+#i write this text on
+#the day that i becom
+#an uncle.........
+#  bleurghh!   ;)
+#just kidding, spoon!</info>
+ <songlength>716</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:09:01</locked_until>
+ <lastplayed>2018-05-24 04:33:58</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="439">FeekZoid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?101093</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?101093</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

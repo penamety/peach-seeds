@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44896">
+ <title>Dystopia</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.8</rating>
+ 
+ <songlength>272</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:58:47</locked_until>
+ <lastplayed>2018-06-04 11:11:36</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ <pouetid>75963</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

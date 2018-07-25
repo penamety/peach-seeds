@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36969">
+ <title>Gabbr Astro</title>
+ <status v="A">Active</status>
+ <bitrate>234</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.4444</rating>
+ <info>Seems to be the &#34;big&#34; version of Gabbr Cut, used in some 40k demo or other.
+
+Internal Texts
+---
+na0/lm0n.
+voor cas- eh.. ardi.
+(c) chocolate studios
+</info>
+ <songlength>68</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 14:42:59</locked_until>
+ <lastplayed>2017-10-27 16:57:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1162">SuperNao</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

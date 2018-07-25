@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16953">
+ <title>Sedat Soittaa II</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.4</rating>
+ 
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-23 03:31:33</locked_until>
+ <lastplayed>2017-10-15 22:37:00</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="298">Dean</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

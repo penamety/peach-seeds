@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27072">
+ <title>Meadow</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">4.0</rating>
+ <info>1st place on Chaos Construction&#39;2005, mmul traditional
+
+MO3: ftp://ftp.scenesp.org/pub/modulez/bitl/meadow.zip</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-21 21:58:12</locked_until>
+ <lastplayed>2018-03-04 03:00:12</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

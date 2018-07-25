@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33850">
+ <title>We&#39;re Wolves or so..</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.1176</rating>
+ <info>2nd in music competition at Juhla 95</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-06 12:12:09</locked_until>
+ <lastplayed>2017-07-29 12:18:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1232">Jim Jackson</artist><artist id="3764">T.o.B</artist>
+ </artists>
+ <groups>
+  <group id="646">Damones</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Juhla</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

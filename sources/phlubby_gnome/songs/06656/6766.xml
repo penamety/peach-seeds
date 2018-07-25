@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6766">
+ <title>Old School Chip #1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="90">4.4556</rating>
+ 
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 12:06:41</locked_until>
+ <lastplayed>2018-05-23 14:02:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9269</pouetid>
+ <ytid>l-UIsfdlXTA</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="1156">Subject</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

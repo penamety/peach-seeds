@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9943">
+ <title>A Soapbox Opera</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="101">4.5842</rating>
+ <info>Winner of the C64 music compo at Breakpoint 2004</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 14:48:01</locked_until>
+ <lastplayed>2018-06-10 14:07:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Breakpoint</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11020">
+ <title>Ambient Power - Remix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="30">3.7333</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 18:42:01</locked_until>
+ <lastplayed>2017-11-18 01:42:47</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1882">Mad Samplemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

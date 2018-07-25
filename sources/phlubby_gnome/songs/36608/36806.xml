@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36806">
+ <title>Spacecut</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="46">3.2391</rating>
+ <info>1st place in combined demo compo at Assembly 2012</info>
+ <songlength>328</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-20 08:23:00</locked_until>
+ <lastplayed>2018-02-27 15:56:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59615</pouetid>
+ <ytid>KaRA9ltrj7g</ytid>
+ 
+ 
+ <artists>
+  <artist id="3882">Ercola</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KaRA9ltrj7g</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

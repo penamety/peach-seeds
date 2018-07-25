@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35046">
+ <title>Paradise is Coming</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.6364</rating>
+ <info>1st place in combined 64k compo at bcnparty 2002</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 00:25:22</locked_until>
+ <lastplayed>2018-05-14 03:43:07</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>7987</pouetid>
+ <ytid>BUjUf0c7U3I</ytid>
+ 
+ 
+ <artists>
+  <artist id="1898">Wizard</artist>
+ </artists>
+ <groups>
+  <group id="438">RGBA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>bcnparty</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BUjUf0c7U3I</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

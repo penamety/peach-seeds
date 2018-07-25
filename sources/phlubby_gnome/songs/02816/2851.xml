@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2851">
+ <title>Odyssey - Part 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.3125</rating>
+ 
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 11:53:07</locked_until>
+ <lastplayed>2018-05-15 17:13:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>398</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="499">Greg [CH]</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

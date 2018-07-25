@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44432">
+ <title>Gamerman</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">4.0</rating>
+ <info>One of my old tunes (none made after 2003) An 8Channeled MODfile. I limited myself to see what i could make. Originally intended to be a 4 channeled mod. At 2:55 there is a little &#34;beep&#34; due to a bug(?) in xmlpay. The sound was not there in FT2. </info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 15:04:41</locked_until>
+ <lastplayed>2018-06-06 12:22:18</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2072">Mr. Gamer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

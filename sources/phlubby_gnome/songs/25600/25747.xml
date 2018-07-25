@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25747">
+ <title>Armageddon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5833</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-20 10:43:45</lastplayed>
+ <platform id="25">POKEY</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3768">Tomasz Liebich</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

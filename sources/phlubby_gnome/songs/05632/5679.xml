@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5679">
+ <title>Thanatos Rob Hubbard</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.2083</rating>
+ <info>The original Amstrad version composed by Julian Breeze</info>
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 20:32:15</locked_until>
+ <lastplayed>2018-05-10 08:24:29</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="5">Remix</type>
+ <pouetid>3416</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

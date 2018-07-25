@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11941">
+ <title>Beehive</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.2059</rating>
+ <info>http://modarchive.org/index.php?request=view_by_moduleid&amp;query=156138</info>
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 13:15:03</locked_until>
+ <lastplayed>2018-05-10 01:37:19</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="106">Beek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Uplifting</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

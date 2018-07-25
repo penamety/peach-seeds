@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1517">
+ <title>Sod</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.9722</rating>
+ 
+ <songlength>254</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 03:16:58</locked_until>
+ <lastplayed>2018-05-30 12:59:46</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>349</pouetid>
+ <ytid>870NOyJGwpo</ytid>
+ 
+ 
+ <artists>
+  <artist id="4650">Biotek</artist><artist id="296">db</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

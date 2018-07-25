@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36200">
+ <title>Lightstorm</title>
+ <status v="A">Active</status>
+ <bitrate>263</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7368</rating>
+ <info>Ranked #4 in the Streaming Music Compo at Birdie 9</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-30 14:42:35</locked_until>
+ <lastplayed>2018-01-12 05:00:12</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5129">HyperUnknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

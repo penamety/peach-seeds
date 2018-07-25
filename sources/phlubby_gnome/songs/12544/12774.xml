@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12774">
+ <title>Bomb Jack II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.625</rating>
+ <info>Elite, 1986</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 01:29:07</locked_until>
+ <lastplayed>2018-03-10 20:12:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>Ff_qqr-e1Aw</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="1669">Mark Cooksey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Ff_qqr-e1Aw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=332</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

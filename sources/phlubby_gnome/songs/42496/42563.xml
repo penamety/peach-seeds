@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42563">
+ <title>Chiprise Chiprise</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>A super-small 29.5kb Amiga module made for Chiperia #4 music disk (which actually got 2nd place at oldschool demo competition at Compusphere 2015 party in Sweden).</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 00:36:50</locked_until>
+ <lastplayed>2018-03-31 18:35:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>66647</pouetid>
+ <ytid>OHup0NSpC8w</ytid>
+ <ytoffset>1611</ytoffset>
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33065">
+ <title>Italo-X Men</title>
+ <status v="A">Active</status>
+ <bitrate>257</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">4.5094</rating>
+ <info>3rd place in Listening Music competition @ Streamparty 2011</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 14:39:45</locked_until>
+ <lastplayed>2018-06-05 05:23:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Stream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

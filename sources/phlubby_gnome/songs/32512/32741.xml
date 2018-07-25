@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32741">
+ <title>Rocken!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">2.3333</rating>
+ <info>18th in the streamed music compo at Revision 2011.
+Cubase 6.</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-27 02:19:58</locked_until>
+ <lastplayed>2017-11-02 18:43:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2167">Akustikrausch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

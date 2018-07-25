@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32109">
+ <title>Vortex</title>
+ <status v="A">Active</status>
+ <bitrate>243</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.0</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-08 14:07:13</locked_until>
+ <lastplayed>2017-11-13 01:51:38</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>16369</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4697">KeyJ</artist>
+ </artists>
+ <groups>
+  <group id="280">Kakiarts</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

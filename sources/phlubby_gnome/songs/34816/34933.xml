@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34933">
+ <title>Granma&#39;s Receipe</title>
+ <status v="A">Active</status>
+ <bitrate>344</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.8889</rating>
+ 
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-13 13:49:03</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>5549</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1412">Ierker</artist><artist id="3185">Mempheria</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

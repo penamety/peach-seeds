@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44709">
+ <title>Automagic Aardvark</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">2.25</rating>
+ 
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 16:21:45</locked_until>
+ <lastplayed>2018-05-24 04:18:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59682</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5783">Aardvark</artist>
+ </artists>
+ <groups>
+  <group id="887">The 81st Track</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

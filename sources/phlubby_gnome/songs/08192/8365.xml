@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8365">
+ <title>Complex Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0769</rating>
+ <info>Format: FC13 (Future Composer)
+
+From &#34;Suxx forever intro&#34; [url]http://kestra.exotica.org.uk/demo.php?id=26106[/url]</info>
+ <songlength>86</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 23:43:39</locked_until>
+ <lastplayed>2018-06-01 06:08:48</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>9717</pouetid>
+ <ytid>igbixRwvDwI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

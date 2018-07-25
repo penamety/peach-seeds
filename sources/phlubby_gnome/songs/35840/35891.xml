@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35891">
+ <title>Take Me There</title>
+ <status v="A">Active</status>
+ <bitrate>177</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.1746</rating>
+ <info>Placed 2nd in the scenecompos.net Ibiza Compo</info>
+ <songlength>307</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 11:09:31</locked_until>
+ <lastplayed>2018-05-16 19:43:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ibiza</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

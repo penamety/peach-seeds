@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19665">
+ <title>Palle&#39;s Theme 2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.0</rating>
+ 
+ <songlength>53</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 09:23:05</locked_until>
+ <lastplayed>2018-05-03 03:39:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13461</pouetid>
+ <ytid>t6OXIQB9K_E</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  <group id="107">Pure Metal Coders</group>
+ </groups>
+ 
+ <tags>
+  <tag>RAW</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=t6OXIQB9K_E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

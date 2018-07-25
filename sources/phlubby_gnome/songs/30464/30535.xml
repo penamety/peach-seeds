@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30535">
+ <title>Serenity</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="28">3.1786</rating>
+ 
+ <songlength>537</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:15:52</locked_until>
+ <lastplayed>2018-05-19 14:52:31</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4479">Procyon [NL]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

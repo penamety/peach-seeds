@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32991">
+ <title>007 Jazzcat</title>
+ <status v="A">Active</status>
+ <bitrate>204</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.3182</rating>
+ <info>Title: &#34;007 - Jazzcat&#34;
+
+This tune is a remix of Drax SID called &#34;Jazzcat&#34; and inspired
+by soundtracks from oldschool James Bond movies.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 03:22:52</locked_until>
+ <lastplayed>2018-06-08 08:04:55</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

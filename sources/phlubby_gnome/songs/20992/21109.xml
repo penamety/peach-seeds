@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21109">
+ <title>Machinery</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5833</rating>
+ 
+ <songlength>84</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:47:05</locked_until>
+ <lastplayed>2018-05-24 15:54:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4373</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1722">Fab</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

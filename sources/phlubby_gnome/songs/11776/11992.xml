@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11992">
+ <title>Equalized Colors</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.2727</rating>
+ 
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-18 11:21:20</locked_until>
+ <lastplayed>2017-06-10 23:49:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>50369</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="409">El Loco</artist><artist id="3870">Sundance Kid</artist>
+ </artists>
+ <groups>
+  <group id="109">Paragon</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

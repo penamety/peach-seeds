@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23082">
+ <title>Starport BBS 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9355</rating>
+ 
+ <songlength>85</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 13:03:24</locked_until>
+ <lastplayed>2018-05-29 16:45:23</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>5896</pouetid>
+ <ytid>VdoS8IUEkQk</ytid>
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

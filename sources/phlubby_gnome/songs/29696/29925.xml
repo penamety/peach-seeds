@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29925">
+ <title>Das Modell</title>
+ <status v="A">Active</status>
+ <bitrate>940</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.6765</rating>
+ <info>Song 3/6 for the cracktro to the demo Carbon by Tulou, that was bugfixed by natrox.
+
+flac/ogg/thx/screenshots at [url]http://www.natrox.org/ami/[/url]</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 20:50:04</locked_until>
+ <lastplayed>2018-06-13 00:50:39</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>12426</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4373">Pipe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>Kraftwerk</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

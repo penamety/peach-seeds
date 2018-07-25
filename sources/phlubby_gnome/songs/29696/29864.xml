@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29864">
+ <title>Russian Stealth Fighter Test Flight</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.3592</rating>
+ <info>released at buenzli 2010</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 06:33:33</locked_until>
+ <lastplayed>2018-05-27 15:22:01</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>5HoQzK1FMWM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5HoQzK1FMWM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

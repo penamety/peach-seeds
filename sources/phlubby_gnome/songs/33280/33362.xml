@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33362">
+ <title>Slamdown</title>
+ <status v="A">Active</status>
+ <bitrate>353</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.8049</rating>
+ 
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 14:08:41</locked_until>
+ <lastplayed>2018-06-04 21:28:52</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57152</pouetid>
+ <ytid>ebKCg3g_VU0</ytid>
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  <group id="150">Hedelmae</group><group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>TheFlamePartyHelsinki</tag>
+  
+  <tag>video</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ebKCg3g_VU0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

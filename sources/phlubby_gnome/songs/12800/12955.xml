@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12955">
+ <title>Lambo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.878</rating>
+ <info>Entry for the oldschool executable music compo at Breakpoint 2006. Made with Maxymizer1.14a for Atari STE/TT/Falcon.</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 08:13:13</locked_until>
+ <lastplayed>2018-06-01 07:51:10</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2080">Frequent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

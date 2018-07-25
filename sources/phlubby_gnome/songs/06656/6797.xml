@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6797">
+ <title>Always</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-02 12:05:27</locked_until>
+ <lastplayed>2018-02-09 06:05:44</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="544">Illusion</artist><artist id="1167">Swallow</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

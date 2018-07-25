@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32016">
+ <title>Gavin&#39;s Quest</title>
+ <status v="A">Active</status>
+ <bitrate>207</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.3636</rating>
+ <info>GavinsQuest
+2.11.97 by
+Gavin Lucas
+if you want to 
+contact, write
+to glucas@hib.de
+bye..</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 13:19:43</locked_until>
+ <lastplayed>2018-02-28 00:22:26</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1095">Gavin Lucas</artist>
+ </artists>
+ <groups>
+  <group id="527">Small Team of Experts</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

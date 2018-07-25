@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44148">
+ <title>Back to the Scene</title>
+ <status v="A">Active</status>
+ <bitrate>1053</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.4</rating>
+ <info>1st place in the Silly Venture 2012 Atari XL/XE Pokey Music competition</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 08:14:53</locked_until>
+ <lastplayed>2018-05-20 16:19:35</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5651">wiecz0r</artist>
+ </artists>
+ <groups>
+  <group id="873">Lamers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/55580/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

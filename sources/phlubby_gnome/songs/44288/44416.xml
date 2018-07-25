@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44416">
+ <title>Seven Up</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>Soundtrack from &#34;7up&#34; (Seven up) demo by Speedway, was released at Paradox&#39;99 demo party.
+2nd place in Demo Competition.
+
+So, this demo was my last work on ZX-Spectrum. Maybe it has not so good design and has a lot of video, but there are a lot of experience in coding and a lot of greate tricks.
+This demo was made for PDX99 and takes me about 6 month, that was really greate to do that.
+All dudes who know Speccy and C64 understand me... And it was very pity to go to another platform, like Amiga for someone and PC for me. Thank a lot to Speecy, you will be alive in my heart forever.
+
+[i][b]-=AND=-[/b][/i]</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 21:34:28</locked_until>
+ <lastplayed>2018-05-27 15:44:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6442</pouetid>
+ <ytid>8ZeQdmURQC4</ytid>
+ 
+ 
+ <artists>
+  <artist id="2197">AND</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Paradox</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Trackmo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8ZeQdmURQC4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=12595</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/1350/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/12595/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

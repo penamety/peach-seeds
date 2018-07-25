@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1219">
+ <title>Mitaa Pirua</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.1667</rating>
+ <info>Used in [url]http://janeway.exotica.org.uk/release.php?id=10623[/url]</info>
+ <songlength>114</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 06:26:52</locked_until>
+ <lastplayed>2018-06-08 00:59:00</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

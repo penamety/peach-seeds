@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13279">
+ <title>Minty Flamingo</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0</rating>
+ <info>Another co-op work with phaser. The composition was primarily done by phaser, I added the lead for the end part and mixed the tune (of which I&#39;m not too proud of). One of the VST synths used added some additional clicks and pops to the tune but I couldn&#39;t find the effort to try and fix it.</info>
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 22:43:52</locked_until>
+ <lastplayed>2018-03-29 17:17:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="925">Phaser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

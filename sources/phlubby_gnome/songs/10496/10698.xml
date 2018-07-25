@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10698">
+ <title>Sky Phenomena</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0</rating>
+ <info>From tUM08 streamed music compo</info>
+ <songlength>232</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-26 22:08:19</locked_until>
+ <lastplayed>2017-08-21 23:43:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1861">DC.Clark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

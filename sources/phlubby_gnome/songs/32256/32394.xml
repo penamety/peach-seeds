@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32394">
+ <title>Disco Destruct</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.5652</rating>
+ <info>10th in the streamed music compo @ Breakpoint 2008.</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 04:54:00</locked_until>
+ <lastplayed>2018-05-17 19:56:17</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1592">Xander Pills</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30253">
+ <title>Dancing on the Milky Way</title>
+ <status v="A">Active</status>
+ <bitrate>203</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.4545</rating>
+ <info>Soundtrack of the tUM 2010 invitation, which ranked 3rd in the demo compo at MAiN 2010.
+
+MPTM, 25 Channels</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 16:11:06</locked_until>
+ <lastplayed>2018-05-28 17:06:39</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>56001</pouetid>
+ <ytid>4XGsLviFjtw</ytid>
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4XGsLviFjtw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

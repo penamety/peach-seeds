@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35983">
+ <title>Megabits per Second</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.0541</rating>
+ <info>From SOUNDSHOCK 2: FM FUNK TERROR!! (http://ubiktune.org/releases/ubi044-various-artists-soundshock-2-fm-funk-terrror)</info>
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 04:47:35</locked_until>
+ <lastplayed>2018-03-31 08:26:49</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1974">coda</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>80s</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>Pop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

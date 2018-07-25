@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12182">
+ <title>The Future of the Internet</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.6769</rating>
+ <info>http://www.paniq.cc/pages/from_zero_to_hero.html</info>
+ <songlength>301</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:45:51</locked_until>
+ <lastplayed>2018-06-01 07:11:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55335</pouetid>
+ <ytid>k44pTRy_vlI</ytid>
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

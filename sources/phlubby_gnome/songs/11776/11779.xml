@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11779">
+ <title>Sonoluminescence</title>
+ <status v="A">Active</status>
+ <bitrate>222</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.1324</rating>
+ <info>6th place in pc demo compo at Breakpoint 2009
+
+Lyrics:
+If you have a brane living in a higher dimensional space, and your particles, your atoms, cannot get off the brane, it&#39;s like trying to reach out, but you can&#39;t touch anything. It might as well be on the other end of the universe.</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 18:55:21</locked_until>
+ <lastplayed>2018-05-21 16:30:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>52984</pouetid>
+ <ytid>SWWia_TZMKM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="369">loopit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>loopit</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SWWia_TZMKM</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2751">
+ <title>3 Minutes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.4255</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 01:15:31</locked_until>
+ <lastplayed>2018-05-16 07:31:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>195</pouetid>
+ <ytid>l8hniHG8-yE</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="471">Ganja</artist>
+ </artists>
+ <groups>
+  <group id="553">Nerve Axis</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

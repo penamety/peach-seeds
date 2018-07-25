@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11434">
+ <title>Gate 99 (Last Call)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.64</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 11:27:23</locked_until>
+ <lastplayed>2018-02-04 06:16:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1755">Zodiak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

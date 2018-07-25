@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13785">
+ <title>Chapi-Chapo</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">2.6818</rating>
+ 
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-10-14 06:41:16</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>300</pouetid>
+ <ytid>79X5T9Wsfa0</ytid>
+ 
+ 
+ <artists>
+  <artist id="5504">Lone Runner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>ripped</tag>
+  
+  <tag>Saturne</tag>
+  
+  <tag>Silly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44399">
+ <title>PAY to mr. SID</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ <info>3rd place in the Chaos Constructions 2016 ZX Spectrum AY-Music competition</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 13:04:33</locked_until>
+ <lastplayed>2018-05-15 22:15:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/162302/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=162302</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

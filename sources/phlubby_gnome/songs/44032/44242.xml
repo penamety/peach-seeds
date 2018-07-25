@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44242">
+ <title>Kysymys</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">1.875</rating>
+ <info>From demo &#34;Lops Kakki&#34; (The Party 1997)
+
+BPM 130</info>
+ <songlength>383</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 14:58:33</locked_until>
+ <lastplayed>2018-05-12 02:43:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11831</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1296">Vesuri</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>boring</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/19407/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?122038</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

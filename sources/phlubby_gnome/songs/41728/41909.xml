@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41909">
+ <title>q(n)=2k15</title>
+ <status v="A">Active</status>
+ <bitrate>257</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>1st in the Revision 2015 PC 8K Intro competition</info>
+ <songlength>316</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 08:45:54</locked_until>
+ <lastplayed>2018-06-09 17:33:05</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>65425</pouetid>
+ <ytid>0eNIfjQD4Tc</ytid>
+ 
+ 
+ <artists>
+  <artist id="4687">hArDy</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>8k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136329/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0eNIfjQD4Tc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

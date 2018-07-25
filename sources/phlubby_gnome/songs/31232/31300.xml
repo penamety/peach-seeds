@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31300">
+ <title>Crystal Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.7143</rating>
+ <info>Track #10 from the CD album &#34;Physiology&#34;.
+
+Album artist is &#34;Strange World&#34;, a collab project of  [artist]669[/artist] &amp; [artist]2619[/artist].</info>
+ <songlength>544</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 11:01:22</locked_until>
+ <lastplayed>2018-05-19 21:50:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2619">D-Luxe</artist><artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37416">
+ <title>Relax</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-05 18:58:36</locked_until>
+ <lastplayed>2017-05-31 20:02:38</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="365">DOS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

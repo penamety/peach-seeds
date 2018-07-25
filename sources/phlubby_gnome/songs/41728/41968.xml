@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41968">
+ <title>Void Horizons</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.4</rating>
+ <info>Track from Compofiller 2.0 released in Wild compo at Revision 2015</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 01:15:37</locked_until>
+ <lastplayed>2018-04-11 22:55:28</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>65379</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5596">Defcon8</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=q6yy1rT2_wA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

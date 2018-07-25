@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36802">
+ <title>Kauai-i (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ 
+ <songlength>339</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 18:21:43</locked_until>
+ <lastplayed>2018-01-24 11:25:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59627</pouetid>
+ <ytid>b6V-exq_LfU</ytid>
+ 
+ 
+ <artists>
+  <artist id="249">Crud</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=b6V-exq_LfU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

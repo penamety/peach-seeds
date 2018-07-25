@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35968">
+ <title>Journey into the Rift</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">2.6538</rating>
+ <info>From [url=http://ubiktune.org/releases/ubi041-virt-fx4]FX4[/url]</info>
+ <songlength>332</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-14 21:37:07</locked_until>
+ <lastplayed>2017-07-04 23:58:35</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>random</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

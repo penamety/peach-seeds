@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12954">
+ <title>Another Worlds</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="113">4.531</rating>
+ <info>Michael Cherdancev relesed this tune as a xm under the handle Quadro, [url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]
+Winner of the Russian Chip Tune Compo 1999.
+
+This version appears as MadTracker 2 demotune (mt2 format), slightly improved.
+[url=http://www.antialias.se/chiptunes/mt2/]download .mt2[/url]</info>
+ <songlength>288</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 04:00:24</locked_until>
+ <lastplayed>2018-05-20 21:04:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2079">Eternal Engine</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>madtracker2</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2xxvs6JeTOUm/wa</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

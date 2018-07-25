@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38388">
+ <title>Noctural Intruder</title>
+ <status v="D">Dupe</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="3">3.6667</rating>
+ <info>Oops, already in database (so dupe, sorry) but my version seems half a minute longer. Can you have a look please? Thanks :)</info>
+ <songlength>562</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

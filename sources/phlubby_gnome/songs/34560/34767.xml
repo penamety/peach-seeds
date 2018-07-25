@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34767">
+ <title>December</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-15 11:06:51</locked_until>
+ <lastplayed>2017-06-09 01:18:59</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7989</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1619">BLZ</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

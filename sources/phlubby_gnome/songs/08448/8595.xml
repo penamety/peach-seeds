@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8595">
+ <title>Sanxion remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.5161</rating>
+ <info>from farbrausch and scoopex intro named Art</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 18:20:18</locked_until>
+ <lastplayed>2018-06-09 12:19:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>1915</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1634">Entropy</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group><group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4045">
+ <title>Galactic Thief</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.375</rating>
+ <info>Used in the demo &#34;Ferdinand Grisbil&#34; by Troon: http://bitworld.bitfellas.org/demo.php?id=23480</info>
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 05:47:52</locked_until>
+ <lastplayed>2018-05-09 22:31:00</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>63655</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>demostyle</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

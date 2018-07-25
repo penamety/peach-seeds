@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30995">
+ <title>The Stories 2</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.0</rating>
+ 
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 18:37:37</locked_until>
+ <lastplayed>2018-06-02 05:39:33</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>314</pouetid>
+ <ytid>ZamhdPtcI6g</ytid>
+ <ytoffset>240</ytoffset>
+ 
+ <artists>
+  <artist id="432">Falcon</artist><artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

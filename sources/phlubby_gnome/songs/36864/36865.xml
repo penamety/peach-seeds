@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36865">
+ <title>Audio Man [title]</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.2121</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 17:56:37</locked_until>
+ <lastplayed>2018-06-14 06:30:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9260</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2469">
+ <title>Katakomb</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.9643</rating>
+ <info>Main soundtrack from &#34;Neural Assault&#34; Amiga demo by Rage. 
+1st place in Amiga demo compo at ECC 1993.</info>
+ <songlength>375</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-05 22:04:29</locked_until>
+ <lastplayed>2018-02-11 19:44:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3603</pouetid>
+ <ytid>yVSRWsBM7aY</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="431">Fajser</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ECC</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38929">
+ <title>Killer Clouds</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.4348</rating>
+ 
+ <songlength>426</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:25:57</locked_until>
+ <lastplayed>2018-05-16 11:21:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3707</pouetid>
+ <ytid>1mPY2mbNbs8</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="5104">Speaker For The Dead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>long</tag>
+  
+  <tag>SceneStrike</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

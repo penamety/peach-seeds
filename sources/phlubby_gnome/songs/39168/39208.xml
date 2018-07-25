@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39208">
+ <title>Squarewave Pony Army</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ <info>Soundtrack in &#34;We had to fill the title *somehow*&#34; partyhack by DSS, alternative platform compo, Evoke 2013</info>
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 21:13:32</locked_until>
+ <lastplayed>2018-02-16 02:29:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4105">Retrobot0r</artist>
+ </artists>
+ <groups>
+  <group id="701">Digital Sounds System</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

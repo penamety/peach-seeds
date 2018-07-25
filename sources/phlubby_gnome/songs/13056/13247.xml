@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13247">
+ <title>Super Mario Land</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.0244</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 18:38:29</locked_until>
+ <lastplayed>2018-04-14 23:38:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1801">X-formZ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

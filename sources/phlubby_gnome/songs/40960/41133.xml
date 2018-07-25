@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41133">
+ <title>Aurea Anatis</title>
+ <status v="A">Active</status>
+ <bitrate>231</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>3:rd place in Oldschool Music compo at TRSAC 2014.</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-06 08:56:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="757">Powerline</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

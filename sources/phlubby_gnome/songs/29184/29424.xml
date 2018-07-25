@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29424">
+ <title>Sunday</title>
+ <status v="A">Active</status>
+ <bitrate>151</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.4118</rating>
+ <info>Sega Master System II</info>
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 08:47:21</locked_until>
+ <lastplayed>2018-04-12 07:05:16</lastplayed>
+ <platform id="47">SN76489 (BBC micro, Master System etc.) </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Mastersystem</tag>
+  
+  <tag>Sega</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

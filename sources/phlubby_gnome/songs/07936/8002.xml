@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8002">
+ <title>Malediction</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ 
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 06:22:15</locked_until>
+ <lastplayed>2018-05-30 12:03:42</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="3176">Mel Funktion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Speech-Synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

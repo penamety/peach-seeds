@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30586">
+ <title>What You Want</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.2368</rating>
+ 
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 18:18:21</locked_until>
+ <lastplayed>2018-04-03 17:25:32</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3986">Arne</artist>
+ </artists>
+ <groups>
+  <group id="270">Alpha Flight [AFL]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29840">
+ <title>Egg Banjo</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="56">4.3214</rating>
+ <info>Made for necta compo #6 (the clear winner among the two entries)
+
+Special thx to BitArts for providing a great challange and some cool samples to work with.</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 17:37:16</locked_until>
+ <lastplayed>2018-05-22 22:53:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

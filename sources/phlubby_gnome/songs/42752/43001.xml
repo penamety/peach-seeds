@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43001">
+ <title>Phantasmagoria</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0714</rating>
+ <info>2nd in the Riverwash 2008 Msx Chip (AHX/THX) compo.
+</info>
+ <songlength>297</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 13:52:49</locked_until>
+ <lastplayed>2018-05-23 18:04:57</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38610">
+ <title>Taiyou</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7778</rating>
+ <info>ZX Spectrum 48K + AY-interface. 
+Software: SampleTracker.
+3 channels, 4-bit quality lo-fi micromusic.
+Recorded from real ZX Spectrum.</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 18:29:16</locked_until>
+ <lastplayed>2018-05-26 15:51:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

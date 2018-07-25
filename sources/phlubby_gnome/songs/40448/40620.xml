@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40620">
+ <title>Over your Head (Compo Cut)</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>Entry for the Freestyle Music Compo at the @Party 2014.
+
+Ranked 7th Place
+
+Enjoy some chilled trance-beats with a decent bass :)
+
+Tracked in OpenMPT, 8-Channel Protracker Mod</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 12:59:22</locked_until>
+ <lastplayed>2018-06-10 17:43:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Desire</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>party</tag>
+  
+  <tag>protracker</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

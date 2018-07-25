@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34988">
+ <title>fr-057.cns: Arancia</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ 
+ <songlength>61</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 09:05:16</locked_until>
+ <lastplayed>2018-06-13 12:34:17</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>31132</pouetid>
+ <ytid>-NnAF7xNINY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="1">Conspiracy [CNS]</group><group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>horde</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-NnAF7xNINY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12998</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

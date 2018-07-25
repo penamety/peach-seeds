@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40700">
+ <title>Happy Pokey Stomer</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>&#34;My tiny contribution for the music competition at the Sommarhack 2014 Demoparty. Ended up 5th place (which sounds far better than last place ;)
+
+Tracked using the Freeware RMT / Raster Music Tracker. Native File should run on a stock Atari 800XL.&#34;</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 09:36:04</locked_until>
+ <lastplayed>2017-10-25 18:28:27</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

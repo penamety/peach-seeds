@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10635">
+ <title>Popcorn</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.3478</rating>
+ <info>Cover version of the famous instrumental song “Popcorn”</info>
+ <songlength>146</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-10 10:59:09</locked_until>
+ <lastplayed>2017-06-29 18:58:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Popcorn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

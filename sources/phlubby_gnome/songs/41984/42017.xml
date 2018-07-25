@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42017">
+ <title>Chronos in Time</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.8182</rating>
+ 
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 12:16:10</locked_until>
+ <lastplayed>2018-03-20 05:43:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>53505</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist><artist id="1604">Zabutom</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=81153</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

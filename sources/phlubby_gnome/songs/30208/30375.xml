@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30375">
+ <title>Bit to Soul Intro</title>
+ <status v="A">Active</status>
+ <bitrate>175</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.1</rating>
+ <info>For the only HyperCard Demo ever produced (to my knowledge), the &#34;M-Demo&#34;, this was its loader. Featured real scrolltext-endpart and GFA Basic style visual effects! Scripted by Corwin.</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-18 01:56:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

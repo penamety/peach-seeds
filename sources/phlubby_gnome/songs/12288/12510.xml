@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12510">
+ <title>The Last Sun</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.3889</rating>
+ <info>Based on the original 4chnl mod by Frederich Hahn.</info>
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 20:40:46</locked_until>
+ <lastplayed>2018-05-07 12:47:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Flute</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?47478</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

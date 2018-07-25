@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37635">
+ <title>Gauloise</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0455</rating>
+ <info>From the album &#34;hYMns&#34;.
+
+Grab it [url=http://fiveofive.bandcamp.com/album/hymns]here[/url]
+
+From &#34;Posh!&#34; by Checkpoint. Error In Line 2003 Atari ST demo, ranked 1st.</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 15:07:10</locked_until>
+ <lastplayed>2018-06-14 19:25:25</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9699</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="775">Checkpoint [CPT]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

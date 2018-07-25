@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43663">
+ <title>Glittermorphosis</title>
+ <status v="A">Active</status>
+ <bitrate>2116</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>4klang track for the Windows 4k-executable Demo &#34;Glittermorphosis&#34; by Eos. 8-channel XM-File using the 4klang VST. 
+
+Many thanks to Virgill for polishing the instruments to the max (and cutting half of the melody due to size issues ;) )</info>
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 11:17:01</locked_until>
+ <lastplayed>2018-03-11 18:18:55</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>68662</pouetid>
+ <ytid>kzyF80KJhuM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kzyF80KJhuM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/166663/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

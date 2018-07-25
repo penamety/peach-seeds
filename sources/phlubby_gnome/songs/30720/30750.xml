@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30750">
+ <title>One of the Lost Ones</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ <info>Ranked 3rd in the 16k executable music compo at TRSAC 2010.</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 02:15:47</locked_until>
+ <lastplayed>2018-03-03 11:38:42</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4130">Response</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

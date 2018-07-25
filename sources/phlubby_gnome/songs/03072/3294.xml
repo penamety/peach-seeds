@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3294">
+ <title>Electric City</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="190">4.7158</rating>
+ 
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 10:49:40</locked_until>
+ <lastplayed>2018-06-06 05:03:37</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>3456</pouetid>
+ <ytid>gXMhbhLAy98</ytid>
+ <ytoffset>52</ytoffset>
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  <group id="310">Appendix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gXMhbhLAy98</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

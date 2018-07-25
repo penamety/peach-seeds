@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37286">
+ <title>Beliefs in Fortran (Standalone Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2222</rating>
+ <info>[b]doh&#39;s comments:[/b]
+Composed with Renoise and Mastered with Audition.
+Greetings for this music go to Grabule for is excellent freeware VSTi pack and of course all the guys who wrote the softsynth used in this tune :
+- iblit: Andreas Ersson
+- acidrack: acid.milch&amp;honig andre, milch-und-honig.de
+- Angular Momentum Table Synth: Leif Oddson &amp; Thomas Weber
+- Angular Momentum Unitable free : AM
+- Artemis v1.3.3 + Cosmos v2.5.3: Benoit Serrano
+- Adonis Pro 128: Benoit Serrano
+- Motion v.2.8 + Texture v.1.2.1 + Rez: Ugo (Chris Sciurba),  www.cortidesign.com/ugo
+- Hexter: CuteVST.soundforge.net
+- alpha VSTi v0.53: efm 2003 http://ele4music.com/
+- Richman-2: www.krakli.co.uk
+- Cheeze Machine: Big Tick</info>
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-02 00:11:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  <group id="202">Dreamdealers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

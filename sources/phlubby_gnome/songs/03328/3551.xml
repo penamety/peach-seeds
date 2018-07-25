@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3551">
+ <title>Mixified</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.4024</rating>
+ 
+ <songlength>326</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:01:10</locked_until>
+ <lastplayed>2018-06-10 02:29:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4049</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group><group id="23">Spaceballs</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

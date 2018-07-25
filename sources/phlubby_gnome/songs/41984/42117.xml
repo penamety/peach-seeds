@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42117">
+ <title>Sailor Moon Star</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0</rating>
+ <info>It&#39;s a J-POP chiptune I made in 2014 - it is a cover of the main-title music from Sailor Moon Stars anime TV-series. :)
+
+I prepared it especially for my concert in Tokyo/Japan, in 2014 (the Square Sounds Tokyo chiptune festival).
+
+This particular song has been designed for a ZX Spectrum with TurboSound interface (2 x AY chip = 6 channels).
+
+As I use only the standard ZX SoundTracker 1.1 editor (the oldest tracker for Spectrum, released in 1991 or 1992) - and it uses only 3 channels - I had to make _separately_ two &#34;halves&#34; of the song :) NOT hearing them both at once, hehehe. I had to... &#39;imagine&#39; one while making another. :)
+
+Only when I finished the song, I merged both the halves together and then I was able to play entire song (and record) from my Speccy2010 comp - and it was the first time I actually heard my tune, hehehe.
+
+Anyway, it took me something like a month (or more) to make the cover: I love the song but it isn&#39;t the easiest to do. ;)
+
+Enjoy! ;)
+</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-05 23:06:31</locked_until>
+ <lastplayed>2018-05-03 00:10:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Anime</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>TurboSound</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

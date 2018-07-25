@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40365">
+ <title>Fever</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0909</rating>
+ <info>My first DnB attempt.
+I used Renoise for this song.
+All sounds were made using the Image Line Harmor  VSTi except for the Piano, the strings near the end, and the drums. Hope you likey.
+
+Soundcloud link:
+https://soundcloud.com/exodus-6/fever</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 08:23:22</locked_until>
+ <lastplayed>2018-04-10 23:52:55</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5438">eXOdus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12502">
+ <title>Green Cheese (Evoke 2003 version)</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.3056</rating>
+ <info>1st place in console demo comp at Evoke 2003
+
+Running on PocketPC</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 17:16:05</locked_until>
+ <lastplayed>2018-04-12 16:57:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10735</pouetid>
+ <ytid>6BZO19oenIs</ytid>
+ 
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group><group id="317">Park Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>food</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=4718</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6BZO19oenIs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9104">
+ <title>Sylar</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.2051</rating>
+ <info>From the signal to droids text-mode demo</info>
+ <songlength>167</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 23:09:38</locked_until>
+ <lastplayed>2018-05-10 04:33:35</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>28665</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

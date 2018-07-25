@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11408">
+ <title>Virtual Light</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.1905</rating>
+ 
+ <songlength>71</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 07:57:10</locked_until>
+ <lastplayed>2018-03-26 16:44:45</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>8447</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

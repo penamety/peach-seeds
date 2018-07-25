@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1313">
+ <title>Rock it tonight</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.2174</rating>
+ 
+ <songlength>344</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-06 08:50:50</locked_until>
+ <lastplayed>2018-01-12 05:14:57</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="237">Coocane</artist><artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Reggae</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18354">
+ <title>Beastsong</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">2.2083</rating>
+ 
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-04 16:33:34</locked_until>
+ <lastplayed>2018-03-16 19:34:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1355</pouetid>
+ <ytid>TiwPDqxvxe8</ytid>
+ <ytoffset>17</ytoffset>
+ 
+ <artists>
+  <artist id="5384">Fred (FR)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

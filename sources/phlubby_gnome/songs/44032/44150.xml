@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44150">
+ <title>I&#39;m So Happy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Second in Tracked Music competition at NOVA 2017.</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 10:48:14</locked_until>
+ <lastplayed>2018-06-16 20:35:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5672">Mrs. Beanbag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>NOVA</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

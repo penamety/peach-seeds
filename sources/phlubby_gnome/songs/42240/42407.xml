@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42407">
+ <title>Invention 1 (J.S. Bach)</title>
+ <status v="A">Active</status>
+ <bitrate>140</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>composed in 1720</info>
+ <songlength>56</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-09 15:44:58</locked_until>
+ <lastplayed>2017-09-30 17:43:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>bach</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

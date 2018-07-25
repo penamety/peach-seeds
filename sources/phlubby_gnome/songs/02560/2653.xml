@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2653">
+ <title>Chinese Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="82">4.5</rating>
+ 
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 02:46:00</locked_until>
+ <lastplayed>2018-06-17 09:47:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3418</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>Dream</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Ninja</tag>
+  
+  <tag>Oriental</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/633</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

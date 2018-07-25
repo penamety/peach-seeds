@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33849">
+ <title>Omenana on hyvä olla</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="43">2.6744</rating>
+ <info>3rd in Juhla 96 music competition</info>
+ <songlength>123</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 12:00:17</locked_until>
+ <lastplayed>2018-05-25 18:40:37</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3764">T.o.B</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Juhla</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

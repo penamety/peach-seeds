@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29796">
+ <title>A Quick Visit to Space</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-01 22:57:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55574</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1354">D Fast</artist>
+ </artists>
+ <groups>
+  <group id="152">½-bit Cheese [HBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

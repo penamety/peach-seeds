@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39652">
+ <title>Land of Dragon</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="28">3.1786</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;Land of Dragon&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Tune completed:	
+008	08.05.2000	
+009		
+010		
+011		
+012		
+013		
+014		
+015		
+016		
+017		
+018		
+019		
+020		
+
+sample list:
+001	Leadwave	(8 bit - 26195)
+002	Fretless	(16 bit - 81423)
+003	Slowstr	(16 bit - 18191)
+004	Fusion Synth	(8 bit - 63849)
+005	Harp0	(16 bit - 5276)
+006	Harp1	(16 bit - 2993)
+007	Gtrharm	(16 bit - 4919)
+008	Tel Synth 1	(8 bit - 66767)
+009	Flute	(16 bit - 6024)
+010	SC Kick1	(16 bit - 8159)
+011	SC Snare2	(16 bit - 14462)
+012	SBL Hihatcl	(16 bit - 2603)
+013	SBL Hihatop	(16 bit - 24501)
+014	SC Tamborin	(16 bit - 17323)
+015	SC Cymcrash	(16 bit - 57886)
+016	SC Cymride1	(16 bit - 61463)
+017	Pulse Synth 2	(8 bit - 68243)
+018	Sweeper	(16 bit - 31205)
+019	Ptaki kan. lewy	(16 bit - 75125)
+020	Ptaki kan. prawy	(16 bit - 75125)
+021	Seashore	(16 bit - 31036)
+</info>
+ <songlength>959</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 20:43:46</locked_until>
+ <lastplayed>2018-05-17 21:13:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1877">
+ <title>Barman&#39;s Prayer</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9167</rating>
+ <info>Ranked 3rd in the music compo at The Party 1992.</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-29 23:30:28</locked_until>
+ <lastplayed>2018-01-12 05:38:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

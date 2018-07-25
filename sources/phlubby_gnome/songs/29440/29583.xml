@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29583">
+ <title>Computer Candy Overload</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">3.869</rating>
+ <info>1st place in pc demo compo at @party 2010</info>
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 23:40:12</locked_until>
+ <lastplayed>2018-05-31 17:05:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55213</pouetid>
+ <ytid>hATXeHGhvOo</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="385">Digital Dynamite [DD]</group><group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>atparty</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>featured</tag>
+  
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vuvuzela</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hATXeHGhvOo</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

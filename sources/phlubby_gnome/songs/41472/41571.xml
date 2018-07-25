@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41571">
+ <title>Astral Travel</title>
+ <status v="A">Active</status>
+ <bitrate>168</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="37">2.6486</rating>
+ <info>7# at csdb sid ambient compo
+recorded by mixer/origo dreamline
+</info>
+ <songlength>749</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:22:16</locked_until>
+ <lastplayed>2018-05-28 21:50:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5573">G-Fellow</artist>
+ </artists>
+ <groups>
+  <group id="819">CODE7</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=135861</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

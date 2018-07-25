@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6238">
+ <title>Super Mario Land</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">4.2676</rating>
+ <info>From the module :
+[code]by reflex/m0vement!
+[…]
+=====================
+Ripped from Movement
+         intro[/code]
+More info :
+[url=http://janeway.exotica.org.uk/release.php?id=40596]mod.super mario land (Amiga Music)[/url] (Janeway)</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 21:01:37</locked_until>
+ <lastplayed>2018-05-10 23:38:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>13138</pouetid>
+ <ytid>2a6I2MUvrLg</ytid>
+ <ytoffset>27</ytoffset>
+ 
+ <artists>
+  <artist id="1006">Reflex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>gameboy</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/2303/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

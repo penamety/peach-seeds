@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34618">
+ <title>Atari Convention 2011 Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.0541</rating>
+ 
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 13:23:03</locked_until>
+ <lastplayed>2018-05-25 06:31:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56808</pouetid>
+ <ytid>JZcu90KuoGM</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="4938">Tomchi</artist>
+ </artists>
+ <groups>
+  <group id="658">No Extra</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JZcu90KuoGM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

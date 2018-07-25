@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2825">
+ <title>So What</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ 
+ <songlength>65</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 20:19:36</locked_until>
+ <lastplayed>2018-05-06 22:30:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>29974</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="488">Gladiator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

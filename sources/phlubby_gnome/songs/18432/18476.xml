@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18476">
+ <title>Sunrise</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.2105</rating>
+ <info>1st place in combined demo compo at Function 2004</info>
+ <songlength>198</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 10:25:38</locked_until>
+ <lastplayed>2018-06-11 12:02:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13740</pouetid>
+ <ytid>gGYD0UteeHg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>IDM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gGYD0UteeHg</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

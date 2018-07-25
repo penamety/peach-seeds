@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33145">
+ <title>Octobermoon</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.125</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 13:06:41</locked_until>
+ <lastplayed>2018-02-10 05:11:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>17129</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4790">Vinyl</artist>
+ </artists>
+ <groups>
+  <group id="633">Mindprobe</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

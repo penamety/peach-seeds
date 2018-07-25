@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43006">
+ <title>Hydrokinetics</title>
+ <status v="A">Active</status>
+ <bitrate>697</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ <info>1st place at Assembly 2015 Combined 4k Intro compo</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-03 12:16:15</locked_until>
+ <lastplayed>2018-04-28 22:23:54</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>66059</pouetid>
+ <ytid>tbdmm2ZOBmg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5520">Noby</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tbdmm2ZOBmg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

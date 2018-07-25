@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23498">
+ <title>Orbit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.6667</rating>
+ 
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-28 07:48:53</locked_until>
+ <lastplayed>2017-07-18 18:40:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>4867</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1006">Reflex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

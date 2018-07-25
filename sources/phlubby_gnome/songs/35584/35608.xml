@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35608">
+ <title>Show Me</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">3.9167</rating>
+ <info>Hugi #37 &#34;Around the World&#34; track.</info>
+ <songlength>262</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 21:03:58</locked_until>
+ <lastplayed>2018-06-01 00:00:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>59049</pouetid>
+ <ytid>1bam8eDVJSI</ytid>
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>Hugi</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

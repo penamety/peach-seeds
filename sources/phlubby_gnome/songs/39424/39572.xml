@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39572">
+ <title>Morning At The Lake</title>
+ <status v="A">Active</status>
+ <bitrate>193</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.3333</rating>
+ 
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 06:08:01</locked_until>
+ <lastplayed>2018-05-19 19:12:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>61235</pouetid>
+ <ytid>z48t2R2hEJM</ytid>
+ 
+ 
+ <artists>
+  <artist id="4109">Subdream</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=z48t2R2hEJM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

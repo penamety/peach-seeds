@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36034">
+ <title>Escape Part 2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">2.1579</rating>
+ <info>The second part of the Escape Game theme tune released by Kryptic in 1991 (Public Domain)
+
+http://bitworld.bitfellas.org/demo.php?id=29261
+
+</info>
+ <songlength>551</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-06 05:46:08</locked_until>
+ <lastplayed>2018-06-17 09:34:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>sO1culxeZ3M</ytid>
+ 
+ 
+ <artists>
+  <artist id="5122">Mad Phantom</artist>
+ </artists>
+ <groups>
+  <group id="683">Kryptic</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sO1culxeZ3M</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

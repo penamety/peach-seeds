@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13261">
+ <title>Atmosphere</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 22:47:46</locked_until>
+ <lastplayed>2017-06-03 20:47:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>31361</pouetid>
+ <ytid>4VgWphBS664</ytid>
+ <ytoffset>25</ytoffset>
+ 
+ <artists>
+  <artist id="1173">Syntex</artist>
+ </artists>
+ <groups>
+  <group id="106">Stone Arts</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29500">
+ <title>Skyhigh</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1579</rating>
+ <info>	
+Skyhigh
+
+Author: Piotr Baczkiewicz (Bzyk)
+Released: 1999 Samar Productions/Lepsi
+SID model:	8580
+Clock speed:	PAL
+
+HVSC :/MUSICIANS/B/Bzyk/Skyhigh.sid - c64.org
+
+Releases which use this SID :
+Sky High by Lepsi De, Samar Productions	 ... 	Release Date :
+5 April 1999
+
+Type :
+C64 Music
+
+Released At :
+Mekka &amp; Symposium 1999
+
+Achievements :
+C64 Music Competition at Mekka &amp; Symposium 1999 :  #13
+
+Credits :
+Music	 .... 	Bzyk of Lepsi De, Samar Productions
+</info>
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 13:20:08</locked_until>
+ <lastplayed>2018-03-08 16:21:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2354">Bzyk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=5316</url>
+    <comment>SID on CSDb</comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

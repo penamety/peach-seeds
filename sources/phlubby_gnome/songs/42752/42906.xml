@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42906">
+ <title>Summer Feelings (Citodon)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>Track 4 from &#34;Just Musix 3&#34; Atari Falcon music disk by DHS</info>
+ <songlength>106</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 15:52:23</locked_until>
+ <lastplayed>2018-04-03 02:58:26</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1007</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3773">Toodeloo</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

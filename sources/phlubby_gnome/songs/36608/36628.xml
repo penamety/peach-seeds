@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36628">
+ <title>First Ray of Light</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.234</rating>
+ <info>Ranked 2nd in the newschool music compo at Solskogen 2012.</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 07:32:57</locked_until>
+ <lastplayed>2018-06-12 18:32:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5375">Phoenix</artist><artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

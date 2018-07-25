@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18198">
+ <title>All Those Years</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.7692</rating>
+ 
+ <songlength>86</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:16:00</locked_until>
+ <lastplayed>2018-05-17 10:34:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18021</pouetid>
+ <ytid>Fmkp6z6igUo</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

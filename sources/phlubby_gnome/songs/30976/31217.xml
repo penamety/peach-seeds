@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31217">
+ <title>Elekfunk (Morusque Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>179</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.2414</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 02:28:20</locked_until>
+ <lastplayed>2017-12-15 03:17:28</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2034">Morusque</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

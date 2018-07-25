@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12066">
+ <title>A King is Born</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="108">4.3241</rating>
+ 
+ <songlength>282</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 07:37:44</locked_until>
+ <lastplayed>2018-05-27 08:26:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9247</pouetid>
+ <ytid>okhCAuv7tKk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1981">Dreamweaver</artist>
+ </artists>
+ <groups>
+  <group id="64">Aurora</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AnarchyEasterParty</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=okhCAuv7tKk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

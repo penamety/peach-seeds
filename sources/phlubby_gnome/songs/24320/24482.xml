@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24482">
+ <title>Basslines</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.3333</rating>
+ 
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 14:39:07</locked_until>
+ <lastplayed>2017-11-28 01:59:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9136</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5467">Skyy</artist>
+ </artists>
+ <groups>
+  <group id="687">Supplex</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

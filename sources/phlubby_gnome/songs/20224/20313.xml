@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20313">
+ <title>Tristar demo 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.2857</rating>
+ <info>Format is .bss (Beathoven Synthesizer)</info>
+ <songlength>272</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 11:32:56</locked_until>
+ <lastplayed>2018-06-06 08:49:33</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9125</pouetid>
+ <ytid>GhZF7AhtILM</ytid>
+ <ytoffset>37</ytoffset>
+ 
+ <artists>
+  <artist id="4419">Flynn</artist><artist id="4421">Knackosoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Laserdance</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3IALVXNAkG0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

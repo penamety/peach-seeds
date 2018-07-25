@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43050">
+ <title>Koobz</title>
+ <status v="A">Active</status>
+ <bitrate>228</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.2222</rating>
+ <info>Music from the Amiga OCS 64k intro &#34;koobz&#34; by PACiF!C released at Revision 2016.</info>
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-25 19:44:29</locked_until>
+ <lastplayed>2017-11-05 00:11:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>67114</pouetid>
+ <ytid>kJxfL37Ai7Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zojQ0mQND6g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/155048/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30100">
+ <title>Space Traveller 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">2.9048</rating>
+ 
+ <songlength>700</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 08:17:42</locked_until>
+ <lastplayed>2018-04-30 23:32:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13818</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4395">GDM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

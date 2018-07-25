@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44418">
+ <title>Waillee</title>
+ <status v="A">Active</status>
+ <bitrate>614</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.8333</rating>
+ 
+ <songlength>294</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 05:09:04</locked_until>
+ <lastplayed>2018-06-16 22:30:43</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>71873</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5520">Noby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Deadline</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

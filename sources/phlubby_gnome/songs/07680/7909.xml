@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7909">
+ <title>Sweet Darkness</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="110">4.4636</rating>
+ <info>From the Assembly&#39;03 Instrumental Music compo.</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 16:32:15</locked_until>
+ <lastplayed>2018-06-10 21:52:31</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1443">Lazy Bastard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=h73q4RGrvz4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

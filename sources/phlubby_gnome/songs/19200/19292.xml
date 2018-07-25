@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19292">
+ <title>Sweet Alien</title>
+ <status v="A">Active</status>
+ <bitrate>260</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.1724</rating>
+ <info>File exchanged with a track from SOASC R5 recording. /anni</info>
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 17:17:29</locked_until>
+ <lastplayed>2018-04-17 21:24:28</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>19074</pouetid>
+ <ytid>kZNrZJHulAk</ytid>
+ <ytoffset>60</ytoffset>
+ 
+ <artists>
+  <artist id="2897">Intensity</artist>
+ </artists>
+ <groups>
+  <group id="100">Dekadence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

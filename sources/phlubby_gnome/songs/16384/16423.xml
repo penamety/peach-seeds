@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16423">
+ <title>Chubby Girl</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4286</rating>
+ <info>project : ranked #7 at Big Chip Compo 6</info>
+ <songlength>164</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 18:13:45</locked_until>
+ <lastplayed>2018-06-17 15:04:35</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>BigChipcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

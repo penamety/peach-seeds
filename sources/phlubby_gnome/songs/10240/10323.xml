@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10323">
+ <title>Dead Pixel</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.2</rating>
+ <info>Download album
+MP3: http://download.mosaik.se/mosaik--minutes--kahvi108.zip
+FLAC: http://download.mosaik.se/mosaik--minutes--kahvi108-flac.zip</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 13:28:08</locked_until>
+ <lastplayed>2018-05-20 23:33:10</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>scary</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

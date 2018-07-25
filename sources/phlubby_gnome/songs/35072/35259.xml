@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35259">
+ <title>Thundercats</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>From 3D Sine Scroll Union Demo&#39;98</info>
+ <songlength>275</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 00:43:11</locked_until>
+ <lastplayed>2018-06-12 23:32:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="883">Oedipus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

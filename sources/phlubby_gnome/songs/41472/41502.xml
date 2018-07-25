@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41502">
+ <title>Vibrations 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.0</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-14 14:44:47</locked_until>
+ <lastplayed>2018-01-28 06:08:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1580</pouetid>
+ <ytid>ZYGeYooMccM</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4667">IMP</artist>
+ </artists>
+ <groups>
+  <group id="532">Dream Makers Software</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

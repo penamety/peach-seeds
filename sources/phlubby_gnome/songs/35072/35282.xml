@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35282">
+ <title>!mAg!nAt!oN</title>
+ <status v="A">Active</status>
+ <bitrate>227</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.2586</rating>
+ 
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 08:11:38</locked_until>
+ <lastplayed>2018-05-22 02:27:55</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

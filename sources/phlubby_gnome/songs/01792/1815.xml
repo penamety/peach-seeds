@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1815">
+ <title>Le Baloche a Dede</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.6765</rating>
+ <info>Winner of the music competition at Wired 1996.</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 00:13:06</locked_until>
+ <lastplayed>2018-02-01 20:33:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="334">Djamm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Accordion</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>trumpet</tag>
+  
+  <tag>waltz</tag>
+  
+  <tag>Wired</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

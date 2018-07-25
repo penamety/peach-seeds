@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="895">
+ <title>Amnesia Song 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0476</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-21 05:02:02</locked_until>
+ <lastplayed>2018-02-03 14:49:25</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>2902</pouetid>
+ <ytid>sxW6CW0RWlg</ytid>
+ 
+ 
+ <artists>
+  <artist id="173">C.C. Catch</artist>
+ </artists>
+ <groups>
+  <group id="314">Renaissance [REN]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

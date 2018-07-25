@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31994">
+ <title>Open Letter</title>
+ <status v="A">Active</status>
+ <bitrate>326</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.1818</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-13 06:39:06</locked_until>
+ <lastplayed>2017-07-01 15:28:14</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56109</pouetid>
+ <ytid>VNi6zM0bs8M</ytid>
+ 
+ 
+ <artists>
+  <artist id="4689">msqrt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VNi6zM0bs8M</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

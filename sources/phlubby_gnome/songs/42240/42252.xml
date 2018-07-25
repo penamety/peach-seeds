@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42252">
+ <title>Piranha</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.1818</rating>
+ <info>Found on an old PC TEAM magazine CDROM</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-11 22:18:01</locked_until>
+ <lastplayed>2017-09-30 19:00:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1466">GTK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

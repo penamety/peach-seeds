@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14192">
+ <title>The One Sample Song</title>
+ <status v="A">Active</status>
+ <bitrate>137</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ 
+ <songlength>35</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-04 08:17:11</locked_until>
+ <lastplayed>2017-07-09 06:09:41</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1984">Arachno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>one_sample</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43095">
+ <title>Stars</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>Format is .bss (Beathoven Synthesizer)</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-21 17:15:12</locked_until>
+ <lastplayed>2017-06-14 10:13:59</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>13557</pouetid>
+ <ytid>b_eJWqWULTc</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="4419">Flynn</artist><artist id="4420">Uncle Sam</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

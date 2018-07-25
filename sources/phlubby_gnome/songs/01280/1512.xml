@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1512">
+ <title>Experimental</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.8065</rating>
+ 
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 08:03:33</locked_until>
+ <lastplayed>2018-06-11 07:24:56</lastplayed>
+ 
+ 
+ <pouetid>28</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2556">Dax</artist><artist id="1210">The Weasel</artist><artist id="1283">Unison (fr)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

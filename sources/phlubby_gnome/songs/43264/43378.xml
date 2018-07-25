@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43378">
+ <title>Technoworld remix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 09:46:27</locked_until>
+ <lastplayed>2018-04-30 18:04:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>364</pouetid>
+ <ytid>9KoUyFhddIs</ytid>
+ 
+ 
+ <artists>
+  <artist id="5681">Noisy Man</artist>
+ </artists>
+ <groups>
+  <group id="578">iguana</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Revolution</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

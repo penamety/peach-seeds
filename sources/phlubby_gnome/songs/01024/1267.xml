@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1267">
+ <title>Memorydust</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">4.186</rating>
+ <info>Used in a Bloodsuckers intro (cracktro), not on Pouet.</info>
+ <songlength>381</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 16:33:27</locked_until>
+ <lastplayed>2018-06-04 10:49:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>7861</pouetid>
+ <ytid>F7rmpNcxUEo</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="227">Codex</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?50529</url>
+    <comment>2 other versions are available</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/46128/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

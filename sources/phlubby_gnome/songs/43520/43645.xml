@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43645">
+ <title>PubSong (Peter is jarig)</title>
+ <status v="A">Active</status>
+ <bitrate>193</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ <info>Happy Birthday, FRaNKy!</info>
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 08:13:53</locked_until>
+ <lastplayed>2018-03-04 16:19:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>68440</pouetid>
+ <ytid>R153E4w2ROg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>birthday</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

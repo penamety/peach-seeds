@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35505">
+ <title>107</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.25</rating>
+ <info>From the winning demo &#34;107 years birthday jubilee&#34; from The End of the World party 2012.</info>
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-14 02:17:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58890</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="161">Accession</group><group id="646">Damones</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EndOfTheWorldParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

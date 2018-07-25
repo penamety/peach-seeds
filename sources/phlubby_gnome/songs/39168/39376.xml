@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39376">
+ <title>Fanfare for the Common Subi</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Written for the tracked music competition at Sundown 2013
+PLAY IT LOUD,
+THERE IS NO OTHER WAY.
+Thank you.</info>
+ <songlength>305</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-22 21:54:21</locked_until>
+ <lastplayed>2017-10-13 21:38:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1155">Subi</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24315">
+ <title>Non-Intel Inside</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.25</rating>
+ <info>A 8-channel STE mod.
+
+The 2nd _epilogue_ soundtrack from &#34;Coreflakes&#34; an Atari STE demo by New Core 1994.</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-26 11:02:51</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>11523</pouetid>
+ <ytid>VpLStuuUmmg</ytid>
+ <ytoffset>273</ytoffset>
+ 
+ <artists>
+  <artist id="3567">Shrimp</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>8chn</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>mod</tag>
+  
+  <tag>octalyser</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VpLStuuUmmg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/88448/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

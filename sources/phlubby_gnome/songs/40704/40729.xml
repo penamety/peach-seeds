@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40729">
+ <title>Black Sunshine</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.4444</rating>
+ <info>4th place at DiHalt 2014 in ZX Spectrum AY/YM/TurboAY Music compo.
+
+--------------------------
+Nick/Realname: Lamer Pinky / Petr Klusal
+Group: Gemba Boys
+Full name of work: Black Sunshine
+Compo: OldSchool 8-bit competitions (ZX Spectrum AY/YM-Music)
+Requirements: ZX Spectrum (and AY chip)
+Duration (minutes): 3:12
+Contacts: lamer.pinky@windowslive.com
+
+P.S.: Music is in ABC stereo :-)
+The music I did in Vortex Tracker, I attach a source file.
+The song is is not repeated after finish, I forbade loop.
+If there are any issues, please contact me via email. Thank You.
+I attach SNAP....is there Prometheus, just type RUN :-)
+
+CODE informations: Play routine: 49152,1617
+Music data: 51310,9408
+Lenght: 11570
+
+In assembler:
+
+init CALL 49152
+EI
+loop HALT
+CALL 49157 (init+5)
+JR,loop
+
+P.S.2: DiHalt rulezZz !!! :-)
+--------------------------</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 08:59:21</locked_until>
+ <lastplayed>2018-05-20 21:49:40</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5333">Lamer Pinky</artist>
+ </artists>
+ <groups>
+  <group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>4th</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37344/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

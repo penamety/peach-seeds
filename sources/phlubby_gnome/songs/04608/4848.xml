@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4848">
+ <title>Charella (TP4 Compo Version)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.4167</rating>
+ <info>* ranked #10 at The Party IV for the multichannel compo in 1994 *
+
+Thnx to Mellow-D for da
+DCD-Bass and to Edge for
+the cool guitar-sample.
+
+** TP4 Compo Version !!! **
+** TP4 Compo Version !!! **
+** TP4 Compo Version !!! **
+
+Please, try to find the
+release-version of Charella
+by M¡G / Weird Magic
+thnx.
+
+Date: December 11th 1994
+total playing time: 4:55
+
+      Love, M¡G</info>
+ <songlength>291</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-20 12:51:23</locked_until>
+ <lastplayed>2017-06-09 20:16:52</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="794">MiG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?71716</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/7045/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

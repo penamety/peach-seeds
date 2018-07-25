@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44877">
+ <title>Gaze</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.3333</rating>
+ <info>Gaze by ____blnk
+
+6th place in the Assembly 2016 (PC) Demo Competition.</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 17:13:05</locked_until>
+ <lastplayed>2018-05-26 17:27:07</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>67991</pouetid>
+ <ytid>YOwoYBAa0eI</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="5613">Shaiggon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YOwoYBAa0eI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/161565/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

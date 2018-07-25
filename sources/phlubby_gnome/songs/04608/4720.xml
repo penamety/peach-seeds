@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4720">
+ <title>High Grounded</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.7</rating>
+ <info>From the music disk &#34;blur plastiq&#34;, ftp://ftp.scene.org/mirrors/hornet/music/disks/1996/fm-plast.zip.  Notes from Mellow-D:
+
+        Very much rougher than the rest of the stuff.  I actually
+        turn down the amplification in FT2 because this is a bit
+        overdriven :). More filters in the leads.
+
+        Heh, do you hear that panning feedback thing?  Me and Mig
+        made that by plugging a mic into my effects processor,
+        plugging that into his set of analog effects, and going
+        (just once) &#34;ha&#34; into the microphone. No kidding. Wow.
+
+        This song has basically let off a lot of steam I had at
+        the time.
+</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 10:36:05</locked_until>
+ <lastplayed>2018-04-03 13:44:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist>
+ </artists>
+ <groups>
+  <group id="15">Five Musicians</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

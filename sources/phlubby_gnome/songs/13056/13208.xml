@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13208">
+ <title>Saboteur II</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.3833</rating>
+ <info>strangely the Amstrad version sounds cooler, someone should submit it too: http://www.youtube.com/watch?v=TRs9ys2RLug</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 23:40:03</locked_until>
+ <lastplayed>2018-06-13 18:46:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43419">
+ <title>Lifeline</title>
+ <status v="A">Active</status>
+ <bitrate>252</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ <info>Lift of Digital Terra
+
+This is my entry to Trip &#39;99... hope everyone has a great time at the party!</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-14 09:19:55</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="663">Lift</artist>
+ </artists>
+ <groups>
+  <group id="853">Digital Terra</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yPGVIST14Nk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?144071</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

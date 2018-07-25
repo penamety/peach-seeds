@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16874">
+ <title>Army moves</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.2353</rating>
+ <info>&#34;Colonel Bogey March&#34;, written by F. J. Ricketts in 1914</info>
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-14 20:25:04</locked_until>
+ <lastplayed>2017-07-07 09:58:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>march</tag>
+  
+  <tag>Military</tag>
+  
+  <tag>war</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

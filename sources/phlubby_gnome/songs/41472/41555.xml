@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41555">
+ <title>Shodan</title>
+ <status v="A">Active</status>
+ <bitrate>213</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="57">2.0351</rating>
+ <info>4# at csdb SID ambient compo (2014-2015)
+a stereo dualsid file
+recorded by mixer/origo dreamline
+</info>
+ <songlength>777</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-29 23:21:31</locked_until>
+ <lastplayed>2018-06-08 10:45:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2910">Jammer</artist>
+ </artists>
+ <groups>
+  <group id="818">MultiStyle Labs</group><group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>dualsid</tag>
+  
+  <tag>long</tag>
+  
+  <tag>polarizing</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=135870</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

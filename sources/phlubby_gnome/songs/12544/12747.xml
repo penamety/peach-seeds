@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12747">
+ <title>Wings of Death (ingame 1)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.4237</rating>
+ <info>Song format is Hippel, Amiga. However: &#34;As far I know there is no generic Hippel COSO player that plays level songs from Wings of Death well. Hence I decided to make a custom version, ripping the playroutine from the game. The playroutine used in W.O.D clearly differs from many HIPC players.&#34; (taken from [url=http://www.exotica.org.uk/wiki/Wings_of_Death]unexotica[/url]).
+
+[url=http://www.antialias.se/chiptunes/hip/]download .hip[/url]</info>
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 02:43:28</locked_until>
+ <lastplayed>2018-03-08 06:56:45</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>arpeggios</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>stereoseparation</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1724</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

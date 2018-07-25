@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13623">
+ <title>My Music, My Life</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.069</rating>
+ <info>Compo entry for streaming music compo at Breakpoint 2008, but the tune did not make it through the preselection.</info>
+ <songlength>175</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 06:34:11</locked_until>
+ <lastplayed>2018-06-17 11:39:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

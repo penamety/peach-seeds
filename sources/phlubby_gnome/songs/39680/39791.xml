@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39791">
+ <title>Groovy to the End</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>Switchback endpart</info>
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-12 01:31:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2744</pouetid>
+ <ytid>R3ZENQru1pE</ytid>
+ <ytoffset>343</ytoffset>
+ 
+ <artists>
+  <artist id="3912">Vocal</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>endpart</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>wahwah</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

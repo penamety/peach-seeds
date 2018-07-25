@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44724">
+ <title>Pure Bladestone</title>
+ <status v="A">Active</status>
+ <bitrate>2116</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.8571</rating>
+ <info>Released 4 August 2017
+11th in the Assembly 2017 Listening Music competition
+</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 03:16:20</locked_until>
+ <lastplayed>2018-05-23 20:38:23</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>S4KR9KEVvL0</ytid>
+ 
+ 
+ <artists>
+  <artist id="5784">rawArgon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=S4KR9KEVvL0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/176769/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://soundcloud.com/rawargon/pure-bladestone</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

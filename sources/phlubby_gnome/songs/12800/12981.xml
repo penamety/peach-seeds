@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12981">
+ <title>Some Pleasure</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.4559</rating>
+ <info>MOS6581R.
+[url=http://www.antialias.se/chiptunes/sid/]download .sid[/url]</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 00:05:20</locked_until>
+ <lastplayed>2018-06-10 02:21:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>5777</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

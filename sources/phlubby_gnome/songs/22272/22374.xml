@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22374">
+ <title>Pulsar 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.425</rating>
+ <info>from 1996 or something</info>
+ <songlength>448</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 09:28:18</locked_until>
+ <lastplayed>2018-05-31 14:27:59</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>hangover</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

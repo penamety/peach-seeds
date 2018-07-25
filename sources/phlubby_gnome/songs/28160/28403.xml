@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28403">
+ <title>Breaking Shiva</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">2.5068</rating>
+ <info>Lyrics: 
+
+We don&#39;t smoke marijuana in Muskogee;
+We don&#39;t take our trips on LSD
+We don&#39;t burn our draft cards down on Main Street;
+&#39;Cause we like livin&#39; right, and bein&#39; free.
+(Merle Haggard - Okie From Muskogee)</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 08:49:09</locked_until>
+ <lastplayed>2018-04-06 06:20:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>12030</pouetid>
+ <ytid>pYIwAk5JpCw</ytid>
+ 
+ 
+ <artists>
+  <artist id="481">Genox</artist>
+ </artists>
+ <groups>
+  <group id="238">Calodox</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Avant-garde</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Experimental</tag>
+  
+  <tag>Manamana</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>video</tag>
+  
+  <tag>yeah</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13820</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

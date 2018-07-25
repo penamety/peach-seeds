@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22460">
+ <title>Trial</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.7778</rating>
+ 
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 22:44:39</locked_until>
+ <lastplayed>2018-05-31 13:00:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9251</pouetid>
+ <ytid>Itv3f7o7Zac</ytid>
+ 
+ 
+ <artists>
+  <artist id="3344">Othon</artist>
+ </artists>
+ <groups>
+  <group id="852">Armada (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>BergenParty</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

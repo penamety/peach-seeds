@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39722">
+ <title>Introtune from Semiotic Semblance</title>
+ <status v="A">Active</status>
+ <bitrate>157</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4667</rating>
+ <info>Music from my Abduction 1995 64k intro &#34;Semiotic Semblance&#34;. It&#39;s a 6CHN MOD.</info>
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-26 18:12:01</locked_until>
+ <lastplayed>2018-01-06 21:18:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>11737</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/10191/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

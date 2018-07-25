@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9641">
+ <title>Turrican 3 Mix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.7419</rating>
+ <info>Original song by: Chris Huelsbeck.
+2A03 chippy cover by: Chibi-Tech. (2002)
+NES samples taken shamefully from Virt. (sans Konami-type DPCM drums)</info>
+ <songlength>334</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 02:44:17</locked_until>
+ <lastplayed>2017-11-26 04:30:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1799">Chibi-Tech</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

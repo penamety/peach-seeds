@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42113">
+ <title>Just Can&#39;t Get Enough</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.6957</rating>
+ <info>The music has been entirely made on Sinclair ZX Spectrum 48K with AY-interface. 
+3 channels of ZX SoundTracker 1.1.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:05:09</locked_until>
+ <lastplayed>2018-06-11 17:31:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>DepecheMode</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

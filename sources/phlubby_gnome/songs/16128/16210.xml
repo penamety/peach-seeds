@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16210">
+ <title>Sehablad Routines</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-11 03:39:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2548</pouetid>
+ <ytid>jDUOZDwseA8</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="3232">Mordicus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Juhla2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

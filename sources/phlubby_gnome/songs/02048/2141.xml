@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2141">
+ <title>Astral Ian Breakside</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.025</rating>
+ <info>The source is an 8-channel FastTracker MOD file. (Existing S3M version seems like a direct conversion.)</info>
+ <songlength>472</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 06:33:40</locked_until>
+ <lastplayed>2018-05-14 22:27:45</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>IDM</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

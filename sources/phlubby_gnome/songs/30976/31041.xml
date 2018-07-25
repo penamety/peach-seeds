@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31041">
+ <title>Gerbera</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.6667</rating>
+ 
+ <songlength>235</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 19:34:21</locked_until>
+ <lastplayed>2018-04-29 22:48:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>3286</pouetid>
+ <ytid>r8qcPl6uLEQ</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1553">Sumo Lounge</artist>
+ </artists>
+ <groups>
+  <group id="428">Moppi Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Dub</tag>
+  
+  <tag>lounge</tag>
+  
+  <tag>Record</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=r8qcPl6uLEQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

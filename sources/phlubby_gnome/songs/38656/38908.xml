@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38908">
+ <title>Scrap Brain Zone - 8Bit</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.6364</rating>
+ <info>Scrap Brain Zone from Sonic the Hedgehog.
+This is a 8Bit arrangement</info>
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-08 07:07:43</locked_until>
+ <lastplayed>2018-02-12 23:21:32</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2193">Advertise Play</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Sonic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

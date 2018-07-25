@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8978">
+ <title>JT_house (theme from sexpress)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.3023</rating>
+ <info>Remix of Jeroen Tel&#39;s C64 tune S-Express, which in itself was inspired by the Theme from S&#39;Express by Mark Moore &amp; Pascal Gabriel.</info>
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 05:49:41</locked_until>
+ <lastplayed>2018-06-03 07:49:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1750">JO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

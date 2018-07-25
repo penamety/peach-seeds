@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15938">
+ <title>fr-08 (loader)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.7955</rating>
+ 
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 04:18:31</locked_until>
+ <lastplayed>2018-06-17 10:40:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>13261</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2412">Ciaran</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>bossanova</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>ElevatorMusic</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

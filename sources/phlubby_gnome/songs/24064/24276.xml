@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24276">
+ <title>Probetune</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="35">3.9429</rating>
+ 
+ <songlength>409</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 19:51:09</locked_until>
+ <lastplayed>2018-05-22 15:34:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>demostyle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

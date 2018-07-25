@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4489">
+ <title>The Black Lion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.0217</rating>
+ <info>From [url]http://kestra.exotica.org.uk/demo.php?id=1071[/url]</info>
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-08 12:10:03</locked_until>
+ <lastplayed>2018-05-08 13:21:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

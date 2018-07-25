@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27106">
+ <title>Blunderbuss</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">3.9238</rating>
+ <info>2nd place in combined demo compo at Main 2009
+
+Lyrics:
+I thought it would be easy but it was not 
+I&#39;m back at the start with a blunderbuss 
+
+Always had a lot of things 
+Always had a lot of things 
+Always had a lot of things to do 
+
+Always had a lot of things 
+Always had a lot of things 
+Always had a lot of things to do 
+
+I thought it would be easy but it was not 
+It&#39;s proven, it&#39;s proven with my blunderbuss 
+The feeble marks it leaves when it triggers 
+You can have my blunderbuss 
+As long as you will promise to polish it and laugh with it and then 
+Kill a lot of men with it 
+
+I always had a lot of things 
+Always had a lot of things 
+Always had a lot of things to do 
+
+Always had a lot of things 
+Always had a lot of things 
+And it will grow and then loose all sense I have</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 03:19:31</locked_until>
+ <lastplayed>2018-06-08 04:29:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53950</pouetid>
+ <ytid>VCpYH8yDK8g</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1323">Bliss</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=VCpYH8yDK8g</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38935">
+ <title>The Fisherking</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 04:08:39</locked_until>
+ <lastplayed>2018-06-11 04:03:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Melancholic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

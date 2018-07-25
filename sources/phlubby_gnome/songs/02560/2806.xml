@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2806">
+ <title>Sandra</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.0741</rating>
+ 
+ <songlength>273</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-27 05:49:29</locked_until>
+ <lastplayed>2017-06-18 23:31:03</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist><artist id="506">Haggeman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Lyrics</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

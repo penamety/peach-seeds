@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41866">
+ <title>Changing Times</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.4375</rating>
+ <info>An entry to Revision 2015 tracked music competition.
+
+Also, his first XM composed after years of absence (his last activity could be around 1997-98).. this one has an oldschool vibe to it and done using MilkyTracker, well it doesn&#39;t look that bad but a bit away from being terrible.</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 12:40:46</locked_until>
+ <lastplayed>2018-06-11 10:16:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136002/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44023">
+ <title>Dembele</title>
+ <status v="A">Active</status>
+ <bitrate>241</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>My contribution to the 7th issue of the &#34;Chiperia&#34; chiptunes series.
+-&gt; &#34;Dembele&#34;, Amiga MOD-File, 4ch, 17kb original size &lt;-</info>
+ <songlength>93</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 19:48:20</locked_until>
+ <lastplayed>2018-03-07 12:45:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>69679</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="2">Haujobb</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiperia</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=T07k-Xl1VKc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/170831/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

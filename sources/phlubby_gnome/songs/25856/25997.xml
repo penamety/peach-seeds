@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25997">
+ <title>Rodeo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.4211</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-02 02:51:54</locked_until>
+ <lastplayed>2017-12-13 01:24:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9667</pouetid>
+ <ytid>Ieor9v8S7QE</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="2046">Ukulele</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

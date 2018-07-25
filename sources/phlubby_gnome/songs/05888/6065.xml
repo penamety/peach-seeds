@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6065">
+ <title>Lightyears</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.2286</rating>
+ 
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 00:36:14</locked_until>
+ <lastplayed>2018-04-17 15:54:07</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>14171</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

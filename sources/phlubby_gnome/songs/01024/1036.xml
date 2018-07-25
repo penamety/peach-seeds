@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1036">
+ <title>Turrican 2 (title renewal)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="127">4.5906</rating>
+ <info>Track #6 of the commercial CD &#34;Chris Hülsbeck In The Mix&#34;, 2000.
+[url=http://vgmdb.net/album/8145]Album info[/url]</info>
+ <songlength>445</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 20:50:22</locked_until>
+ <lastplayed>2018-06-04 13:47:46</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4433">Nebularia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

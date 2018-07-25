@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42904">
+ <title>Journey to Unknown</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.7</rating>
+ <info>----------------------
+Journey to Unknown
+----------------------
+Composed by
+   KaLu / Napalm
+
+Playing time: 3:07
+
+Greetings to:
+Breadfan, Dire Sire,
+Pekkis, Lökö, Juffoo,
+Unsigned, Hazu, KiNGi,
+MacTumi, Manhunter
+and all musicians in
+Finland.....
+
+Contact:
+Call Juho&#39;s Place and
+leave mail to
+Pete Hakkarainen.
+
+Play with FT2 in MONO!
+
+Napalm support board:
+--- Juho&#39;s Place ---
+tel. 358-71-3614966
+
+(c) 1995 KaLu Studios</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:29:42</locked_until>
+ <lastplayed>2018-06-07 20:32:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5648">KaLu</artist>
+ </artists>
+ <groups>
+  <group id="844">Napalm Software</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Uplifting</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?169381</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39649">
+ <title>Elevator Tune</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>instrument list:
+001	Tune title:	
+002	&#34;Elevator Tune&#34;	
+003	Composer:	
+004	Marek Roczniak	
+005	e-mail:	
+006	roczniak@tg.onet.pl	
+007	Tune completed:	
+008	14.08.1998	
+009		
+010		
+011		
+
+sample list:
+001	GUS PnP Epiano2 0	(16 bit - 7970)
+002	GUS PnP Epiano2 1	(16 bit - 4843)
+003	Acpiano0	(16 bit - 5188)
+004	Acpiano1	(16 bit - 3009)
+005	Acpiano2	(16 bit - 7114)
+006	Propoats Halopad	(16 bit - 34090)
+007	Follow You Synth	(8 bit - 55404)
+008	Vibes	(16 bit - 10631)
+009	Fretless	(16 bit - 81423)
+010	Hihatcl	(16 bit - 4559)
+011	SC Cymcrash	(16 bit - 57886)
+012	Kick2	(16 bit - 5021)
+013	SC Snare1	(16 bit - 11428)
+014	Cymride1	(16 bit - 17660)
+</info>
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 19:36:07</locked_until>
+ <lastplayed>2017-11-25 13:14:04</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4047">Marek Roczniak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>lounge</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

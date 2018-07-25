@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25641">
+ <title>Da Beat Goes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.875</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-24 14:02:37</locked_until>
+ <lastplayed>2017-08-12 06:27:40</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1219">Timer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

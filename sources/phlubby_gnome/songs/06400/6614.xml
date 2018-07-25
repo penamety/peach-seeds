@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6614">
+ <title>The Dragon Door</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.9767</rating>
+ <info>Remixed to be used in The Last Ninja Engine S1 v9.02 by SoA (aka Spirit of Armakuni)</info>
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 21:49:34</locked_until>
+ <lastplayed>2018-05-29 10:18:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1105">SoA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Ninja</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

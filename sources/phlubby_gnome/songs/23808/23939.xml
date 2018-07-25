@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23939">
+ <title>Grinimal</title>
+ <status v="A">Active</status>
+ <bitrate>185</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ 
+ <songlength>370</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 00:24:30</locked_until>
+ <lastplayed>2018-05-06 03:52:28</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>31658</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

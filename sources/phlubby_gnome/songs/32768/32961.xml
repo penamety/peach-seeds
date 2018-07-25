@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32961">
+ <title>Leave Me Alone</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="42">3.5476</rating>
+ 
+ <songlength>346</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 05:45:42</locked_until>
+ <lastplayed>2018-04-12 22:49:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>8891</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1591">WOTW</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+  <tag>desperate</tag>
+  
+  <tag>Jarre</tag>
+  
+  <tag>megamix</tag>
+  
+  <tag>Sad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

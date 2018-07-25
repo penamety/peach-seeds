@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6104">
+ <title>Monday</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="148">4.7297</rating>
+ 
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 01:32:29</locked_until>
+ <lastplayed>2018-06-06 00:58:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11095</pouetid>
+ <ytid>JlXwmw8UY9w</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="988">Random Voice</artist>
+ </artists>
+ <groups>
+  <group id="105">Symbiosis</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/1204/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?52354</url>
+    <comment>ModArchive link in the description is broken, this ID is the valid one</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

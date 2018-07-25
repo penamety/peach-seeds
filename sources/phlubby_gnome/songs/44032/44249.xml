@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44249">
+ <title>Scoopex Theme</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>Music from the Amiga demo Glory Stars by Scoopex released in 1989 at Summer Conference copy party. Coded by Vectrex, Graphics by JOE and Vectrex, Music by Osterman.</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 10:21:44</locked_until>
+ <lastplayed>2018-05-09 12:54:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1332</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5747">Osterman</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>DigiTech</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12427">
+ <title>Main 4 Invitation</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">4.0676</rating>
+ <info>Invitation for Main 2009</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 05:12:28</locked_until>
+ <lastplayed>2018-06-12 09:56:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53920</pouetid>
+ <ytid>ZzvEHbTzcqQ</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1591">WOTW</artist>
+ </artists>
+ <groups>
+  <group id="158">Alcatraz</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZzvEHbTzcqQ</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

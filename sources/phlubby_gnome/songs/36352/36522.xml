@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36522">
+ <title>Mr. Droichen</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.6364</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-02 13:12:10</locked_until>
+ <lastplayed>2017-07-08 01:17:53</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>59794</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>DiHALT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

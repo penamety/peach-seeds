@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38483">
+ <title>Lena Handens Secret</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.1304</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-17 07:00:32</locked_until>
+ <lastplayed>2018-02-28 01:52:07</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59096</pouetid>
+ <ytid>T4N6WZgzcH0</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="3200">mch</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=T4N6WZgzcH0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

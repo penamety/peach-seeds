@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43335">
+ <title>Estee-01</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ <info>Soundtrack for Amica Mackig by Fiture Crew Lamer Section. 5th at Assembly 2016 oldskool demo compo.
+
+Made entirely with ST-01 samples.</info>
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 21:23:37</locked_until>
+ <lastplayed>2018-06-02 02:08:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>67904</pouetid>
+ <ytid>m2pgZmSh70o</ytid>
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  <group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=m2pgZmSh70o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/161423/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29632">
+ <title>Cantalope</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.5789</rating>
+ <info>Ranked 16th in the music compo at Solskogen 2010.</info>
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 01:52:12</locked_until>
+ <lastplayed>2018-06-16 19:36:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1405">Hansee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>food</tag>
+  
+  <tag>LogicAudio</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

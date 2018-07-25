@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7272">
+ <title>Abraham</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">1.7</rating>
+ 
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-25 12:12:59</locked_until>
+ <lastplayed>2018-01-30 02:28:51</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="610">Karl</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

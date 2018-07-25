@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28657">
+ <title>Bizarria Sorollosa</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.1667</rating>
+ <info>10th @ BreakPoint 2010 - Executable Music Newschool</info>
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 10:20:23</locked_until>
+ <lastplayed>2017-09-13 22:18:36</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4115">Supersole</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

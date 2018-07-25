@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42940">
+ <title>8 Perfect Circles</title>
+ <status v="A">Active</status>
+ <bitrate>667</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.8889</rating>
+ 
+ <songlength>80</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 10:10:18</locked_until>
+ <lastplayed>2018-04-27 21:13:57</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>7312</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4373">Pipe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>softsynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

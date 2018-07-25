@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35685">
+ <title>Parallelogram</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="88">4.2727</rating>
+ <info>Wild compo winner @ Revision 2012</info>
+ <songlength>337</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:36:55</locked_until>
+ <lastplayed>2018-06-12 13:28:58</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>59100</pouetid>
+ <ytid>h42neZVvoMY</ytid>
+ <ytoffset>103</ytoffset>
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Glockenspiel</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>technically-awesome</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33277">
+ <title>Cybernetik Bee</title>
+ <status v="B">Banned</status>
+ <bitrate>89</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">1.12</rating>
+ <info>[url]http://files.tomek.cedro.info/cederom/muzik/CeDeROM-CYBERNETIK_BEE.ogg[/url]</info>
+ <songlength>408</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-06-25 15:36:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

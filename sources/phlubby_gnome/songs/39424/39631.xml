@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39631">
+ <title>Out Of The Mist</title>
+ <status v="A">Active</status>
+ <bitrate>470</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">4.0769</rating>
+ <info>4th place in Atari ST/STE YM2149 Music Compo at Silly Venture 2013</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:03:20</locked_until>
+ <lastplayed>2018-06-04 22:48:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

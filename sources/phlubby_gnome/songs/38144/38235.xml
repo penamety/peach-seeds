@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38235">
+ <title>Passion</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.2609</rating>
+ 
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-10 19:46:20</locked_until>
+ <lastplayed>2017-08-03 08:36:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>21408</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5316">Cool</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>megademo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

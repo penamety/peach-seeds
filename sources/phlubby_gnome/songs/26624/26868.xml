@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26868">
+ <title>Prelude To Heaven</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">3.4762</rating>
+ <info>Soundtrack from &#34;NAID &#39;96 Invtro&#34; by The Apraxia Factor.</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-09 00:26:21</locked_until>
+ <lastplayed>2017-06-02 07:48:22</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>55076</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1211">The Zapper</artist>
+ </artists>
+ <groups>
+  <group id="799">Force 10</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>NAID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

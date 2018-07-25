@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37284">
+ <title>Tune Disk Intro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>From the intro for &#34;Tune Disk&#34; by Concept in 1990
+
+Format: SidMon 1.0</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 19:53:06</locked_until>
+ <lastplayed>2017-10-28 08:18:37</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11027</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

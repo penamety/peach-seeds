@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38324">
+ <title>T-ravel</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.25</rating>
+ 
+ <songlength>185</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 14:09:50</locked_until>
+ <lastplayed>2017-10-05 21:39:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>61114</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5204">Mellon</artist><artist id="5203">Siracon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Buzz</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

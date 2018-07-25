@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42915">
+ <title>In Random Orbit (Sea of Colour Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>68</bitrate>
+ <samplerate>25033</samplerate>
+ <rating votes="13">4.1538</rating>
+ <info>Ranked 1st in Sommarhack 2015 combined demo/intro compo</info>
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 06:21:32</locked_until>
+ <lastplayed>2018-05-19 02:16:03</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>65921</pouetid>
+ <ytid>oarR61SeY8E</ytid>
+ <ytoffset>28</ytoffset>
+ 
+ <artists>
+  <artist id="424">Excellence in Art</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Sommarhack</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=oarR61SeY8E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/140822/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/141034/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

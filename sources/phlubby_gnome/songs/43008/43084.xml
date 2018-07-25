@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43084">
+ <title>RBBS funtro soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.7895</rating>
+ <info>from PC demo &#34;We Have Accidentally Your Whole Audience&#34;, Revision 2015 (16th place)</info>
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 11:48:37</locked_until>
+ <lastplayed>2018-06-15 16:47:01</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>65437</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5522">Tenfour</artist>
+ </artists>
+ <groups>
+  <group id="499">Royal Belgian Beer Squadron [RBBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Uplifting</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136327/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

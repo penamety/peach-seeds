@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4872">
+ <title>So Boring</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ 
+ <songlength>407</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 13:43:10</locked_until>
+ <lastplayed>2017-10-04 22:24:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>51041</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="801">Daeron</artist><artist id="2132">Misty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

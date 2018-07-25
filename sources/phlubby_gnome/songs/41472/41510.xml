@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41510">
+ <title>Sigma 7</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.6842</rating>
+ 
+ <songlength>512</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 12:07:59</locked_until>
+ <lastplayed>2018-06-04 09:11:48</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5565">Suha</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

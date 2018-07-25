@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43070">
+ <title>CS4</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.2105</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 05:17:11</locked_until>
+ <lastplayed>2018-03-16 11:41:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>18595</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5657">Enno</artist>
+ </artists>
+ <groups>
+  <group id="270">Alpha Flight [AFL]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>DepecheMode</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

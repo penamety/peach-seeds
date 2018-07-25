@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38273">
+ <title>This is a Name</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>From the Atari ST/e demo &#34;Sound of the Unexpected&#34;.</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 01:15:11</locked_until>
+ <lastplayed>2017-11-19 03:32:57</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>22398</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

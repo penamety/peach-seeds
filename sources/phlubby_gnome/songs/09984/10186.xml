@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10186">
+ <title>Scream</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.0</rating>
+ <info>4th place at Lato Ludzików 2002 Music Compo.</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 03:05:05</locked_until>
+ <lastplayed>2018-05-30 21:55:40</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1829">Epi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

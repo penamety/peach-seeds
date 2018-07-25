@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28031">
+ <title>Bedtime Story</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.8615</rating>
+ <info>http://www.8bitpeoples.com/discography/by/virt</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 08:13:38</locked_until>
+ <lastplayed>2018-05-31 21:16:00</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10122">
+ <title>Knight Rider Zipf</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">3.7045</rating>
+ 
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-03 22:41:03</locked_until>
+ <lastplayed>2018-05-01 04:43:05</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

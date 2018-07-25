@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2719">
+ <title>Space Harrier</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.7143</rating>
+ 
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-02 04:45:25</locked_until>
+ <lastplayed>2017-08-27 03:06:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>9142</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="459">Fred</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

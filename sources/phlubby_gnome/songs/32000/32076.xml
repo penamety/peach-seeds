@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32076">
+ <title>Enigma Intro tune</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.413</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 22:51:51</locked_until>
+ <lastplayed>2018-06-07 16:52:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>9299</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  <group id="52">20th Century Composers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28643">
+ <title>Rainbow Flows</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9167</rating>
+ <info>From Breakpoint 2010: pc 4k competition</info>
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 12:00:52</locked_until>
+ <lastplayed>2018-04-04 16:47:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54539</pouetid>
+ <ytid>7K7O1BqMXZY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41781">
+ <title>A Quicky in Silva</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="22">3.2727</rating>
+ <info>This is a Remix of Chris Huelsbeck&#39;s Quick and Silva Ingame Soundtrack - level 1</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 17:14:40</locked_until>
+ <lastplayed>2018-05-22 08:06:14</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

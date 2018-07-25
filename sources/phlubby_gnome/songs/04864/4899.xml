@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4899">
+ <title>Grosshouse</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.3182</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-28 05:02:45</locked_until>
+ <lastplayed>2017-12-03 16:02:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3841</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="806">Moby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42402">
+ <title>EatMe - Break_Top.xm</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.1111</rating>
+ <info>EatMe - Break_Top.xm 
+can be the name of this song, as it should appear in the database
+
+Info:
+This the mp3 version of an .xm for ModPlug Tracker 11.63 by Olivier Lapicque or newer (OpenMPT)
+
+made by EatMe - http://eatme.pro with samples of Yamaha SY-77 synthesizer
+
+some rights reserved, see http://creativecommons.org/licenses/by-nc-nd/3.0/ by EatMe - http://eatme.pro </info>
+ <songlength>315</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-10 07:00:15</locked_until>
+ <lastplayed>2017-08-29 16:36:16</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4039">EatMe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

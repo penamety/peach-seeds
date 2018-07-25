@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12823">
+ <title>Gods - Into the Wonderful [2k7 Techhouse Remix]</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="77">3.7143</rating>
+ 
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 03:34:02</locked_until>
+ <lastplayed>2018-04-06 13:17:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>33973</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  <group id="263">The Ravebusters</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>TechHouse</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

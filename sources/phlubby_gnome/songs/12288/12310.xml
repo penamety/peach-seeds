@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12310">
+ <title>Ragnov</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.5417</rating>
+ <info>This music is from unfinished game called Ragnov
+
+The preview version of the game exists. It features split screen two player action, tiny guys with jetpacks flying in blue tunnels and shooting enemies.</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 17:02:15</locked_until>
+ <lastplayed>2018-04-07 22:11:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2009">Soundmaster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Heroic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

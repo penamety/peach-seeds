@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8317">
+ <title>Elements</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">3.7117</rating>
+ <info>1st place in combined demo compo at The Party 2001
+
+Lyrics:
+Yo! Where my party people at? aha!
+From the north, south, east and west
+We brought the party yo, we brought the party yo, aha!
+Lemme see you do that dance, yo!
+Come step to me, the time is right
+Cause you&#39;re looking kinda fly tonight, yo!
+We brought the party yo, we brought the party yo, aha!
+
+I&#39;m high, oh I&#39;m high, oh I&#39;m high baby
+I&#39;m just sitting here smoking,
+I&#39;m just sitting here smoking,
+I want you to get me high up that blunt
+Take a smoke!</info>
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 04:49:01</locked_until>
+ <lastplayed>2018-06-12 10:58:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>4776</pouetid>
+ <ytid>oZLwhbF3bm0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1618">Tasium</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>420</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>drugs</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>Hip-Hop</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Smoking</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12513</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=oZLwhbF3bm0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8382">
+ <title>Sacha</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.0968</rating>
+ 
+ <songlength>371</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 13:43:27</locked_until>
+ <lastplayed>2018-05-19 23:57:18</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Mellow</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3002">
+ <title>Rento meininki</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ 
+ <songlength>73</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:19:03</locked_until>
+ <lastplayed>2018-06-09 04:26:57</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Tempochange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

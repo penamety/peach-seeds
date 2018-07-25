@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29222">
+ <title>Dark-Like Spectrum</title>
+ <status v="A">Active</status>
+ <bitrate>253</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0</rating>
+ <info>First place on TUM 2009 streamed music compo.
+
+Composed earlier for a game (that got stuck in development) from the user Speeder (the uploader).
+
+But the compo version has different lead melody.
+
+This is the compo version (the game version is unreleased and has different name).</info>
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 05:18:42</locked_until>
+ <lastplayed>2018-02-13 15:52:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

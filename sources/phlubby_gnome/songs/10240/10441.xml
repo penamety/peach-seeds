@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10441">
+ <title>Skate Or Die Intro</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">3.5132</rating>
+ <info>Reupped.</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 07:35:57</locked_until>
+ <lastplayed>2018-05-05 05:46:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>C64samples</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="61">
+ <title>Enjoy the Silence</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="128">3.9688</rating>
+ 
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 09:18:35</locked_until>
+ <lastplayed>2018-05-19 00:19:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>12452</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>DepecheMode</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

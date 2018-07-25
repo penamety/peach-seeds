@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22246">
+ <title>Fletch</title>
+ <status v="A">Active</status>
+ <bitrate>194</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">4.2558</rating>
+ 
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 11:36:18</locked_until>
+ <lastplayed>2018-06-06 01:01:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5088</pouetid>
+ <ytid>HxUoZqv948k</ytid>
+ 
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>KefrensAndDexionParty</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

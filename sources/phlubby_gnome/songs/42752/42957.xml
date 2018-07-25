@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42957">
+ <title>Brutal Attack</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Ranked 5th in Silly Venture 2014 Falcon music compo. Coop with Tfardy.</info>
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 10:47:11</locked_until>
+ <lastplayed>2018-04-07 21:50:50</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/128180/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

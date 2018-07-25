@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32011">
+ <title>Offline</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">3.5273</rating>
+ <info>Made with MadTracker 2.6.</info>
+ <songlength>650</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 19:04:12</locked_until>
+ <lastplayed>2018-05-13 18:39:22</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>32691</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4691">Maxus</artist>
+ </artists>
+ <groups>
+  <group id="341">ALLien Senses</group><group id="528">New Age Beats</group>
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>long</tag>
+  
+  <tag>madtracker2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

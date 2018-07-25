@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5509">
+ <title>Auf wiedersehen monty monty is alive remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ 
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-30 17:42:32</locked_until>
+ <lastplayed>2017-08-22 04:11:03</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="896">Oxygener</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

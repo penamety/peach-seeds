@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30952">
+ <title>Take Me Tonight</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.5556</rating>
+ 
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 20:17:53</locked_until>
+ <lastplayed>2018-06-02 00:21:53</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>32099</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1522">Rebb</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42908">
+ <title>In the Desert</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>From &#34;Just Musix 4&#34; Atari Falcon music disk by DHS</info>
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-06 03:23:54</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>16165</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3773">Toodeloo</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

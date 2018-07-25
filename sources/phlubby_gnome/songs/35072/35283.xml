@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35283">
+ <title>Hempel&#39;s Covering-Law Funk (or Marmelade Zone act 1)</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.7143</rating>
+ <info>Composer&#39;s first effort to create SID music
+
+A Goattracker song
+
+</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2017-09-23 10:21:51</locked_until>
+ <lastplayed>2017-09-17 11:22:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/17629/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

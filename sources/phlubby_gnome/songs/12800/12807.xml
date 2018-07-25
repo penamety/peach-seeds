@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12807">
+ <title>Gaiares - stage 1 theme (the t-braster mix)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>Orignal by Sachio Ogawa.</info>
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2017-05-30 18:36:33</locked_until>
+ <lastplayed>2017-05-28 00:38:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="994">Rayza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://project2612.org/details.php?id=24</url>
+    <comment></comment>
+    <type id="10">
+        <name>Project2612</name>
+        <icon>/static/media/linkicons/project2612-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

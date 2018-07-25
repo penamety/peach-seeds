@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9224">
+ <title>Zimmah Queue</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="98">4.5102</rating>
+ <info>5th in the mp3 music compo @ Assembly 2000.</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 21:57:02</locked_until>
+ <lastplayed>2018-06-12 08:00:27</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist><artist id="1190">Teque</artist>
+ </artists>
+ <groups>
+  <group id="84">Trauma Child Genesis [TCG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

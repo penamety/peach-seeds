@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8362">
+ <title>V Medley (CD21 Light at the End of the Tunnel Medley)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9394</rating>
+ <info>A medley of all Merregnon tunas</info>
+ <songlength>277</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 18:09:39</locked_until>
+ <lastplayed>2018-04-17 22:22:22</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>medley</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

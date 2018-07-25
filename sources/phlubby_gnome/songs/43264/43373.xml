@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43373">
+ <title>Dark Days</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0</rating>
+ 
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-28 16:00:01</locked_until>
+ <lastplayed>2018-06-17 01:02:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3868</pouetid>
+ <ytid>tzfZ23TFR3A</ytid>
+ <ytoffset>2360</ytoffset>
+ 
+ <artists>
+  <artist id="1755">Zodiak</artist>
+ </artists>
+ <groups>
+  <group id="452">cascada</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

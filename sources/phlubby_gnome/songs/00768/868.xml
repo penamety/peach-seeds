@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="868">
+ <title>Lane</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ 
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 15:13:32</locked_until>
+ <lastplayed>2017-12-03 19:53:27</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>88</pouetid>
+ <ytid>ZfJ5WRpf03Q</ytid>
+ 
+ 
+ <artists>
+  <artist id="165">Carebear</artist>
+ </artists>
+ <groups>
+  <group id="51">Blasphemy</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

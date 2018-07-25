@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10193">
+ <title>He-Man</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">3.5921</rating>
+ <info>SID from the 1987 computer game.</info>
+ <songlength>64</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 04:02:56</locked_until>
+ <lastplayed>2018-03-03 15:49:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>_U5e4EMpvF0</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="110">Ben Daglish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>he-man</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_U5e4EMpvF0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

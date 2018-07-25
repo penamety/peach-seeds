@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44436">
+ <title>Otherwise Instructed</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.0</rating>
+ <info>9th in the TRSAC 2017 Streaming Music competition
+</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 18:51:40</locked_until>
+ <lastplayed>2018-03-27 09:03:18</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5755">Bex</artist>
+ </artists>
+ <groups>
+  <group id="849">Slipstream</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/179470/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

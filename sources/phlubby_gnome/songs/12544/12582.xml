@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12582">
+ <title>Sound Fields (original version)</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9</rating>
+ <info>Album: 8 BIT IS ENUFF
+Download: http://ay-riders.speccy.cz/003.htm</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 18:20:39</locked_until>
+ <lastplayed>2018-05-27 18:07:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

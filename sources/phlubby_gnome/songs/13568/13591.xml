@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13591">
+ <title>Loop demo edit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.4</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-03 08:52:56</locked_until>
+ <lastplayed>2017-06-22 23:57:58</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>7521</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2180">Acell</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>SpringBreak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

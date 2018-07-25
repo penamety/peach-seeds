@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30615">
+ <title>Generations</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.9091</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 01:10:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>48551</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3792">Tricktrax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Generation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

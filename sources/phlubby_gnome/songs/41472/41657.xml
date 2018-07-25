@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41657">
+ <title>Transcendent Parts</title>
+ <status v="A">Active</status>
+ <bitrate>940</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>2nd in the @Party 2012 Freestyle Music competition
+
+Download: https://soundcloud.com/virek/transcendent-parts</info>
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 03:54:48</locked_until>
+ <lastplayed>2018-04-06 13:05:38</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5582">Virek</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/36695/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

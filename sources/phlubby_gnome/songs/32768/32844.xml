@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32844">
+ <title>Struct</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="111">4.5225</rating>
+ <info>3rd place in combined demo compo at The Gathering 2011</info>
+ <songlength>192</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 22:21:27</locked_until>
+ <lastplayed>2018-06-08 13:21:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56929</pouetid>
+ <ytid>u1n8uYmi9W8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1416">Irvin</artist>
+ </artists>
+ <groups>
+  <group id="9">Outracks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>fanfare</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=u1n8uYmi9W8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

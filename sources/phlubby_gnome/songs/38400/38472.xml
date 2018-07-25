@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38472">
+ <title>Nebula</title>
+ <status v="A">Active</status>
+ <bitrate>305</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.3243</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 14:23:32</locked_until>
+ <lastplayed>2018-03-17 00:03:10</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>7wtHJa-CAmw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5348">Winks</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

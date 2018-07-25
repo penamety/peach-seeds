@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1912">
+ <title>Digital Perception</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.5263</rating>
+ 
+ <songlength>233</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 20:21:23</locked_until>
+ <lastplayed>2018-03-31 04:22:59</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>51130</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="367">Dragonfly</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

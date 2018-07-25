@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35814">
+ <title>Improvisation #3</title>
+ <status v="A">Active</status>
+ <bitrate>206</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 12:06:00</locked_until>
+ <lastplayed>2018-04-05 10:09:03</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5099">Ivan Roshin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

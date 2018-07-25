@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27772">
+ <title>The Origo Gardeners</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.1379</rating>
+ <info>Dune&#39;s and Yolk&#39;s co-operative work for the DOS demo called &#34;CNCD vs. Orange&#34;. Released on The Gathering 1997 and took 1st place.</info>
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 14:46:06</locked_until>
+ <lastplayed>2018-05-10 05:57:28</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1326</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist><artist id="1713">Yolk</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Beat</tag>
+  
+  <tag>crunchy</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

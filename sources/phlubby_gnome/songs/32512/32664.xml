@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32664">
+ <title>pp-kg05</title>
+ <status v="A">Active</status>
+ <bitrate>187</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.4074</rating>
+ <info>1st place in combined demo compo at Kindergarden 2005</info>
+ <songlength>189</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 18:32:37</locked_until>
+ <lastplayed>2018-06-07 10:55:28</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>20209</pouetid>
+ <ytid>_ML-PDBtiZA</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_ML-PDBtiZA</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

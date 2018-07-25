@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12526">
+ <title>Fable</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.44</rating>
+ 
+ <songlength>453</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 10:54:14</locked_until>
+ <lastplayed>2018-06-04 07:34:21</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>RobertMiles</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

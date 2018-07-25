@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5327">
+ <title>Streets of Venice</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.2326</rating>
+ <info>3rd place at remedy98</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 15:57:45</locked_until>
+ <lastplayed>2018-06-01 02:43:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>Remedy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

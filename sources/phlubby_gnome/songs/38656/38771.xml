@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38771">
+ <title>CrazyLove #2 Rains</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.8929</rating>
+ <info>Soundtrack from the end part of the &#34;Crazy Love&#34; demo by Power Group, 8th place at FunTop 1998.
+Original song &#34;Rains&#34; (Dozhdi) performed by Marina Hlebnikova.</info>
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 06:59:35</locked_until>
+ <lastplayed>2018-06-02 14:18:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>c90_pxzb6AQ</ytid>
+ <ytoffset>250</ytoffset>
+ 
+ <artists>
+  <artist id="5289">Ishma</artist>
+ </artists>
+ <groups>
+  <group id="722">Power Group</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>FunTop</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=c90_pxzb6AQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/27542/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

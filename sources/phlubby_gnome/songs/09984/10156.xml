@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10156">
+ <title>Aevias</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.4792</rating>
+ 
+ <songlength>323</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 20:20:53</locked_until>
+ <lastplayed>2017-10-24 22:39:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>59047</pouetid>
+ <ytid>PWcnvkNjNgo</ytid>
+ <ytoffset>77</ytoffset>
+ 
+ <artists>
+  <artist id="1818">DeathJester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

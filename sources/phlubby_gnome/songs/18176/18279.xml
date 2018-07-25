@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18279">
+ <title>Jamboree</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.1304</rating>
+ 
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 06:02:40</locked_until>
+ <lastplayed>2018-02-28 11:51:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>1671</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>steeldrums</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

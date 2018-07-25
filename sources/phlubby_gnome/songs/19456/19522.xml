@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19522">
+ <title>Dune&#39;s K remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.8507</rating>
+ 
+ <songlength>264</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 01:59:35</locked_until>
+ <lastplayed>2018-06-08 10:38:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1417</pouetid>
+ <ytid>dFSXwjC6b_Q</ytid>
+ <ytoffset>182</ytoffset>
+ 
+ <artists>
+  <artist id="571">Jeff</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group><group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dFSXwjC6b_Q</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

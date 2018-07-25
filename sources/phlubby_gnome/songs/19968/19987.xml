@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19987">
+ <title>Hallo ich hoer mich nicht</title>
+ <status v="B">Banned</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">1.7143</rating>
+ 
+ <songlength>177</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-02-03 17:07:41</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1428">Kangaroo MusiQue</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Explicit</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

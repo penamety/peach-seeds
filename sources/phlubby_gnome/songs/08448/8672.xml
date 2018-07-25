@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8672">
+ <title>Zen Bowling</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.1538</rating>
+ 
+ <songlength>162</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 18:08:19</locked_until>
+ <lastplayed>2018-05-19 19:50:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>24448</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1648">Tone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

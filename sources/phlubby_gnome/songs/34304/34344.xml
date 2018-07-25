@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34344">
+ <title>Canyon</title>
+ <status v="A">Active</status>
+ <bitrate>135</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.1429</rating>
+ <info>Remix of canyon.mid included with old versions of Windows up to WinME.
+
+Its full title is “Trip Through the Grand Canyon”, and it was written by George Stone of Passport Designs.
+</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 02:15:55</locked_until>
+ <lastplayed>2018-03-14 01:22:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

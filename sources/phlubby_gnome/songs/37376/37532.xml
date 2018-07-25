@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37532">
+ <title>Black Lamp (Ingame) (Greensleeves Space Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.75</rating>
+ 
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 10:03:11</locked_until>
+ <lastplayed>2018-05-25 01:39:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

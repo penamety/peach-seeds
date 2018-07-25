@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39128">
+ <title>Back 2 Basic</title>
+ <status v="A">Active</status>
+ <bitrate>151</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0645</rating>
+ <info>The music used in the &#34;End of Wars&#34; part in the Offence demo called SCROLLWARS.
+
+This tune was both my first  CheeseCutter tune and my first new release after 23 years.
+
+(SID and PRG) will be released seperately within few days by me.
+
+Signed 
+Scarzix
+
+btw. it loops around 04:20, so someone ought to &#34;crop&#34; it.</info>
+ <songlength>404</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 17:44:52</locked_until>
+ <lastplayed>2018-05-24 07:49:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5411">Scarzix</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>8580</tag>
+  
+  <tag>BaroqueFloppyPeople</tag>
+  
+  <tag>offence</tag>
+  
+  <tag>scrollwars</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

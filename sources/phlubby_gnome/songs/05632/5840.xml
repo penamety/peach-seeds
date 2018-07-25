@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5840">
+ <title>Insideout</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="142">4.6901</rating>
+ 
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 15:01:08</locked_until>
+ <lastplayed>2018-06-15 06:51:53</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>6366</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="604">Access Denied</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Scenial</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

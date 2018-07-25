@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4987">
+ <title>Suffocation</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.9722</rating>
+ 
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:50:03</locked_until>
+ <lastplayed>2018-06-04 17:27:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12422</pouetid>
+ <ytid>3_9WtJTV9lM</ytid>
+ 
+ 
+ <artists>
+  <artist id="821">Mr Man</artist>
+ </artists>
+ <groups>
+  <group id="112">Andromeda</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>AmigaConference</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3_9WtJTV9lM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

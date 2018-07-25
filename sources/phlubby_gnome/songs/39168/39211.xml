@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39211">
+ <title>Blaster</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.5192</rating>
+ <info>&#34;My entry for Kindergarden 2012 32k executable music compo.
+
+Place: 3rd&#34;</info>
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 01:22:09</locked_until>
+ <lastplayed>2018-06-12 18:18:17</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Kindergarden</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

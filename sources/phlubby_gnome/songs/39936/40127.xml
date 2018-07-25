@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40127">
+ <title>Recycler</title>
+ <status v="A">Active</status>
+ <bitrate>831</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">4.0</rating>
+ <info>Soundtrack from &#34;recycler&#34; demo by [group]673[/group].
+
+1st place in ZX Demo compo at Chaos Constructions 2012.</info>
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 05:21:45</locked_until>
+ <lastplayed>2018-05-27 04:16:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>59746</pouetid>
+ <ytid>r0W6Ze5WrCg</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="5069">Nick Roll</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=j-DTkEBtVr4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/33724/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

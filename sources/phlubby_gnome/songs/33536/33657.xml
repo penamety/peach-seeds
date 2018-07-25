@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33657">
+ <title>Flatline</title>
+ <status v="A">Active</status>
+ <bitrate>167</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">4.2308</rating>
+ <info>Ranked 8th in the music compo at Assembly 2011.</info>
+ <songlength>203</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 15:10:50</locked_until>
+ <lastplayed>2018-06-05 07:53:43</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

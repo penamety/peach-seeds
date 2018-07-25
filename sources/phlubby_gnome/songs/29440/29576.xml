@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29576">
+ <title>Mindsmear [orchestral mix]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.4</rating>
+ <info>Original SID by Barry Leitch - [url=http://gallium.prg.dtu.dk/HVSC/C64Music/MUSICIANS/L/Leitch_Barry/Mindsmear.sid]&#34;Mindsmear&#34;[/url]</info>
+ <songlength>286</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-04 21:46:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4326">ACP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Orchestral</tag>
+  
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27489">
+ <title>I Forgot My CD Player</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ <info>Meditative electronic ambient from Treks &amp; Manwe.</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-18 02:18:55</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4067</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3972">Treks</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33754">
+ <title>Say My Buenzli</title>
+ <status v="A">Active</status>
+ <bitrate>219</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">3.3103</rating>
+ <info>buenzli 20 / demodays party invitation
+::::::::::::::::::::::::::::::::::::::::::::::
+::THE BUENZLI ORGANIZERS AND NETPOET PRESENT::
+:::::::::::THE INVITATION FOR THE:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::DEMODAYS 2011 / BUENZLI 20:::::::::::
+::::::::::::26/27/28/ AUGUST 2011:::::::::::::
+::::::::::::::OLTEN, SWITZERLAND::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::RELEASED AT EVOKE 2011::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::CREDITS:::::::::::::::::::::
+:::::::::::::::::CODE:PRO:::::::::::::::::::::
+::::::::::::::::::GFX:PSYKON::::::::::::::::::
+:::::::::::::::;MUSIC:NETPOET:::::::::::::::::
+:::::::::VOCALSUPPORT:UNLOCK::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::WWW.DEMODAYS.ORG::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::BE:THERE::::::::::::::::::::</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 08:33:08</locked_until>
+ <lastplayed>2018-06-06 08:46:56</lastplayed>
+ 
+ 
+ <pouetid>57520</pouetid>
+ <ytid>8h5_PLOmWmU</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="849">Netpoet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>autotune</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Karaoke</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8h5_PLOmWmU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28766">
+ <title>Piano at Shore (Monkey Island)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">4.1064</rating>
+ <info>A little piano-version of a very great original composition by Michael (Z.) Land.
+The soundeffects at the beginning and at the end are from the original soundtrack. I had to add some notes for a bridge (that connects theme 1 &amp; 2) and at the very end just to give the track a final note and a (hopefully) unique ending (instead of a fade-out ;)).</info>
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 21:51:06</locked_until>
+ <lastplayed>2018-05-18 14:47:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1411">Iceman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

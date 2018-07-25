@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44719">
+ <title>The Brazilian</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.0</rating>
+ <info>Genesis cover</info>
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 04:34:10</locked_until>
+ <lastplayed>2018-05-24 04:21:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5783">Aardvark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Genesis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

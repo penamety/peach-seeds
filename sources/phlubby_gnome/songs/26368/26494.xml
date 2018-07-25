@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26494">
+ <title>R1-D1 Unit Attack</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.9038</rating>
+ <info>Your Commodore, 1986
+
+Authentic recording (R2) from Stone Oakvalley&#39;s collection</info>
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-22 02:15:11</locked_until>
+ <lastplayed>2018-02-15 21:41:41</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>UqcM4SwaioY</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="2140">Ratt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>robotic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2062</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

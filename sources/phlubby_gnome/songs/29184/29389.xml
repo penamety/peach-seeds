@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29389">
+ <title>Twenty4</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.1875</rating>
+ 
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-19 19:14:04</locked_until>
+ <lastplayed>2017-08-11 22:38:01</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>2417</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>underscore</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

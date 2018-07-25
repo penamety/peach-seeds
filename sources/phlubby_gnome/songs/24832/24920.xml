@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24920">
+ <title>Psycho Rifle</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.1111</rating>
+ 
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-02 10:39:12</locked_until>
+ <lastplayed>2017-08-22 00:20:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13925</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3665">Stun</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

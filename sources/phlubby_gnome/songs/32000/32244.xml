@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32244">
+ <title>Traxxer 2</title>
+ <status v="A">Active</status>
+ <bitrate>143</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.75</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-10 12:53:55</locked_until>
+ <lastplayed>2017-10-18 19:39:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38436">
+ <title>Arkanoid&#39;s Revenge</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.85</rating>
+ <info>ZX Spectrum 128 AY-3-8912 3 channel music, ACB stereo separation. Composed in SQ-Tracker, ran out of its pattern capacity so finished the song using Vortex Tracker II (God thanks for its SQT import function). Quite hard work to learn mastering VT. Recorded from the real ZX Spectrum 128 +2.
+
+Placed 1st at the Revision 2012 Oldskool Executable Music compo. Thank you guys for your votes!</info>
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 13:12:49</locked_until>
+ <lastplayed>2018-05-03 09:08:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26867/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

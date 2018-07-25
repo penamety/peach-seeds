@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34920">
+ <title>Pulse Code</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ 
+ <songlength>429</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 11:07:04</locked_until>
+ <lastplayed>2018-05-29 02:51:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3943">Vivid</artist>
+ </artists>
+ <groups>
+  <group id="167">Kosmic Free Music Foundation [KFMF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

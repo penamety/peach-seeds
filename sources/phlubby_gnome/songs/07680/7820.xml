@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7820">
+ <title>Sonicsegamix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">3.3947</rating>
+ 
+ <songlength>489</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 07:53:06</locked_until>
+ <lastplayed>2018-05-28 22:22:42</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2921">JCL</artist><artist id="5741">Zephyr [US]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

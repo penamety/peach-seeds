@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1891">
+ <title>Thermostat7</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1333</rating>
+ <info>Soundtrack from &#34;Woodstock&#34; by Dreamdealers. 
+1st place in the 40k Intro compo at the 
+Gainful Awesome Summer Party (GASP) 1995.</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 09:19:32</locked_until>
+ <lastplayed>2018-05-25 07:39:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5158</pouetid>
+ <ytid>dunWUsxR5o</ytid>
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  <group id="202">Dreamdealers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gasp</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-dunWUsxR5o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/254/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

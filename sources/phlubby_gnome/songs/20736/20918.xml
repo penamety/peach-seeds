@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20918">
+ <title>Phantoms of the Asteroid 1 Digital</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.15</rating>
+ <info>PCM sound created by manipulating volume register</info>
+ <songlength>260</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 12:31:03</locked_until>
+ <lastplayed>2018-06-10 05:34:51</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11350</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  <group id="17">The Exceptions</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>ym2149-pcm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

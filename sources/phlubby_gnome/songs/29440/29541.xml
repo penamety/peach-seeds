@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29541">
+ <title>Straight Ahead</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.0833</rating>
+ 
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-01 10:29:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>54121</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4322">Vedem</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5989">
+ <title>Mosaik</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.25</rating>
+ <info>2nd place in pc demo compo at Mekka &amp; Symposium 2001</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 16:31:16</locked_until>
+ <lastplayed>2018-06-07 09:15:39</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1959</pouetid>
+ <ytid>8mZXJfgI5Xw</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8mZXJfgI5Xw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

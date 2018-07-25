@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32703">
+ <title>Cherry Tobacco</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.5625</rating>
+ <info>1) I was bored.
+2) I refuse to use square wave for leads. The song has been made on ZX Spectrum 48K with AY-interface. It is a 3-channels generator based on square waves. It has additional &#34;buzzers&#34; but they&#39;re designed mostly for bass. Therefore everybody use squares as leads on AY, which is boring. Still, it&#39;s most annoying to tune the &#34;buzzers&#34; in higher frequencies to make them sound like some funny leads. But I keep experimenting for many years: what more can be pulled-out from AY without additional CPU&#39;s activity (like it&#39;s being done on Atari ST for example). Hence I use only original possibilities of AY chip. And now I&#39;m going to smoke some cherry tobacco. Greetz, ppl.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 08:50:38</locked_until>
+ <lastplayed>2018-05-25 19:40:51</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Smoking</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

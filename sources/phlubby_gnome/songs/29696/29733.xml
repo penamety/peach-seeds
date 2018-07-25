@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29733">
+ <title>ANT Member Profile</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.8</rating>
+ <info>Ant Demodisk</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 02:29:40</locked_until>
+ <lastplayed>2018-05-08 08:40:14</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="353">Impact (MSX)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

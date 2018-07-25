@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7519">
+ <title>Love is a Fix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.6786</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 16:33:54</locked_until>
+ <lastplayed>2017-10-07 13:32:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10597</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1713">Yolk</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group><group id="102">Komplex</group><group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

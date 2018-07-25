@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19509">
+ <title>Imperial Code</title>
+ <status v="A">Active</status>
+ <bitrate>212</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">2.3659</rating>
+ <info>Won the 2nd place in the tracked music competition at Breakpoint 2006.</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 08:17:05</locked_until>
+ <lastplayed>2018-05-10 05:35:56</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Schranz</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>Violent</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

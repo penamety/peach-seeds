@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38484">
+ <title>Pattern Skank (Vocal Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.8085</rating>
+ <info>This is the original version not released at the party due to some issues with the rather large vocal samples. Props to Franky for letting me know first thing so I could fix it.
+
+Written using ProTracker V2.3D
+
+Original Module file [url=http://unstablelabel.co.uk/mods/pattern%20skank.mod]HERE [/url]
+
+And then this...
+&#34;There is actually a chip tune module hidden inside this track ;)&#34;</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 13:48:54</locked_until>
+ <lastplayed>2018-05-28 16:26:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="8">Newschool</type>
+ 
+ <ytid>FktF1CE4MOg</ytid>
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>PatternsPlayedBackwards</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>technically-awesome</tag>
+  
+  <tag>turntablism</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FktF1CE4MOg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

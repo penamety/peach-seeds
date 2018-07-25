@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42749">
+ <title>Pingu Song (Perrra Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0714</rating>
+ 
+ <songlength>306</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 06:58:51</locked_until>
+ <lastplayed>2018-06-08 00:53:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5457">Perrra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

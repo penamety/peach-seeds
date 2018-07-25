@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41292">
+ <title>Release me</title>
+ <status v="A">Active</status>
+ <bitrate>176</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.3182</rating>
+ 
+ <songlength>481</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 14:01:15</locked_until>
+ <lastplayed>2018-05-18 17:28:18</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

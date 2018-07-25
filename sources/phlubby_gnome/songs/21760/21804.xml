@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21804">
+ <title>Mario, sometimes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ 
+ <songlength>86</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-17 03:09:14</locked_until>
+ <lastplayed>2018-01-28 05:59:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>28680</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="810">Monty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

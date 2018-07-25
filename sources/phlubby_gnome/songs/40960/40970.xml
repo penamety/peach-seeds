@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40970">
+ <title>Magic in a bottle</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>Geminis contributon to Gerp 2014 Chip music compo. Ranked 1:st</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 19:59:21</locked_until>
+ <lastplayed>2018-03-22 01:00:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="477">Gemini</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

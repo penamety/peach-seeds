@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38948">
+ <title>Vibrations #3 (2xAY remake)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ <info>Remake for TurboSound (2xAY).
+
+Original song by [artist]4667[/artist]: 
+[url]http://zxtunes.com/downloads.php?id=10791[/url]
+[url]https://www.cvgm.net/demovibes/song/15288/[/url]</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 19:08:14</locked_until>
+ <lastplayed>2017-11-28 06:31:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1580</pouetid>
+ <ytid>1JkERBhKfV4</ytid>
+ <ytoffset>379</ytoffset>
+ 
+ <artists>
+  <artist id="4585">Voxel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15288/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

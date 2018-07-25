@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9385">
+ <title>Rattengift</title>
+ <status v="B">Banned</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">2.4638</rating>
+ <info>German lyrics removed and song locked for requesting, due to excessively inappropriate lyrics. This is a radio station for Demoscene music, and not Death Metal or similar.</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Explicit</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Rap</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

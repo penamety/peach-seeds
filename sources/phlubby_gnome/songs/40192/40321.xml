@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40321">
+ <title>Azzdjazz</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-05 02:24:18</locked_until>
+ <lastplayed>2017-12-16 02:07:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1456</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3413">PRI</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

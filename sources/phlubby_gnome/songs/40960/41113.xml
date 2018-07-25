@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41113">
+ <title>Noid the Voxel</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.6923</rating>
+ <info>A little Mini-Megamix of thge tunes made for the new Cherry Darling / TRSi Game &#34;Voxelnoid&#34;
+
+This made the 5th place in the GERP 2014 Chip Music Compo
+
+Game Download here:
+http://cherry-darling.net/voxelnoid/
+
+Download the whole EP here for free:
+https://triacemusic.bandcamp.com/releases</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 20:00:23</locked_until>
+ <lastplayed>2018-04-20 16:45:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>E4dUqv50jss</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=E4dUqv50jss</url>
+    <comment>Rolling Pattern Data</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

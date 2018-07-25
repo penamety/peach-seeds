@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14903">
+ <title>Dots</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">2.6667</rating>
+ 
+ <songlength>169</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-09 01:13:56</locked_until>
+ <lastplayed>2017-06-02 04:22:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5088</pouetid>
+ <ytid>HxUoZqv948k</ytid>
+ <ytoffset>2426</ytoffset>
+ 
+ <artists>
+  <artist id="4878">Bit Arts</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

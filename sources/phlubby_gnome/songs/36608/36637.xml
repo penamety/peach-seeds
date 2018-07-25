@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36637">
+ <title>Chubby Rain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">2.5357</rating>
+ <info>Ranked 11th in the newschool music compo at Solskogen 2012.
+
+Direct link for download from scene.org http://files.scene.org/view/parties/2012/solskogen12/music_newschool/undercover_jews-chubby_rain.mp3</info>
+ <songlength>81</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:05:51</locked_until>
+ <lastplayed>2018-05-31 13:00:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4960">Undercover Jews</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/36783/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

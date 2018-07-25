@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37347">
+ <title>Sound of Madness</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.375</rating>
+ 
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 12:21:47</locked_until>
+ <lastplayed>2018-03-19 09:16:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>50556</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3925">Vain</artist>
+ </artists>
+ <groups>
+  <group id="211">X-Trade</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19639">
+ <title>Flipo Demo - Main</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.2947</rating>
+ <info>This song has been also used in [song]9112[/song]</info>
+ <songlength>406</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 04:01:03</locked_until>
+ <lastplayed>2018-06-09 17:21:05</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>110</pouetid>
+ <ytid>vi-p_UhI6ww</ytid>
+ <ytoffset>43</ytoffset>
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="624">Diamond Design</group><group id="254">Oxygene</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Intermedia</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

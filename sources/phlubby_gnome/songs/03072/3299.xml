@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3299">
+ <title>The Clouds Call Me</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">3.9</rating>
+ 
+ <songlength>434</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 12:27:08</locked_until>
+ <lastplayed>2018-06-16 23:45:13</lastplayed>
+ <platform id="40">DBM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

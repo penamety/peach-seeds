@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32237">
+ <title>Popcorn YM</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.8125</rating>
+ 
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 12:18:58</locked_until>
+ <lastplayed>2018-06-13 01:05:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Popcorn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

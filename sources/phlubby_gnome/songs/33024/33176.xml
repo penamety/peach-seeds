@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33176">
+ <title>Fahrenheit</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.5357</rating>
+ 
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-27 23:40:22</locked_until>
+ <lastplayed>2018-04-22 06:32:12</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>light</tag>
+  
+  <tag>Simple</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

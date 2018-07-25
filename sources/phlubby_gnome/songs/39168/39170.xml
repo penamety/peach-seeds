@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39170">
+ <title>Melodies of Our Home</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.0667</rating>
+ <info>6th place in Tiny MP3 Music compo at Chaos Constructions 2013</info>
+ <songlength>30</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 12:54:48</locked_until>
+ <lastplayed>2018-05-29 18:24:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Tiny</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

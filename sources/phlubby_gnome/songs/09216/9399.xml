@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9399">
+ <title>Celtic Romances</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">3.5882</rating>
+ <info>Used in BitJam Vol. 1.1 : Solaris by Bitfellas. Something completely different, a bit of a try for Robin Hood / Last of the Mohicans mood. After the first song there are also two other songs making this yeat another multi part module (1st part 00:00, 2nd 03:39, 3rd 09:29). Composed in 1996 - probably the last tune before starting again in 2005.</info>
+ <songlength>901</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 23:09:34</locked_until>
+ <lastplayed>2018-06-09 18:29:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>31658</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group>
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

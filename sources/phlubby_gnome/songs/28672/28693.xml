@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28693">
+ <title>Stay</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="65">4.3231</rating>
+ <info>New fresh tune by Magnar from Hugi issue #36 released at Breakpoint 2010 - supplied by Magnar himself</info>
+ <songlength>486</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 08:39:21</locked_until>
+ <lastplayed>2018-06-16 23:12:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>54522</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Hugi</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42173">
+ <title>Reason of Noise</title>
+ <status v="A">Active</status>
+ <bitrate>288</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>This tune comes from a dump of the 8bc database.
+
+Released under Creative Commons BY-NC-SA v3.0 licence.
+</info>
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 03:54:53</locked_until>
+ <lastplayed>2018-06-07 08:52:11</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>8bc</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

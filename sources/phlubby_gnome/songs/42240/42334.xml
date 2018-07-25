@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42334">
+ <title>Mind Control</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.3846</rating>
+ 
+ <songlength>255</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-16 00:14:00</locked_until>
+ <lastplayed>2017-12-22 23:15:43</lastplayed>
+ <platform id="45">Oktalyzer</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>24105</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4086">Hardsequenzer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>kickit</tag>
+  
+  <tag>letsgo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

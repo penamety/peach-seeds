@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4853">
+ <title>Mindkickers</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9091</rating>
+ 
+ <songlength>291</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 14:06:52</locked_until>
+ <lastplayed>2018-05-30 15:14:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>955</pouetid>
+ <ytid>cNql2jdc2tY</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="798">Mindfuck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8942">
+ <title>Keep Shredding Little Man</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.4565</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 17:47:03</locked_until>
+ <lastplayed>2018-03-22 03:31:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

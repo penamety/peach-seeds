@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34300">
+ <title>Mig-29M Super Fulcrum - opening</title>
+ <status v="A">Active</status>
+ <bitrate>236</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">4.4032</rating>
+ <info>At least used in the cracktros for NBA Jam TE and Pinball World.
+
+The music is ripped from a game &#34;Mig-29M Super Fulcrum&#34; (1991). In the game the music tempo is slightly slower. The music is often attributed to [artist]750[/artist] but the previous version of the game (Mig-29 Fulcrum, 1990) has the same song as a less sophisticated arrangement (also OPL2) and this version states in the intro &#34;music by Domark&#34;, &#34;AdLib music arranged by Matt Furniss&#34; which suggests that Furniss is merely an arranger.
+
+The &#34;Super Fulcrum&#34; version of the game contains no music credits on the intro, thus it cannot be sure whether this enhanced version of the song is also arranged by Matt Furniss. Some Youtube videos claim that it is. Many sources about &#34;Mig-29 Fulcrum&#34; game attribute music credits for [artist]3729[/artist] who may be the composer of the song.
+
+These games are not to be confused with &#34;MiG-29 Fulcrum&#34; (1998) or &#34;Mig-29 Soviet Fighter&#34; (1990).</info>
+ <songlength>238</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 05:09:18</locked_until>
+ <lastplayed>2018-05-26 00:25:07</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="7">Game</type>
+ <pouetid>5487</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="750">Matt Furniss</artist><artist id="3729">The Judge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>DOS</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

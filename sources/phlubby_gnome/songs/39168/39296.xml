@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39296">
+ <title>Popcorn mix</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.3043</rating>
+ <info>Module title aka &#34;popcorn-aces&#34;</info>
+ <songlength>353</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 16:26:44</locked_until>
+ <lastplayed>2018-03-22 15:22:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ <pouetid>49177</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Popcorn</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

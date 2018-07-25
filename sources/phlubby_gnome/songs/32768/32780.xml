@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32780">
+ <title>Milk</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>70</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 01:56:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56915</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4758">Cousin Y</artist>
+ </artists>
+ <groups>
+  <group id="610">The Compo Xaviours</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5751">
+ <title>Bluish</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="63">4.2857</rating>
+ <info>1st place in pc 64k compo at The Party 1997</info>
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 11:14:43</locked_until>
+ <lastplayed>2018-06-05 18:00:29</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>3</pouetid>
+ <ytid>cfbjiTrctJs</ytid>
+ 
+ 
+ <artists>
+  <artist id="946">Probe</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>BeOS</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Stash</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cfbjiTrctJs</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

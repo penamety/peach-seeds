@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15383">
+ <title>The Girl Fromage</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ <info>Winner of the 4 channel music compo at The Gathering 1998.</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 12:50:04</locked_until>
+ <lastplayed>2017-09-17 00:57:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2365">Caramel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>food</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

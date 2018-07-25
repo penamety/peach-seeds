@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31958">
+ <title>Shut Latrax Minus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="35">3.1714</rating>
+ <info>This epilogue track of the Latrax Minus Demo from the AAA-COMPO.</info>
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 12:28:13</locked_until>
+ <lastplayed>2018-05-27 02:15:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56521</pouetid>
+ <ytid>DIjuTn5sUuQ</ytid>
+ <ytoffset>209</ytoffset>
+ 
+ <artists>
+  <artist id="3991">Robus</artist>
+ </artists>
+ <groups>
+  <group id="242">Entire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Latrax</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33477">
+ <title>Senseless Moles</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">3.2759</rating>
+ <info>Soundtrack from &#34;harm&#34; demo by 4th Dimension &amp; triebkraft, 1st at Ascii 2002.</info>
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 07:08:33</locked_until>
+ <lastplayed>2018-06-11 22:24:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6396</pouetid>
+ <ytid>S8-F7n4VkZo</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4701">Black Groove</artist>
+ </artists>
+ <groups>
+  <group id="796">4th Dimension [4D]</group><group id="554">Triebkraft</group>
+ </groups>
+ 
+ <tags>
+  <tag>128K</tag>
+  
+  <tag>2002</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>textmode</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=S8-F7n4VkZo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2681</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/1402/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

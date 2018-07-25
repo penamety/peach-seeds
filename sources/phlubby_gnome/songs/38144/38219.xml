@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38219">
+ <title>Fjeldabe</title>
+ <status v="A">Active</status>
+ <bitrate>254</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ <info>A 32k executable released in the Anything Goes (tm)-compo at Kindergarden - The Fjeldabe Edition. Originally meant for a Fnuque 64k-intro.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 02:13:04</locked_until>
+ <lastplayed>2018-06-12 21:25:12</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>KindergardenFjeldabeEdition</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36111">
+ <title>Amazonia</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ <info>Used in the Quartz Summer Conference Demo http://bitworld.bitfellas.org/demo.php?id=12470
+
+This Octamed tune was created when Thunderbolt was in Cybernetix, but the demo was released after he left. (To Thunderbolt&#39;s disapproval)
+
+Also used in Audio Dreams by Chaos under the title &#34;Amazonia&#34; http://bitworld.bitfellas.org/demo.php?id=8099</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-09 13:01:43</locked_until>
+ <lastplayed>2017-10-01 12:48:00</lastplayed>
+ <platform id="29">MED</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5130">Thunderbolt</artist>
+ </artists>
+ <groups>
+  <group id="685">Cybernetix</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

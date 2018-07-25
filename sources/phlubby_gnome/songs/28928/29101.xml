@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29101">
+ <title>planquadrat 12b</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">2.5484</rating>
+ 
+ <songlength>415</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 22:35:06</locked_until>
+ <lastplayed>2018-05-04 18:05:45</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>5238</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1026">Ronny</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>Woest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12150">
+ <title>Nightflight (ProTrekkr Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>245</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">4.3294</rating>
+ <info>A 120kb / 14Channel Trance Track (ProTrekkr module), done in summer 2008 for no special reason, just to test ProTrekkr for the first time.</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:43:01</locked_until>
+ <lastplayed>2018-05-29 07:24:05</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>newschool</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38980">
+ <title>Demomans Adventure</title>
+ <status v="A">Active</status>
+ <bitrate>283</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="27">3.963</rating>
+ 
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 09:32:39</locked_until>
+ <lastplayed>2018-05-16 23:48:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1305">Algar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

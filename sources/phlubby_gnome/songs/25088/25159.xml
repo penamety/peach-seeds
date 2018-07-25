@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25159">
+ <title>Demoizart endpart</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.6389</rating>
+ 
+ <songlength>292</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 08:35:26</locked_until>
+ <lastplayed>2018-03-11 17:38:26</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>16451</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2044">Targhan</artist>
+ </artists>
+ <groups>
+  <group id="400">Arkos</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

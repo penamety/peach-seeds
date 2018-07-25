@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16149">
+ <title>Emphutured</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0</rating>
+ <info>by c-quence of gods
+for the party 4 compo
+ferry tickets to
+everybody
+
+Ranked #16 at The Party IV for the Amiga Music Compo in 1994.</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:47:20</locked_until>
+ <lastplayed>2018-06-02 03:30:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4377">C-Quence</artist>
+ </artists>
+ <groups>
+  <group id="155">Gods</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>prodigy</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

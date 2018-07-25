@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30216">
+ <title>Tribute 2 KvAzAr</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.9545</rating>
+ 
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-17 00:29:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3873</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4441">Puddy</artist>
+ </artists>
+ <groups>
+  <group id="365">ADDiCT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Symphony</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

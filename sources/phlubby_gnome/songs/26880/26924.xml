@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26924">
+ <title>Five Cigar Cocktail</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.85</rating>
+ 
+ <songlength>156</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 00:22:55</locked_until>
+ <lastplayed>2017-12-12 01:00:27</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1240</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>food</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

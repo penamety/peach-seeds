@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29093">
+ <title>Fondue de la Fromage</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.3036</rating>
+ <info>Made with xylo with malmen&#39;s samples.
+xm can be downloaded at cerror.nl</info>
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 10:55:08</locked_until>
+ <lastplayed>2018-05-23 12:30:38</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5491">XyCe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>food</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38138">
+ <title>Vibes</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>From the musicdisk Vibes by Extreme</info>
+ <songlength>340</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-27 23:01:08</locked_until>
+ <lastplayed>2018-02-15 07:25:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1237">Tonedeaf</artist>
+ </artists>
+ <groups>
+  <group id="723">Extreme</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

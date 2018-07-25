@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18061">
+ <title>Amiga sucks</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1667</rating>
+ 
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 09:43:41</locked_until>
+ <lastplayed>2018-06-16 13:02:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1835</pouetid>
+ <ytid>GGf5ufAcjPM</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="2713">Face Hugger</artist>
+ </artists>
+ <groups>
+  <group id="738">Moving Pixels</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

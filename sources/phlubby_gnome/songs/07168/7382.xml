@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7382">
+ <title>Bleam</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ 
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 03:34:37</locked_until>
+ <lastplayed>2018-03-15 00:02:22</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>2555</pouetid>
+ <ytid>cy8a9oBnpHY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1298">Vic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cy8a9oBnpHY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cy8a9oBnpHY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

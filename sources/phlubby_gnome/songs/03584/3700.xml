@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3700">
+ <title>Funny fantasy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.75</rating>
+ <info>Winner of VIP (Very Important Party) 2001 multichannel compo.</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-18 07:22:31</locked_until>
+ <lastplayed>2018-01-26 21:38:19</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="603">Kalachnikov</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>ALARM</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Bell</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>crazy</tag>
+  
+  <tag>laugh</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

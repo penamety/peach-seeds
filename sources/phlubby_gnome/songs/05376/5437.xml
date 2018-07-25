@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5437">
+ <title>Stolen Data 06 Charts</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 18:36:53</locked_until>
+ <lastplayed>2018-06-15 02:25:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9080</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>StolenData</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

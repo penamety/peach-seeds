@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41270">
+ <title>Rejected</title>
+ <status v="A">Active</status>
+ <bitrate>147</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.05</rating>
+ 
+ <songlength>297</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 21:56:51</locked_until>
+ <lastplayed>2018-05-27 20:42:48</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4433">Nebularia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Epic</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

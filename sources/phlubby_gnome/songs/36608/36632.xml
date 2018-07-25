@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36632">
+ <title>Dinosaur</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.7727</rating>
+ <info>Ranked 12th in the newschool music compo at Solskogen 2012.</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 04:20:08</locked_until>
+ <lastplayed>2018-06-12 14:02:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="227">Codex</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

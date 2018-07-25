@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5852">
+ <title>Purple Sky 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.25</rating>
+ <info>Originally composed for The Charts 2, which was published ok, but I don&#39;t think it got that far from Finland.</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 09:14:44</locked_until>
+ <lastplayed>2018-06-13 00:26:46</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

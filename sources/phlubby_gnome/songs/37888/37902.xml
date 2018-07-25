@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37902">
+ <title>Maya</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="43">4.4186</rating>
+ 
+ <songlength>170</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 01:19:42</locked_until>
+ <lastplayed>2018-05-29 20:17:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>60273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1540">Siatek</artist>
+ </artists>
+ <groups>
+  <group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

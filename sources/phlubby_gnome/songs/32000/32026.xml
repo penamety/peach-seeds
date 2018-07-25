@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32026">
+ <title>Dunk Brothers</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.3617</rating>
+ <info>8580 SID, Ranked: 1th place @ Datastorm 2011 C64 music compo. Made it during the last night before deadline, i hope you guys will like it.</info>
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 09:37:32</locked_until>
+ <lastplayed>2018-06-13 17:33:37</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>minor</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

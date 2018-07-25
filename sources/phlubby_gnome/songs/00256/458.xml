@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="458">
+ <title>Cupa Libre</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.55</rating>
+ 
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-04 22:27:58</locked_until>
+ <lastplayed>2017-09-28 09:52:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>19704</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>alcohol</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>zine</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

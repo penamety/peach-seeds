@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28265">
+ <title>Too Fast</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">2.4048</rating>
+ 
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 11:34:30</locked_until>
+ <lastplayed>2018-06-07 08:47:40</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ <ytid>6RpB41Txa9M</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="177">Celsius</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jungle</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6RpB41Txa9M</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

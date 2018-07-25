@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43610">
+ <title>Pluto Flyby</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ <info>4th in Listening Music competition at Assembly 2015</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 11:40:34</locked_until>
+ <lastplayed>2018-05-19 09:34:43</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5180">Ruuvari</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

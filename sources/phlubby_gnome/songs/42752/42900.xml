@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42900">
+ <title>Bad Apple!!</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7576</rating>
+ <info>Hey, this is ZX Spectrum version of original song.
+New release of Techno Lab after 16 years of silence :)</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 03:28:05</locked_until>
+ <lastplayed>2018-06-10 18:42:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>66946</pouetid>
+ <ytid>cd5iEeIe7L0</ytid>
+ <ytoffset>26</ytoffset>
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZX-Evo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cd5iEeIe7L0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/156517/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

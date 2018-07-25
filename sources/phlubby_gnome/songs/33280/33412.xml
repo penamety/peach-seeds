@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33412">
+ <title>Ballsong Nr 2</title>
+ <status v="A">Active</status>
+ <bitrate>60</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="20">2.15</rating>
+ <info>Developed at the Atari Sunnyvale Research Laboratory, as a test of the Atari 8-bit graphics and sound capabilities.  Though the song patterns themselves are (mostly) predefined, their order and some of the percussion is randomized as the song plays.</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-26 22:40:37</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>X1NrWP_N7qQ</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="4830">Douglas Crockford</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=X1NrWP_N7qQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

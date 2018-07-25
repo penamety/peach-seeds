@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33481">
+ <title>Behind the Curtain (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.1842</rating>
+ <info>2nd place in combined 64k compo at Assembly 2010</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:06:50</locked_until>
+ <lastplayed>2018-05-26 05:36:33</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>55535</pouetid>
+ <ytid>9oetX5lnOK8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="385">Digital Dynamite [DD]</group><group id="384">United Force [UF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9oetX5lnOK8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

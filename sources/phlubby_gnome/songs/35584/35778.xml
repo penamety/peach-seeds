@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35778">
+ <title>Gods (Title)</title>
+ <status v="R">Rejected</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7778</rating>
+ 
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-11-08 18:20:39</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ <pouetid>5170</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4538">Patrick Nevian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

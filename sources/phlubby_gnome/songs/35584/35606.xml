@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35606">
+ <title>Sweet Dreams (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="39">4.1795</rating>
+ <info>Soundtrack from &#34;Trojan cracktro&#34; by Triumph (ZX).</info>
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 23:38:09</locked_until>
+ <lastplayed>2018-06-16 10:27:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>58295</pouetid>
+ <ytid>BUfD2taeBco</ytid>
+ 
+ 
+ <artists>
+  <artist id="3304">nq</artist>
+ </artists>
+ <groups>
+  <group id="246">Skrju</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>Eurythmics</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BUfD2taeBco</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

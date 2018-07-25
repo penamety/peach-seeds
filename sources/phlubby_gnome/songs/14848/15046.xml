@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15046">
+ <title>Xylop</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.4706</rating>
+ <info>http://janeway.exotica.org.uk/release.php?id=16204</info>
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-05 08:00:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2322">BlueMental</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>SwedishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

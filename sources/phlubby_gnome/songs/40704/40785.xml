@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40785">
+ <title>The Magic Is Around Us</title>
+ <status v="A">Active</status>
+ <bitrate>749</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.0</rating>
+ <info>Spontaneous track.
+
+&#34;Epic instrumental pop wIth a touch of blues&#34;, lulz.</info>
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-02 12:12:29</locked_until>
+ <lastplayed>2017-07-28 12:27:29</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37351/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

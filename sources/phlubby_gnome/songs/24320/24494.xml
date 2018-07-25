@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24494">
+ <title>Terra Incognita</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.0</rating>
+ <info>Demosoundtrack made with the TUNEFISH 2 softsynth</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 13:05:19</locked_until>
+ <lastplayed>2018-03-27 17:08:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>28471</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

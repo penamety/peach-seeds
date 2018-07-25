@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29661">
+ <title>Incubtro (Invite for CC07)</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="34">4.2353</rating>
+ 
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 18:36:30</locked_until>
+ <lastplayed>2018-04-12 13:47:50</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>31808</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39686">
+ <title>Kondensat</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.075</rating>
+ <info>Chiptune and techno, all mashed up and stirred!
+
+It&#39;s done on PC and chiptune elements are mostly sample based, many square leads are Pokey samples (XL/XE), the YM-ish sounds were created using gwEms great ymVST, its almost like using musicmon :)</info>
+ <songlength>555</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 11:34:20</locked_until>
+ <lastplayed>2018-05-30 19:20:29</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

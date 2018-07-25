@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37026">
+ <title>Ridiculous Stupid Noise</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="44">4.0682</rating>
+ <info>entry for demodays 2012 - ranked 3rd in the music competition. mixed in a rush.
+made with ableton live</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 12:40:26</locked_until>
+ <lastplayed>2018-03-18 01:52:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Ableton</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

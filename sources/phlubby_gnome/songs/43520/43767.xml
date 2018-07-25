@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43767">
+ <title>Juego Del Espacio</title>
+ <status v="A">Active</status>
+ <bitrate>350</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>1st place in the The Ultimate Meeting 2002 MP3 / OGG Music competition</info>
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 08:32:03</locked_until>
+ <lastplayed>2018-03-19 22:49:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/26689/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

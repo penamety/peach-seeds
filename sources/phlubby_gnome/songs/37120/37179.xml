@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37179">
+ <title>State of Mind 1</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.7188</rating>
+ <info>Author unknown.  Permission given in writing by webmaster hosting the file.
+
+http://www.msg.sk/music/som/
+ftp://ftp.scene.org/pub/music/disks/som.zip</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 22:41:36</locked_until>
+ <lastplayed>2018-01-09 23:43:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>bad_encoder</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

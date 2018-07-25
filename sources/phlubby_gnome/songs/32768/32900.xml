@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32900">
+ <title>Nine Fingers Remix</title>
+ <status v="A">Active</status>
+ <bitrate>241</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="27">3.3333</rating>
+ 
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 00:12:28</locked_until>
+ <lastplayed>2018-06-16 09:52:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4771">SidWAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>comeon</tag>
+  
+  <tag>Rave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

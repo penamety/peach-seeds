@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34949">
+ <title>Qetzal</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ 
+ <songlength>116</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 20:13:45</locked_until>
+ <lastplayed>2018-04-22 22:12:50</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11918</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4985">Memblers</artist>
+ </artists>
+ <groups>
+  <group id="603">Retrocoders</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

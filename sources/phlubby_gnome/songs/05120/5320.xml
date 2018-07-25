@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5320">
+ <title>Lair of Souls</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0303</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 16:08:02</locked_until>
+ <lastplayed>2018-05-07 10:13:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>297</pouetid>
+ <ytid>f-yVc78Q4AA</ytid>
+ 
+ 
+ <artists>
+  <artist id="869">Norfair</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

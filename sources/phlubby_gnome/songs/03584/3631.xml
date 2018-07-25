@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3631">
+ <title>Lemon Announce 1</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.9583</rating>
+ <info>[url=ftp://ftp.modland.com/pub/modules/Protracker/Julius/part1.announce.mod]Download .mod[/url]</info>
+ <songlength>115</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 01:54:27</locked_until>
+ <lastplayed>2018-05-29 18:53:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>411</pouetid>
+ <ytid>eNeVJTGNAG4</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="597">Julius</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

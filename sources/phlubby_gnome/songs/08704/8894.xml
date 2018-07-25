@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8894">
+ <title>Amber</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.875</rating>
+ 
+ <songlength>105</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 21:21:55</locked_until>
+ <lastplayed>2018-06-03 02:40:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>14635</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Showtime</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

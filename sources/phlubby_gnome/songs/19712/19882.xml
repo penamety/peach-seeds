@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19882">
+ <title>Thanatos [amstrad]</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">2.8788</rating>
+ <info>© Durell Software Ltd
+
+This song used to be looped so many times that the length was over seven minutes. A shorter file was changed at the point when the rating was 2.8 from 32 voters.</info>
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 19:59:25</locked_until>
+ <lastplayed>2018-03-11 00:14:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2976">Julian Breeze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>DurellSoftware</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

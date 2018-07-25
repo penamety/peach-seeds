@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4868">
+ <title>Nemesis</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.5</rating>
+ 
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 16:31:33</locked_until>
+ <lastplayed>2018-06-13 23:57:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="801">Daeron</artist><artist id="2132">Misty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>demostyle</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

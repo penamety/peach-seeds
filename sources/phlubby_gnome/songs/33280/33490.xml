@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33490">
+ <title>Void</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>Samples taken from &#39;The Mix&#39; Magazine cover CD.
+
+3 Samples used, edited in Flextracker.
+
+Composed in Flextracker Atari Falcon</info>
+ <songlength>266</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-28 17:35:23</locked_until>
+ <lastplayed>2017-12-05 23:23:38</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4832">Nativ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Falcon</tag>
+  
+  <tag>Flextracker</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/7292/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

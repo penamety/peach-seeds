@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19844">
+ <title>Spanish Blues</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.35</rating>
+ <info>Winner of the 4 channel music compo at Euskal 2003.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 03:25:33</locked_until>
+ <lastplayed>2018-05-15 19:11:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1637">JosSs</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Ethnic</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>Flamenco</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

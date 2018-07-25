@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31938">
+ <title>Shortcuts (feat. Genox)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.65</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 11:57:08</locked_until>
+ <lastplayed>2018-04-29 12:28:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55580</pouetid>
+ <ytid>-CinD6xUvr0</ytid>
+ 
+ 
+ <artists>
+  <artist id="2752">Fred Funk</artist><artist id="4295">James Tonic</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-CinD6xUvr0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

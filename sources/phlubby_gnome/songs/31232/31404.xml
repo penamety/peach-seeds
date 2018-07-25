@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31404">
+ <title>Magellan (party version)</title>
+ <status v="A">Active</status>
+ <bitrate>216</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="94">4.4787</rating>
+ <info>Soundtrack for the demo fr-063: magellan (party version). Made in Ableton.
+
+1st place in pc demo compo at the Ultimate Meeting 2010</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 10:42:39</locked_until>
+ <lastplayed>2018-06-09 15:13:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56458</pouetid>
+ <ytid>_G07Q_s1IKQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Ableton</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2Vguvli1Y0k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_G07Q_s1IKQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

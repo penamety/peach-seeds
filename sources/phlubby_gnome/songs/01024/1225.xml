@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1225">
+ <title>Sonic City</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.9</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-21 05:17:28</locked_until>
+ <lastplayed>2017-06-15 20:55:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7974</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Saturne</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

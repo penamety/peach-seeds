@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44455">
+ <title>Satisfaction Megademo - Epilogue (Noch)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="5">3.4</rating>
+ <info>The original song is called &#34;Noch&#34; (Night), performed by Russian pop group Freestyle.</info>
+ <songlength>94</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 11:16:13</locked_until>
+ <lastplayed>2018-05-07 12:49:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2135</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4756">Andrew Kolesnik</artist>
+ </artists>
+ <groups>
+  <group id="126">Code Busters</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>satisfaction</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=z29JWABX_ec</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/16484/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/13676/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

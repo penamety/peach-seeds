@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29726">
+ <title>Far Above The Clouds (Electronic Sky Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.697</rating>
+ <info>Remix of Mike Oldfield&#39;s song Far Above The Clouds from his album Tubular Bells III.</info>
+ <songlength>331</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 13:08:51</locked_until>
+ <lastplayed>2018-03-10 13:03:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Oldfield</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

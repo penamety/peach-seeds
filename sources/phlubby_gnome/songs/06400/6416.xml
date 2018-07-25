@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6416">
+ <title>My Styles</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="121">4.3884</rating>
+ 
+ <songlength>438</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 18:50:10</locked_until>
+ <lastplayed>2018-05-22 00:32:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  <group id="21">Pulse [PLS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Nature</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

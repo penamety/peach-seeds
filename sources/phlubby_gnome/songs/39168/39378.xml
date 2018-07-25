@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39378">
+ <title>Wave Stepper</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>Written for the WeCan 2013 Chip Music Compo                  
+                                                             
+ First chip tune I&#39;ve written in 20 years and the first time  I&#39;ve ever used AHX!. 
+ Special shouts to Syphus and NE7 for their help.           </info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 12:34:17</locked_until>
+ <lastplayed>2018-06-10 15:38:44</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

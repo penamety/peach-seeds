@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="186">
+ <title>Doodle Doo</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.64</rating>
+ 
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 15:44:45</locked_until>
+ <lastplayed>2018-05-17 13:54:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9265</pouetid>
+ <ytid>cj-pokAZszM</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="35">Alien</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

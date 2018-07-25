@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28430">
+ <title>Storymix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.24</rating>
+ 
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 03:31:39</locked_until>
+ <lastplayed>2018-03-01 13:31:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>6056</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3338">Orcan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

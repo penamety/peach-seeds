@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21111">
+ <title>Nemesis the Warlock</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.0</rating>
+ 
+ <songlength>426</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 00:42:27</locked_until>
+ <lastplayed>2018-04-17 00:30:58</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="726">Marcel Donné</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

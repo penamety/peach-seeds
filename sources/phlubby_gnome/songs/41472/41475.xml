@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41475">
+ <title>Plagiatory</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>Main soundtrack from the &#34;68000 Reasons&#34; demo by &#34;The Deadliners&#34;.
+
+1st place at DemoDays 2014 demo competition.
+
+Tracked using PT 2.3d, OpenMPT.
+12 channels. 
+
+Final Mastering done by Virgill.</info>
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-30 08:17:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

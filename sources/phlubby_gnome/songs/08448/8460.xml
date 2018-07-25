@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8460">
+ <title>Florence</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">3.6593</rating>
+ <info>2nd in TRSI Easter Conference 1992 music compo.</info>
+ <songlength>439</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 14:46:59</locked_until>
+ <lastplayed>2018-05-20 22:59:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

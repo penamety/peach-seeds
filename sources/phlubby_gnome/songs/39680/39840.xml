@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39840">
+ <title>Last Amiga Summer</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.0667</rating>
+ <info>4-Channel Protracker Mod, participant in the Protracker Compo at FAP 2013, 6th place.</info>
+ <songlength>313</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-15 16:25:42</locked_until>
+ <lastplayed>2017-12-25 10:54:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>ApEQ2RKpx5s</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Desire</tag>
+  
+  <tag>FAP</tag>
+  
+  <tag>FinnishAmigaParty</tag>
+  
+  <tag>protracker</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ApEQ2RKpx5s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

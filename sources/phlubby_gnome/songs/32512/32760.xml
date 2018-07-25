@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32760">
+ <title>Love Potion LEVEL 4 (Hello)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.0541</rating>
+ <info>d-Four from CTR-ALT-TEST presented in 4K demo at Revision 2011.
+
+LLB and I working hard for Revision 2011 when Zavie contact me, as he have an idea for a 4K demo. The first one for our team. 4K means we can&#39;t use a lot of memory, and then I can&#39;t use Farbrausch V2 plugin, as in the other production. &#34;Try 4KLang&#34;... Great, i&#39;ve try it few weeks ago, without succes, but in fact, it was not so hard to use finally. I Quickly find some sounds as I like, and zooop something in the mood of Zavie&#39;s project arrived... We chat about some ideas, helping by SoundCloud to spot where to change things...
+
+It was easy for me to have images on the words... I&#39;m watching Californication since few days... that help !
+
+Here come Love Potion Level 4 : (Hello).... It was also a clin d&#39;oeil to my life, has i&#39;ve just announced friends that my familly it turning to level 4 (a second child is coming)... Hello version was the third versions of the songs, remembering a potential close to the story with just an Hello... but that should use 5 letters ;)
+
+This version was not exactly the same as in the 4K demo. I should finally disable one instrument for space requierement ! But i keep it as the final version that you will soon find in my forcoming CD Album.</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 13:37:40</locked_until>
+ <lastplayed>2018-06-08 15:48:22</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56851</pouetid>
+ <ytid>dJJRHXpWYN4</ytid>
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  <group id="362">Ctrl-Alt-Test</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dJJRHXpWYN4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

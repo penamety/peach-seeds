@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38977">
+ <title>0129. My 1st Atari tune, thx cerror! (WIP sid-effect version)</title>
+ <status v="A">Active</status>
+ <bitrate>202</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.9375</rating>
+ <info>Borrowed instruments from cerror. Made for a demo which was shown at some swedish lanparty.
+
+Based on [song]11079[/song]</info>
+ <songlength>101</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 22:08:55</locked_until>
+ <lastplayed>2018-04-15 05:38:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>61553</pouetid>
+ <ytid>VWbsYrUAjx8</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

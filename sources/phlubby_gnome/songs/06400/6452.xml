@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6452">
+ <title>Heaven 7</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.4274</rating>
+ <info>1st place at pc 64k compo at Mekka &amp; Symposium 2000</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 18:12:32</locked_until>
+ <lastplayed>2018-06-16 14:34:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>5</pouetid>
+ <ytid>rNqpD3Mg9hY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1058">Shaman</artist>
+ </artists>
+ <groups>
+  <group id="8">Exceed</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rNqpD3Mg9hY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

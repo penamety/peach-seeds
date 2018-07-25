@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44039">
+ <title>Birds Of Steam</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ <info>This song was awarded 1st place at the &#34;freestyle sound&#34; compo at Demosplash 2015.
+It&#39;s now part of my album &#34;Helicoid&#34; released in 2017.</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-02 18:20:24</locked_until>
+ <lastplayed>2018-04-26 12:07:36</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>WDfgL-0tuNE</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Spacesynth</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WDfgL-0tuNE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/6UNVuX3N6lorKNqqq7fI43</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15272">
+ <title>Sonic Springyard</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>41</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 03:33:21</locked_until>
+ <lastplayed>2018-04-09 05:03:13</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="150">Bug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40132">
+ <title>Action Game BGM Demo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>&#34;Action Game BGM&#34;
+2005 - Handheld &amp; 2d Action - 10 channels - 8-bit 22khz samples
+
+This catchy action tune was written as a demo for GBA/2D gaming, it could fit in games similar to metal slug or contra, and is originally a S3M module (199kb). This recording is in 44khz for your listening pleasure.</info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 01:07:31</locked_until>
+ <lastplayed>2018-05-04 05:40:39</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="832">mv</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

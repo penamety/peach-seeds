@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20742">
+ <title>Ask Me About Chips (UCM 21-3)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>Soundtrack from &#34;Undercover Magascene #21&#34; diskmagazine by The Sirius Cybernetics Corporation. Release at Error In Line 2001.</info>
+ <songlength>346</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-01 21:57:23</locked_until>
+ <lastplayed>2018-02-22 04:15:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>3279</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1472">MC Laser</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40734">
+ <title>Jitter</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>4th place at combined demo in Assembly 2014.</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 21:18:19</locked_until>
+ <lastplayed>2018-05-26 08:33:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>63862</pouetid>
+ <ytid>8Ysd3PuagBs</ytid>
+ 
+ 
+ <artists>
+  <artist id="1912">Aikapallo</artist>
+ </artists>
+ <groups>
+  <group id="589">Division</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8Ysd3PuagBs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

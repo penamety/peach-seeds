@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14148">
+ <title>A Sad Touch</title>
+ <status v="A">Active</status>
+ <bitrate>152</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.24</rating>
+ 
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 01:48:15</locked_until>
+ <lastplayed>2018-05-30 17:03:13</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1984">Arachno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

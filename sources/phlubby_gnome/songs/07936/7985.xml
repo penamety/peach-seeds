@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7985">
+ <title>STS-04: Instant Zen (Promised Land)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="166">4.7952</rating>
+ <info>2nd place in combined demo compo at Assembly 2005</info>
+ <songlength>293</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 17:42:42</locked_until>
+ <lastplayed>2018-06-06 23:13:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>18359</pouetid>
+ <ytid>SAyGM-ZjVz8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1469">Man With No Alias</artist>
+ </artists>
+ <groups>
+  <group id="68">Synesthetics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=SAyGM-ZjVz8</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

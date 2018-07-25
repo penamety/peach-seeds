@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30134">
+ <title>Waiting for mr Z</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.3077</rating>
+ 
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-09 13:11:30</locked_until>
+ <lastplayed>2017-08-02 02:01:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>20024</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="271">Cytron</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

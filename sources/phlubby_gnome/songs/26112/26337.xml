@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26337">
+ <title>Breaking Wind (Hybrid)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.2407</rating>
+ 
+ <songlength>184</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 11:23:05</locked_until>
+ <lastplayed>2018-06-14 19:38:30</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist><artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>OPL2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

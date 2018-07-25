@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43420">
+ <title>Broken Dimension</title>
+ <status v="A">Active</status>
+ <bitrate>252</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.8889</rating>
+ <info>Broken Dimension
+
+--&gt;By DipA
+
+Ranked 4th at TRIP99
+Multichannel Compo
+
+
+Conctact me at:
+dipa_simcity.it
+          &lt;-----&gt;
+You can find my other
+song at:
+www.simcity.it/dipa
+          &lt;-----&gt;
+
+SEE YOU AT
+THE NEXT
+DIPA&#39;S MOD!!!</info>
+ <songlength>149</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 14:50:56</locked_until>
+ <lastplayed>2018-05-31 05:20:52</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="328">DipA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Trip</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?38875</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

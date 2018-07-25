@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34269">
+ <title>Nightowl</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="28">4.1786</rating>
+ <info>
+-+-+NIGHTOWL+-+-
+----------------
+
+-by--sneakerfox-
+
+samples ripped
+from all over
+[but mostly from
+FC modules]
+
+----------------
+
+started in 2004
+finished in 2010</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 09:11:42</locked_until>
+ <lastplayed>2018-03-09 15:37:00</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4911">Sneakerfox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?169976</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

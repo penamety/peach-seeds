@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8356">
+ <title>The Sky is the Limit</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.3714</rating>
+ 
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 23:16:02</locked_until>
+ <lastplayed>2018-06-06 10:09:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31584</pouetid>
+ <ytid>wbiIgFWNJe0</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=wbiIgFWNJe0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

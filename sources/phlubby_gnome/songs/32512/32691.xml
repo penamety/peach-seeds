@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32691">
+ <title>Solar Cell</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.0</rating>
+ 
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-28 16:00:20</locked_until>
+ <lastplayed>2017-07-16 21:19:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56828</pouetid>
+ <ytid>6Q8In0JsSK8</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4748">Blueghost</artist>
+ </artists>
+ <groups>
+  <group id="605">The Bad Sectors [TBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Pixeljam</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=6Q8In0JsSK8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

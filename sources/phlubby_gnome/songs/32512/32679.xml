@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32679">
+ <title>Sunny walking on Piazza Venezia</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">2.7143</rating>
+ <info>Written in renoise and converted with xrns2xmod
+
+more info on
+http://xrns2xmod.codeplex.com
+
+\o/</info>
+ <songlength>253</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 12:53:24</locked_until>
+ <lastplayed>2017-10-28 09:24:50</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4644">Zenon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18082/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

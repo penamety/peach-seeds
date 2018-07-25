@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10352">
+ <title>Planet Fuzz</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.0</rating>
+ <info>From PM&#39;s commercial musicdisk
+see http://www.purplemotion.net/
+Remix of PM&#39;s track &#34;Planet Fuzz&#34; from the game Project S-11</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 07:41:27</locked_until>
+ <lastplayed>2018-05-23 23:32:22</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="6">Commercial CD</type>
+ <pouetid>51785</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>paragon5</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

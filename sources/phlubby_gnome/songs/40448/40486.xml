@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40486">
+ <title>task iii</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ 
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-30 05:16:24</locked_until>
+ <lastplayed>2018-01-08 11:20:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10307</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5469">Pow [SE]</artist>
+ </artists>
+ <groups>
+  <group id="187">Dual Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

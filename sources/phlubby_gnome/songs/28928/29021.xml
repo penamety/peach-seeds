@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29021">
+ <title>Fake Elektronik Lightshow</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.2</rating>
+ 
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 16:50:03</locked_until>
+ <lastplayed>2018-05-16 21:01:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9549</pouetid>
+ <ytid>p8zMPMQ39GA</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4182">Zixaq</artist>
+ </artists>
+ <groups>
+  <group id="184">Ephidrena</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Rap</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=p8zMPMQ39GA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

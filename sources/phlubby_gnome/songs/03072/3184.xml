@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3184">
+ <title>House of Ratzeburg</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.4667</rating>
+ <info>&#39;House Of Ratzeburg&#39; (Infra/Silicon Records), released 12/1996</info>
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 13:19:38</locked_until>
+ <lastplayed>2018-04-23 08:37:02</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="548">Infra</artist>
+ </artists>
+ <groups>
+  <group id="638">Silicon Records</group>
+ </groups>
+ 
+ <tags>
+  <tag>fun</tag>
+  
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

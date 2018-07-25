@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36188">
+ <title>Pesenka KG</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>5th place in music compo at Dekadence Dataparty&#39;03</info>
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-21 06:40:30</locked_until>
+ <lastplayed>2017-12-31 22:09:08</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5137">Thor</artist>
+ </artists>
+ <groups>
+  <group id="689">Extend</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>DekadenceDataparty</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>russian</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>USSR</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

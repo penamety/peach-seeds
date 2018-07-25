@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3392">
+ <title>Harm me with harmony</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">3.3846</rating>
+ <info>Part 1 of Roots.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 01:08:27</locked_until>
+ <lastplayed>2018-06-16 12:12:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3034</pouetid>
+ <ytid>jHgz67G6hqI</ytid>
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>BlackBoxSymposium</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>Roots</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jHgz67G6hqI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=8981</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

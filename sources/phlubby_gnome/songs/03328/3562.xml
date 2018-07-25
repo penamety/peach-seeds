@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3562">
+ <title>Overture</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="83">4.5663</rating>
+ 
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 11:12:43</locked_until>
+ <lastplayed>2018-05-27 08:28:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5815</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist><artist id="1060">Shorty</artist>
+ </artists>
+ <groups>
+  <group id="114">Noiseless</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

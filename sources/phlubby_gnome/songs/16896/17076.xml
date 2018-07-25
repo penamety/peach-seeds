@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17076">
+ <title>d_squared</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.3636</rating>
+ 
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 03:58:03</locked_until>
+ <lastplayed>2018-05-01 22:12:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4134</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2578">DHG</artist>
+ </artists>
+ <groups>
+  <group id="497">unik</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>disco</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11211">
+ <title>Amiga Chiptune 6</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>Download from ay-riders.speccy.cz: http://ay-riders.speccy.cz/download/8bits_is_enuff/07-X-agon-Amiga-chiptune6.mp3</info>
+ <songlength>61</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 21:07:09</locked_until>
+ <lastplayed>2018-06-15 21:03:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1728">X-Agon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

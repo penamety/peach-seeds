@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37163">
+ <title>Sidding</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9355</rating>
+ <info>Not a real C64 SID tune. Sampled some instruments from C64 and imported those into Reason sequencer and recorded some crap :)</info>
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-16 02:04:40</locked_until>
+ <lastplayed>2017-12-29 01:26:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

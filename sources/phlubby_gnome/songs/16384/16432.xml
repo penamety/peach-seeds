@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16432">
+ <title>American Dream</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">2.6809</rating>
+ <info>10# at Buenzli 2004</info>
+ <songlength>218</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 03:08:04</locked_until>
+ <lastplayed>2018-06-15 11:17:45</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1343">Crazy Man</artist><artist id="260">Cyborg Jeff</artist><artist id="4412">Vanisher III</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

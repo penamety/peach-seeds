@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14812">
+ <title>Water flows</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.3571</rating>
+ 
+ <songlength>309</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 05:48:49</locked_until>
+ <lastplayed>2018-01-08 13:32:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2292">Bert</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+  <tag>water</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

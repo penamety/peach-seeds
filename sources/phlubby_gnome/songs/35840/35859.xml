@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35859">
+ <title>Nostalgia In My Soul</title>
+ <status v="A">Active</status>
+ <bitrate>242</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.0</rating>
+ <info>Buy this song on [url=http://mmcm.bandcamp.com/track/nostalgia-in-my-soul]Bandcamp.com[/url] !</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 15:04:42</locked_until>
+ <lastplayed>2018-05-27 04:24:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>65367</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Nostalgia</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2eJNCm6bWww</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

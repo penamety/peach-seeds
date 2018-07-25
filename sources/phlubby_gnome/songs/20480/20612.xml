@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20612">
+ <title>Darkside of My Mind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3684</rating>
+ 
+ <songlength>383</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 08:27:44</locked_until>
+ <lastplayed>2018-03-09 14:56:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4887</pouetid>
+ <ytid>NWrcWC2sWIs</ytid>
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12275">
+ <title>Radient (Infected Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="97">4.2887</rating>
+ <info>1st place in pc demo compo at compusphere 2002
+
+Lyrics:
+Can&#39;t you hear me calling you
+Though far from here I see right through
+Are you hearing me?
+Digital reality
+Can&#39;t you feel me deep within
+Electricity on skin
+Are you feeling me?
+Radiating energy
+</info>
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 04:07:53</locked_until>
+ <lastplayed>2018-06-06 01:48:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>8372</pouetid>
+ <ytid>txB3H_Vm6rY</ytid>
+ 
+ 
+ <artists>
+  <artist id="367">Dragonfly</artist>
+ </artists>
+ <groups>
+  <group id="506">starlight</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=txB3H_Vm6rY</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

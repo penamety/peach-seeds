@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31004">
+ <title>Heal the World</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="20">2.5</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-19 22:49:43</locked_until>
+ <lastplayed>2017-06-09 16:52:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4389">Tex</artist>
+ </artists>
+ <groups>
+  <group id="111">Ram Jam</group>
+ </groups>
+ 
+ <tags>
+  <tag>cheesy</tag>
+  
+  <tag>MichaelJackson</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

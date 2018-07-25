@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17692">
+ <title>Vlindertjes v.2</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.4</rating>
+ <info>In a demo by Edwin van Santen, which he released about two years after Coco Intro was made popular in the Papillion&#39;s crack intro, he claims that he in fact composed the music. This demo contained a new version of the tune (this sid). He explains how he had made the music two years earlier on some composer like Soundmonitor or something similar. While at a copyparty, someone supposedly stole his music disk which had the tune on it. This was his only copy of the tune. bout two months later, the tune appeared on a Papillions&#39; intro and no credit was given to van Santen. See Mueller_Markus - Coco_Intro.sid for more details.
+
+Tune is sort of cover of &#34;You keep me hanging on&#34; originally written by Brian Holland and Lamont Dozier in 1966</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 10:57:18</locked_until>
+ <lastplayed>2018-06-04 02:45:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>44793</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1771">Edwin van Santen</artist>
+ </artists>
+ <groups>
+  <group id="52">20th Century Composers</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

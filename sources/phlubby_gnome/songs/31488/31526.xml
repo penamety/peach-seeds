@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31526">
+ <title>Voice Of Galaxy I</title>
+ <status v="R">Rejected</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="1">5.0</rating>
+ 
+ <songlength>168</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>33354</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2295">Bethoven</artist>
+ </artists>
+ <groups>
+  <group id="110">Technology [THG]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

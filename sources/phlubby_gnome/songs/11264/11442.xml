@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11442">
+ <title>Hoochie Cooch</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.8947</rating>
+ <info>Ranked 5th in the music compo at Evoke 2007.</info>
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-06 23:51:22</locked_until>
+ <lastplayed>2017-09-27 23:50:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>harmonica</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

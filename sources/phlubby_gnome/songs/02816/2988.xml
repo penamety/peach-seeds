@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2988">
+ <title>Nintendo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.2895</rating>
+ 
+ <songlength>62</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 23:22:35</locked_until>
+ <lastplayed>2018-05-12 22:51:33</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>397</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Merry</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Tempochange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

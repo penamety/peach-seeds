@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5174">
+ <title>Castle of the Mists</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.9615</rating>
+ <info>Note from Necros.
+
+&#34;Castle of the Mists&#34; - This song was a bit rushed (we needed a new leadoff song), but I think it turned out well. Inspired by the simple fact that I had never done a mod in 6/8 time before :)</info>
+ <songlength>216</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 09:32:49</locked_until>
+ <lastplayed>2018-06-10 08:05:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  <group id="655">Psychic Monks</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9088">
+ <title>Emerald Isle Set</title>
+ <status v="A">Active</status>
+ <bitrate>179</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="78">4.2436</rating>
+ <info>Genre: Folk</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 18:22:26</locked_until>
+ <lastplayed>2018-05-27 14:00:18</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Folk</tag>
+  
+  <tag>Irish</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

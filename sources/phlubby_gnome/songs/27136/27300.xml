@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27300">
+ <title>Beat a Boom</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">2.8621</rating>
+ 
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 12:32:31</locked_until>
+ <lastplayed>2018-05-12 03:35:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13080</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3961">Raztaman</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>bigbeat</tag>
+  
+  <tag>breakbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

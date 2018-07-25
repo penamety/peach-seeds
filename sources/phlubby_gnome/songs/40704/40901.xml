@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40901">
+ <title>Interc00ler</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">4.125</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 06:47:28</locked_until>
+ <lastplayed>2018-05-02 01:36:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59096</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1637">JosSs</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

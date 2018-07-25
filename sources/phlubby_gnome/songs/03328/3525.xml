@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3525">
+ <title>Guitar Slinger</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="129">4.6744</rating>
+ <info>Winner of the music compo at Rendezvous 1993.
+
+Download link: http://modarchive.org/index.php?request=view_by_moduleid&amp;query=42560</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 07:24:06</locked_until>
+ <lastplayed>2018-06-09 18:00:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>4049</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="591">Jogeir</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

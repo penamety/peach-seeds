@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4523">
+ <title>Overload</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="153">4.6667</rating>
+ <info>1:st place in The Party 1 (1991) 4ch music compo</info>
+ <songlength>439</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 08:17:51</locked_until>
+ <lastplayed>2018-06-14 14:26:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3521</pouetid>
+ <ytid>_Es8J0zA2kI</ytid>
+ <ytoffset>294</ytoffset>
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1225">Tip</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>synthpop</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=_Es8J0zA2kI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

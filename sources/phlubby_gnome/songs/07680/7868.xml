@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7868">
+ <title>Candytron</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="178">4.691</rating>
+ <info>2nd place in pc 64k compo at Breakpoint 2003
+
+the lyrics
+-------------
+
+come for me
+touch my skin
+feel my pain
+deep inside me
+
+i&#39;m in a place i don&#39;t belong
+caught in this cage i sing my song
+(2x)
+
+she wants to be more than she is now
+she&#39;s josie, she&#39;s josie
+she wants to be more than she is now
+i&#39;m so aloooooone
+
+she wants to be more than she is now
+she&#39;s josie, she&#39;s josie
+she wants to be more than she is now
+she&#39;s josie.
+
+(robot voices:
+&#39;warning! subject is trying to break out&#39;
+&#39;begin countermeasures immediately.&#39;
+&#39;confirmed. chance of success: twenty percent.&#39;)
+
+find me
+i&#39;m down here
+waiting
+for you to come
+so come for me
+take on me
+touch my skin
+be the one to rescue me
+
+(reprise: caught in this cage i sing my song)</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 03:00:08</locked_until>
+ <lastplayed>2018-06-12 20:33:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9424</pouetid>
+ <ytid>m8Z22CURVc4</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>featured</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>softsynth</tag>
+  
+  <tag>video</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=m8Z22CURVc4</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

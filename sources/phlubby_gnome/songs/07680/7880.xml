@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7880">
+ <title>Absolutely Interstellar (Evoke Cut)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">4.0</rating>
+ <info>&#34;I can bend the double helix… black can be reborn white, tall, short, weak, strong… But the slugs alone are not enough… I&#39;ll need money… and one other thing…&#34;</info>
+ <songlength>219</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 03:49:44</locked_until>
+ <lastplayed>2018-05-28 19:37:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="616">Keith303</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

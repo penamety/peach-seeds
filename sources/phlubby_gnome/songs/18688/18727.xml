@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18727">
+ <title>Shapeshifter</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">2.5</rating>
+ <info>1st place in combined demo compo at Scene Event 2002</info>
+ <songlength>152</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 10:53:03</locked_until>
+ <lastplayed>2018-05-03 09:04:12</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>6983</pouetid>
+ <ytid>lEzjVUUXkh0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lEzjVUUXkh0</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

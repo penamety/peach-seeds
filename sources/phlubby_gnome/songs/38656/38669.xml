@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38669">
+ <title>Jooli</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.2619</rating>
+ <info>Made 4th place at the Merregnon Compo on Traxinspace (2000).</info>
+ <songlength>459</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 11:42:25</locked_until>
+ <lastplayed>2018-05-25 16:05:17</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>eggshaker</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

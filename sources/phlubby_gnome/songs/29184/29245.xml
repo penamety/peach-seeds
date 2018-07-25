@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29245">
+ <title>frog30new (Werner Flaschbier hi-score)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.625</rating>
+ <info>note for moderators:
+this mp3 has an adjusted stereo separation
+
+The song has been used in Werner Flaschbier freeware game by scenegroup Level 4 </info>
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 01:27:28</locked_until>
+ <lastplayed>2018-04-30 20:38:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2015">Frog</artist>
+ </artists>
+ <groups>
+  <group id="520">Level 4 [L4]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/3864</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

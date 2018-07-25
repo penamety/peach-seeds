@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37191">
+ <title>Into the Void</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">4.1333</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 10:28:09</locked_until>
+ <lastplayed>2018-05-03 05:15:57</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  <group id="176">Reality</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

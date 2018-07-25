@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35550">
+ <title>PT3 TurboSound Test (demo track)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="28">3.8929</rating>
+ 
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 19:22:45</locked_until>
+ <lastplayed>2018-06-04 12:46:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>unfinished</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

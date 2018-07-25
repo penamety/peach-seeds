@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32663">
+ <title>Nemesis</title>
+ <status v="A">Active</status>
+ <bitrate>184</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.4706</rating>
+ 
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 14:15:03</locked_until>
+ <lastplayed>2018-06-16 13:57:55</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>12165</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist><artist id="1683">OptimizE</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

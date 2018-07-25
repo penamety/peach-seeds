@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43868">
+ <title>Humppalaki</title>
+ <status v="A">Active</status>
+ <bitrate>705</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>C64 version of &#34;Humppalaki&#34; by Eläkeläiset which is a cover version of Judas Priest – Breaking the Law</info>
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-04 07:25:47</locked_until>
+ <lastplayed>2018-01-13 22:24:14</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>68956</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1023">Rock</artist>
+ </artists>
+ <groups>
+  <group id="233">Finnish Gold (FIG)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Humppa</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=153736</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

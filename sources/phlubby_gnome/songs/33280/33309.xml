@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33309">
+ <title>On Target</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>2nd in Streamed and tracked combined compo @ Pilgrimage 2005</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-13 03:15:57</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3308">Nullsleep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Pilgrimage</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

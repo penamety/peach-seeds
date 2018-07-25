@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9243">
+ <title>Acula Class</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="106">4.5</rating>
+ <info>Winner of the instrumental music competition at Assembly 2003
+
+Artists:
+!Cube
+Armada
+SCS*TRC
+Skalaria</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 02:38:20</locked_until>
+ <lastplayed>2018-06-16 13:58:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

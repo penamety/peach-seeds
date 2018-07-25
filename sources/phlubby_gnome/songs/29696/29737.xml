@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29737">
+ <title>Sim Reich</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="8">2.0</rating>
+ 
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-27 10:34:01</locked_until>
+ <lastplayed>2018-04-09 11:12:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55394</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4352">Binf</artist>
+ </artists>
+ <groups>
+  <group id="355">Contraz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38749">
+ <title>Bagger (Episch Slecht)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0</rating>
+ <info>Watch in (google chrome) browser [url]http://annejan.com/bagger[/url]
+Look mom, no canvas!</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-24 01:03:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61378</pouetid>
+ <ytid>j2NdM3cWBKo</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="4827">Cinder</artist>
+ </artists>
+ <groups>
+  <group id="636">deFEEST</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

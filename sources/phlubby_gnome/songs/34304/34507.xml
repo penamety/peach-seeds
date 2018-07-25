@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34507">
+ <title>Highway Encounter</title>
+ <status v="A">Active</status>
+ <bitrate>105</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0625</rating>
+ 
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-21 14:28:14</locked_until>
+ <lastplayed>2017-07-13 10:23:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>31871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="460">Fred Gray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

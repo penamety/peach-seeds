@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23462">
+ <title>Pane in the Glass</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.3519</rating>
+ 
+ <songlength>379</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 03:48:18</locked_until>
+ <lastplayed>2018-06-05 05:03:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>6981</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="538">Pain Staff</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

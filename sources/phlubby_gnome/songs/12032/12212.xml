@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12212">
+ <title>Kupliva, kirpsakka, rusinainen ja halpa hedelmaeviini</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.2</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-11 19:44:45</locked_until>
+ <lastplayed>2017-10-22 09:54:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>food</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

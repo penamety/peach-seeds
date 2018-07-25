@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44425">
+ <title>Saturnine (My Summer Demo)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Music from the My Summer Demo by Byterapers. 1st place at Oldskool demo compo in Assembly 2017.</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-27 00:32:09</locked_until>
+ <lastplayed>2018-05-08 15:12:12</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>71415</pouetid>
+ <ytid>5pNTlMXfDJk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+  <tag>MichaelJackson</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10541">
+ <title>Phantasmagoria</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5455</rating>
+ <info>Sample name message:
+
+ tune for the endpart
+ of the dragonstrike
+ slideshow by sacred.
+      composed by
+    groo of sacred
+    in august 1991.
+   contact groo for
+ sample swapping at:
+      sumupolku 1
+  13500 hml finland.
+   ps.this tune was
+ originally made with
+ protracker,but i had
+   to edit all the
+ vibratos with noise-
+  tracker because of
+ our old playroutine,
+ so this tune should
+   be listened with
+     noisetracker.
+</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 23:39:06</locked_until>
+ <lastplayed>2017-11-17 13:38:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35663">
+ <title>Injeenious</title>
+ <status v="A">Active</status>
+ <bitrate>263</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.8636</rating>
+ <info>Streamed music compo entry @ Revision 2012</info>
+ <songlength>237</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 07:07:38</locked_until>
+ <lastplayed>2018-05-12 01:50:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2925">Jeenio</artist>
+ </artists>
+ <groups>
+  <group id="161">Accession</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

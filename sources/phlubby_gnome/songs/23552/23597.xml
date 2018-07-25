@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23597">
+ <title>Show Some Mercy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ 
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-25 12:45:19</locked_until>
+ <lastplayed>2017-09-17 03:11:16</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>51849</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1011">Rhesus Minus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

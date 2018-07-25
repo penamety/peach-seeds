@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25328">
+ <title>Melon-glo-mania</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.2692</rating>
+ 
+ <songlength>132</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:36:48</locked_until>
+ <lastplayed>2018-05-21 23:03:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>49812</pouetid>
+ <ytid>GksAdqFWOWk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1183">TDK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

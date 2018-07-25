@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20943">
+ <title>Syntax Terror TLB</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.4651</rating>
+ 
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 01:50:45</locked_until>
+ <lastplayed>2018-05-22 04:33:36</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>498</pouetid>
+ <ytid>XZmocCi2GUw</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8173">
+ <title>Cyberdragon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">4.5739</rating>
+ <info>&#34;Let&#39;s make one thing clear: I do not like this tune. It&#39;s a joke tune. Yes, I enjoy winning competitions, but winning with a tune like this just makes me angry.&#34;</info>
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 23:02:29</locked_until>
+ <lastplayed>2018-06-16 21:42:53</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>26180</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="202">Dreamdealers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

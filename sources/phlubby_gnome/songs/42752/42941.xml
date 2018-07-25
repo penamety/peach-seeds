@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42941">
+ <title>Lopun Viisu</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.15</rating>
+ <info>2nd at End Of The World 2016 combined music compo.</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 17:18:13</locked_until>
+ <lastplayed>2018-06-13 15:01:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>EndOfTheWorldParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

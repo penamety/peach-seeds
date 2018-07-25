@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31742">
+ <title>Fawn of Creation</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.9487</rating>
+ 
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 15:02:32</locked_until>
+ <lastplayed>2018-05-15 08:30:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3323">Ole-Marius Pettersen</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group><group id="411">Prosonix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

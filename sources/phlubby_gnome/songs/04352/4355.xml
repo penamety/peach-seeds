@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4355">
+ <title>Cocoon Land</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.3056</rating>
+ 
+ <songlength>146</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 20:38:25</locked_until>
+ <lastplayed>2018-05-21 23:08:32</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>jumpy</tag>
+  
+  <tag>polka</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23296">
+ <title>Comp-2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 18:12:55</locked_until>
+ <lastplayed>2018-03-21 02:20:22</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>32022</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="988">Random Voice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

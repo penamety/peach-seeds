@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43394">
+ <title>Elevator Boy</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.1</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 08:58:55</locked_until>
+ <lastplayed>2018-05-10 06:26:49</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="934">Pink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Muzak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

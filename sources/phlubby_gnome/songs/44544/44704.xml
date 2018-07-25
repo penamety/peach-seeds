@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44704">
+ <title>Sommargalaxen - Short Compo Edit</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.2</rating>
+ <info>Released for Gerp 2018 chip compo (maximum 4ch and filesize 32kb). This is the shorter version (more suitable for compo audience ;)).
+This upload is normalized and has &#34;fixed panning&#34;, meaning that bass and drums are in the middle, and the rest is panned slightly to the right and left.</info>
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 04:48:38</locked_until>
+ <lastplayed>2018-05-11 14:09:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Gerp</tag>
+  
+  <tag>waltz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/183473/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9963">
+ <title>Panta Rhei</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.0488</rating>
+ 
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-20 10:59:42</locked_until>
+ <lastplayed>2017-10-15 13:32:22</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>14978</pouetid>
+ <ytid>ECOSthbiC9Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="267">Instinct</group><group id="234">Oxyron</group><group id="303">Plush</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

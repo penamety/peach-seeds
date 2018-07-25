@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5232">
+ <title>Ethnomagic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">3.9167</rating>
+ 
+ <songlength>338</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 17:18:47</locked_until>
+ <lastplayed>2018-06-09 07:09:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3047</pouetid>
+ <ytid>FAN2y7V_tCs</ytid>
+ <ytoffset>285</ytoffset>
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>FemaleMoans</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

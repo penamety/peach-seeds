@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27573">
+ <title>Error 23</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>Soundtrack for &#34;Error 23&#34; by Resource &amp; The Dreams, 2nd place C64 demo at Breakpoint 2006.</info>
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-11 05:12:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>24466</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2523">Dalezy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

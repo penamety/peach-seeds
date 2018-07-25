@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36506">
+ <title>Last Battle</title>
+ <status v="A">Active</status>
+ <bitrate>220</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8261</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 18:07:27</locked_until>
+ <lastplayed>2018-05-15 09:08:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4342">KSA</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>enlight</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

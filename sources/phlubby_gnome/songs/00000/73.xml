@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="73">
+ <title>Krestmass Leftover (aka Fifty Frames)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0385</rating>
+ 
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-12 21:49:49</locked_until>
+ <lastplayed>2018-02-23 03:52:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3225</pouetid>
+ <ytid>5owOzKkIU1s</ytid>
+ <ytoffset>21</ytoffset>
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>AnarchyEasterParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

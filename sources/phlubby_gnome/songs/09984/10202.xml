@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10202">
+ <title>Jambalayavibes</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.6279</rating>
+ <info>Countribution to the Hillbilly theme!</info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 19:13:11</locked_until>
+ <lastplayed>2018-04-11 17:36:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Banjo</tag>
+  
+  <tag>country</tag>
+  
+  <tag>HillBilly</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Sheep</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

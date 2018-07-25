@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26919">
+ <title>Spy vs Spy 2 - Island Caper</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.5769</rating>
+ <info>Now playing SOASC 6581 R4 version.</info>
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-21 06:07:41</locked_until>
+ <lastplayed>2017-06-14 18:43:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>OQyMPvFJ_2w</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="3907">Nick Scarim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2439</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

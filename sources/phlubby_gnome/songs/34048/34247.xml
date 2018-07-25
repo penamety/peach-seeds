@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34247">
+ <title>&lt;insert title here&gt; (chip version)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.3797</rating>
+ <info>Atari STe and Game Boy only with hardware effects (miniKP), MIDI sync</info>
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 07:03:33</locked_until>
+ <lastplayed>2018-05-16 06:57:08</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>gameboy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28084">
+ <title>Sorry Scortia</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.8824</rating>
+ 
+ <songlength>389</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 04:44:26</locked_until>
+ <lastplayed>2018-06-08 01:19:01</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1005">Reed</artist><artist id="1647">Tempest</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

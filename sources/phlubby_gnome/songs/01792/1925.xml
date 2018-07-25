@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1925">
+ <title>Cigarette Smoke</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="130">3.9846</rating>
+ <info>Winner of the music compo at Gelloween 1994.</info>
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 20:52:07</locked_until>
+ <lastplayed>2018-06-04 12:39:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="370">Dreamer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gelloween</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Smoking</tag>
+  
+  <tag>Swing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

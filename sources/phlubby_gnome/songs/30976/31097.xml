@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31097">
+ <title>0054. Waltzing a Long Road</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.381</rating>
+ <info>Special thanx to Bit Arts for great samples to work with. Sadly didn&#39;t release this in time for the nectarine compo held by BA Maraccas himself.</info>
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 13:30:25</locked_until>
+ <lastplayed>2018-01-08 07:58:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>fast</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

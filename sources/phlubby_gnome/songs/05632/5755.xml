@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5755">
+ <title>Breezin</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0</rating>
+ <info>prodigy of oops!
+--/--/1997
+
+music was done for
+x-files issue #21.
+by nuance.</info>
+ <songlength>143</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-26 05:53:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11841</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  <group id="325">Oops! [OPS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

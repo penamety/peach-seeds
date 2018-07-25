@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33604">
+ <title>Just in Time - Part 5</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-22 13:00:46</locked_until>
+ <lastplayed>2017-07-15 10:45:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>20426</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4849">Jay [HU]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

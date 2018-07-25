@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31000">
+ <title>The Alibi (steady-state remix)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.3333</rating>
+ 
+ <songlength>299</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 23:04:11</locked_until>
+ <lastplayed>2018-06-01 02:06:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4535">Minor Major</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>lounge</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>smooth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

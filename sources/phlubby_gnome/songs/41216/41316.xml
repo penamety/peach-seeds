@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41316">
+ <title>C&#39;est Noël!!!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="48">1.4583</rating>
+ <info>Oldschool Christmas compilation :)
+One of my first module, composed in 1993.</info>
+ <songlength>582</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 01:50:10</locked_until>
+ <lastplayed>2018-04-26 21:56:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>long</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

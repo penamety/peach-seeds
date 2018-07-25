@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29819">
+ <title>Check Out MP3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">2.4</rating>
+ <info>Dark n moody</info>
+ <songlength>366</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-01 13:16:55</locked_until>
+ <lastplayed>2018-06-15 06:46:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1277">u4ia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Hardcore</tag>
+  
+  <tag>Jungle</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

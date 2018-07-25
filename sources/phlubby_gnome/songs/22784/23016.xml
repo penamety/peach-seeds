@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23016">
+ <title>In to the...</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-27 19:43:46</locked_until>
+ <lastplayed>2017-06-18 14:54:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>19880</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="393">d-Zire</artist><artist id="487">Gin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

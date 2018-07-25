@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42969">
+ <title>Unsound Minds (tune 2)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.75</rating>
+ 
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-21 21:43:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1428</pouetid>
+ <ytid>8GmXRthXVmo</ytid>
+ <ytoffset>285</ytoffset>
+ 
+ <artists>
+  <artist id="2078">AMJ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

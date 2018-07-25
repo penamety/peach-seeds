@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12534">
+ <title>Tear of the Sun</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.2807</rating>
+ 
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 23:27:02</locked_until>
+ <lastplayed>2018-05-03 23:51:44</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="859">Nightbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Celtic</tag>
+  
+  <tag>Folk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

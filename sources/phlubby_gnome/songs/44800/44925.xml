@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44925">
+ <title>Caramel Colour</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">4.25</rating>
+ <info>---------------------------------
+Wiklund &amp; Xylo
+
+Made at 04/02/09
+
+Caramel Colour has
+it&#39;s own kind of
+Colour!
+
+No school and work?!
+Thats just Awesome!
+---------------------------------</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 20:20:50</locked_until>
+ <lastplayed>2018-06-13 22:29:49</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist><artist id="3946">Xylo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?165364</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

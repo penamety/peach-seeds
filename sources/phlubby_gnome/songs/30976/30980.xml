@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30980">
+ <title>Arise</title>
+ <status v="A">Active</status>
+ <bitrate>107</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ <info>1st place in combined demo at Euskal 2004</info>
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 04:42:07</locked_until>
+ <lastplayed>2018-04-10 03:53:25</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>12850</pouetid>
+ <ytid>xUe_MyMDWvk</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1590">Wonder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=xUe_MyMDWvk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

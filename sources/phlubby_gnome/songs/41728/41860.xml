@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41860">
+ <title>Solidify</title>
+ <status v="A">Active</status>
+ <bitrate>173</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.1905</rating>
+ <info>Recorded from Atari Falcon 030 some post-processing added to tame down the harshness</info>
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 16:47:43</locked_until>
+ <lastplayed>2018-05-07 18:26:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>1078</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/65472/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

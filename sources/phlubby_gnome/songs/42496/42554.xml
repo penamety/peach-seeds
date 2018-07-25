@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42554">
+ <title>Tease the Space Pandas</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>Tune from the Revision 2015 Oldskool Compofiller Demo &#34;Arsantica Announcement Intro&#34;.
+
+Intro ranked #11 iirc; single Pokey tune tracked in RMT Raster Music Tracker</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 23:33:00</locked_until>
+ <lastplayed>2017-10-28 12:53:14</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>65344</pouetid>
+ <ytid>HRvsWijVzNU</ytid>
+ <ytoffset>63</ytoffset>
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HRvsWijVzNU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/136158/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37766">
+ <title>White Christmas</title>
+ <status v="A">Active</status>
+ <bitrate>152</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.4615</rating>
+ <info>Released by Crypt
+
+Authentic recording from Stone Oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>196</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:21:43</locked_until>
+ <lastplayed>2018-06-06 04:11:45</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3987">A-Man</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=39017</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38108">
+ <title>65536</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.2889</rating>
+ 
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 21:42:04</locked_until>
+ <lastplayed>2018-05-29 18:24:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3866">LukHash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>newschool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

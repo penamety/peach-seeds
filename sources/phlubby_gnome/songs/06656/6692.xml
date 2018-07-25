@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6692">
+ <title>Coma</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">2.6271</rating>
+ 
+ <songlength>347</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 19:26:35</locked_until>
+ <lastplayed>2018-05-08 11:56:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1650</pouetid>
+ <ytid>iy6n7Wd3IeM</ytid>
+ <ytoffset>22</ytoffset>
+ 
+ <artists>
+  <artist id="1133">Static</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>checkthisout</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

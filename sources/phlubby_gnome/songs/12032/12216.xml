@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12216">
+ <title>Päivänsäde &amp; Menninkäinen</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.0833</rating>
+ <info>Original music and lyrics by Reino Helismaa. The first recording by Tapio Rautavaara in 1949</info>
+ <songlength>63</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 08:43:04</locked_until>
+ <lastplayed>2018-05-17 03:45:24</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

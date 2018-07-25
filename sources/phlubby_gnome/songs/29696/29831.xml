@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29831">
+ <title>Diamond Mistery</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.9474</rating>
+ <info>MSX Demo</info>
+ <songlength>113</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 17:08:49</locked_until>
+ <lastplayed>2018-06-08 07:38:27</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="2">Demo</type>
+ <pouetid>50517</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="358">First Class Software</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

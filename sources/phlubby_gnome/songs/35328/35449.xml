@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35449">
+ <title>Living</title>
+ <status v="A">Active</status>
+ <bitrate>265</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ <info>#1 at 7D5 Demo Party Mixed Demo Competition</info>
+ <songlength>276</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 13:10:25</locked_until>
+ <lastplayed>2018-04-09 08:58:48</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>19075</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5051">Hydrogen</artist>
+ </artists>
+ <groups>
+  <group id="672">Glance</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=20691</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

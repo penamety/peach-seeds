@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18482">
+ <title>Zenith</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.52</rating>
+ <info>1st place in combined demo compo at Function 2005</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 20:09:13</locked_until>
+ <lastplayed>2018-06-11 16:51:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>19420</pouetid>
+ <ytid>S-e5C7szsuw</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>glitch</tag>
+  
+  <tag>IDM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=S-e5C7szsuw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

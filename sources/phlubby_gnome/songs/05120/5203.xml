@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5203">
+ <title>Drummin&#39;Beats Vibes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.8182</rating>
+ <info>Winner of Xuventude Galicia Net Party 2000 multichannel compo</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 11:55:51</locked_until>
+ <lastplayed>2018-05-11 06:47:56</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5376">Neno</artist><artist id="1099">SML</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Jungle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

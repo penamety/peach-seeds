@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7183">
+ <title>Subcultural reflection</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ 
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-15 06:05:19</locked_until>
+ <lastplayed>2017-11-23 22:25:30</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>1601</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1260">Trilobiitti</artist>
+ </artists>
+ <groups>
+  <group id="274">Unique</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

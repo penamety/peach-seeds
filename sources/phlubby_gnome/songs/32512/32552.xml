@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32552">
+ <title>fr-049b-minus</title>
+ <status v="D">Dupe</status>
+ <bitrate>361</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">4.5</rating>
+ <info>Dupe of: [song]8650[/song]</info>
+ <songlength>312</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-05-05 12:10:22</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>25693</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>UndergroundConference</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

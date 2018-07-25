@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35950">
+ <title>K-Pax for Evermore</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.25</rating>
+ <info>From [url=http://www.mazedude.com/aa/]The American Album[/url]
+
+Remix of &#34;Secret of Evermore&#34; tuna.</info>
+ <songlength>311</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 03:25:05</locked_until>
+ <lastplayed>2018-05-11 22:46:04</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4154">Mazedude</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>snes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

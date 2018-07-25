@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38681">
+ <title>Persistence of Memory (live at Red Fez)</title>
+ <status v="A">Active</status>
+ <bitrate>125</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.08</rating>
+ 
+ <songlength>479</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 08:54:46</locked_until>
+ <lastplayed>2018-06-01 21:28:25</lastplayed>
+ 
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

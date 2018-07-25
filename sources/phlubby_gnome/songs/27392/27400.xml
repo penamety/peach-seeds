@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27400">
+ <title>Aliens Quaternions</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.0556</rating>
+ <info>Released on &#34;SandS 10 years&#34; musicdisk</info>
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-23 21:05:47</locked_until>
+ <lastplayed>2017-09-15 11:50:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>16634</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1648">Tone</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

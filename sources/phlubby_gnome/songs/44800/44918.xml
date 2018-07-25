@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44918">
+ <title>Global Express</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.6</rating>
+ <info>------------------------------------
+i&#39;m suprised, i
+thought my Amiga was
+dead. so i celebrated
+to make a tune for you
+:)
+
+Greetings goes to:
+Michu,Malmen,Joule,
+Drareg,Zabutom,Xylo,
+Nyhlin,an-cat-max.
+and many more. :)
+------------------------------------</info>
+ <songlength>148</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 01:03:46</locked_until>
+ <lastplayed>2018-06-13 19:24:02</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?170013</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

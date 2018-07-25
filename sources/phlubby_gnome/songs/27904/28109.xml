@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28109">
+ <title>A Walk in the Park</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.3333</rating>
+ 
+ <songlength>489</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 00:28:27</locked_until>
+ <lastplayed>2018-05-16 05:49:34</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="631">KoM&#39;AH</artist>
+ </artists>
+ <groups>
+  <group id="420">Explizit</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jungle</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

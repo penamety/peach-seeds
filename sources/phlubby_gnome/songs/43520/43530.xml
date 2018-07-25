@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43530">
+ <title>Vladoskpop</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ <info>Collaboration Track for the &#34;Stonefish&#34; Dentro released at TRSAC 2016.
+
+139 kb Amiga 4ch-Mod tracked mostly with original 1993 Samples from my old PSR-36.
+
+Congrats to Bonefish on his Wedding :)</info>
+ <songlength>264</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-05 22:46:39</locked_until>
+ <lastplayed>2018-03-31 15:02:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>68380</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist><artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>random</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/164411/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

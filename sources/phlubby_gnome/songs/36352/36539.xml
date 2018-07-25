@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36539">
+ <title>Assembly 2012 Invitro (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>229</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.3</rating>
+ <info>Invitation for Assembly 2012</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-09 13:07:42</locked_until>
+ <lastplayed>2017-08-02 07:31:39</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59454</pouetid>
+ <ytid>hNvfRJORjck</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  <group id="41">Ate Bit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hNvfRJORjck</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

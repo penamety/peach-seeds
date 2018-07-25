@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40674">
+ <title>Damn, Harry!</title>
+ <status v="A">Active</status>
+ <bitrate>1003</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.5333</rating>
+ <info>
+
+An entry for the Nectarine &#34;Style Copy Compo&#34;, where the goal was to emulate the style of another scene artist. I attempted to copy the big beat styles of D Fast (Harry Damm), but everyone thought it was Press Play On Tape. 4th place of 5 entries.
+
+Sunvox, with lots of samples.
+
+CC attributions, all from freesound.org:
+Voice shouts by unfa
+clap by opm
+record scratch by hello_flowers</info>
+ <songlength>206</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-23 09:56:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5037">STS-136</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>SunVox</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

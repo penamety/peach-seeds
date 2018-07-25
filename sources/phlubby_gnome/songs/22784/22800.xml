@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22800">
+ <title>Autiohalko</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">2.2121</rating>
+ 
+ <songlength>50</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 18:22:26</locked_until>
+ <lastplayed>2018-05-23 07:21:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4435</pouetid>
+ <ytid>on6aZUib3Kc</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ahoi</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

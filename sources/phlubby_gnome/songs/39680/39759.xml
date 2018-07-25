@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39759">
+ <title>Blue Car (Halabada)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.4615</rating>
+ 
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 19:05:10</locked_until>
+ <lastplayed>2018-06-13 03:33:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1732">Kenotron</artist>
+ </artists>
+ <groups>
+  <group id="46">ETC Group</group><group id="522">Scene</group>
+ </groups>
+ 
+ <tags>
+  <tag>Cartoon</tag>
+  
+  <tag>russian</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

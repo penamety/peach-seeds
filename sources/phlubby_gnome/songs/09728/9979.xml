@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9979">
+ <title>The Tick</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.3448</rating>
+ <info>Unused tune from &#34;Ecco the Dolphin: Defender of the Future&#34; game on Dreamcast and PS2.
+
+It was available for download on Follin&#39;s site, unfortunately now link is broken there :(</info>
+ <songlength>128</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 12:32:47</locked_until>
+ <lastplayed>2018-05-25 14:40:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>VK8GLvZFZmQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1221">Tim Follin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

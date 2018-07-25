@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30589">
+ <title>Goofy</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-28 15:04:51</locked_until>
+ <lastplayed>2017-06-01 07:40:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>49404</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="919">Peter Salomonsen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

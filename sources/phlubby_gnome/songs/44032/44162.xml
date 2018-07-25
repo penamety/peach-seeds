@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44162">
+ <title>Florescence</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.2308</rating>
+ <info>A shortened version ranked 8th in the newschool music compo at Outline 2017.</info>
+ <songlength>345</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 04:04:26</locked_until>
+ <lastplayed>2018-05-22 10:06:12</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/172402/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

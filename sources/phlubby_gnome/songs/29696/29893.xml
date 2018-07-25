@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29893">
+ <title>I Walk The Line (Nectarine Hillbilly Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.1923</rating>
+ 
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 15:01:18</locked_until>
+ <lastplayed>2018-03-12 09:20:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Western</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

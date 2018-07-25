@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10137">
+ <title>Proba</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.7857</rating>
+ <info>joe/binary
+did it - you hear it
+** music for **
+- brain damage -
+binary demo 1993.
+
+members of binary:
+amigo
+bara
+front
+jarvis child
+joe
+nap</info>
+ <songlength>286</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-11 10:14:56</locked_until>
+ <lastplayed>2017-08-02 02:14:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>51491</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1824">Joe [HR]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

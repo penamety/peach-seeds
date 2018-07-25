@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43023">
+ <title>Don&#39;t Punish My Sync Claire</title>
+ <status v="A">Active</status>
+ <bitrate>201</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.6316</rating>
+ <info>This track placed 3rd in the Revision 2016 demo party Oldskool Music compo. It uses a variety of cool effects and an unique speech synthesis at the end based on hardware envelopes&#39; frequency change with mix of quare wave sound made specially and manually on the AY chip. No digital samples used! Composed on the ZX Spectrum 128 computer with AY 3-8912 soundchip. Uses ACB stereo separation.</info>
+ <songlength>171</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 01:14:46</locked_until>
+ <lastplayed>2018-06-10 02:44:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154968/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42150">
+ <title>lazy day</title>
+ <status v="A">Active</status>
+ <bitrate>158</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-23 20:02:35</locked_until>
+ <lastplayed>2017-09-17 06:38:49</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4035">SMH</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

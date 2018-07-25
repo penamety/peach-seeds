@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43759">
+ <title>Sonar Beach Party (Vallejo Amplifier Intro)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.7</rating>
+ <info>38 K Amiga Protracker Chiptune for the Vallejo Amplifier Amiga 64K Intro.
+
+</info>
+ <songlength>275</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 08:29:32</locked_until>
+ <lastplayed>2018-03-17 14:27:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>68911</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group><group id="343">The Electronic Knights [TEK]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Insane</tag>
+  
+  <tag>protracker</tag>
+  
+  <tag>TEK</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/168114/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34348">
+ <title>Return of Starfleet One</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.9474</rating>
+ <info>I made this tune originally for the Heavenly Compo 2 in 1999.
+The result was place #22.
+
+Also an slightly edited version of this track has been used for the dbf Phenoma Challenge entry:[url=http://www.dbfinteractive.com/forum/index.php?topic=5418.0&#34;]Here comes the sun[/url]
+
+The intro was voted 1st place. </info>
+ <songlength>339</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-25 02:26:43</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4919">neriakX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Space</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=irCt0VuKFZ0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

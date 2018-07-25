@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1382">
+ <title>Eurochart 21</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.6667</rating>
+ 
+ <songlength>526</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 00:28:39</locked_until>
+ <lastplayed>2018-06-03 21:26:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>11075</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="257">Cutcreator</artist>
+ </artists>
+ <groups>
+  <group id="143">Static Bytes</group>
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

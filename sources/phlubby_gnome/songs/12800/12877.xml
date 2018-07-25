@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12877">
+ <title>Aumax</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.6216</rating>
+ <info>Watch it on [url=http://www.youtube.com/watch?v=QqxszszxARM]YouTube[/url].
+
+[url=http://www.antialias.se/chiptunes/s3m/]download .s3m[/url]</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 06:01:55</locked_until>
+ <lastplayed>2018-06-13 20:18:37</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>319</pouetid>
+ <ytid>QqxszszxARM</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="631">Eufrosyne</group>
+ </groups>
+ 
+ <tags>
+  <tag>Industrial</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

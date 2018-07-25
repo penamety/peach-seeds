@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37125">
+ <title>Magic Disk 64 (1989/08)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.2222</rating>
+ 
+ <songlength>231</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-16 02:20:11</locked_until>
+ <lastplayed>2017-09-11 18:44:27</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>45331</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5216">Jens Blidon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=3841</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

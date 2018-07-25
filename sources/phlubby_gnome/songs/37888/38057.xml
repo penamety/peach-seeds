@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38057">
+ <title>Chase the Fox</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ 
+ <songlength>99</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 13:08:12</locked_until>
+ <lastplayed>2018-03-28 12:39:52</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="483">Ghidorah</artist><artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ <labels>
+  <label id="12">In Ear Gaming</label>
+ </labels>
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

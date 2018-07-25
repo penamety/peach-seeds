@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1950">
+ <title>Shades of noise</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.1667</rating>
+ 
+ <songlength>444</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-19 08:07:38</locked_until>
+ <lastplayed>2017-11-23 15:32:25</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="371">Dreamfish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

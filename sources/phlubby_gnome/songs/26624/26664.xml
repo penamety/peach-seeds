@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26664">
+ <title>Soil (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="44">4.1364</rating>
+ 
+ <songlength>119</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 17:26:03</locked_until>
+ <lastplayed>2018-06-05 16:11:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>3022</pouetid>
+ <ytid>_8lbJibAAyQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>atmospheric</tag>
+  
+  <tag>Heavy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_8lbJibAAyQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

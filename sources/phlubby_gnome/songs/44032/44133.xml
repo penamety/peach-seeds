@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44133">
+ <title>Candy Mountain</title>
+ <status v="A">Active</status>
+ <bitrate>1064</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.3478</rating>
+ <info>1st in the Silly Venture 2011 Atari XL/XE Pokey Music competition</info>
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 10:52:47</locked_until>
+ <lastplayed>2018-05-28 19:27:03</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2297">BeWu</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/56325/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

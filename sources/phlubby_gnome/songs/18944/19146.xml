@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19146">
+ <title>Chariots of fire</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6667</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 04:36:10</locked_until>
+ <lastplayed>2018-05-21 05:36:40</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="527">HMW</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>Vangelis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

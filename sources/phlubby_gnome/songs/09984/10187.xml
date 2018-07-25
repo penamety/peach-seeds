@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10187">
+ <title>Straight Edge?</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.0476</rating>
+ <info>1st place at Grayscale Music Compo 2004.</info>
+ <songlength>102</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 09:38:53</locked_until>
+ <lastplayed>2017-11-01 03:04:59</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1829">Epi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Grayscale</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

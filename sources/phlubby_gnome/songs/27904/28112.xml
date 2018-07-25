@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28112">
+ <title>Space Debris (2010 Reloaded)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="129">4.5039</rating>
+ <info>Space Debris 2010 Reloaded is XayberOptix&#39;s 64-bit rendition of a popular Amiga MOD (4-track audio file) titled &#34;Space Debris&#34; originally composed by Markus &#34;Captain&#34; Kaarlonen.
+
+Music software used to make this soundtrack:
+
+- Sony Acid Pro
+- reFX Nexus
+- reFX Vanguard
+- IK Multimedia SampleTank XL
+- IK Multimedia Sonik Synth
+- IK Multimedia Philharmonik
+
+Video editing software:
+
+- Sony Vegas Pro
+
+The graphics animation seen in this video was borrowed from a movie called &#34;Battle Space.&#34;</info>
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 08:53:04</locked_until>
+ <lastplayed>2018-06-12 16:45:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ <ytid>aCzUWcBJMhM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4050">XayberOptix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=aCzUWcBJMhM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

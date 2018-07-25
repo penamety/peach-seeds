@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35888">
+ <title>Antorchas de la aldea del bosque</title>
+ <status v="A">Active</status>
+ <bitrate>169</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.7073</rating>
+ <info>When the night arrives and stars start to shimmer, torches are lit. Thus a sorceress-in-training who plans to steal ingredients from villagers&#39; plots decides to stay in bushes eating blackcurrants until lights die out.
+
+A Goattracker song
+
+Loops at 2:53</info>
+ <songlength>257</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 13:29:28</locked_until>
+ <lastplayed>2018-06-03 02:00:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Night</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/18169/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

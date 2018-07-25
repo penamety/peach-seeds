@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35667">
+ <title>Chilam Balam</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="33">4.0303</rating>
+ <info>Streamed music compo entry @ Revision 2012</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 06:50:53</locked_until>
+ <lastplayed>2018-06-15 05:40:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1560">TEO</artist>
+ </artists>
+ <groups>
+  <group id="8">Exceed</group><group id="175">Kangooroo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

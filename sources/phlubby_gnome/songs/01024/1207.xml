@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1207">
+ <title>Blown</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.0455</rating>
+ 
+ <songlength>318</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 20:41:46</locked_until>
+ <lastplayed>2018-04-25 21:17:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2827</pouetid>
+ <ytid>MdAq-gMUcNU</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="218">Clawz</artist>
+ </artists>
+ <groups>
+  <group id="526">Impact Studios</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Saturne</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

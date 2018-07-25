@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29683">
+ <title>Timecollapse</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.303</rating>
+ 
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 07:03:00</locked_until>
+ <lastplayed>2018-05-27 06:17:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>25803</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4339">Cozz</artist>
+ </artists>
+ <groups>
+  <group id="616">Bombsquad</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>bass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

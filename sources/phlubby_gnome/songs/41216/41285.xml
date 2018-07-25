@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41285">
+ <title>Scene Spirit</title>
+ <status v="A">Active</status>
+ <bitrate>409</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">4.0385</rating>
+ <info>C64 Music Competition at X&#39;2014 :  #10</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 04:11:05</locked_until>
+ <lastplayed>2018-04-20 12:53:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  <group id="786">Kryo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

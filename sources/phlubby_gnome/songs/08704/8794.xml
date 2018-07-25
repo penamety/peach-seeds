@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8794">
+ <title>Shades</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">4.3846</rating>
+ <info>Winner of the 64&#39;er magazine music competition in 1986.</info>
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 15:34:12</locked_until>
+ <lastplayed>2018-06-05 05:11:37</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>47391</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>classic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/2911/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

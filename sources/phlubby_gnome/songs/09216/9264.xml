@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9264">
+ <title>Gateways Part II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.0313</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 10:28:06</locked_until>
+ <lastplayed>2018-01-10 14:53:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>295</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="864">Nitro</artist>
+ </artists>
+ <groups>
+  <group id="446">trauma</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

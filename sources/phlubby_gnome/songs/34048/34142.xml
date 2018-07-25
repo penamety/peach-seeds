@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34142">
+ <title>Dismentalised Jozz Rip-off</title>
+ <status v="A">Active</status>
+ <bitrate>98</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ <info>Partly remake of an old SID tune by Johannes Bjerregaard.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 02:26:00</locked_until>
+ <lastplayed>2018-05-05 08:30:44</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

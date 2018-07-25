@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27703">
+ <title>Cyanide demo tune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.4783</rating>
+ <info>Cyanide is our first major demo which won the C-Party demo competition held locally in Perth, Western Australia in July 1994. Initially supporting only Gravis Ultrasound soundcards, a patch file was released a few days later to add SB and PAS support to the demo.</info>
+ <songlength>248</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-20 00:04:06</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>6030</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3007">Kitsune</artist>
+ </artists>
+ <groups>
+  <group id="254">Oxygene</group>
+ </groups>
+ 
+ <tags>
+  <tag>herewego</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=l6teEAtPBqg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

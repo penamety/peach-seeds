@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3413">
+ <title>Breakout Remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.3676</rating>
+ 
+ <songlength>158</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 23:27:27</locked_until>
+ <lastplayed>2018-05-20 14:54:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>12862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="466">Mirage</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChitChat</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

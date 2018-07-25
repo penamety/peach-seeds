@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13402">
+ <title>The Journey to Mexico</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">2.3571</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-19 04:32:49</locked_until>
+ <lastplayed>2017-12-25 14:17:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ <pouetid>12652</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2160">0-day Ivar</artist>
+ </artists>
+ <groups>
+  <group id="142">Odd</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>chipmunk</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>NorwegianSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

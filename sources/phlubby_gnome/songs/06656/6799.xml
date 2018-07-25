@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6799">
+ <title>Boost</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">3.9571</rating>
+ <info>1st place in pc demo compo at Assembly 1997</info>
+ <songlength>283</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 23:04:30</locked_until>
+ <lastplayed>2018-05-11 08:44:34</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>6485</pouetid>
+ <ytid>1gYE7JFVMpE</ytid>
+ 
+ 
+ <artists>
+  <artist id="544">Illusion</artist><artist id="1167">Swallow</artist>
+ </artists>
+ <groups>
+  <group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=1gYE7JFVMpE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

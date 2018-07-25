@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3394">
+ <title>Juicy Fruit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6538</rating>
+ 
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-29 00:18:08</locked_until>
+ <lastplayed>2018-01-09 21:22:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>12863</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  <group id="466">Mirage</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>gum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37272">
+ <title>Sundowner</title>
+ <status v="A">Active</status>
+ <bitrate>784</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.2</rating>
+ <info>3rd @ Sundown 2012</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 00:39:07</locked_until>
+ <lastplayed>2018-05-20 23:20:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>59965</pouetid>
+ <ytid>74MHxLfzeAA</ytid>
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=74MHxLfzeAA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

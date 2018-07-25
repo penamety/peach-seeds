@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35858">
+ <title>Night Instant</title>
+ <status v="A">Active</status>
+ <bitrate>235</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0</rating>
+ <info>Ranked 1st in ZX AY-Music Compo at Chaos Constructions 2010.</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 06:37:47</locked_until>
+ <lastplayed>2018-05-24 22:23:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

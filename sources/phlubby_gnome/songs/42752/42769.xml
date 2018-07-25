@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42769">
+ <title>One Rule</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.0</rating>
+ <info>► ONE RULE (Fallen Knight Special Version)
+► Music written by melcom
+► Composed with Schism Tracker in 2016
+
+more tracks @ https://www.facebook.com/melcom2630
+
+► Download(s)
+.IT (Schism) [url]http://bit.ly/onerule_it[/url] (drive.google.com)
+.MP3 [url]http://bit.ly/onerule_mp3[/url] (drive.google.com)
+
+► Assault on Arkham (fanmade tribute soundtrack) DEMO:
+[url]http://bit.ly/AssaultOnArkham[/url]</info>
+ <songlength>263</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-01-22 11:03:48</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="766">Melcom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Arkham</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=aubxBMgHNQM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

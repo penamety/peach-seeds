@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12068">
+ <title>Music 1</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.9231</rating>
+ 
+ <songlength>322</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 11:59:52</locked_until>
+ <lastplayed>2018-05-04 12:24:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>9342</pouetid>
+ <ytid>GTRsn-Gicyg</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

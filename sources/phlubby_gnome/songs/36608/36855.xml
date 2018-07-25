@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36855">
+ <title>abcdefghijklmnopqrstuvwxyz</title>
+ <status v="A">Active</status>
+ <bitrate>266</bitrate>
+ <samplerate>88200</samplerate>
+ <rating votes="64">4.1875</rating>
+ 
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 03:04:22</locked_until>
+ <lastplayed>2018-05-27 11:03:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1582">Wayfinder</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

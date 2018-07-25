@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12301">
+ <title>Laser Squad - Intro [AMIGA]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7</rating>
+ <info>Intro/menu music from Amiga&#39;s Laser Squad  </info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 10:04:50</locked_until>
+ <lastplayed>2018-05-01 01:12:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>VVZtLlvjHUw</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="750">Matt Furniss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/835</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/835</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15130">
+ <title>Postludium</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-05 08:47:49</locked_until>
+ <lastplayed>2017-08-30 04:56:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>3823</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="133">Brainbug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ROM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

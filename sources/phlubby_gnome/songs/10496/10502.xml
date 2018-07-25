@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10502">
+ <title>Junebug</title>
+ <status v="A">Active</status>
+ <bitrate>238</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>Ranked 2nd in the music compo at Scenecon 2009.</info>
+ <songlength>249</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 05:59:13</locked_until>
+ <lastplayed>2018-05-18 23:51:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1560">TEO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>SceneCON</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

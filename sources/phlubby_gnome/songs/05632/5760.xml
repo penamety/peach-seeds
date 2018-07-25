@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5760">
+ <title>Jazznights</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5</rating>
+ <info>prodigy of oops!
+[20/12/1997]
+
+&#34;jazznights&#34; was
+composed for
+&#34;insomnia #2.&#34;
+by
+lookerhouse. &amp;
+trsi
+
+all samples were
+from my yamaha psr
+730 keyboard
+
+so if you use them
+credit me.
+</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-28 06:24:42</locked_until>
+ <lastplayed>2018-04-20 10:49:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13819</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  <group id="325">Oops! [OPS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>AwfulSaxophone</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/8736/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

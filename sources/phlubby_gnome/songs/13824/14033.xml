@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14033">
+ <title>Sowatt demo tune 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.8571</rating>
+ 
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-06 09:33:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>754</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2221">AN Cool</artist>
+ </artists>
+ <groups>
+  <group id="535">The Carebears [TCB]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

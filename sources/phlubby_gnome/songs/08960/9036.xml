@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9036">
+ <title>It&#39;s not right but it&#39;s ok (Fuck RNB-Remix)</title>
+ <status v="C">Removed By Request</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">2.4857</rating>
+ 
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="15">Acidline</artist>
+ </artists>
+ <groups>
+  <group id="236">High Society</group>
+ </groups>
+ 
+ <tags>
+  <tag>electro</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>RnB</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29722">
+ <title>Wir Gehen Voran (Groove Up RMX)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.825</rating>
+ <info>Ranked 3rd in the streamed music compo at Breakpoint 2005: https://breakpoint.untergrund.net/2005/results.php</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 23:13:48</locked_until>
+ <lastplayed>2018-05-09 15:55:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist><artist id="4346">Sabin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>GermanSpeak</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

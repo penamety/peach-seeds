@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41574">
+ <title>Smash It</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0625</rating>
+ <info>Smash It Elix at TRSAC 2014 on fucking SUPER NINTENDO
+
+- Ferris - cTrix - Alien -
+
+SUPER RUSHED PARTY VERSION ALERT!!! This means there are a couple bugs. Oh well :) A final
+probably won&#39;t appear; time to start the next one already
+
+Made mostly in a mad dash to the deadline after spending way too much time making tools XD
+Many emu&#39;s are pretty picky with this, particularly with timing/sync in general higan works
+and the rest might :) At least we got some more platform exploration out of it, and a pretty
+sick set of tools for later
+
+NTSC version may or may not come soon.
+
+Greetings to:
+. Youth Uprising
+. Outracks
+. Disaster Area
+. Paradox
+. Genesis*Project
+. Desire
+. Titan
+. Brainstorm
+. Mercury
+. Snorpung
+. Ümlaüt Design
+. bitFlavour
+. Andromeda Software Development
+. Conspiracy
+. Farbrausch
+. Plastic
+. MFX
+. Traction
+. Northern Dragons
+. Trailer Park Demos
+. Gravity
+. RGBA
+. TBC
+. Loonies
+. Portal Process
+. Kvasigen
+. Nazareth Creations (fucking lamers)
+. PlayPsyCo
+. Kvasigen
+. Gravity
+. Quite
+. XPLSV
+. Keyboarders
+. Shitfaced Clowns
+. Spaceballs
+. Ephidrena
+. Darklite
+. VRTX
+
+P.S. I realized I forgot to mention beware, nitro2k01 and nordloef way back for their help
+along the way when I was making Demon Blood YUP so HUGE THANKS to you guys and sorry for
+not mentioning it sooner.
+
+More SNES demos soon to come!!</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-25 18:08:10</locked_until>
+ <lastplayed>2017-12-08 04:44:15</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>64255</pouetid>
+ <ytid>ewCpyBrj3uY</ytid>
+ 
+ 
+ <artists>
+  <artist id="4026">cTrix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>snes</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ewCpyBrj3uY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

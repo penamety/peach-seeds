@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22301">
+ <title>Outrun Europe Megamix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.7463</rating>
+ <info>nobuyuki / djn
+Sep 26, 2003
+
+Based on songs by Jeroen Tel (AKA Wave)
+Copyright 1988 Maniacs of Noise
+
+
+Visit me:
+http://nobuyuki.furserve.com
+
+Or my group:
+http://nyuu.cellosoft.com</info>
+ <songlength>336</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 23:12:08</locked_until>
+ <lastplayed>2018-06-12 08:20:20</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3294">Nobuyuki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Outrun</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HN58IJHZYkI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

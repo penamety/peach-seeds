@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28079">
+ <title>Voice of the Heart</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">2.8286</rating>
+ 
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 05:14:58</locked_until>
+ <lastplayed>2018-05-04 05:00:46</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4045">Palindrome</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

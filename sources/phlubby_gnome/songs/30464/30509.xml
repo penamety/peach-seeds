@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30509">
+ <title>Bees</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>24.03.00 warsaw/mars
+ - lesnik/altair
+done at the party
+place for crazy demo
+&#34;pszczoly&#34;.
+signed at home. sweet
+home.
+</info>
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 06:53:54</locked_until>
+ <lastplayed>2018-05-22 22:53:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="660">Lesnik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

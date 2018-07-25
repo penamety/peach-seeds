@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25957">
+ <title>A Fucking Chiptune</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1053</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-03 16:06:39</locked_until>
+ <lastplayed>2018-01-13 06:13:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>7927</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1274">Typhoon</artist>
+ </artists>
+ <groups>
+  <group id="154">Avalon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

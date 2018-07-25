@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2877">
+ <title>Mina Omistan</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">1.7204</rating>
+ <info>lyrics in the original lang:
+
+Minä omistan sinussa ihmeitä tekevän ikonin (3x)
+Minä omistan punaisen kirjoituspöydän
+Minä omistan jumalan
+Minä omistan mielikuvituksen
+Minä omistan kaiken
+Minä omistan mielikuvituksen
+Minä omistan kaiken
+Minä omistan jumalan
+Siinä kaikki mitä omistan
+
+Lyrics translated:
+
+I own an icon making miracles in you (3x)
+I own a red writing desk
+I own the god
+I own imagination
+I own everything
+I own imagination
+I own everything
+I own the god
+That&#39;s all I own</info>
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 15:32:00</locked_until>
+ <lastplayed>2018-05-11 14:34:14</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ <pouetid>3875</pouetid>
+ <ytid>3klpF47NBZ4</ytid>
+ <ytoffset>33</ytoffset>
+ 
+ <artists>
+  <artist id="326">Dime</artist><artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Comedy</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3klpF47NBZ4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

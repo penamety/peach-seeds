@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="606">
+ <title>Circuit System</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.4348</rating>
+ 
+ <songlength>481</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 13:49:28</locked_until>
+ <lastplayed>2018-05-24 16:15:01</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3181</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="117">Biotic</artist>
+ </artists>
+ <groups>
+  <group id="486">apocalypse inc [AInc]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Psytrance</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

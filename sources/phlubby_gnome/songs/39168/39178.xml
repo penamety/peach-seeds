@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39178">
+ <title>Cheesecat&#39;s Groove</title>
+ <status v="A">Active</status>
+ <bitrate>180</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Entry for &#39;Release the Cheese&#39;, a compo for a Windows SID-tracker. This song placed 1st.
+
+</info>
+ <songlength>63</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-19 20:57:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

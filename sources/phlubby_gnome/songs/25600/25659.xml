@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25659">
+ <title>Bionic Commando - stage 1 [c64]</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.62</rating>
+ 
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 16:44:26</locked_until>
+ <lastplayed>2018-06-11 03:34:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>NBPGgEZAGNQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1221">Tim Follin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Arcade</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

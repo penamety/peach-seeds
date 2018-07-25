@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32739">
+ <title>Staring at the Sea</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.3623</rating>
+ <info>Revision 2011 Executable Music Oldschool Compo, ranked 6th</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 22:22:25</locked_until>
+ <lastplayed>2018-05-29 08:38:27</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

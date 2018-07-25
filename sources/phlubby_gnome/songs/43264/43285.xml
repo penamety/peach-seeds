@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43285">
+ <title>Gyroscope</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>Wiklunds wonderful module for Chiperia #4</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 22:00:54</locked_until>
+ <lastplayed>2017-12-22 05:08:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>66647</pouetid>
+ <ytid>https://youtu.be/OHup0NSpC8w</ytid>
+ <ytoffset>1790</ytoffset>
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

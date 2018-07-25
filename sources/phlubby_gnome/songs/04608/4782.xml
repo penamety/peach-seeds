@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4782">
+ <title>Moonwaves</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.125</rating>
+ 
+ <songlength>456</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 15:48:14</locked_until>
+ <lastplayed>2018-05-21 05:49:47</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="767">Mellow-D</artist><artist id="1146">Stinger (FI)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

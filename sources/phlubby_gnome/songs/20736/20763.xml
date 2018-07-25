@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20763">
+ <title>Dark Helmets</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ 
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 13:54:13</locked_until>
+ <lastplayed>2018-06-10 11:16:36</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>9605</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="23">Spaceballs</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

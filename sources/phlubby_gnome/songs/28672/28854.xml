@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28854">
+ <title>001 Spiral Hands On II Cirdan - Mars Invaders (Org. by Laserdance)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">4.0147</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 02:06:56</locked_until>
+ <lastplayed>2018-06-07 19:06:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>claps</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Laserdance</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>Spacesynth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

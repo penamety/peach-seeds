@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44853">
+ <title>Spread The Jam</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.3333</rating>
+ 
+ <songlength>99</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 21:56:41</locked_until>
+ <lastplayed>2018-05-22 12:21:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8477</pouetid>
+ <ytid>929Ddjrfagc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5315">Omen </artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>slapbass</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=929Ddjrfagc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://amp.dascene.net/analyzer2.php?idx=51809</url>
+    <comment></comment>
+    <type id="32">
+        <name>AMP</name>
+        <icon>/static/media/linkicons/amp_eLonDuZ.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

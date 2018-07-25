@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30108">
+ <title>Kozmosis</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.8</rating>
+ 
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 13:35:30</locked_until>
+ <lastplayed>2018-03-20 04:13:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>13820</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="544">Illusion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

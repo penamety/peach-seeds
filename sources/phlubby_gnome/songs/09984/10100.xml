@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10100">
+ <title>[Deus Ex] Title (PlayStation 2 Version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.4091</rating>
+ <info>From the game Deus Ex (PlayStation 2 Version)</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 02:15:36</locked_until>
+ <lastplayed>2018-05-23 22:33:41</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>DeusEx</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

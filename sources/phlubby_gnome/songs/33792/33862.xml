@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33862">
+ <title>Paradise City</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">2.9167</rating>
+ 
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-23 04:30:57</locked_until>
+ <lastplayed>2017-10-14 08:39:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10253</pouetid>
+ <ytid>lfcJIbshgq0</ytid>
+ <ytoffset>90</ytoffset>
+ 
+ <artists>
+  <artist id="4864">Baby</artist>
+ </artists>
+ <groups>
+  <group id="186">Devils</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lfcJIbshgq0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

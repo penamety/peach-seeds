@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31597">
+ <title>Shad 2 - Fantom</title>
+ <status v="A">Active</status>
+ <bitrate>112</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="25">2.96</rating>
+ <info>1st @ ArtParty 1999 in demo comp</info>
+ <songlength>159</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 07:23:35</locked_until>
+ <lastplayed>2018-05-14 08:14:34</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>52</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4643">Coptic Rain</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>Growl</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

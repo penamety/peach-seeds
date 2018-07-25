@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39626">
+ <title>happy (sidstation live)</title>
+ <status v="R">Rejected</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.3333</rating>
+ <info>This was my first try with the SIDstation. It is still noisy because of missing sound filters, also normally i use the SIDStation with an kaoss PAD effect gear. The track is nearly live sampled, i didn&#39;t spend that sample gaps much time because it is only a test tune.</info>
+ <songlength>87</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-12-22 04:04:56</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5014">Space</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

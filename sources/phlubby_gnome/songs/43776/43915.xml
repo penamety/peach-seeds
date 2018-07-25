@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43915">
+ <title>Eidolon</title>
+ <status v="A">Active</status>
+ <bitrate>237</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.5294</rating>
+ 
+ <songlength>451</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 08:45:54</locked_until>
+ <lastplayed>2018-06-04 20:23:59</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>69669</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="777">Poo-brain [PB]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

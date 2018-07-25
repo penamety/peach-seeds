@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29885">
+ <title>Robbox Soundtrack Mix</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.0317</rating>
+ <info>Mix of tracks from PC game [URL=http://robbox.nm.ru]Robbox[/URL]. Used tracks: 
+
+Red clouds
+End
+Robo 4EVER!
+Danger bombs
+
+Tracks composed by [artist]3932[/artist], mix built by [user]anerte[/user].</info>
+ <songlength>550</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 02:35:45</locked_until>
+ <lastplayed>2018-06-11 03:01:11</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4369">anerte</artist><artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

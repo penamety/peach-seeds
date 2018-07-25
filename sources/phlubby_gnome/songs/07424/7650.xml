@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7650">
+ <title>That&#39;s the Way</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.4508</rating>
+ 
+ <songlength>326</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 23:38:05</locked_until>
+ <lastplayed>2018-05-31 20:37:14</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="399">Egman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

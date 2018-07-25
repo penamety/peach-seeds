@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39862">
+ <title>Torres de Cromo</title>
+ <status v="A">Active</status>
+ <bitrate>210</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.931</rating>
+ <info>-Schism Tracker used
+-100% emulated FM samples, YM2612 chip
+-samples ripped from TFM Music Maker
+-3# at tUM 2013 tracker music compo (remote)
+-thanks to saga_musix for technical support (while reducing file space for compo requirements)</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 08:15:17</locked_until>
+ <lastplayed>2018-05-16 19:34:18</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4970">franz_koopa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>Latin</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>ym2612</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

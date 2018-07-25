@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11989">
+ <title>White Line Fever</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="33">3.9091</rating>
+ <info>From the music compo at Rendezvous 1992.</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 22:14:04</locked_until>
+ <lastplayed>2018-04-19 07:29:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="999">Redferne</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

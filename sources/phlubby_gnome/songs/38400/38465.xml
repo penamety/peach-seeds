@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38465">
+ <title>IsterReport Tune 1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5833</rating>
+ <info>http://csdb.dk/release/?id=99970</info>
+ <songlength>107</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 18:09:13</locked_until>
+ <lastplayed>2018-04-01 07:02:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56942</pouetid>
+ <ytid>qHi2WOzsPvM</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="5346">Mermaid</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

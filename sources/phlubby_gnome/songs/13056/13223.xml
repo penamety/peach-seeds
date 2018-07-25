@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13223">
+ <title>Metman 1</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.875</rating>
+ <info>From &#34;Bis Repetita&#34; by Synergy.
+[URL]http://bitworld.bitfellas.org/demo.php?id=4461[/URL]</info>
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-02 02:04:49</locked_until>
+ <lastplayed>2017-06-26 20:11:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>56954</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="988">Random Voice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

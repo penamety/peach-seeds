@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26630">
+ <title>Sicaril</title>
+ <status v="A">Active</status>
+ <bitrate>186</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">4.1408</rating>
+ <info>1st place in combined demo compo at Euskal 2008</info>
+ <songlength>368</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 20:13:22</locked_until>
+ <lastplayed>2018-05-24 06:39:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51078</pouetid>
+ <ytid>x9DbxVfkqsc</ytid>
+ 
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Euskal</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=x9DbxVfkqsc</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

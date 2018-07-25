@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43529">
+ <title>Elysian (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">4.1875</rating>
+ <info>Soundtrack of 64k intro Elysian which won 1st place at TRSAC 2016</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 09:52:33</locked_until>
+ <lastplayed>2018-05-25 11:17:16</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>68375</pouetid>
+ <ytid>JeVqTLvGN5k</ytid>
+ 
+ 
+ <artists>
+  <artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  <group id="846">Logicoma [LGC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JeVqTLvGN5k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

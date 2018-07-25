@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32720">
+ <title>My Hand is Two Killer Whales</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.2727</rating>
+ <info>3rd in streamed music competition @ Revision 2011</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 13:43:47</locked_until>
+ <lastplayed>2018-06-08 06:10:12</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>FridayTune</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

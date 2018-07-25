@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40983">
+ <title>Heavy Phaser</title>
+ <status v="A">Active</status>
+ <bitrate>352</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7778</rating>
+ <info>Download page: http://2014.chaosconstructions.ru/results/compo-10</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-19 11:55:57</locked_until>
+ <lastplayed>2017-11-01 04:04:32</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  <group id="214">Quite</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30771">
+ <title>Getting to Know Me</title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ 
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 11:26:36</locked_until>
+ <lastplayed>2018-04-04 01:37:51</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>21042</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5338">Amigo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Pixelshow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

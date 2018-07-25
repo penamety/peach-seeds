@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9329">
+ <title>Only One Wish</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.1368</rating>
+ <info>2nd place in pc demo compo at Intel Demo Competition 2008</info>
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 11:49:32</locked_until>
+ <lastplayed>2018-05-26 05:10:44</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50866</pouetid>
+ <ytid>nY1s9O4iTO0</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1630">Elusive</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>IntelDemoCompetition</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nY1s9O4iTO0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

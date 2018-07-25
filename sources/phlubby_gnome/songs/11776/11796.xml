@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11796">
+ <title>Tout Près de Satan</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3158</rating>
+ <info>Made using Digibooster Pro, MadTracker and Fasttracker 2.</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 13:21:19</locked_until>
+ <lastplayed>2017-10-31 09:17:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3321</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1342">Crankshaft</artist>
+ </artists>
+ <groups>
+  <group id="80">CNCD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>madtracker2</tag>
+  
+  <tag>Religion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

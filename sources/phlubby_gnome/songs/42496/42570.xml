@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42570">
+ <title>Stardust</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.0714</rating>
+ <info>From [url]http://csdb.dk/release/?id=109588[/url]
+
+Cover/Remix of Samuli Edelmann - Tähtipölyä</info>
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 13:52:18</locked_until>
+ <lastplayed>2018-01-15 03:17:04</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5391">Flex</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

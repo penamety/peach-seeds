@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37692">
+ <title>Biomechanoid Locomotion</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">3.7917</rating>
+ <info>Chiptrack inspired by C64 games like Cybernoid, R-Type, and also the Alien movie saga, 
+furthermore Discomusic from the 70s, and most probably some other influences :-)</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 20:03:22</locked_until>
+ <lastplayed>2018-03-27 00:56:18</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

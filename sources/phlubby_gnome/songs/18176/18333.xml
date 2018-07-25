@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18333">
+ <title>Breakthru</title>
+ <status v="A">Active</status>
+ <bitrate>95</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.4643</rating>
+ <info>http://noname.c64.org/csdb/group/?id=1259
+
+http://noname.c64.org/csdb/release/?id=37732
+
+Recorded with WinVICE using ReSID, then encoded with LAME using VBR quality 3.  Left 10 seconds&#39; worth of looping, including a fadeout at a sensible point.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-24 11:15:13</locked_until>
+ <lastplayed>2018-04-18 20:46:57</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="460">Fred Gray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cracktro</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

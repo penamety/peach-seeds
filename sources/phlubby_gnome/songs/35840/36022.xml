@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36022">
+ <title>Tiibet</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.6429</rating>
+ <info>Assembly 2002 Vocal music compo entry
+[url=ftp://ftp.scene.org/pub/parties/2002/assembly02/vocalmusic/tiibet_by_der___united_narsists.zip]Download[/url]</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 15:51:28</locked_until>
+ <lastplayed>2018-05-19 21:44:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5117">Der</artist>
+ </artists>
+ <groups>
+  <group id="811">United Narsists</group>
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/71747/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

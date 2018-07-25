@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31990">
+ <title>Wrath</title>
+ <status v="A">Active</status>
+ <bitrate>329</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.9474</rating>
+ <info>4th place in pc demo compo at Assembly 2009</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-24 15:43:17</locked_until>
+ <lastplayed>2017-10-15 22:45:57</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53648</pouetid>
+ <ytid>BruLI6vl8Dw</ytid>
+ 
+ 
+ <artists>
+  <artist id="570">Jean9</artist>
+ </artists>
+ <groups>
+  <group id="141">Matt Current</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BruLI6vl8Dw</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

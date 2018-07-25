@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39056">
+ <title>FuxGift&#39;98</title>
+ <status v="A">Active</status>
+ <bitrate>1030</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>90</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 03:34:36</locked_until>
+ <lastplayed>2018-06-16 11:39:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/16367/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

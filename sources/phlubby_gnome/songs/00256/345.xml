@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="345">
+ <title>Hard Feelings</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">3.2632</rating>
+ 
+ <songlength>487</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 12:04:57</locked_until>
+ <lastplayed>2018-05-23 21:08:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9383</pouetid>
+ <ytid>6v5ocjbTmKg</ytid>
+ 
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  <group id="257">Delight</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Slow</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

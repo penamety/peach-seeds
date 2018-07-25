@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5300">
+ <title>Machines of Madness IV</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">3.7937</rating>
+ 
+ <songlength>415</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-30 16:33:51</locked_until>
+ <lastplayed>2018-04-26 13:35:35</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>312</pouetid>
+ <ytid>g4-07JA9Dg0</ytid>
+ 
+ 
+ <artists>
+  <artist id="864">Nitro</artist>
+ </artists>
+ <groups>
+  <group id="453">dubius</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

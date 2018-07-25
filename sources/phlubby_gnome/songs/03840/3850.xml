@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3850">
+ <title>Fraxion</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="115">3.9391</rating>
+ <info>format is: FutureComposer</info>
+ <songlength>516</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 18:14:19</locked_until>
+ <lastplayed>2018-06-01 03:16:02</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>11107</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="626">Keo</artist>
+ </artists>
+ <groups>
+  <group id="220">Magnetic Fields</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

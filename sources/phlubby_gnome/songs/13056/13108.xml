@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13108">
+ <title>Netherworld</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.0</rating>
+ <info>Hewson, 1988
+
+Authentic recording from Stone Oakvalley&#39;s collection.
+
+This is an R4 SID chip recording. In recordings from R2 and R5 chips guitar samples are completely screwed up.
+
+The composer was disappointed that instead of Hewson letting him to make music for Amiga port they gave the job for somebody else who allegedly ruined his &#34;heavy metal ideology&#34;</info>
+ <songlength>129</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 19:32:39</locked_until>
+ <lastplayed>2018-02-17 23:44:09</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>0yjVrOIb2SQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="2115">Yip</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Metal</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1779</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40530">
+ <title>Tingly Sensation</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.4314</rating>
+ 
+ <songlength>420</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 09:10:35</locked_until>
+ <lastplayed>2018-06-12 00:21:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>63539</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4646">Kepler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Female</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>voice</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

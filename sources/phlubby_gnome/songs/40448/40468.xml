@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40468">
+ <title>Zoomer Preview</title>
+ <status v="A">Active</status>
+ <bitrate>125</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.4545</rating>
+ <info>Tune released with the zoomer preview coded by Adso from the Overlanders.</info>
+ <songlength>299</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-27 17:12:22</locked_until>
+ <lastplayed>2017-09-20 16:37:40</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>0</ytid>
+ 
+ 
+ <artists>
+  <artist id="357">Doclands</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29574">
+ <title>Suicide Express (Suicide for 2 Pianos)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.96</rating>
+ <info>Original SID by Antony Crowther - [url=http://gallium.prg.dtu.dk/HVSC/C64Music/MUSICIANS/C/Crowther_Antony/Suicide_Express.sid]&#34;Suicide Express&#34;[/url]</info>
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 05:25:17</locked_until>
+ <lastplayed>2018-04-18 17:22:25</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4193">Bladiator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

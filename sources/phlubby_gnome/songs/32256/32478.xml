@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32478">
+ <title>Borntro</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.5294</rating>
+ 
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 18:14:05</locked_until>
+ <lastplayed>2017-12-03 03:34:41</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3858</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1661">Nula</artist>
+ </artists>
+ <groups>
+  <group id="595">TFTDemo</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

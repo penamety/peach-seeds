@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22514">
+ <title>Saturday Bam - Evoke Edit</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="70">4.3143</rating>
+ <info>Ranked 5th in the &#34;OGG Music compo&#34; at Evoke 2005.</info>
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 22:52:29</locked_until>
+ <lastplayed>2018-05-22 23:57:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>K894KCMOiKI</ytid>
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=K894KCMOiKI</url>
+    <comment>Youtube vid</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

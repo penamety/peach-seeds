@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44037">
+ <title>Mood Gallery</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.0</rating>
+ <info>Excerpt from instrument list:
+
+This music has 7 parts
+.1 my swamp
+.2 your meadow
+.3 his plateau
+.4 our city
+.5 your hills
+.6 their sea
+.7 nobody&#39;s desert
+Sorry for this bad cut
+Had to keep it small
+plus i was in hurry.
+-David &#34;Nagz&#34; Halmi
+-2001-2002, Hungary
+-nagzrm243_hotmail.com</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 12:43:55</locked_until>
+ <lastplayed>2018-04-16 08:48:55</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="838">Nagz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>multipart</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?146293</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37384">
+ <title>Magic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-12 08:28:51</locked_until>
+ <lastplayed>2017-10-20 17:18:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14493</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5241">Silmarillion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

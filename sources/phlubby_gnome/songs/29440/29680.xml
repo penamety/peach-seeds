@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29680">
+ <title>Spellbound (Live)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="75">4.1733</rating>
+ <info>Played on the amazing [url=http://www.linusakesson.net/chipophone/index.php]Chipophone[/url].
+
+http://www.youtube.com/watch?v=gAuPIgD-TM0&amp;feature=player_embedded</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 15:45:07</locked_until>
+ <lastplayed>2018-06-06 18:26:02</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="10">Live Act</type>
+ 
+ <ytid>gAuPIgD-TM0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=gAuPIgD-TM0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

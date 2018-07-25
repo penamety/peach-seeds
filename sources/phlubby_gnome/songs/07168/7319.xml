@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7319">
+ <title>Latin associations</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0625</rating>
+ 
+ <songlength>114</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-25 22:51:41</locked_until>
+ <lastplayed>2017-08-17 16:56:44</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>66</pouetid>
+ <ytid>T2hn80vw3YI</ytid>
+ <ytoffset>264</ytoffset>
+ 
+ <artists>
+  <artist id="4244">Breeze (.fi)</artist><artist id="3875">Spay</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Latin</tag>
+  
+  <tag>steeldrums</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

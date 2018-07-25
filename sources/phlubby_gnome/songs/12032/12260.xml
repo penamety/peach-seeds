@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12260">
+ <title>Passing Uranus (short)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.7619</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 21:57:57</locked_until>
+ <lastplayed>2018-04-20 23:09:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>11676</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1395">Genetic Gemini</artist>
+ </artists>
+ <groups>
+  <group id="312">SquoQuo</group>
+ </groups>
+ 
+ <tags>
+  <tag>0a000h</tag>
+  
+  <tag>2004</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29435">
+ <title>Bouncing Banana</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.619</rating>
+ <info>Atari ST</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 06:10:00</locked_until>
+ <lastplayed>2018-05-02 00:21:49</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>jumpy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

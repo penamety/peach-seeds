@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35701">
+ <title>Felix&#39;s Workshop</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.4667</rating>
+ <info>...also known as &#34;Les rêveries de Félix&#34;.</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 11:49:02</locked_until>
+ <lastplayed>2018-06-01 16:36:14</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59106</pouetid>
+ <ytid>6CiF034IhgY</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  <group id="362">Ctrl-Alt-Test</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

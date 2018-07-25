@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30429">
+ <title>Flatulentic Drink</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.9167</rating>
+ <info>Ranked 10th in the music compo at Rendezvous 1993.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 19:42:20</locked_until>
+ <lastplayed>2018-01-18 17:08:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="563">Jason</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

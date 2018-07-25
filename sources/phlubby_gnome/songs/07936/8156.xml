@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8156">
+ <title>Cyberculosis</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ 
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 09:41:37</locked_until>
+ <lastplayed>2018-05-21 13:58:00</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>30038</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1520">raina</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>MilkyPlayer</tag>
+  
+  <tag>NumericaArtparty</tag>
+  
+  <tag>PlaystationPortable</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/9219/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

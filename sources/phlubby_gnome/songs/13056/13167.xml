@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13167">
+ <title>The Notebook</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">4.0</rating>
+ <info>[url=http://www.antialias.se/chiptunes/xm/]download .xm[/url]</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 00:11:15</locked_until>
+ <lastplayed>2018-05-10 00:33:40</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2090">Lamb</artist>
+ </artists>
+ <groups>
+  <group id="467">Marsmellow</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>Classical</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

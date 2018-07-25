@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10980">
+ <title>We Love Cubes</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="116">4.5603</rating>
+ <info>Eurodance track featured in the Demo “We Love Cubes” by Even.
+
+2nd place in combined demo compo at Birdie 2008</info>
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 19:50:06</locked_until>
+ <lastplayed>2018-06-05 23:58:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50677</pouetid>
+ <ytid>wEr0U7leViI</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  <group id="189">Even</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>areyouready</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=wEr0U7leViI</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

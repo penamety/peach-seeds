@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4789">
+ <title>Foundation Menu</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.6957</rating>
+ 
+ <songlength>732</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 23:23:11</locked_until>
+ <lastplayed>2018-06-02 13:16:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="770">Melomaniac</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

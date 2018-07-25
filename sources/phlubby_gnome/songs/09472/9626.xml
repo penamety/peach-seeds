@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9626">
+ <title>Time and Space</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="43">3.7907</rating>
+ <info>Winner of the Breakpoint 2007 newschool exe music compo. Done with FR V2 synth, original exe 14kb.</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 06:32:18</locked_until>
+ <lastplayed>2018-04-12 13:06:10</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

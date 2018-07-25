@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23734">
+ <title>Opus Dei</title>
+ <status v="A">Active</status>
+ <bitrate>125</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-08 16:41:21</locked_until>
+ <lastplayed>2018-02-14 03:42:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13368</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Cebit</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

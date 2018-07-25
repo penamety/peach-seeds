@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12436">
+ <title>Megablast 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.8361</rating>
+ <info>Ranked #4 at MAIN#4 -ADA2009</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 01:39:37</locked_until>
+ <lastplayed>2018-06-14 16:00:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="603">Kalachnikov</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>japanese</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>Vocaloid</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

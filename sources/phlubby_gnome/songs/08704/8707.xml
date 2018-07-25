@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8707">
+ <title>Stellar Evolution</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="89">4.382</rating>
+ <info>4th place in combined demo compo at Stream 2007</info>
+ <songlength>241</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 12:53:13</locked_until>
+ <lastplayed>2018-06-01 04:29:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>32227</pouetid>
+ <ytid>negfeTFJges</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1650">Dixan</artist><artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ibiza</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>Space</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=negfeTFJges</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

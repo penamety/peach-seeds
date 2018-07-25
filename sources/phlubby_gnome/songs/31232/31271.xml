@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31271">
+ <title>Abandoned Chip City</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="26">3.6923</rating>
+ <info> Current Version  : 1.01
+ Active Channels  : 12 (limited)
+ Virtual Channels : 67
+ Samples          : 13
+ Instruments      : 20
+ Patterns         : 29
+ Resonant Filters : NEEDED (designed with IT using SB live)
+
+________________________________Originally composed for the Nukkels Tiny Compo.
+
+ A tiny song using chip style sounds and large use of filters.
+ Certainly best played with Impulse Tracker.</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-13 21:08:17</locked_until>
+ <lastplayed>2018-01-26 02:57:38</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3642">Sphenx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

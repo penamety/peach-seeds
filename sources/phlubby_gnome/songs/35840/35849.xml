@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35849">
+ <title>Leto 2010 Special 4 Dimidrol Gallery</title>
+ <status v="A">Active</status>
+ <bitrate>209</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.1967</rating>
+ 
+ <songlength>247</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 12:14:47</locked_until>
+ <lastplayed>2018-05-31 16:08:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>summer</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13804">
+ <title>Keu2000</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1481</rating>
+ 
+ <songlength>247</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 01:14:39</locked_until>
+ <lastplayed>2018-03-12 01:44:53</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  <group id="618">Scallop</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

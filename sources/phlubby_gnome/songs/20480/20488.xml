@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20488">
+ <title>Gimme ma torch</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.6</rating>
+ 
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-25 05:06:17</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>4633</pouetid>
+ <ytid>2CfoG0xKajg</ytid>
+ <ytoffset>1676</ytoffset>
+ 
+ <artists>
+  <artist id="659">Leinad</artist>
+ </artists>
+ <groups>
+  <group id="93">Avalanche</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

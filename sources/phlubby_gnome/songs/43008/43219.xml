@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43219">
+ <title>Winterland Hades</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.1053</rating>
+ <info>aka &#34;How to clean the basement?&#34;</info>
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 10:41:02</locked_until>
+ <lastplayed>2018-04-21 19:42:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+  <tag>Avant-garde</tag>
+  
+  <tag>Experimental</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=110061</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

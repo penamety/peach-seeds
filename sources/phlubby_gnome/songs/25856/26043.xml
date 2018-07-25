@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26043">
+ <title>Northstar-Titan</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">3.8704</rating>
+ <info>[url]http://amp.dascene.net/modules/U/Uncle%20Tom/STK.northstar-titan.gz[/url]</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 18:41:27</locked_until>
+ <lastplayed>2018-06-10 14:53:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>48665</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="347">Northstar</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

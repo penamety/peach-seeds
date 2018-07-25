@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29445">
+ <title>8Bits Graveyard</title>
+ <status v="A">Active</status>
+ <bitrate>154</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">3.4643</rating>
+ <info>Live guitar + Game Boy (leads) + Amstrad CPC (chords &amp; beat)</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 06:15:18</locked_until>
+ <lastplayed>2018-06-11 20:41:02</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

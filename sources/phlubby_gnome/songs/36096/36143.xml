@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36143">
+ <title>2011 - A Press Space Odyssey - Tune 05</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.2</rating>
+ 
+ <songlength>261</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-20 03:53:13</locked_until>
+ <lastplayed>2017-09-12 06:02:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>58203</pouetid>
+ <ytid>MUa3tYhi-1o</ytid>
+ <ytoffset>1007</ytoffset>
+ 
+ <artists>
+  <artist id="4660">Kribust</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MUa3tYhi-1o</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

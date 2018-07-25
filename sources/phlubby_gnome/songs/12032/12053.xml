@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12053">
+ <title>We Are Oldskool Buenzlis</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">4.25</rating>
+ <info>By Axel and Michiel van den Bos.
+
+Ranked 3rd in the tracked music compo at Buenzli 13.</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 11:44:21</locked_until>
+ <lastplayed>2018-06-04 01:50:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="76">Axel</artist><artist id="3199">MCA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Buenzli</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

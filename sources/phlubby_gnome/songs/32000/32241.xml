@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32241">
+ <title>Standard YM</title>
+ <status v="A">Active</status>
+ <bitrate>155</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.2</rating>
+ 
+ <songlength>135</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 20:13:57</locked_until>
+ <lastplayed>2018-05-08 04:54:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

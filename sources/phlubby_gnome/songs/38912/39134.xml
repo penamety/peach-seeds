@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39134">
+ <title>Nordlicht</title>
+ <status v="A">Active</status>
+ <bitrate>500</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ <info>Released at Nordlicht by Malmborg (aka svenzzon) but was not available on the intranet when the voting took place.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 07:01:13</locked_until>
+ <lastplayed>2018-04-04 18:45:47</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1695">Svenzzon</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ <labels>
+  <label id="12">In Ear Gaming</label>
+ </labels>
+ <tags>
+  <tag>Nordlicht</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

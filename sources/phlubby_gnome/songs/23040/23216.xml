@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23216">
+ <title>Buffalo Soldier</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.1176</rating>
+ 
+ <songlength>355</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 14:18:29</locked_until>
+ <lastplayed>2018-05-29 10:46:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>15667</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="986">Randall</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30213">
+ <title>Brainstrom</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.25</rating>
+ <info>1st place in PC demo compo at Evoke 2010.</info>
+ <songlength>233</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 21:40:22</locked_until>
+ <lastplayed>2018-05-15 09:28:51</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55741</pouetid>
+ <ytid>tRkkGXkPSFI</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4156">Drumhead</artist>
+ </artists>
+ <groups>
+  <group id="148">Still</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jubhyqFS6do</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tRkkGXkPSFI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

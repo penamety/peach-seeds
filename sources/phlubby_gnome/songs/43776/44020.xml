@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44020">
+ <title>Came Over</title>
+ <status v="A">Active</status>
+ <bitrate>120</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">4.2857</rating>
+ <info>C64 Music Competition at Gameover Tune Compo :  #13</info>
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 22:31:57</locked_until>
+ <lastplayed>2018-05-10 23:50:50</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

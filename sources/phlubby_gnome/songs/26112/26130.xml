@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26130">
+ <title>Crockett theme</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.6905</rating>
+ <info>remix of a koto track...</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 09:48:33</locked_until>
+ <lastplayed>2018-03-02 17:55:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>29665</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3681">Swantti</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>80s</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

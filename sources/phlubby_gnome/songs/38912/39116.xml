@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39116">
+ <title>Flashback Disco</title>
+ <status v="A">Active</status>
+ <bitrate>203</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.0714</rating>
+ <info>9th in Dance music competition at Assembly 2013.</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-11 08:43:04</locked_until>
+ <lastplayed>2018-03-01 13:15:20</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4025">Teel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26888">
+ <title>Monday Morning</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">4.0</rating>
+ <info>Ranked 6th in the music compo at Rendezvous 1993.</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 14:03:47</locked_until>
+ <lastplayed>2018-03-26 07:37:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="572">Jelace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>lounge</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

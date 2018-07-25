@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6612">
+ <title>Transmutation</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.0392</rating>
+ <info>From &#34;Disgust&#34; by Camorra, which won the PC demo compo at General Probe 1996.</info>
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 02:07:07</locked_until>
+ <lastplayed>2018-06-13 03:47:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3349</pouetid>
+ <ytid>00BFxH-JRSI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1103">X-Ceed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>GeneralProbe</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

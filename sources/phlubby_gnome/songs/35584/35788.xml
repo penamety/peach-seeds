@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35788">
+ <title>Into the Black</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.3235</rating>
+ <info>Used in Hugi #37</info>
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 08:05:28</locked_until>
+ <lastplayed>2018-03-09 20:11:18</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>59049</pouetid>
+ <ytid>1bam8eDVJSI</ytid>
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>Hugi</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7815">
+ <title>Diary of a Common Man</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="127">4.2362</rating>
+ 
+ <songlength>573</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 00:05:34</locked_until>
+ <lastplayed>2018-05-22 18:07:22</lastplayed>
+ <platform id="40">DBM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>Blues</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Mellow</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

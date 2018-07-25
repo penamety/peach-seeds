@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9256">
+ <title>Neodrink</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">3.5082</rating>
+ 
+ <songlength>923</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:50:32</locked_until>
+ <lastplayed>2018-05-20 07:04:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9074</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="452">Fleshbrain</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Progressive</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

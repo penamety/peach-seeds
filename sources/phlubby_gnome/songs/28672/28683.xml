@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28683">
+ <title>Hardcore Bitch</title>
+ <status v="B">Banned</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">1.569</rating>
+ 
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2011-11-09 09:12:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4122">Dr. Avalanche</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ALARM</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>speedcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

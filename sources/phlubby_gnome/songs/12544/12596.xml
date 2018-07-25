@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12596">
+ <title>Electronic Sentience</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">3.6774</rating>
+ <info>Soundtrack for the Compusphere 2009 invitation demo, released at Outline 2009.</info>
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 07:42:34</locked_until>
+ <lastplayed>2018-06-05 08:07:59</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>53195</pouetid>
+ <ytid>LiwnIqLarRg</ytid>
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group><group id="137">Outbreak</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Compusphere</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Minimal</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=LiwnIqLarRg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

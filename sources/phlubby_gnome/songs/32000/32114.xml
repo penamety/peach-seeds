@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32114">
+ <title>Hanashi: Pretty Voice Of Spring</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.2222</rating>
+ 
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 18:24:06</locked_until>
+ <lastplayed>2018-03-20 11:19:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4698">Riskej</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Springtunes</tag>
+  
+  <tag>Ubiktune</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

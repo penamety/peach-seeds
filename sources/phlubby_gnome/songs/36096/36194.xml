@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36194">
+ <title>Kaakkoistuulta Kolme Metriä Sekunnissa</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.1111</rating>
+ <info>Entry for Nectarine Ambient Compo</info>
+ <songlength>446</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 18:57:11</locked_until>
+ <lastplayed>2018-05-31 20:03:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>long</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

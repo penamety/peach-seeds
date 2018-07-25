@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32910">
+ <title>Action Sequence</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.6471</rating>
+ <info>Angry rough-sounding chip tune. 
+Made with Impulse Tracker. Utilizes filters.</info>
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 15:16:42</locked_until>
+ <lastplayed>2018-02-16 00:37:07</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="668">Little Elk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>angry</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

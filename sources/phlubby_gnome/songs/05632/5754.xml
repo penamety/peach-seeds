@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5754">
+ <title>Another Affair</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.1892</rating>
+ 
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 04:27:40</locked_until>
+ <lastplayed>2018-06-12 10:25:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>13850</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="947">Prodigy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

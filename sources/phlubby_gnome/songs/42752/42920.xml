@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42920">
+ <title>Vintage groove</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ <info>1st place on AmiParty XVI in Chełm Poland in music compo </info>
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 20:25:10</locked_until>
+ <lastplayed>2018-04-01 09:26:54</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>K2yhZvQG-qM</ytid>
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>modem</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=K2yhZvQG-qM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

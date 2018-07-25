@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29391">
+ <title>Scene is Live</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.2727</rating>
+ 
+ <songlength>141</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-24 16:52:30</locked_until>
+ <lastplayed>2018-02-04 11:19:39</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>26575</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3921">BiTL</artist>
+ </artists>
+ <groups>
+  <group id="210">7dUMP</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35133">
+ <title>Broken Ass!</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.2609</rating>
+ <info>Released by a group Zetrex 2005
+
+This song is quoted in Mega Mix &#39;88 by Ziphoid (song number 27094)
+
+The recording (R2) is from Stone Oakvalley&#39;s site
+http://www.6581-8580.com/</info>
+ <songlength>214</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 17:51:18</locked_until>
+ <lastplayed>2018-05-15 09:21:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>anal</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=17739</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

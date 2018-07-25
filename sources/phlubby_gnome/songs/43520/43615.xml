@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43615">
+ <title>Dead Lock (NES cover)</title>
+ <status v="A">Active</status>
+ <bitrate>123</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.2</rating>
+ <info>A NES cover of Elwood&#39;s track &#34;Dead Lock&#34;, entered in the first Famicompo mini and placed 5th with the total of 24 votes.
+
+One of the first songs to use multichip sound, which is considered to be quite impressive at the time. This cover uses VRC7 and N106 chips. 
+
+He also made another new cover of it years ago, but I prefer this one over the other.</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 09:57:52</locked_until>
+ <lastplayed>2018-05-25 09:44:21</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5699">Robokabuto</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11406">
+ <title>Rain</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.303</rating>
+ 
+ <songlength>70</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 06:51:15</locked_until>
+ <lastplayed>2018-06-03 06:06:14</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8447</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1909">Phandral</artist>
+ </artists>
+ <groups>
+  <group id="350">Sanxion</group>
+ </groups>
+ 
+ <tags>
+  <tag>weather</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

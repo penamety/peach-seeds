@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44153">
+ <title>Patarty</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.5</rating>
+ <info>Music from Amiga demo &#34;Patarty&#34; released at NOVA 2017</info>
+ <songlength>72</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 23:42:18</locked_until>
+ <lastplayed>2018-06-16 21:07:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>70467</pouetid>
+ <ytid>WoqymTzXs_w</ytid>
+ 
+ 
+ <artists>
+  <artist id="5672">Mrs. Beanbag</artist>
+ </artists>
+ <groups>
+  <group id="849">Slipstream</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=WoqymTzXs_w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

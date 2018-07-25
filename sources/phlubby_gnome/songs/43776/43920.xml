@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43920">
+ <title>Where the Dead Things Dwell</title>
+ <status v="A">Active</status>
+ <bitrate>232</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 01:31:01</locked_until>
+ <lastplayed>2018-06-13 00:31:35</lastplayed>
+ <platform id="54">8K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>69691</pouetid>
+ <ytid>d8ya7Cqc1CU</ytid>
+ 
+ 
+ <artists>
+  <artist id="5341">Merry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=d8ya7Cqc1CU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

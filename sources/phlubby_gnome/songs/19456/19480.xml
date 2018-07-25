@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19480">
+ <title>Batman - Short</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.4833</rating>
+ <info>From STIL:
+&#34;This is probably the most popular tune I ever made. Shorter version of the popular Batman [long] tune without the slow part in the beginning. Composed in JCH player v10.&#34;</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 03:26:10</locked_until>
+ <lastplayed>2018-06-16 07:40:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

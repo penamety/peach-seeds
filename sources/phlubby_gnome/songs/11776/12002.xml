@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12002">
+ <title>Titania</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.9474</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 01:49:58</locked_until>
+ <lastplayed>2018-05-09 12:09:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>50426</pouetid>
+ <ytid>cnYQBQ6qAPs</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="425">Fabian</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

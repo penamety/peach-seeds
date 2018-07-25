@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31822">
+ <title>Sommit Odd</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.9474</rating>
+ <info>Intro tune from &#34;Brain Surgery&#34; - ZX Spectrum demo by Dream Makers Software/Rush, audiovisual art on 8bit machine.</info>
+ <songlength>122</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-15 05:57:14</locked_until>
+ <lastplayed>2018-01-28 06:38:04</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1933</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4667">IMP</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=crfRLxrIHG0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2265</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

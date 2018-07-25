@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20909">
+ <title>Lethal Xcess - Title [ST Version]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ <info>platform: STe (two PCM channels)</info>
+ <songlength>375</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 08:04:51</locked_until>
+ <lastplayed>2017-11-21 10:53:25</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

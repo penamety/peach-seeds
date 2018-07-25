@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38857">
+ <title>Gehirn</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.4348</rating>
+ <info> -----------------
+|                                              |
+| Gehirn                                       |
+|                                              |
+| a very wAMMA presentation for Outline &#39;07    |
+| 4k Atari VCS demo.                           |
+|                                              |
+| code+msx+gfx ilmarque                        |
+| code+design  visy                            |
+|                                              |
+| Made in a little hurry few days before the   |
+| party.                                       |
+|                                              |
+| Greetings to Welle:Erdball &amp; all our friends |
+|                                              |
+|-----------------            -----------------|
+|                                              |
+| I sing the Body electric;                    |
+|                                              |
+| The armies of those I love engirth me,       |
+| and I engirth them; They will not let me off |
+| till I go with them, respond to them, and    |
+| discorrupt them, and charge them full with   |
+| the charge of the Soul.                      |
+|                                              |
+|  - Walt Whitman (Leaves of Grass)            |
+|                                              |
+|                             -----------------</info>
+ <songlength>118</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 07:33:04</locked_until>
+ <lastplayed>2018-05-12 07:05:29</lastplayed>
+ <platform id="46">Atari VCS (2600)</platform>
+ <type id="2">Demo</type>
+ <pouetid>30668</pouetid>
+ <ytid>a-ImrQOuhpw</ytid>
+ 
+ 
+ <artists>
+  <artist id="2108">Ilmarque</artist>
+ </artists>
+ <groups>
+  <group id="101">wAMMA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>outline</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=a-ImrQOuhpw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

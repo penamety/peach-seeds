@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28333">
+ <title>rifk (v2)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ <info>Part of the &#34;Atari chiptunes&#34; group of songs.
+Made using MusicMon 2.5</info>
+ <songlength>134</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-17 07:22:57</locked_until>
+ <lastplayed>2017-07-08 23:41:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4068">IJsf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

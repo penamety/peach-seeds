@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20644">
+ <title>Past</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.8333</rating>
+ <info>The main tune for the Orange Juice&#39;s 1999 demo &#34;Past&#34;.</info>
+ <songlength>289</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-28 04:05:03</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>24</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="679">Lluvia</artist>
+ </artists>
+ <groups>
+  <group id="255">BOMB!</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40958">
+ <title>Momentum</title>
+ <status v="A">Active</status>
+ <bitrate>252</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.5</rating>
+ <info>5th place in Tiny MP3 Music compo @ Chaos Constructions 2014</info>
+ <songlength>30</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 13:35:22</locked_until>
+ <lastplayed>2018-04-05 15:14:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4710">Platosha</artist>
+ </artists>
+ <groups>
+  <group id="472">cornercut</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37433/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

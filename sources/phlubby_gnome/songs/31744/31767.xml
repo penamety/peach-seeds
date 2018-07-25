@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31767">
+ <title>&#34;Action&#34; Epilogue (Action #2)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="37">3.4595</rating>
+ <info>Epilogue soundtrack from &#34;Action&#34; demo released for the ZX Spectrum in 1996, by Megacode.
+6th place at Enlight&#39;96 Demo competition.</info>
+ <songlength>122</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 18:25:56</locked_until>
+ <lastplayed>2018-06-11 22:57:09</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1909</pouetid>
+ <ytid>j522J61AHOA</ytid>
+ <ytoffset>127</ytoffset>
+ 
+ <artists>
+  <artist id="4342">KSA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=j522J61AHOA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2130</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

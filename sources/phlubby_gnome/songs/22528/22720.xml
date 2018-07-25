@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22720">
+ <title>32 Degrees In The Shade</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.5556</rating>
+ <info>Soundtrack from &#34;32 Degrees In The Shade&#34; demo by Yodel. 5th place at Assembly 2002.</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 19:09:02</locked_until>
+ <lastplayed>2018-05-12 03:41:36</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>7140</pouetid>
+ <ytid>AKQg3Q-H1Ok</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1460">Eyas</artist><artist id="3379">Juxtapose</artist><artist id="4206">Phelix</artist>
+ </artists>
+ <groups>
+  <group id="333">Yodel</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>5th</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AKQg3Q-H1Ok</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=210</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

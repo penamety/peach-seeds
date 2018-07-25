@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17575">
+ <title>The Deluge</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6154</rating>
+ 
+ <songlength>186</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 12:33:31</locked_until>
+ <lastplayed>2018-05-03 05:07:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>32158</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1981">Dreamweaver</artist>
+ </artists>
+ <groups>
+  <group id="64">Aurora</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>AnarchyEasterParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

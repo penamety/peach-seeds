@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25488">
+ <title>Arkanoid Dubanoid</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6923</rating>
+ 
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 19:16:02</locked_until>
+ <lastplayed>2018-05-14 08:19:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1197">The Dead Guys</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Lazer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

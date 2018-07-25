@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33512">
+ <title>Stjernegnist</title>
+ <status v="A">Active</status>
+ <bitrate>321</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.5</rating>
+ <info>Ranked 4th in the newschool music compo at Solskogen 2008.</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-18 03:49:39</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2080">Frequent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

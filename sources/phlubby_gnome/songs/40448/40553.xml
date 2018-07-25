@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40553">
+ <title>Turtle Mix</title>
+ <status v="A">Active</status>
+ <bitrate>1015</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5714</rating>
+ <info>2nd place in freestyle music compo, @party 2014</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-03 01:12:45</locked_until>
+ <lastplayed>2017-05-30 12:38:58</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2546">Daverd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31371">
+ <title>Seven Gates of Jambala tune 10</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.9167</rating>
+ 
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 21:26:30</locked_until>
+ <lastplayed>2017-11-02 23:14:24</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="713">Mad Max</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.atarilegend.com/games/games_detail.php?game_id=2635</url>
+    <comment></comment>
+    <type id="6">
+        <name>Atari Legends</name>
+        <icon>/static/media/linkicons/atari-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

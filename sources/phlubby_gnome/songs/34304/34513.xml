@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34513">
+ <title>Sleepless</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="114">4.5351</rating>
+ <info>1st place in pc demo compo at Mekka &amp; Symposium 2000
+
+Added after short talkings in oneliner. The demo is great, and really should be here in one piece and not split in 4 parts for a 8min tune :)</info>
+ <songlength>473</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 11:14:23</locked_until>
+ <lastplayed>2018-05-25 14:33:13</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>589</pouetid>
+ <ytid>Mn5iyGVxAZI</ytid>
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Mn5iyGVxAZI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

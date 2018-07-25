@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3006">
+ <title>Russian Scup-herne</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6842</rating>
+ <info>2nd place at Gathering &#39;91 music compo (the winner was &#34;Beyond Music&#34; by Captain)
+
+The result list on Pouet says the song is by Bruno (also from SCUP) but song&#39;s infotexts give credits only to Heatbeat.</info>
+ <songlength>158</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 17:15:18</locked_until>
+ <lastplayed>2018-02-15 14:17:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="90">SCUP</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Gathering</tag>
+  
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

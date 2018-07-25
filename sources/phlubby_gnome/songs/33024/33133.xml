@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33133">
+ <title>Is It Morning Already?</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.3243</rating>
+ 
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 12:44:07</locked_until>
+ <lastplayed>2018-06-02 15:38:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>midnight</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

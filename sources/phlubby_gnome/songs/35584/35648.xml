@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35648">
+ <title>Mugiklax</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.1</rating>
+ <info>Soundtrack from Shoal by Traction &amp; Brainstorm.
+2nd place at Revision 2012 in pc 4k intro compo.</info>
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 07:41:49</locked_until>
+ <lastplayed>2018-03-24 03:18:29</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59076</pouetid>
+ <ytid>ROqNpTpOrrw</ytid>
+ 
+ 
+ <artists>
+  <artist id="904">Parsec</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="237">Traction</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ROqNpTpOrrw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

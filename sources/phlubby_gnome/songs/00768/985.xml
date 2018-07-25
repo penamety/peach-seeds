@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="985">
+ <title>Bass</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="64">4.2813</rating>
+ <info>7th place at The Gathering 1995 4 channels music compo</info>
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:55:10</locked_until>
+ <lastplayed>2018-06-13 14:36:59</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="197">Christian Mæland</artist><artist id="1220">Timmy [NO]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

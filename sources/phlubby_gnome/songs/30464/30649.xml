@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30649">
+ <title>Wizball</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.413</rating>
+ <info>http://remix.kwed.org/files/RKOfiles/moog%20(Sebastian%20Bachlinski)%20-%20Wizball.mp3</info>
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 17:09:55</locked_until>
+ <lastplayed>2018-06-06 11:10:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1962">Moog</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37358">
+ <title>From Desert to Forest</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.6923</rating>
+ <info>AMIGA 1200, DigiBooster 1.7 (8 channels). 
+
+The song comes from album &#34;RetroBeat&#34;
+DOWNLOAD: 
+http://yerzmyey.i-demo.pl/
+
+From the info tag: 
+*******************************
+This is my 7th song made on
+Amiga 1200 with standard CPU
+(Motorola 020, 14Mhz).
+
+The song has 8 channels and has been
+composed on DigiBooster 1.7. 
+
+Vocal samples by Moonslayer.
+
+Recorded from real hardware. (Stereo slightly modified).
+
+Greetz to all AMIGA fans! 
+*******************************</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-11 13:08:12</locked_until>
+ <lastplayed>2018-04-07 21:55:41</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>J8DH7k5H0j0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>retrobeat</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

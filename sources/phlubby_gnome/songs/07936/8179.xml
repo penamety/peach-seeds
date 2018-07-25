@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8179">
+ <title>Panic Room</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="133">4.3985</rating>
+ <info>1st place in pc 64k at Assembly 2008
+
+Vocal samples are from &#34;I Know You Got Soul&#34; by Eric B. &amp; Rakim.</info>
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 11:12:17</locked_until>
+ <lastplayed>2018-06-14 07:45:00</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>51125</pouetid>
+ <ytid>UyKtZT4GPus</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1005">Reed</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Dark</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=UyKtZT4GPus</url>
+    <comment>2</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

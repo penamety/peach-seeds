@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10488">
+ <title>DMC Demo IV - Track 3</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ 
+ <songlength>66</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-17 22:21:29</locked_until>
+ <lastplayed>2017-10-08 00:04:50</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1638">Jozz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

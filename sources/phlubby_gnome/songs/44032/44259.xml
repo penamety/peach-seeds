@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44259">
+ <title>Tripping Over</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>First in Protracker (ST-01 samples) compo at Evoke 2017. 
+
+ MUSIC : bacter ^ Speckdrumm
+             Saga Musix ^ Nuance
+             xTr1m ^ Alcatraz
+
+OpenMPT, ST-01 Samples</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 02:00:58</locked_until>
+ <lastplayed>2018-05-10 06:09:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist><artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>PatternsPlayedBackwards</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

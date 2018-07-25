@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23154">
+ <title>Crackers</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ <info>Competed in Cloud City BBS 50k music compo. MOD-file is made with FastTracker2 and has 6 channels. Filesize 27 kb</info>
+ <songlength>207</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 00:37:51</locked_until>
+ <lastplayed>2018-06-15 17:25:45</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

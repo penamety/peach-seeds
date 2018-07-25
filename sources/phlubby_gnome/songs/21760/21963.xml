@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21963">
+ <title>Zelda remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ 
+ <songlength>348</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 21:51:09</locked_until>
+ <lastplayed>2018-02-20 13:03:08</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2084">MSG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Zelda</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

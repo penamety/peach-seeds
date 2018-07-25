@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20414">
+ <title>Wasted Years - Part 6 #2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.9333</rating>
+ 
+ <songlength>302</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 16:15:27</locked_until>
+ <lastplayed>2018-03-26 06:43:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>44490</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3036">Lars Hoff</artist>
+ </artists>
+ <groups>
+  <group id="743">The Shadows (C64)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

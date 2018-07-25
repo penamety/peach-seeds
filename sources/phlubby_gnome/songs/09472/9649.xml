@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9649">
+ <title>Alleykat</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.5</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 23:49:04</locked_until>
+ <lastplayed>2018-03-19 05:23:06</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>0m1xLYmabyQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1145">Steve Turner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

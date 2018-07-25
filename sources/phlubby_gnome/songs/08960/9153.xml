@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9153">
+ <title>Why? </title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.1364</rating>
+ <info>2002. AY chip music from ZX Spectrum from &#34;YOU ARE ADULT&#34; music-collection by AY-RIDERS (released in 2003). 
+Download link http://ay-riders.speccy.cz/download/you_are_adult/01-Yerzmyey-Why.mp3</info>
+ <songlength>236</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 14:23:15</locked_until>
+ <lastplayed>2018-06-10 07:24:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>11514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

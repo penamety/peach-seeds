@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30016">
+ <title>Double Exposure</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">3.4828</rating>
+ 
+ <songlength>439</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 16:44:25</locked_until>
+ <lastplayed>2018-06-09 06:07:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>13632</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4388">Uzi</artist>
+ </artists>
+ <groups>
+  <group id="105">Symbiosis</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

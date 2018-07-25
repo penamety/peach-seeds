@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8762">
+ <title>Jetpack Blues</title>
+ <status v="A">Active</status>
+ <bitrate>251</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.0208</rating>
+ <info>album: Dawn Metropolis</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-02 01:58:20</locked_until>
+ <lastplayed>2018-02-28 00:54:06</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1700">Anamanaguchi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>hipster</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=N7bIMrNjMk8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

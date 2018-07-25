@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29799">
+ <title>Zimxusaf I</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8696</rating>
+ 
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 23:03:58</locked_until>
+ <lastplayed>2017-11-24 20:16:22</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="3">Oldskool</type>
+ <pouetid>43701</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Mellow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

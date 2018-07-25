@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43562">
+ <title>Virtual Girlfriend Experience</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.5714</rating>
+ <info>2nd at Vortex 2016 music compo</info>
+ <songlength>304</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 21:24:56</locked_until>
+ <lastplayed>2018-05-18 23:19:44</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3851">glxblt</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>asmr</tag>
+  
+  <tag>DialingTones</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vortex</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/164951/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

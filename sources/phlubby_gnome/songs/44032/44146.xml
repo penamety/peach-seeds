@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44146">
+ <title>Cyberpunk</title>
+ <status v="A">Active</status>
+ <bitrate>977</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>A demo took 1st place in the Silly Venture 2014 Atari XL/XE Demo competition</info>
+ <songlength>257</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 01:10:19</locked_until>
+ <lastplayed>2018-03-08 21:48:31</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>64615</pouetid>
+ <ytid>twYEWbiiMgM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5651">wiecz0r</artist>
+ </artists>
+ <groups>
+  <group id="873">Lamers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/146899/</url>
+    <comment>without speech</comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13187">
+ <title>Lada4</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.5714</rating>
+ <info>This has been used on Axion group&#39;s intro</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-09 12:32:32</locked_until>
+ <lastplayed>2017-09-29 08:07:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>48870</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2123">Sir Monkey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

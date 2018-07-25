@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29921">
+ <title>Golden Axe - Title</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="91">4.1978</rating>
+ <info>The original arcade music composed by Tohru Nakabayashi and Y. &#34;Dolphin&#34; Takada
+
+note: on the arcade version this tune was used during the game instead of the title screen</info>
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 05:10:36</locked_until>
+ <lastplayed>2018-05-22 10:25:37</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>vX2GtNePD24</ytid>
+ 
+ 
+ <artists>
+  <artist id="4372">Sound Images</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+  <tag>VirginGames</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=401n2CDGY1E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.atarilegend.com/games/games_detail.php?game_id=1119</url>
+    <comment></comment>
+    <type id="6">
+        <name>Atari Legends</name>
+        <icon>/static/media/linkicons/atari-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/463</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.worldofspectrum.org/infoseekid.cgi?id=0002081</url>
+    <comment></comment>
+    <type id="11">
+        <name>World of Spectrum</name>
+        <icon>/static/media/linkicons/wos-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

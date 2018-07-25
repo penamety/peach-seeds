@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40419">
+ <title>OldSchoolNeverDie - WebIntro (intro screen)</title>
+ <status v="A">Active</status>
+ <bitrate>118</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-06 10:00:19</locked_until>
+ <lastplayed>2017-07-30 08:59:35</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62968</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="787">Hemoroids</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

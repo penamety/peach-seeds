@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2725">
+ <title>Moon freaq</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ 
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-31 19:11:24</locked_until>
+ <lastplayed>2018-03-13 02:14:12</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11160</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="461">freQvibez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

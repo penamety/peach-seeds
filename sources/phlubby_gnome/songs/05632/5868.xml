@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5868">
+ <title>World of Plastic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="120">4.6333</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 19:56:58</locked_until>
+ <lastplayed>2018-06-10 02:29:15</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>1281</pouetid>
+ <ytid>SCqCzPCIO7M</ytid>
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

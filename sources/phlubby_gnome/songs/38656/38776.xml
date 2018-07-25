@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38776">
+ <title>One Way Heart</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.4286</rating>
+ <info>Winner of the tracked music compo at Birdie 2013.</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 06:18:07</locked_until>
+ <lastplayed>2018-05-30 02:50:56</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1995">Joule</artist><artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29570">
+ <title>Crystal Orbit</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.1852</rating>
+ <info>Crystal Dream released 1992 at Hackerence.
+
+Amiga MOD in a PC demo.</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 13:32:20</locked_until>
+ <lastplayed>2018-05-15 20:56:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>463</pouetid>
+ <ytid>d-KKvyqXtDI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1670">Vogue</artist>
+ </artists>
+ <groups>
+  <group id="156">Triton</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=d-KKvyqXtDI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

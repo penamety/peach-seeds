@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29075">
+ <title>Sequence</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.0</rating>
+ 
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-28 05:00:49</locked_until>
+ <lastplayed>2018-02-22 15:46:55</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>52908</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  <group id="509">Hysteria</group>
+ </groups>
+ 
+ <tags>
+  <tag>8chn</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

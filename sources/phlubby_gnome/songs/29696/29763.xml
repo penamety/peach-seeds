@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29763">
+ <title>Spiral Out</title>
+ <status v="A">Active</status>
+ <bitrate>199</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9677</rating>
+ 
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-29 18:11:41</locked_until>
+ <lastplayed>2018-02-23 19:55:54</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55593</pouetid>
+ <ytid>lZssMK789Mc</ytid>
+ 
+ 
+ <artists>
+  <artist id="5555">minomus</artist>
+ </artists>
+ <groups>
+  <group id="356">Evoflash</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Flash</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

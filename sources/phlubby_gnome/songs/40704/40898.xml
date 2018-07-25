@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40898">
+ <title>Ne Pas</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">4.1429</rating>
+ 
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 17:12:42</locked_until>
+ <lastplayed>2018-06-08 01:40:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59096</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5491">XyCe</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

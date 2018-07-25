@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13824">
+ <title>Tropical Seaside</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.093</rating>
+ 
+ <songlength>379</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-20 19:40:25</locked_until>
+ <lastplayed>2018-01-03 06:29:26</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AndalusianCadence</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33036">
+ <title>l&#39;invasion Cubique</title>
+ <status v="A">Active</status>
+ <bitrate>396</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.9333</rating>
+ <info>2nd place in the 64k compo at Evoke 2008.</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 04:51:36</locked_until>
+ <lastplayed>2018-05-24 08:09:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51214</pouetid>
+ <ytid>yvTbnH9tuhM</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13466</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yvTbnH9tuhM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

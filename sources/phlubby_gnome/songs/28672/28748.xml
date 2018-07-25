@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28748">
+ <title>French God</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.1087</rating>
+ <info>From the NES demo &#34;Quantum Disco Brothers&#34;, released September 2006 by wAMMA.  Took 2nd place in the Combined Demo compo at Stream 2006.</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 07:50:53</locked_until>
+ <lastplayed>2018-05-25 18:45:13</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="2">Demo</type>
+ <pouetid>26485</pouetid>
+ <ytid>syvln8fzYg4</ytid>
+ 
+ 
+ <artists>
+  <artist id="2108">Ilmarque</artist>
+ </artists>
+ <groups>
+  <group id="101">wAMMA</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=syvln8fzYg4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

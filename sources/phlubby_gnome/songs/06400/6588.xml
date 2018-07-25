@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6588">
+ <title>Here Come Da Law</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.8333</rating>
+ 
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-20 13:29:30</locked_until>
+ <lastplayed>2018-01-29 01:45:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>500</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1096">Smash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

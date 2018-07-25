@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43213">
+ <title>Amiga Sixty Four</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.625</rating>
+ 
+ <songlength>81</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-20 22:45:08</locked_until>
+ <lastplayed>2017-09-14 18:23:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>67615</pouetid>
+ <ytid> </ytid>
+ 
+ 
+ <artists>
+  <artist id="1591">WOTW</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

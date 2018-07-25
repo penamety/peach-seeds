@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35607">
+ <title>Faraway</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="33">4.2424</rating>
+ <info>Hugi #37 &#34;Around the World&#34; - Title track.</info>
+ <songlength>319</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 23:34:24</locked_until>
+ <lastplayed>2018-06-17 08:01:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>59049</pouetid>
+ <ytid>1bam8eDVJSI</ytid>
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>Hugi</tag>
+  
+  <tag>SwedishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

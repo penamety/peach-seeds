@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13266">
+ <title>Super Cycle</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">3.8033</rating>
+ <info>Epyx, 1986
+
+Authentic Recording from Stone Oakvalley&#39;s collection</info>
+ <songlength>68</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 15:07:08</locked_until>
+ <lastplayed>2018-06-01 16:39:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2139">Bob Vieira</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Racing</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2538</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

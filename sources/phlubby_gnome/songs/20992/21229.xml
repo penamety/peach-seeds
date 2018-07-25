@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21229">
+ <title>Last Ninja 2 - Central Park Ingame</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="88">4.4545</rating>
+ 
+ <songlength>338</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 07:08:04</locked_until>
+ <lastplayed>2018-06-16 10:36:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>FCNMcUzQ3Ws&amp;p</ytid>
+ 
+ 
+ <artists>
+  <artist id="1802">Matt Gray</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1489</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

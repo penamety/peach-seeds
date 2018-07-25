@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3776">
+ <title>2nd Reality part 3</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="116">4.319</rating>
+ 
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 03:54:21</locked_until>
+ <lastplayed>2018-06-07 07:16:07</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1216</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="613">KB</artist>
+ </artists>
+ <groups>
+  <group id="346">Smash Designs [SDS]</group><group id="462">The Obsessed Maniacs [tOM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

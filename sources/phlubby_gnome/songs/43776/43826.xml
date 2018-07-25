@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43826">
+ <title>The Phoenix Code (tune 8)</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ 
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 11:45:40</locked_until>
+ <lastplayed>2018-06-09 16:29:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>68406</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="368">Drax</artist>
+ </artists>
+ <groups>
+  <group id="841">Bonzai</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44570">
+ <title>No Invitation</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.0</rating>
+ <info>Downloaded from the YouTube capture by nachjochip.</info>
+ <songlength>193</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 17:45:09</locked_until>
+ <lastplayed>2018-06-07 20:25:28</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>73145</pouetid>
+ <ytid>-ErJ5cyhmw4</ytid>
+ 
+ 
+ <artists>
+  <artist id="5717">Sigveseb</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-ErJ5cyhmw4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/181824/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

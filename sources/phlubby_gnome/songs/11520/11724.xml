@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11724">
+ <title>Awaken</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.4615</rating>
+ 
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 01:03:27</locked_until>
+ <lastplayed>2018-05-27 03:07:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="936">Pk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Cello</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Instrumental</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>Violin</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

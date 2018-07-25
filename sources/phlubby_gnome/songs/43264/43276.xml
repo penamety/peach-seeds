@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43276">
+ <title>To Reach Quest&#39;s End</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Original Song Info (sans contact info):
+
+To Reach Quests&#39; End for MODs Anthology CD
+
+Sample Credits:
+
+Purple Motion
+Skaven
+Necros
+Krystall
+Markell Moss
+Others (Tambourine and Snare)
+Gravis UltraSound
+
+This song was originally an S3M written for a diskmag that was finally
+released about 6 months after it&#39;s original deadline! (That wasn&#39;t my
+fault :) ) It was also part of Epinicion&#39;s BLT musicdisk (still in S3M
+format) - I converted it to .IT for this CD, modifying very little
+(just to take a little advantage of the instrument options) and I shoved
+in a 16-bit version of the strings. It&#39;s almost identical to the original
+file (ie. it doesn&#39;t *really* use volume envelopes or NNAs, which could
+have made this so much easier (quicker) to write).
+
+The time changes in this piece may make the rhythm *SEEM* stuffed when you
+watch the pattern data...
+
+Make sure you listen to at least order 10! That&#39;s when the real music
+starts.
+
+Hope you like this!</info>
+ <songlength>282</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-03 10:40:30</locked_until>
+ <lastplayed>2018-03-13 02:56:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2927">Pulse</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

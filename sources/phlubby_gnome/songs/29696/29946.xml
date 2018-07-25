@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29946">
+ <title>Access Denied</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="33">4.4242</rating>
+ 
+ <songlength>78</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-05 00:24:59</locked_until>
+ <lastplayed>2018-05-06 21:51:20</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>55738</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2005">Jakim</artist><artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  <group id="146">Chimera Music</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

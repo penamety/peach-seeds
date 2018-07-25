@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44042">
+ <title>Uneven Balance</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>This song is part of my album &#34;Helicoid&#34;. It&#39;s been entered at Demobit 2017 streaming music compo.</info>
+ <songlength>237</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 14:43:24</locked_until>
+ <lastplayed>2018-05-12 16:54:13</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ <ytid>yh2pcQIF19E</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yh2pcQIF19E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/3YXk47IlkEiYzGBVN0OcYg</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

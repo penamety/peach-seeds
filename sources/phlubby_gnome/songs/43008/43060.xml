@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43060">
+ <title>1:4:9</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.7059</rating>
+ <info>Released under the demogroup s.k.y.o.p
+
+Production won 8th in the Revision 2016 PC Demo compo.</info>
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 19:23:06</locked_until>
+ <lastplayed>2017-11-17 03:09:06</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>67132</pouetid>
+ <ytid>blaeAJoiB3g</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="4987">Keen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chill</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/155243/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

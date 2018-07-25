@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24964">
+ <title>Datablade</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.4286</rating>
+ 
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-10 00:19:38</locked_until>
+ <lastplayed>2018-05-17 00:50:20</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>2572</pouetid>
+ <ytid>cFuBfzQshls</ytid>
+ 
+ 
+ <artists>
+  <artist id="1161">SuperFML</artist>
+ </artists>
+ <groups>
+  <group id="557">MadWizards [MWI MaWi]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>noise</tag>
+  
+  <tag>prodigy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cFuBfzQshls</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3120">
+ <title>The dark</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.4</rating>
+ 
+ <songlength>82</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-29 13:09:39</locked_until>
+ <lastplayed>2017-11-05 05:04:12</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="526">Hmc</artist>
+ </artists>
+ <groups>
+  <group id="187">Dual Crew</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

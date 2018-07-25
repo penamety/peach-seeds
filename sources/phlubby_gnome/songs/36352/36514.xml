@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36514">
+ <title>Rogue Leader</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.4091</rating>
+ <info>Vedders contribution to Eidson 2012 Tracked music compo. Reached 15:th place.
+
+</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 20:35:08</locked_until>
+ <lastplayed>2018-03-28 02:46:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

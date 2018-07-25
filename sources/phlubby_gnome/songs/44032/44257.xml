@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44257">
+ <title>ST-0mp!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.4615</rating>
+ <info>4th place @ Evoke 2017 ST-01 ProTracker Competition</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 11:25:11</locked_until>
+ <lastplayed>2018-03-06 05:44:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="2">Haujobb</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FTGye4vd_24</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

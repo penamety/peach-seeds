@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8917">
+ <title>Nostalgia Rides High</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="53">4.0755</rating>
+ <info>Made with unmodified ST-01 samples only.
+
+Ranked 7th in the music compo at Kindergarden 2008</info>
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:56:06</locked_until>
+ <lastplayed>2018-06-06 07:00:58</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

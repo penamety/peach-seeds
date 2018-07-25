@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6815">
+ <title>Das Wars</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.6842</rating>
+ 
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 13:33:52</locked_until>
+ <lastplayed>2018-02-18 11:17:42</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="725">Manx</artist>
+ </artists>
+ <groups>
+  <group id="867">TAME</group>
+ </groups>
+ 
+ <tags>
+  <tag>Remake</tag>
+  
+  <tag>StarWars</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

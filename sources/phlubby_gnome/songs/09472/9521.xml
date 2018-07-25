@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9521">
+ <title>Wake Up</title>
+ <status v="A">Active</status>
+ <bitrate>656</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8333</rating>
+ <info>alternative names: Map, Sekence, Sequence</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 01:11:06</locked_until>
+ <lastplayed>2018-05-17 14:07:21</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1141">Stéphane Picq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

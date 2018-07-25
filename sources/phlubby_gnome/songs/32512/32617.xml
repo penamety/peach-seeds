@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32617">
+ <title>Be With You</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="38">3.2632</rating>
+ <info>Ranked 9th in Nectarine&#39;s Spring Compo 2011.</info>
+ <songlength>375</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 11:12:17</locked_until>
+ <lastplayed>2018-05-19 13:00:13</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1872">Oliwerko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37043">
+ <title>Coco Intro</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.0</rating>
+ <info>Used in C64 Crack Intro 1 by Papillons (in front of a lot of games)
+
+Tune is kind of cover of Kim Wilde - You Keep Me Hanging On [url]http://www.youtube.com/watch?v=xJZF-skCY-M[/url]
+
+Originally written by Brian Holland and Lamont Dozier in 1966
+</info>
+ <songlength>116</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 22:27:11</locked_until>
+ <lastplayed>2018-06-11 07:04:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>20749</pouetid>
+ <ytid>RboFN2ggpD4</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="3136">Superbrain</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

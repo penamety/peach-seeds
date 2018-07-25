@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30708">
+ <title>A Deepness in the Sky</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">2.5</rating>
+ <info>2nd place in pc demo compo at state of the art 2002 ( SOTA )</info>
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 08:58:26</locked_until>
+ <lastplayed>2018-06-01 05:03:14</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>8282</pouetid>
+ <ytid>Adaiz7crEGU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="1651">Uncle-X</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Schranz</tag>
+  
+  <tag>StateOfTheArt</tag>
+  
+  <tag>Techno</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Adaiz7crEGU</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14302">
+ <title>Changing My Mind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="92">4.2174</rating>
+ <info>Composed by [artist]981[/artist].</info>
+ <songlength>441</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 23:06:04</locked_until>
+ <lastplayed>2018-05-30 19:51:02</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>7766</pouetid>
+ <ytid>MAxxSqNf69I</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1313">Aural Planet</artist>
+ </artists>
+ <groups>
+  <group id="485">Suspend [spd]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>Goa</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MAxxSqNf69I</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

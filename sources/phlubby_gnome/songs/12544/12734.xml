@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12734">
+ <title>Luminous</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9063</rating>
+ <info>[url=http://www.antialias.se/chiptunes/ahx/]download .ahx[/url]</info>
+ <songlength>124</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 05:54:11</locked_until>
+ <lastplayed>2018-05-22 05:19:12</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>3417</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

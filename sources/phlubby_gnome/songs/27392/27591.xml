@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27591">
+ <title>Multiplexing Combat Living</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9524</rating>
+ <info>Originally released in 2008, later used in the demo &#34;Salute!&#34; by Resource &amp; The Dreams, 2nd place C64 demo at Breakpoint 2009.</info>
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 18:59:49</locked_until>
+ <lastplayed>2018-06-09 06:02:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>53025</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="584">The Dreams</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

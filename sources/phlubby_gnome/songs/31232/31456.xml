@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31456">
+ <title>Engage the Fresse</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="85">2.9882</rating>
+ <info>5th place at Evoke 2010 pc demo competition</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 20:42:42</locked_until>
+ <lastplayed>2018-05-31 17:30:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55742</pouetid>
+ <ytid>dEMAQCwzYF4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="410">Stroboholics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>ALARM</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Hardstyle</tag>
+  
+  <tag>herewego</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dEMAQCwzYF4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

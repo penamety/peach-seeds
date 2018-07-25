@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10978">
+ <title>Chase</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.0</rating>
+ <info>My first (and only, for now) AdLib tune made in AdLib Tracker II, a test so to say.</info>
+ <songlength>83</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 18:50:04</locked_until>
+ <lastplayed>2018-04-15 05:49:24</lastplayed>
+ <platform id="18">OPLx</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1872">Oliwerko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

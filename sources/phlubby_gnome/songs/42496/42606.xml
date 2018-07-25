@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42606">
+ <title>Melodic Wave</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">4.0</rating>
+ 
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-13 01:00:28</locked_until>
+ <lastplayed>2017-12-26 04:24:30</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>66686</pouetid>
+ <ytid>fWyvoKzQn78</ytid>
+ 
+ 
+ <artists>
+  <artist id="5638">Tronicsynth</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>TMDC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34813">
+ <title>Drain Your Brain</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.0</rating>
+ 
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-20 02:42:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8085</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4568">Slaze</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

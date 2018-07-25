@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12463">
+ <title>Bionic Commando - stage 1 [Amiga]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">3.6786</rating>
+ <info>Go!, 1988
+
+Harumi Fujita did the original for the arcade game.
+/pwl
+</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 11:58:55</locked_until>
+ <lastplayed>2018-05-28 13:47:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>G14UM0cEUxM</ytid>
+ <ytoffset>11</ytoffset>
+ 
+ <artists>
+  <artist id="1221">Tim Follin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Platformer</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

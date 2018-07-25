@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30037">
+ <title>Atmosphere</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.6875</rating>
+ 
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 21:38:28</locked_until>
+ <lastplayed>2018-01-14 03:57:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50356</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2908">James</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>diskmag</tag>
+  
+  <tag>TheCharts</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

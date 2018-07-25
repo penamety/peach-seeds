@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32006">
+ <title>Surfing Great Victoria</title>
+ <status v="R">Rejected</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="1">5.0</rating>
+ <info>Soundtrack of the Amiga demo Surfing Great Victoria by Nature &amp; Traktor, released at Breakpoint 2008</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50115</pouetid>
+ <ytid>_c5o721RBMI</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="4462">Esau</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group><group id="371">Traktor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13229</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19031">
+ <title>Chip for Life</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1053</rating>
+ 
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-25 13:46:36</locked_until>
+ <lastplayed>2018-02-08 01:35:30</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1805">Headache</artist><artist id="1661">Nula</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

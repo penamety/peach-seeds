@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2098">
+ <title>Sfinx</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.8125</rating>
+ <info>3rd in No Limits 1990 music compo</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 14:30:50</locked_until>
+ <lastplayed>2018-03-27 06:12:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>55188</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="378">Dr. Awesome</artist>
+ </artists>
+ <groups>
+  <group id="24">Crusaders</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

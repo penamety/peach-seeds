@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33302">
+ <title>Blow Up Your Mind!</title>
+ <status v="B">Banned</status>
+ <bitrate>125</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">1.5</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-BLOW_UP_YOUR_MIND.mp3</info>
+ <songlength>476</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-02-09 11:47:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32728">
+ <title>Music for Advanced Children</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.3684</rating>
+ <info>6th place in streaming compo at Revision 2011</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 01:26:02</locked_until>
+ <lastplayed>2018-06-07 05:30:41</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

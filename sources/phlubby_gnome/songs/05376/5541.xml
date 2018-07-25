@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5541">
+ <title>Imploder 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.0606</rating>
+ 
+ <songlength>276</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 02:05:51</locked_until>
+ <lastplayed>2018-06-06 03:03:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="909">Paul van der Valk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>Software</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4876">
+ <title>In Your Bed</title>
+ <status v="A">Active</status>
+ <bitrate>145</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.3243</rating>
+ 
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 15:55:07</locked_until>
+ <lastplayed>2018-05-06 00:00:56</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1678</pouetid>
+ <ytid>MzGQurvCr3I</ytid>
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist><artist id="2026">Mitch</artist>
+ </artists>
+ <groups>
+  <group id="320">Crest</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>video</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

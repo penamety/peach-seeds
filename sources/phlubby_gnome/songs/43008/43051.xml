@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43051">
+ <title>Small Thinking</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ 
+ <songlength>68</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 07:13:42</locked_until>
+ <lastplayed>2018-04-28 00:10:42</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4334">Warhawk</artist>
+ </artists>
+ <groups>
+  <group id="4">tAAt</group>
+ </groups>
+ 
+ <tags>
+  <tag>cowbell</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10646">
+ <title>Song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">1.8824</rating>
+ <info>Now this is an inspired title… seriouslyly though, quite a long and monumental piece featuring a reprise of “Beware of Traps” (see above) and some obligatory orchestra hits.</info>
+ <songlength>387</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-04 17:07:09</locked_until>
+ <lastplayed>2018-05-09 19:47:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>st-XX</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

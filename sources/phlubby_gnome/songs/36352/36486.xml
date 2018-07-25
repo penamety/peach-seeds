@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36486">
+ <title>Alle Jahre wieder</title>
+ <status v="A">Active</status>
+ <bitrate>84</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">2.1111</rating>
+ 
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 03:30:52</locked_until>
+ <lastplayed>2018-05-29 09:51:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8255</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5017">Seismic</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>chipmunk</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

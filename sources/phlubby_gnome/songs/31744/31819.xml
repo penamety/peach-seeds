@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31819">
+ <title>Lost Love</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="22">3.7727</rating>
+ <info>Epilogue tune from &#34;Power Up&#34; - ZX Spectrum (pentagon clone) demo by MegaCode/Extreme, audiovisual art on 8bit machine.
+3rd at Enlight&#39;97 Demo competition.</info>
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 14:12:02</locked_until>
+ <lastplayed>2018-04-17 15:23:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1907</pouetid>
+ <ytid>EDhqn02iOKo</ytid>
+ <ytoffset>466</ytoffset>
+ 
+ <artists>
+  <artist id="1730">Visual</artist>
+ </artists>
+ <groups>
+  <group id="247">Extreme Entertainment [XTM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Sad</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=sDIAE7C9uc8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=3144</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

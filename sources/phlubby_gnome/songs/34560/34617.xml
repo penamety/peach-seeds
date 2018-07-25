@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34617">
+ <title>Extravagance: 20 Ans déjà </title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8696</rating>
+ 
+ <songlength>225</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 16:45:08</locked_until>
+ <lastplayed>2018-04-08 22:51:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>54205</pouetid>
+ <ytid>tNjuiRM0ytU</ytid>
+ 
+ 
+ <artists>
+  <artist id="4938">Tomchi</artist>
+ </artists>
+ <groups>
+  <group id="658">No Extra</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tNjuiRM0ytU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

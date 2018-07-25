@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29265">
+ <title>Dat Music</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>297</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-27 16:48:00</locked_until>
+ <lastplayed>2017-12-04 17:26:30</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3991">Robus</artist>
+ </artists>
+ <groups>
+  <group id="242">Entire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

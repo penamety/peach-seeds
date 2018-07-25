@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36025">
+ <title>Blue Sense</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.6087</rating>
+ <info>Released 2006 as a compo entry at the fourth Madtracker compo.
+
+Got placed 3rd out of 59.
+
+Made in Madtracker 2 without any VST-instruments, although VST effects were used (freebies which were supplied by the organizers).
+
+Download &amp; stream:
+http://www.dvibe.se/bluesense_popup.html</info>
+ <songlength>411</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 16:40:23</locked_until>
+ <lastplayed>2018-05-24 13:29:12</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>madtracker2</tag>
+  
+  <tag>newschool</tag>
+  
+  <tag>tracker</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

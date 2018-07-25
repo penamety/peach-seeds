@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33687">
+ <title>Cubic Distraction</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">2.9167</rating>
+ <info>Curt Cools contribution to LCP 2011. Ranked: 2</info>
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-11 05:06:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1915">Curt Cool</artist>
+ </artists>
+ <groups>
+  <group id="162">Depth</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

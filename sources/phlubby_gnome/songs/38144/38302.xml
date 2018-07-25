@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38302">
+ <title>Proof of Concept (BONUS TRACK)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1579</rating>
+ <info>This is really a proof of concept, I made for the idea of playing simultaneously two ZX Spectrum computers, where one is playing chiptune music and the second one is playing digital music (6 channels in total).
+I was wondering if it keeps tempo properly - and it appeared it works OK. 
+I don&#39;t know if it sounds very well, but at least sounds kind of interesting, I&#39;d say.
+
+One Spectrum is playing a chiptune part from ZX SoundTracker 1.1. 
+The second Spectrum is playing a 3-channels 4-bit digi-music from SampleTracker 2.1.
+
+ZX Spectrum is a computer from 1982 year. 
+CPU speed: 3,5 Mhz. 
+RAM: 48Kb.
+
+AY-interface contains General Instrument AY-3-8910 chip or ym2149 chip (depending on model. A difference in sound is minimal).</info>
+ <songlength>156</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 15:20:07</locked_until>
+ <lastplayed>2018-06-11 18:32:47</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61293</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>DIGITAL</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/26452/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

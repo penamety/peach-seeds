@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31759">
+ <title>Trackers Forever!</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.5862</rating>
+ <info>The track was created in 2007 and released in 2008 in the album: Oldschool MODe
+
+This album contains 4-channels MOD music Yerzmyey wrote throughout years, since 1994, for Amiga 500, Atari ST and ZX Spectrum. Besides, You can find here 3 guest-songs - MODs make by Factor6, TDM and Epi; the MODs have been made for ZX Spectrum and Atari XL/XE.</info>
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-27 15:43:35</locked_until>
+ <lastplayed>2018-03-23 23:37:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>33435</pouetid>
+ <ytid>DlkOXFmhkA0</ytid>
+ <ytoffset>203</ytoffset>
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GS</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DlkOXFmhkA0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/14514/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

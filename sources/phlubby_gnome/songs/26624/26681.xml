@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26681">
+ <title>Times Square (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">2.6667</rating>
+ 
+ <songlength>269</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 13:51:31</locked_until>
+ <lastplayed>2017-11-23 16:28:37</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53653</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1445">Leaphion</artist>
+ </artists>
+ <groups>
+  <group id="150">Hedelmae</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>bigbeat</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

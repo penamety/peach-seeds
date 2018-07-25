@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32621">
+ <title>Experimental Thaw</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.125</rating>
+ <info>Ranked 13th in Nectarine&#39;s Spring Compo 2011.
+First contribution to the scene for either author.  Thanks to smh and Kuki for samples.</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 06:06:54</locked_until>
+ <lastplayed>2018-05-06 04:02:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4741">cxw</artist><artist id="4742">SilentK</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

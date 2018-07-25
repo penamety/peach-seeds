@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42223">
+ <title>Kid is VIP</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">2.3</rating>
+ 
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-02 07:57:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>53483</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4938">Tomchi</artist>
+ </artists>
+ <groups>
+  <group id="658">No Extra</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/72655/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

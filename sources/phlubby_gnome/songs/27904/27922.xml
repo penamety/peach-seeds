@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27922">
+ <title>Fruit of the Loom</title>
+ <status v="A">Active</status>
+ <bitrate>171</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.4286</rating>
+ <info>From Chronologica</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 12:46:00</locked_until>
+ <lastplayed>2017-10-31 08:29:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3868</pouetid>
+ <ytid>tzfZ23TFR3A</ytid>
+ <ytoffset>1559</ytoffset>
+ 
+ <artists>
+  <artist id="1755">Zodiak</artist>
+ </artists>
+ <groups>
+  <group id="452">cascada</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>food</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42321">
+ <title>YMCA - Instrumental remix</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ <info>Was just a joke when i was in classroom... :) Composed with DigiBooster on Amiga.
+Hey it&#39;s time for Karaoke !</info>
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-23 16:55:48</locked_until>
+ <lastplayed>2018-01-31 07:25:46</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

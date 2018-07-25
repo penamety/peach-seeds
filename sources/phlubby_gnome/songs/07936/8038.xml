@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8038">
+ <title>About Us</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.9615</rating>
+ <info>Party: DiHalt 2007
+Compo: MP3/OGG Music
+Place: 2.</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 05:06:41</locked_until>
+ <lastplayed>2018-06-13 00:15:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1491">Neophyt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>Slow</tag>
+  
+  <tag>synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

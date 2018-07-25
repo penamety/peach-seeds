@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42232">
+ <title>Earth, Answer!</title>
+ <status v="A">Active</status>
+ <bitrate>791</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>Also available at https://soundcloud.com/ijsf/earth-answer
+
+Renoise screencaps: https://www.youtube.com/watch?v=o-uMQw0mOUg</info>
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 00:35:52</locked_until>
+ <lastplayed>2018-05-24 16:02:50</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4068">IJsf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Speech-Synth</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=o-uMQw0mOUg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

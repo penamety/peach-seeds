@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7882">
+ <title>Falling Down</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="106">2.9717</rating>
+ <info>4th place in pc demo compo at Breakpoint 2008</info>
+ <songlength>296</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 08:42:37</locked_until>
+ <lastplayed>2018-05-24 19:35:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50126</pouetid>
+ <ytid>FJQIteKQhfY</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1430">KEiTO</artist>
+ </artists>
+ <groups>
+  <group id="470">ukscene allstars</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FemaleMoans</tag>
+  
+  <tag>Hip-Hop</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>turntablism</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FJQIteKQhfY</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

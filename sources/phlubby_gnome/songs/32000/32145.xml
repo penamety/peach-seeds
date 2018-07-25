@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32145">
+ <title>Linear</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ 
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 15:42:44</locked_until>
+ <lastplayed>2017-10-23 23:50:01</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50143</pouetid>
+ <ytid>dUX7thAuV5k</ytid>
+ 
+ 
+ <artists>
+  <artist id="4705">Warm</artist>
+ </artists>
+ <groups>
+  <group id="380">SQNY</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>bass</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=dUX7thAuV5k</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38737">
+ <title>Pastel Coloured Nights</title>
+ <status v="A">Active</status>
+ <bitrate>146</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.9643</rating>
+ <info>Disqualified from CSDb crack intro competition 2013 for being few seconds too long (1:00 was the maximum length)</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 06:27:10</locked_until>
+ <lastplayed>2018-06-07 20:39:34</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>discarded</tag>
+  
+  <tag>Night</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=114269</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

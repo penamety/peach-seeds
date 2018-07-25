@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20532">
+ <title>Tarka&#39;s Anthem</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.24</rating>
+ 
+ <songlength>465</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:03:54</locked_until>
+ <lastplayed>2018-06-01 23:22:55</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="662">Liam the Lemming</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>Relaxing</tag>
+  
+  <tag>Repetitive</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

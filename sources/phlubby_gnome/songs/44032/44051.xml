@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44051">
+ <title>Axkold</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>Used in [url]http://janeway.exotica.org.uk/release.php?id=3478[/url]</info>
+ <songlength>176</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 14:04:14</locked_until>
+ <lastplayed>2018-03-16 07:01:14</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2257">Axk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OldSchool</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

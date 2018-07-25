@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44109">
+ <title>Power Packed Alliance</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>Composed by: AceMan, Argasek, Grogon, Groovebox, V0yager &amp; XTD
+
+Released at Decrunch 2017 wild demo compo, placed 5</info>
+ <songlength>986</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 08:06:16</locked_until>
+ <lastplayed>2018-06-09 19:33:26</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>70247</pouetid>
+ <ytid>_lSReW7eRI4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist><artist id="4657">Argasek</artist><artist id="501">Grogon</artist><artist id="5733">Groovebox</artist><artist id="4248">V0yager</artist><artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Renoise</tag>
+  
+  <tag>xrns</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_lSReW7eRI4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8186">
+ <title>Earth</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.8125</rating>
+ <info>5th in the streamed music compo at Function&#39;07.</info>
+ <songlength>421</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:11:35</locked_until>
+ <lastplayed>2018-06-09 23:31:26</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5609">RiaN Tune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

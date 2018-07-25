@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26095">
+ <title>Backtracking</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.3158</rating>
+ <info>Third at The Party (the first one in 1991) music competition.</info>
+ <songlength>242</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 12:08:58</locked_until>
+ <lastplayed>2018-05-31 13:24:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Funky</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

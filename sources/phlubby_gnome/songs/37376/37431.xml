@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37431">
+ <title>Who Carez</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.4545</rating>
+ 
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-18 10:38:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>29553</pouetid>
+ <ytid>oTZNrX1hykI</ytid>
+ <ytoffset>20</ytoffset>
+ 
+ <artists>
+  <artist id="5245">Claxon</artist>
+ </artists>
+ <groups>
+  <group id="185">Axis</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

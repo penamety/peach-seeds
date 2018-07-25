@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32555">
+ <title>Lifeform</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.0</rating>
+ 
+ <songlength>445</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 14:11:44</locked_until>
+ <lastplayed>2018-06-16 18:40:27</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4734">Andromeda [PL]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Dark</tag>
+  
+  <tag>Energetic</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>StarTrek</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

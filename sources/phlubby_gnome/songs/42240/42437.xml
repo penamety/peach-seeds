@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42437">
+ <title>Matka Alamaailmaan</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">1.66</rating>
+ <info>Original lyrics &amp; translation
+
+[i]Kuumehoureessa ruumiini huutaa
+Helvetin tuskassa
+Mieleni levitoi vapaana
+Sairasvuoteen yllä
+Hallusinaatiossa näen
+Väläyksen alamaailman ihmeistä
+Tiedän: on koittanut aika
+Sieluni sinne laskeutua
+
+Maan päällä ruumiini kouristelee
+Vapautusta anellen
+Shamaani turhaan yrittää
+Sieluani noutaa
+Henkeni ottaa korpin hahmon
+Ja kaartaa metsän ylle
+Tämä on todella Haadeksen ihme
+Tänne tahdon jäädä
+
+Matka alamaailmaan
+Sieluni tyhjyyteen vajoaa
+Matka alamaailmaan
+Sieluni tyhjyyteen vajoaa
+
+---
+In ravings of fever my mind screams
+In the pain of hell
+My mind levitates freely
+Above a sickbed
+In a hallucination I see
+A glimpse of the miracles of the Underworld
+I know: the time has come
+For my soul to descend there
+
+On the Earth my body judders
+pleading for liberation
+A shaman tries in vain
+To retrieve my soul
+My spirit takes raven&#39;s form
+And soars above a forest
+This is truly the miracle of Hades
+Here I want to stay
+
+Trip to the Underworld
+My soul subsides to the emptiness
+Trip to the Underworld 
+My soul subsides to the emptiness[/i]</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 19:36:20</locked_until>
+ <lastplayed>2018-04-29 06:15:13</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>11550</pouetid>
+ <ytid>9ZmASuv5Llk</ytid>
+ 
+ 
+ <artists>
+  <artist id="5627">Aesir</artist><artist id="5626">Sadokk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>BlackMetal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Metal</tag>
+  
+  <tag>scary</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=9ZmASuv5Llk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/37231/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

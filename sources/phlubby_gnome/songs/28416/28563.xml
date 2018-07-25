@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28563">
+ <title>SEGA Point</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="11">2.1818</rating>
+ <info>Demo from Breakpoint 2009 on SEGA Mega Drive / Genesis</info>
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-25 00:35:37</locked_until>
+ <lastplayed>2018-02-28 06:46:57</lastplayed>
+ 
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2119">Oerg866</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

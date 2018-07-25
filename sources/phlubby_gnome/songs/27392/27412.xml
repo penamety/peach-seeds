@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27412">
+ <title>Sad Child Song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.3091</rating>
+ <info>This module was composed by Manwe many years ago but tracked only now, special for this disk (because of small break in commercial musicmaking). Enjoy live played guitar and accordion. Drums made by Tangerine (somewhat played live).
+Dig sample quality!</info>
+ <songlength>136</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 21:21:16</locked_until>
+ <lastplayed>2018-06-11 21:33:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21142</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist><artist id="3974">Tangerine</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>lullaby</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

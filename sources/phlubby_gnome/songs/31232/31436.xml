@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31436">
+ <title>Para &#39;N&#39; droiD</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">4.3448</rating>
+ 
+ <songlength>327</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 02:00:27</locked_until>
+ <lastplayed>2018-06-03 09:57:44</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>54560</pouetid>
+ <ytid>BURPGgn75Sk</ytid>
+ 
+ 
+ <artists>
+  <artist id="4610">Ralf Wadephul</artist>
+ </artists>
+ <groups>
+  <group id="537">Brain Control</group><group id="731">Rabenauge</group><group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BURPGgn75Sk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

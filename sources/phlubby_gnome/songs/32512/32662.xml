@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32662">
+ <title>Spaceflowers</title>
+ <status v="A">Active</status>
+ <bitrate>151</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.2381</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 04:57:30</locked_until>
+ <lastplayed>2018-05-17 14:49:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>7791</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>Jungle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

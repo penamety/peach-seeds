@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37353">
+ <title>Enormous Magnitude</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">2.9286</rating>
+ <info>Text from an Atari-Forum.com forum post by YERZMYEY:
+
+&#34;Last times I was testing how Atari 520ST would behave as a synthesizer in recording studio.
+
+What I mean is - in early 70s synthesizers sounded in similar way to later sound-chips, they had rather simple possibilities - it was recording-studio effects what gave the special sound to early electronic music actually, not entirely the synthesizers by themselves, in fact.
+
+So - I recorded all the required sequencies (with MusicMon) track by track, I added loads of studio effects and... ;)
+
+The only instrument/sound-source and sequencer is Atari 520ST.
+
+Of course ***HEAVY POST-PRODUCTION*** has been added, to change sound of original sequences totally. Recording studio effects used: track-by-track recording / filters / phasers / choruses / flangers / delays / echoes / reverbs / equalizers / compressors / limiters.
+
+It shows what Atari micromusic hardware can be used to :)
+
+Data of post-production:
+
+Hardware:
+- Behringer FEX 800
+- Behringer XENYX 1002 FX
+- ZOOM RFX 2000
+
+Software:
+- Sony SoundForge 8.0
+- CoolEdit Pro 2.1&#34;
+
+</info>
+ <songlength>609</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 16:15:02</locked_until>
+ <lastplayed>2018-05-27 21:11:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

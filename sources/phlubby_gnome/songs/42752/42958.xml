@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42958">
+ <title>Jupiter 666 Video Computer System</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.1579</rating>
+ <info>The Meteoriks award nominee for the best soundtrack in 2015
+
+Thomas Bangalter helped with audio degrading</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 16:35:30</locked_until>
+ <lastplayed>2018-06-16 17:21:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65391</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5635">Van Damme</artist>
+ </artists>
+ <groups>
+  <group id="825">Hackers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>SynthWave</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136311/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

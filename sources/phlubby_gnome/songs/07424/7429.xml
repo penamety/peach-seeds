@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7429">
+ <title>Consent</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.907</rating>
+ 
+ <songlength>579</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 21:03:55</locked_until>
+ <lastplayed>2018-05-24 17:08:17</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1513">Plasm</artist><artist id="1310">Ynze Zuidema</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>soft</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33515">
+ <title>The Ratzeburg Rave</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="40">3.25</rating>
+ <info>&#39;The Ratzeburg Rave&#39; (Infra/MoM), released 06/1995.</info>
+ <songlength>328</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 02:09:32</locked_until>
+ <lastplayed>2018-05-16 08:31:12</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="548">Infra</artist>
+ </artists>
+ <groups>
+  <group id="640">Members of Mayday [MoM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

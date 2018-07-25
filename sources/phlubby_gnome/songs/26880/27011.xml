@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27011">
+ <title>Action</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.7368</rating>
+ <info>From 1989.</info>
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 01:38:21</locked_until>
+ <lastplayed>2018-06-01 01:04:10</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>48530</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3344">Othon</artist>
+ </artists>
+ <groups>
+  <group id="852">Armada (Amiga)</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

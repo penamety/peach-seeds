@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34223">
+ <title>Luna : Reactivation (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7059</rating>
+ 
+ <songlength>448</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-09 02:50:03</locked_until>
+ <lastplayed>2018-01-21 01:29:46</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57448</pouetid>
+ <ytid>ktkS7A5CZ8g</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="4902">jaw</artist><artist id="4901">warpfuz</artist>
+ </artists>
+ <groups>
+  <group id="652">vovoid</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Linux</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ktkS7A5CZ8g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

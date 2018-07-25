@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43924">
+ <title>Blast from the Past</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.2222</rating>
+ 
+ <songlength>353</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 11:14:12</locked_until>
+ <lastplayed>2018-06-08 17:06:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>69688</pouetid>
+ <ytid>2ArUsOP2Rc4</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

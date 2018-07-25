@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12371">
+ <title>Vixen - Bonus Stage</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>Martech 1988
+
+In bonus stage the player becomes a fox and has to collect gems</info>
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 05:26:16</locked_until>
+ <lastplayed>2018-02-10 22:10:31</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2012">Jas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

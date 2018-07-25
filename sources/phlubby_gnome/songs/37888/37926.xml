@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37926">
+ <title>Ratzeburg Rave</title>
+ <status v="A">Active</status>
+ <bitrate>272</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.2857</rating>
+ 
+ <songlength>299</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 13:58:11</locked_until>
+ <lastplayed>2018-04-23 07:24:55</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4715">z00m</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

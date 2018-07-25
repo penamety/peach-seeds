@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37794">
+ <title>Dizzzruptor part 3 (Atari ST remix)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.4375</rating>
+ <info>Yerzmyey/AY-Riders composed the original version of this tune on the ZX Spectrum for Hooy-Program&#39;s demo Dizzzruptor. I felt like it could use another melody line, some timer effects and digidrums. Thank you Michał for letting me remix the tune. The tune is included in my music demo Meet !Cube.
+Editor: maxYMiser
+Release date: SillyVenture 2012 </info>
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-08 10:19:07</locked_until>
+ <lastplayed>2018-01-19 10:41:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>60836</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>SillyVenture</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12909">
+ <title>Airline Flight 69 </title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">2.8</rating>
+ 
+ <songlength>227</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 06:09:52</locked_until>
+ <lastplayed>2017-10-26 09:12:55</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

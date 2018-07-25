@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25985">
+ <title>Kahen Litran Diesel</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">2.0448</rating>
+ <info>lyrics translated
+
+2-liter diesel (4x)
+and a basic pushchair with its frames
+an engine with a new chassis model
+six times one meter forty
+moves slightly
+yes, a bit
+2-liter diesel (4x)
+and a freezer, the model of year 85
+
+a basic pushchair and Fiat or a baby carrier 
+and a freezer or Fiat and a baby carrier 
+or a freezer and a basic pushchair
+or Fiat or a freezer and Fiat
+
+or 2-liter diesel (4x)
+2-liter, 2-liter
+until breathless
+
+(NOTE: &#34;kahen&#34; is dialectal, &#34;kahden&#34; is the genetive of &#34;two&#34; in standard language)</info>
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 00:43:06</locked_until>
+ <lastplayed>2018-06-03 06:37:21</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2046">Ukulele</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>weird</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?123911</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

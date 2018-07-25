@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40387">
+ <title>Scarecrow</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.3553</rating>
+ <info>Lyrics:
+
+I, what am I
+barely standing straight
+yet awake
+to see
+fading lights
+from a day
+
+I, what have I
+but the shortest straws
+the one
+no one
+no one wants
+but the night
+
+In its embrace
+the wan light of the moon glimmers its beauty
+upon the fields and unto me
+
+I´m the scarecrow
+the unknown
+the freak
+no one wants to know
+
+I, only if I
+could hold such beauty
+its light
+to know
+its secrets
+I would be free
+
+I´m the scarecrow
+the unknown
+the freak
+no one wants to know</info>
+ <songlength>217</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 00:12:16</locked_until>
+ <lastplayed>2018-06-14 13:44:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62984</pouetid>
+ <ytid>KR9eg-WQgtY</ytid>
+ 
+ 
+ <artists>
+  <artist id="5375">Phoenix</artist><artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KR9eg-WQgtY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

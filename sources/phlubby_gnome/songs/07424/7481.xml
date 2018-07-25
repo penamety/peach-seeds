@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7481">
+ <title>The Day the Earth Was Born</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">2.68</rating>
+ <info>The soundtrack to TPOLM&#39;s demo The Day the Earth Was Born from Remedy 2000. The actual module (tekno.xm) is untitled and void of any other markings.</info>
+ <songlength>208</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 00:16:31</locked_until>
+ <lastplayed>2018-05-23 20:20:51</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>328</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="144">Brothomstates</artist>
+ </artists>
+ <groups>
+  <group id="60">The Planet of Leather Moomins [TPOLM]</group>
+ </groups>
+ 
+ <tags>
+  <tag>breakcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

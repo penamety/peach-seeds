@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38673">
+ <title>Hello Goodbye (live at Red Fez)</title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.25</rating>
+ 
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 03:35:22</locked_until>
+ <lastplayed>2017-11-21 06:27:07</lastplayed>
+ 
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

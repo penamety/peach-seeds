@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39017">
+ <title>Summer Night</title>
+ <status v="A">Active</status>
+ <bitrate>1010</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="24">4.2917</rating>
+ <info>2nd place in ZX Spectrum AY/YM/TurboAY Music compo at DiHalt 2013</info>
+ <songlength>183</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 06:13:52</locked_until>
+ <lastplayed>2018-05-28 13:24:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/29932/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

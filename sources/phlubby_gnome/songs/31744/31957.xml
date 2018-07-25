@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31957">
+ <title>Engel Latrax Minus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="26">3.2308</rating>
+ <info>This main track of the Latrax Minus Demo from the AAA-COMPO.</info>
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-30 21:41:11</locked_until>
+ <lastplayed>2017-06-23 02:19:43</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56521</pouetid>
+ <ytid>DIjuTn5sUuQ</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="3991">Robus</artist>
+ </artists>
+ <groups>
+  <group id="242">Entire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+  <tag>Latrax</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

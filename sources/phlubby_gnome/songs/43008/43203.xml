@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43203">
+ <title>Orka</title>
+ <status v="A">Active</status>
+ <bitrate>186</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.0</rating>
+ 
+ <songlength>90</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-12 21:12:36</lastplayed>
+ 
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1305">Algar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

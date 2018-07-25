@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1260">
+ <title>Mariko</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.1364</rating>
+ 
+ <songlength>276</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-10 11:33:51</locked_until>
+ <lastplayed>2018-03-02 19:57:16</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="224">CNCD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

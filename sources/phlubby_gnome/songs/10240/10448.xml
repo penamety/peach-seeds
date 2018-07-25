@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10448">
+ <title>Celebrate!</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Celebrate! is an upbeat music. It was composed for a Demo &amp; Music competition (The Scene &#39;96 Shootout) in Singapore.
+
+Turned out 3rd in the Music (Composed) section.</info>
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-12 23:43:32</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="856">Ng Pei Sin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>TheScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

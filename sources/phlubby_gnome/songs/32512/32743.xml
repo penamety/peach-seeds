@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32743">
+ <title>Pacemaker</title>
+ <status v="A">Active</status>
+ <bitrate>186</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.4571</rating>
+ <info>fr-080: Strobo-plus-32767: pacemaker
+
+3rd place in PC 64K demo compo at Revision 2011
+
+</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 19:37:44</locked_until>
+ <lastplayed>2018-05-31 04:35:16</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>56877</pouetid>
+ <ytid>5f7ABPnTOiU</ytid>
+ 
+ 
+ <artists>
+  <artist id="4757">BeRo</artist><artist id="461">freQvibez</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group><group id="410">Stroboholics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Psytrance</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ykL4LxdajfA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5f7ABPnTOiU</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

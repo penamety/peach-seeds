@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27666">
+ <title>Neurolight</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ <info>1st place on Paradox2k demoparty.
+Vocal by Frown, flute played live by Manwe.</info>
+ <songlength>282</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 23:05:33</locked_until>
+ <lastplayed>2017-11-18 02:14:05</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

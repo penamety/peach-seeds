@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30333">
+ <title>Naked Chip</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.5714</rating>
+ 
+ <songlength>163</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 05:42:26</locked_until>
+ <lastplayed>2018-06-05 08:46:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1666">Ziphoid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12286">
+ <title>kinderkopkes</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.1333</rating>
+ 
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-04 20:06:03</locked_until>
+ <lastplayed>2017-11-13 11:18:22</lastplayed>
+ <platform id="19">Gameboy</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2006">Lo-bat.</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

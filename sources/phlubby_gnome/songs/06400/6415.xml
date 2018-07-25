@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6415">
+ <title>Juffi the Skylark</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="41">4.0488</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 21:28:09</locked_until>
+ <lastplayed>2018-05-01 12:26:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>32053</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>sinewave</tag>
+  
+  <tag>Wildstock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

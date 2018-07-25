@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35943">
+ <title>Wheels of Wonder</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">4.05</rating>
+ <info>From [url=http://www.mazedude.com/aa/]The American Album[/url]
+
+Remix of a song by Jack Wall from the game Myst 3.</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 04:43:11</locked_until>
+ <lastplayed>2018-06-02 10:44:03</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4154">Mazedude</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38631">
+ <title>Listen to my Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>131</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.6</rating>
+ 
+ <songlength>453</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 22:18:06</locked_until>
+ <lastplayed>2018-06-02 10:46:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

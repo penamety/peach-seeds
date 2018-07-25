@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12794">
+ <title>Ghouls &#39;n&#39; Ghosts (Amiga): Longer title</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8148</rating>
+ <info>U.S.Gold, 1989
+
+An authentic recording from Stone Oakvalley&#39;s Collection
+</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 11:10:30</locked_until>
+ <lastplayed>2018-05-02 20:31:57</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1221">Tim Follin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2724</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

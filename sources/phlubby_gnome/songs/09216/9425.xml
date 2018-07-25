@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9425">
+ <title>Barcode Anxiety</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="83">3.7108</rating>
+ <info>Download complete album at:
+http://www.jamendo.com/en/album/22879</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:43:09</locked_until>
+ <lastplayed>2018-06-09 16:22:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ <pouetid>25864</pouetid>
+ <ytid>MKctnuWWEs8</ytid>
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MKctnuWWEs8</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

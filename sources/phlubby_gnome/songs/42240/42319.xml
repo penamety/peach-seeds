@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42319">
+ <title>The Breath of Montes Haemus</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ <info>Tune 7 of a serie about the Moon.
+
+First composed on DigiBooster (Amiga)
+Some improvments with MadTracker (PC)
+
+List of &#34;The Moon&#34; tunes:
+
+01 - Launching of Starship to the Moon
+02 - Around the Moon
+03 - Lunaport
+04 - On Mare Nubium
+05 - Moon Dancer
+06 - The Tribe of Hipparchus
+07 - The Breath of Montes Haemus
+08 - Goodbye Moon
+
+Hope you will enjoy the trip !</info>
+ <songlength>110</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-11 04:43:08</locked_until>
+ <lastplayed>2017-09-05 13:55:55</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="592">Intense</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

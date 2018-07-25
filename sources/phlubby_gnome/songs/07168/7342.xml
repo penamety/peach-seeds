@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7342">
+ <title>Tillykke</title>
+ <status v="I">Inactive</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">2.4</rating>
+ 
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2012-02-25 19:36:49</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chipmunk</tag>
+  
+  <tag>DanishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

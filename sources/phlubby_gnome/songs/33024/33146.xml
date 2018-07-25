@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33146">
+ <title>Funk You</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.5455</rating>
+ 
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 23:39:23</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>17129</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4799">Mixtec</artist>
+ </artists>
+ <groups>
+  <group id="633">Mindprobe</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Invitation</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

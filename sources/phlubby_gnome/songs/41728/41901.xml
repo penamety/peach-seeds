@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41901">
+ <title>A little cyberfunk</title>
+ <status v="A">Active</status>
+ <bitrate>183</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.0</rating>
+ 
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 00:56:47</locked_until>
+ <lastplayed>2018-03-23 14:00:20</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="567">Jazzcat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22647">
+ <title>Boulder Dash</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.0833</rating>
+ <info>Download link: http://www.bd-fans.com/FanStuff.html#Music</info>
+ <songlength>61</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-10 18:10:58</locked_until>
+ <lastplayed>2018-05-10 22:35:16</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>FiEVfa1OK_o</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="3371">Peter Liepa</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1984</tag>
+  
+  <tag>EarlySID</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=349</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35392">
+ <title>Elektrosokk</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">2.6444</rating>
+ <info>Function 2010 wild demo</info>
+ <songlength>306</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 06:38:52</locked_until>
+ <lastplayed>2018-04-19 14:12:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>55833</pouetid>
+ <ytid>3xnuNHXqO1c</ytid>
+ 
+ 
+ <artists>
+  <artist id="5045">Necrophone</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>aggrotech</tag>
+  
+  <tag>EBM</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>HungarianSpeak</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>Lyrics-Incomplete</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=3xnuNHXqO1c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

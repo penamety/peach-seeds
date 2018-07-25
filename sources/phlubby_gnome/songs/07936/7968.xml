@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7968">
+ <title>Monsieur l&#39;ordinateur</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">2.3803</rating>
+ <info>Lyrics:
+&#34;Allo, allo, monsieur l&#39;ordinateur ?
+Dites-moi, dites-moi où est passé mon coeur ?&#34;
+
+Translation:
+&#34;Hello, hello, mister computer?
+Tell me, please tell me, where has my heart gone?&#34;</info>
+ <songlength>109</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 05:28:31</locked_until>
+ <lastplayed>2018-05-11 14:25:18</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1466">GTK</artist><artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

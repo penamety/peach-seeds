@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27990">
+ <title>Richard Joseph Medley (RIP) C64 Echofied</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">3.8551</rating>
+ <info>March 4th, 2007 - Richard Joseph passed away.
+This is my tribute to him.</info>
+ <songlength>439</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 12:40:10</locked_until>
+ <lastplayed>2018-05-25 08:55:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="476">Geir Tjelta</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

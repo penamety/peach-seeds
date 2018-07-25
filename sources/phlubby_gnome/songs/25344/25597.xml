@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25597">
+ <title>Spaceflight</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>107</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 21:43:48</locked_until>
+ <lastplayed>2018-06-05 20:01:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9057</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3746">The Wiz</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SwedishEliteEasterConference</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

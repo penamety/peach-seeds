@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40675">
+ <title>Lemurian Seafloot Apparatus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Lemurian Seafloot Apparatus
+by noby, that would be the
+track title.
+
+Made for the MS-Dos demo
+titled &#39;&#39;Mangareva&#39;&#39;.
+
+Cosmic metaphysical
+mythological production.
+
+My first tracker module in
+over a year, probably the
+best I&#39;ve done.
+
+Respect and apologies to
+everyone whose samples
+I might have ripped.
+
+Exploring Andrean
+sand dunes...</info>
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 14:59:16</locked_until>
+ <lastplayed>2018-04-04 06:45:48</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>61992</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5520">Noby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8x1qsKzbju4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10943">
+ <title>Monty Mule</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>Based upon the C64 tune by Roy Glover and created using Fast Tracker v2.</info>
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-11 15:09:27</locked_until>
+ <lastplayed>2017-10-03 03:57:19</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1874">G-Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

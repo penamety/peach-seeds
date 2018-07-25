@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32924">
+ <title>Good Morning Ziphoid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0</rating>
+ <info>Placed 4th at Evoke 2010.
+
+[url=http://malmen.org/wp-content/uploads/2010/09/malmen-good_morning_ziphoid.mp3]Download[/url]</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 14:51:06</locked_until>
+ <lastplayed>2018-05-23 00:36:51</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  <group id="36">Satanic Kids Enterprise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

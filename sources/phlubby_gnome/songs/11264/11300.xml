@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11300">
+ <title>Theta</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.3571</rating>
+ <info>From Paniq&#39;s Neurons Fire at Will Album
+
+Download album in MP3 format:
+http://www.jamendo.com/en/album/32199
+Download album in FLAC format:
+http://www.archive.org/details/NeuronsFireAtWill</info>
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 22:42:11</locked_until>
+ <lastplayed>2018-05-17 07:27:36</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>15092</pouetid>
+ <ytid>rrgzBptM2bM</ytid>
+ 
+ 
+ <artists>
+  <artist id="899">Paniq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rrgzBptM2bM</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

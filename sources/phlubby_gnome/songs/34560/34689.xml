@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34689">
+ <title>Breaking Wind</title>
+ <status v="A">Active</status>
+ <bitrate>138</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.95</rating>
+ <info>Data size:       4361 bytes
+File type:       PlaySID one-file format (PSID)
+File status:     No errors
+Name:            Breaking Wind
+Author:          Dwayne Bakewell (DJB)
+Released:        1999 Onslaught
+Load range:      $0FC0-$20C8
+Init address:    $0FC1
+Play address:    $0FCB
+Number of songs: 1
+Default song:    1
+SID model:       8580
+Clock speed:     PAL
+Reloc region:    Auto
+
+Emulation
+---------
+SID model:       8580
+Clock speed:     CIA (PAL)
+Environment:     Real C64
+Reloc region:    $2100-$9FFF
+Driver region:   $2100-$21FF
+Power-on delay:  4129</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-02 06:27:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="338">DJB</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

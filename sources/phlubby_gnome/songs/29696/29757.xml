@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29757">
+ <title>Do It Nao (Compo Version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.8235</rating>
+ <info>8th place in Assembly 2010 Music competition</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 08:03:40</locked_until>
+ <lastplayed>2018-06-14 13:47:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

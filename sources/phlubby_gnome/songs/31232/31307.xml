@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31307">
+ <title>Trial and Terror</title>
+ <status v="A">Active</status>
+ <bitrate>95</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ <info>Trial and Terror was released at Sundown demoparty 2010 in th UK and won the executable music compo.
+
+Synth: Meteorik / approximate
+Music: velo / approximte
+
+http://scene.org/file.php?file=/parties/2010/sundown10/synth/trial_and_terror_-_velo.zip&amp;fileinfo</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-18 18:48:13</lastplayed>
+ <platform id="37">16K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1294">Velo</artist>
+ </artists>
+ <groups>
+  <group id="405">Approximate</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

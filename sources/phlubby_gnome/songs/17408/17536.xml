@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17536">
+ <title>Dreaming</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>251</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-15 06:29:04</locked_until>
+ <lastplayed>2017-12-23 22:04:24</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>20467</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2130">Dr. Bully</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

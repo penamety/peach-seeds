@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41397">
+ <title>The Night Dancer</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>OK, so maybe this time something disco/dance/synthpop. ;)
+ZX Spectrum 48K (BEEPER). 9 channels of the Octode_3 engine (huge thanks to Introspec!!).
+It took 2nd place in the Silly Venture 2014 BEEPER Music Compo.
+As usual, recorded from real hardware, Timex Computer 2048.</info>
+ <songlength>228</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-07 04:44:11</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

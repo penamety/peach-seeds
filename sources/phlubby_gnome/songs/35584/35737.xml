@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35737">
+ <title>The Wise</title>
+ <status v="A">Active</status>
+ <bitrate>115</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3158</rating>
+ <info>Unused tune</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-04 20:30:29</locked_until>
+ <lastplayed>2017-06-04 00:06:48</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>Flute</tag>
+  
+  <tag>Mouthharp</tag>
+  
+  <tag>whistle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

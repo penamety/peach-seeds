@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="25638">
+ <title>Antropolgy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0</rating>
+ 
+ <songlength>374</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-18 07:38:46</locked_until>
+ <lastplayed>2017-10-09 11:13:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1219">Timer</artist>
+ </artists>
+ <groups>
+  <group id="162">Depth</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

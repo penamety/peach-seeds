@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27206">
+ <title>Neutron Nights (Original)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.85</rating>
+ <info>Entry for streamed compo at Compusphere 2009.</info>
+ <songlength>309</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-03 12:41:10</locked_until>
+ <lastplayed>2017-08-28 22:59:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="367">Dragonfly</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Compusphere</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

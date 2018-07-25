@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39343">
+ <title>Above The Clouds</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.7692</rating>
+ <info>8th in music competition at Function 2013.</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 19:37:55</locked_until>
+ <lastplayed>2018-04-21 02:33:22</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1560">TEO</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Function</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

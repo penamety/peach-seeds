@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43287">
+ <title>Smo0oth Crimin4l</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.3125</rating>
+ <info>C64 Music Competition at Silesia Party 1 :  #11</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-01 20:49:44</locked_until>
+ <lastplayed>2018-05-02 23:35:23</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4671">Conrad</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>MichaelJackson</tag>
+  
+  <tag>Silesia</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

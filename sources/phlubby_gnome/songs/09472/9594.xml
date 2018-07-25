@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9594">
+ <title>Salvator</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="106">4.5566</rating>
+ <info>Made with Musicmon 2.5e on Atari 1040STe.</info>
+ <songlength>221</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 11:40:58</locked_until>
+ <lastplayed>2018-06-12 08:10:52</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35944">
+ <title>Zombies Ate My Tracker</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.35</rating>
+ <info>From [url=http://www.mazedude.com/aa/]The American Album[/url]</info>
+ <songlength>244</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 17:59:25</locked_until>
+ <lastplayed>2018-05-16 03:26:30</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4154">Mazedude</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>hitit</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21191">
+ <title>Hunter</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.8462</rating>
+ <info>Martin Walker is using his own file format.</info>
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-14 14:00:15</locked_until>
+ <lastplayed>2017-11-22 03:22:03</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>m1PcAlGHXzk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1902">Martin Walker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>Thriller</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=A3KNeckjgfs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

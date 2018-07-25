@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29489">
+ <title>Ethos (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.5625</rating>
+ 
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 04:31:04</locked_until>
+ <lastplayed>2018-04-24 11:31:59</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>55228</pouetid>
+ <ytid>RxCcsJp9ogc</ytid>
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist>
+ </artists>
+ <groups>
+  <group id="609">Youth Uprising [YUP]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=RxCcsJp9ogc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42476">
+ <title>Fourth Of A Kind</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8235</rating>
+ <info>1st at RetroKomp / LOAD ERROR 2015 Chip music compo.</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 06:53:30</locked_until>
+ <lastplayed>2018-05-01 18:38:04</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>RetroKomp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

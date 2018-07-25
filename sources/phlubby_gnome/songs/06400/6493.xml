@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6493">
+ <title>Autonomus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.22</rating>
+ <info>Another little chip song, released with the Emissions #3 music disk. The song also makes a brief appearance in the intro of the PopCap game Bejeweled. The song name may be mis-spelt, but it&#39;s a tribute to Star Control 1. :)</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 13:22:21</locked_until>
+ <lastplayed>2018-05-11 06:18:13</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

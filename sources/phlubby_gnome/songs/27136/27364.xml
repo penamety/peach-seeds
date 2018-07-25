@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27364">
+ <title>Around Past</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">4.0612</rating>
+ 
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 16:28:32</locked_until>
+ <lastplayed>2018-05-22 19:38:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2000">C-jeff</artist><artist id="3175">Megus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AcidJazz</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

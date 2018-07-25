@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34034">
+ <title>Launching SpaceStation DS1</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ 
+ <songlength>196</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-18 06:26:23</locked_until>
+ <lastplayed>2017-12-30 01:29:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>52467</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4707">radiantx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

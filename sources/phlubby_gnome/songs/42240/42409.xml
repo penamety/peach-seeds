@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42409">
+ <title>Robot Music</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.1538</rating>
+ <info>Download link:
+https://files.scene.org/view/music/artists/rage/2007/robotmusic/rage-robot_02_music.mp3</info>
+ <songlength>338</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-23 07:37:52</locked_until>
+ <lastplayed>2017-11-02 07:43:12</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="980">Rage</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>vocoder</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

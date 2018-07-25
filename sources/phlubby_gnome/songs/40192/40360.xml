@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40360">
+ <title>min</title>
+ <status v="A">Active</status>
+ <bitrate>463</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">3.7778</rating>
+ <info>Released at NVScene 2014</info>
+ <songlength>171</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 03:27:16</locked_until>
+ <lastplayed>2018-05-06 06:00:15</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62851</pouetid>
+ <ytid>X61MOZoqFB4</ytid>
+ 
+ 
+ <artists>
+  <artist id="5490">Syltefar Selector</artist>
+ </artists>
+ <groups>
+  <group id="369">loopit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>loopit</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

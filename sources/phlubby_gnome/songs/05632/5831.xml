@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5831">
+ <title>Day of the Lollipop</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.0741</rating>
+ <info>Oregon inspired me so much, that I decided to try to do something similar.  Jazz will live forever!</info>
+ <songlength>179</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 19:57:19</locked_until>
+ <lastplayed>2018-03-10 09:55:12</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6515</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Jazz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

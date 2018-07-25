@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38383">
+ <title>Jehova Goes Hitech</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.5455</rating>
+ 
+ <songlength>317</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-22 12:50:39</locked_until>
+ <lastplayed>2017-11-28 13:42:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4464</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="723">Mantronix</artist><artist id="1">Øistein Eide</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Religion</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

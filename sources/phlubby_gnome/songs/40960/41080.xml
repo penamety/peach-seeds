@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41080">
+ <title>Le Soir</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.8333</rating>
+ <info>Weeklybeats 15. This song was intended for a new album we&#39;re working on, but the other WIP we did for this week&#39;s WeeklyBeats we couldn&#39;t finish because of beer overdose. So here&#39;s this one. LSDJ + DMG.</info>
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 12:12:49</locked_until>
+ <lastplayed>2018-06-14 10:04:58</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5491">XyCe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37510/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29456">
+ <title>Yellow Rose of Texas</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.7222</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 17:17:25</locked_until>
+ <lastplayed>2017-11-30 03:52:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10562</pouetid>
+ <ytid>19jpy0Ib3JU</ytid>
+ 
+ 
+ <artists>
+  <artist id="4294">NF</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=19jpy0Ib3JU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

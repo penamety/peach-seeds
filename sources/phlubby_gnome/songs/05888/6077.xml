@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6077">
+ <title>Incyber</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="28">2.9286</rating>
+ 
+ <songlength>325</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 10:58:56</locked_until>
+ <lastplayed>2018-05-28 12:28:14</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1164</pouetid>
+ <ytid>lQbX-BaeQnk</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="981">Raiden</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DigitalZooo</tag>
+  
+  <tag>Psychedelic</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lQbX-BaeQnk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

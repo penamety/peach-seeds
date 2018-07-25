@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40352">
+ <title>United and Victorious</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.9167</rating>
+ <info>ZX Spectrum (BEEPER). 1-bit sound. 
+Engine: HUBY.
+Recorded from real hardware: TIMEX COMPUTER 2048.</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 21:24:20</locked_until>
+ <lastplayed>2018-04-03 20:27:04</lastplayed>
+ <platform id="24">Z80 / ULA (Sinclair)</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1914">Mister Beep</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34389/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

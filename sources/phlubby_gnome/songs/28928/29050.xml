@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29050">
+ <title>The Rainy Road</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.8158</rating>
+ <info>released around the mid-1990s</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 23:58:59</locked_until>
+ <lastplayed>2018-06-09 05:35:18</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="259">Cybelius</artist>
+ </artists>
+ <groups>
+  <group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

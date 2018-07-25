@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7857">
+ <title>Take a Deep Breath (Revolver)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.019</rating>
+ <info>Lyrics:
+
+Take a deep breath
+So beautiful...
+So, so beautiful...</info>
+ <songlength>267</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 08:02:35</locked_until>
+ <lastplayed>2018-05-31 01:39:03</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>33678</pouetid>
+ <ytid>jdgKyH5Xj-E</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="1427">Kaktusen</artist>
+ </artists>
+ <groups>
+  <group id="447">PlayPsyCo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>PlayPsyCo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=http://www.youtube.com/watch?v=jdgKyH5Xj-E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jdgKyH5Xj-E</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

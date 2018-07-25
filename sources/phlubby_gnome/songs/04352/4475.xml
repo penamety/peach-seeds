@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4475">
+ <title>Mazemania 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.2</rating>
+ <info>Artist and Group mentioned in [url]http://c64mags.untergrund.net/wiki/index.php?title=Corruption_01_ch04_Interview[/url]</info>
+ <songlength>55</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 09:18:47</locked_until>
+ <lastplayed>2018-03-13 17:24:42</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>4634</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  <group id="27">Maniacs of Noise</group>
+ </groups>
+ 
+ <tags>
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

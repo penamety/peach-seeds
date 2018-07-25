@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6964">
+ <title>Agony (Title)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="87">3.4943</rating>
+ 
+ <songlength>259</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-25 17:09:38</locked_until>
+ <lastplayed>2018-03-20 14:42:08</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>X9UTnUcyED0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1223">Tim Wright</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Piano</tag>
+  
+  <tag>random</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

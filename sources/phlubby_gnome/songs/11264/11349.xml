@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11349">
+ <title>Parallax II</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.4063</rating>
+ 
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-14 21:21:02</locked_until>
+ <lastplayed>2017-11-24 17:21:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14480</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1913">The DJ</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

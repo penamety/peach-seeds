@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43886">
+ <title>Beastmode!</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Placed 2nd in Tracked Music compo at Revision 2017.
+
+-))dascon &amp; soundy((-
+of DEADLINERS
+Revision 2017
+Giving you a blast
+from the past
+Thanks to Mygg for
+phat drums.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 04:06:35</locked_until>
+ <lastplayed>2018-04-17 07:20:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist><artist id="3626">Soundy</artist>
+ </artists>
+ <groups>
+  <group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/170678/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?180006</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

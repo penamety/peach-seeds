@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18773">
+ <title>Stolen Data II</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ 
+ <songlength>67</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-05 08:08:51</locked_until>
+ <lastplayed>2017-07-06 03:27:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10313</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2812">Gonzo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>AmigaConference</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

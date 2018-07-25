@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42426">
+ <title>Matey</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.2667</rating>
+ <info>format: StarTrekker 4
+
+amazing tunes ii - the musicdisk of the future
+released by Share and Enjoy at Dexion X-Mas Conference 1990</info>
+ <songlength>214</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-08 11:30:29</locked_until>
+ <lastplayed>2018-05-15 01:12:04</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4012">Rogue Male</artist>
+ </artists>
+ <groups>
+  <group id="395">Share and Enjoy [SAE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>checkthisout</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

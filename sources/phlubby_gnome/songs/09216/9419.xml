@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9419">
+ <title>Thriller</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.27</rating>
+ 
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 11:12:43</locked_until>
+ <lastplayed>2018-06-05 06:41:16</lastplayed>
+ <platform id="17">NES</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chiptalk</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>MichaelJackson</tag>
+  
+  <tag>Pop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

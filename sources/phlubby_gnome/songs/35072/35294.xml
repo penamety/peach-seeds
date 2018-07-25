@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35294">
+ <title>Enlightment</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.1111</rating>
+ <info>0	ST-01:call	6226
+1	ST-02:bassdrum8	2560
+2	ST-02:snare10	3942
+3	ST-01:funbass	3274
+4	ST-01:nightmare	3732
+5	ST-01:epiano	1792
+6		0
+7	by dragon and mr.hyde	0
+8	of prime.	0
+</info>
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-02 02:26:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5030">Ferro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

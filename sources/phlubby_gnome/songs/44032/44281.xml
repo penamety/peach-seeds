@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44281">
+ <title>Poke My Desire</title>
+ <status v="A">Active</status>
+ <bitrate>521</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.8889</rating>
+ <info>End Tune from the Atari XL Demo &#34;We are still fighting for Transistions, but the effects are pretty cool&#34;
+
+Single Pokey Chip, tracked with RMT Raster Music Tracker</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 06:41:49</locked_until>
+ <lastplayed>2018-03-10 17:45:28</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>71124</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BZ3wb4UvsG0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

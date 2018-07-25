@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11988">
+ <title>Virtual Reality</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="23">3.7826</rating>
+ <info>Ranked 4th in the music compo at Rendezvous 1993</info>
+ <songlength>204</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 16:14:00</locked_until>
+ <lastplayed>2018-06-05 14:10:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1949">Peavey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

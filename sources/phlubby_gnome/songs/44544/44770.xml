@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44770">
+ <title>Minimal</title>
+ <status v="A">Active</status>
+ <bitrate>239</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.6</rating>
+ <info>http://csdb.dk/release/?id=109588</info>
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 05:49:35</locked_until>
+ <lastplayed>2018-05-29 05:32:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5391">Flex</artist>
+ </artists>
+ <groups>
+  <group id="836">Artline Designs</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

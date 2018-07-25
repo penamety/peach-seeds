@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8196">
+ <title>Loadermusic</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0625</rating>
+ 
+ <songlength>58</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-06 18:52:35</locked_until>
+ <lastplayed>2017-08-29 12:25:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="10">Live Act</type>
+ <pouetid>11097</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1025">Romeo Knight</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>Short</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44998">
+ <title>Albator - Sylvidre Attack</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">3.5</rating>
+ <info>Compo for &#34;Don&#39;t Switch&#34; demo on Nintendo Switch by MGGK at Very Important Party 2018</info>
+ <songlength>144</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:19:35</locked_until>
+ <lastplayed>2018-06-08 16:35:11</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>bpWVvnxHsAg</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1845">Zac</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bpWVvnxHsAg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

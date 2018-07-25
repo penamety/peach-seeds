@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16693">
+ <title>Uphold the Law</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 03:21:11</locked_until>
+ <lastplayed>2018-02-20 18:56:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>25880</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1345">d0dge</artist>
+ </artists>
+ <groups>
+  <group id="198">Moods Plateau</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>bbs</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

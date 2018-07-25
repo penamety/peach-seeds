@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35699">
+ <title>The Scene is Dead</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="100">4.54</rating>
+ <info>3rd place in pc 64k intro compo at Revision 2012</info>
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:31:18</locked_until>
+ <lastplayed>2018-06-15 14:24:38</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59105</pouetid>
+ <ytid>IFXIGHOElrE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IFXIGHOElrE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

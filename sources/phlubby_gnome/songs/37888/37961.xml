@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37961">
+ <title>Saltfattig Kost</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">4.0952</rating>
+ <info>Contribution to the 4ch music competition at icing 96!.....yep! Longer version also used in 3le&#39;s demo &#34;The Tribe&#34;. That is the reason of the strange design of the tune... :]
+
+(prowler: module &#34;The Tribe&#34; is only 6 s longer and very similar, so I&#39;m connecting this (slightly better version) to the demo)</info>
+ <songlength>200</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-18 01:32:12</locked_until>
+ <lastplayed>2018-02-28 22:48:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8270</pouetid>
+ <ytid>ytpFA6ggoCE</ytid>
+ 
+ 
+ <artists>
+  <artist id="229">Coma</artist>
+ </artists>
+ <groups>
+  <group id="293">3 Little Elks</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Icing</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=nmT5dVPqkuY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

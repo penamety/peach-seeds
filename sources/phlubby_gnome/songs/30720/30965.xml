@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30965">
+ <title>Kalle Kloakk (part 4, shortened)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.9375</rating>
+ 
+ <songlength>412</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-04 14:33:47</locked_until>
+ <lastplayed>2017-06-29 08:37:30</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>15401</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4529">Rage [of Megastyle]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

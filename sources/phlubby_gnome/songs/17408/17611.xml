@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17611">
+ <title>Alpine Cut</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.3529</rating>
+ <info>This tune was made for Nordic Report diskmag.
+
+To download this tune follow this link: [url]http://amp.dascene.net/downmod.php?index=83685[/url]</info>
+ <songlength>216</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-26 11:17:39</locked_until>
+ <lastplayed>2017-09-19 03:11:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>16650</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="393">d-Zire</artist><artist id="4179">Deetroy</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group><group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>dance</tag>
+  
+  <tag>electronic</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

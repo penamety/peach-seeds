@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9091">
+ <title>Comic Bakery</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="125">4.56</rating>
+ <info>MP3: http://fonix.dyndns.org:40000/soasc/MOS6581R4/MUSICIANS/G/Galway_Martin/Comic_Bakery_T01.sid.mp3
+SID: http://fonix.dyndns.org:40000/soasc/SID/MUSICIANS/G/Galway_Martin/Comic_Bakery.sid</info>
+ <songlength>195</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 23:46:44</locked_until>
+ <lastplayed>2018-06-06 20:24:10</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="737">Martin Galway</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+  <tag>ComicBakery</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15297">
+ <title>Stream Overflow</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.625</rating>
+ 
+ <songlength>182</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 16:14:50</locked_until>
+ <lastplayed>2018-05-26 23:36:12</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>31658</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist><artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

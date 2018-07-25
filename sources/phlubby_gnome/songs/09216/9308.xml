@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9308">
+ <title>Seagulls (TSD)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="56">4.0893</rating>
+ <info>Tao&#39;s &#34;Seagulls&#34; module, TSiD version.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 06:10:33</locked_until>
+ <lastplayed>2018-06-01 14:48:55</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

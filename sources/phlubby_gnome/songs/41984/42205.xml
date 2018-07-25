@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42205">
+ <title>antiPixel 2nd part</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>Assembly 2015 Invitro by Paradise. This is the 2nd part song, with melodies remixed from first two Assembly (1992 and 1993) Amiga winner demo soundtracks, Firepower by Jellybean and Cyberride by Jester.</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 17:00:12</locked_until>
+ <lastplayed>2017-11-17 21:00:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65883</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="204">Paradise</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

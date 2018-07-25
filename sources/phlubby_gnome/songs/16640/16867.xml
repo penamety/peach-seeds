@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16867">
+ <title>Enlightenment Druid 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0</rating>
+ 
+ <songlength>95</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 01:00:59</locked_until>
+ <lastplayed>2018-05-18 22:15:13</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>4967</pouetid>
+ <ytid>78D9MwLPidw</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="2549">David Hanlon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=788</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

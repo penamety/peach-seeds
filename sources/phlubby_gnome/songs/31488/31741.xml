@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31741">
+ <title>Disco</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.2564</rating>
+ 
+ <songlength>71</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 13:19:29</locked_until>
+ <lastplayed>2018-06-03 07:16:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4660">Kribust</artist>
+ </artists>
+ <groups>
+  <group id="437">Offence</group><group id="411">Prosonix</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

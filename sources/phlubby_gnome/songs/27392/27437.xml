@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27437">
+ <title>Toy Summer</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.3333</rating>
+ <info>ByteFall&#39;99 multichannel compo entry.</info>
+ <songlength>226</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 20:20:29</locked_until>
+ <lastplayed>2018-06-11 21:15:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3974">Tangerine</artist>
+ </artists>
+ <groups>
+  <group id="231">T-Rex [TRX]</group><group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

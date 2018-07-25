@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8803">
+ <title>Rainbow Dreams</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="72">4.1667</rating>
+ 
+ <songlength>209</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 22:29:06</locked_until>
+ <lastplayed>2018-05-21 02:29:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1734">Mast</artist>
+ </artists>
+ <groups>
+  <group id="47">Fatality</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

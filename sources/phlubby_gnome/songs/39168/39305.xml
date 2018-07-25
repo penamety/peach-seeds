@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39305">
+ <title>Visitors</title>
+ <status v="A">Active</status>
+ <bitrate>446</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="25">4.44</rating>
+ <info>Original by Karel Svoboda from The Visitors (Návštěvníci) series soundtrack</info>
+ <songlength>77</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:50:21</locked_until>
+ <lastplayed>2018-06-14 21:29:24</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4141">The Blue Ninja</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>DigitalTalk</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>DMAgic</tag>
+  
+  <tag>Movie</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=c3oCfOxozLI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=28295</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

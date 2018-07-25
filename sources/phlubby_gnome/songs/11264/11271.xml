@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11271">
+ <title>Land of Confusion</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.4898</rating>
+ <info>A cover of the old good Genesis hit.</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 17:50:29</locked_until>
+ <lastplayed>2018-06-16 05:02:57</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>26731</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1724">Fuxoft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Genesis</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

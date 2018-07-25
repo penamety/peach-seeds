@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36635">
+ <title>Fight</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.48</rating>
+ <info>Ranked 3rd in the newschool music compo at Solskogen 2012.</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-01 17:53:38</locked_until>
+ <lastplayed>2018-02-09 22:03:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1846">Sinatra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Solskogen</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

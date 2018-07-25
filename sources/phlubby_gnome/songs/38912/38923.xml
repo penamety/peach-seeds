@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38923">
+ <title>Gilson&#39;s Green Grape</title>
+ <status v="A">Active</status>
+ <bitrate>230</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.4</rating>
+ <info>Done with Aegis Sonix, an early Amiga software synth. Tune is probably NOT done in 2012 but much earlier, but didn&#39;t get confirmation to this -serp</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-24 19:43:38</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>59019</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1280">Uncle Tom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>sonix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

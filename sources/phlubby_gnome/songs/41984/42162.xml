@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42162">
+ <title>Suur-avaruus</title>
+ <status v="A">Active</status>
+ <bitrate>179</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.1111</rating>
+ <info>Entry for compos.scenemusic.net Open Co-op Compo 2015</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 01:15:25</locked_until>
+ <lastplayed>2018-03-18 22:10:24</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5610">Mutoz</artist><artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

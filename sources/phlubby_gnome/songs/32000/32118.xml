@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32118">
+ <title>Old Mania</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="28">4.0357</rating>
+ 
+ <songlength>150</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 23:06:42</locked_until>
+ <lastplayed>2018-06-11 21:58:44</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4700">Klim</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Springtunes</tag>
+  
+  <tag>Ubiktune</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

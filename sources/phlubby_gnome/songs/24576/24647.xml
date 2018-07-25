@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24647">
+ <title>Parsec</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6316</rating>
+ <info>1st place in pc 4k compo at Breakpoint 2005</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:01:24</locked_until>
+ <lastplayed>2018-06-08 13:37:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>16373</pouetid>
+ <ytid>DeHDgCxaP7E</ytid>
+ 
+ 
+ <artists>
+  <artist id="4293">SoNiC (de)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DeHDgCxaP7E</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

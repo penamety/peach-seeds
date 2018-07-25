@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16344">
+ <title>Zoom3 (Main)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.0645</rating>
+ <info>.Zoom3 : Trance Generation
+.a demo in 64k
+
+.1st Place at Assembly 2003
+
+.AND - code, graphics, additional music
+.Cybermag - main music</info>
+ <songlength>313</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 10:02:27</locked_until>
+ <lastplayed>2018-06-10 09:19:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>10545</pouetid>
+ <ytid>HtJvSvQnep0</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="2197">AND</artist><artist id="3879">Cybermag</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=HtJvSvQnep0</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

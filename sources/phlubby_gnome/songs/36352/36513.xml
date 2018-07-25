@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36513">
+ <title>Like the Eighties</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>Me and Vedders first contribution tune for the Amiga scene. Released at Compusphere 2012 4ch music compo and reached 2:nd place in the compo.</info>
+ <songlength>187</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 09:48:32</locked_until>
+ <lastplayed>2018-02-26 02:00:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4665">sLASH</artist><artist id="5155">Vedder</artist>
+ </artists>
+ <groups>
+  <group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

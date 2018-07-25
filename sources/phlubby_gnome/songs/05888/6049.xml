@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6049">
+ <title>You and Me</title>
+ <status v="A">Active</status>
+ <bitrate>130</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="40">4.325</rating>
+ 
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 06:36:33</locked_until>
+ <lastplayed>2018-05-27 18:48:10</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

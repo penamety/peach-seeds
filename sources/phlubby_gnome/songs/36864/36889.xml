@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36889">
+ <title>Cauldron II remix</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.28</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 23:48:28</locked_until>
+ <lastplayed>2018-06-17 10:15:11</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>50193</pouetid>
+ <ytid>xCgv6dCiLN4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>needs_reencoding</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

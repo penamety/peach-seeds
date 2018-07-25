@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16898">
+ <title>Panther</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.9394</rating>
+ 
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 05:15:51</locked_until>
+ <lastplayed>2018-06-01 09:40:51</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>L5FX7fxGSjQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="292">David Whittaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Platformer</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

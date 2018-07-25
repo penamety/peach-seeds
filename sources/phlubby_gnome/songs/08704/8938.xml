@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8938">
+ <title>Epitaph</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.7895</rating>
+ <info>Made with unmodified ST-01 samples only.
+
+Some influences came from Amberstar title by Hippel.</info>
+ <songlength>346</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 18:36:50</locked_until>
+ <lastplayed>2018-05-21 14:12:26</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>st-01</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

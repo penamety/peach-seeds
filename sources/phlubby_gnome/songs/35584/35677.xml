@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35677">
+ <title>Defiler</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.75</rating>
+ <info>The song must be played on new SID (8580), have fun with it since it&#39;s my first serious attempt on the C64.</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-08 14:44:53</locked_until>
+ <lastplayed>2017-09-28 18:24:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5089">Bitch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

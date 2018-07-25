@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40278">
+ <title>Opetusta kerrakseen</title>
+ <status v="A">Active</status>
+ <bitrate>163</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6667</rating>
+ <info>MODULE OPETUST3.MOD
+SIZE 600118
+  TYPE MOD
+  TITLE Opetusta kerrakseen
+  CHANNELS 4
+  COMPOSER Longjam
+  COMMENT Assembly &#39;95 - 4 Channel Compo
+</info>
+ <songlength>104</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 16:56:17</locked_until>
+ <lastplayed>2018-06-08 20:34:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5198">Longjam</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>FinnishSpeak</tag>
+  
+  <tag>Lyrics</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

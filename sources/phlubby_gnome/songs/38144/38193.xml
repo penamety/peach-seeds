@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38193">
+ <title>Colgate - End-level tune </title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.9091</rating>
+ <info>End-level tune by DRAX, Converted by JCH, (C) Vibrants 1992.</info>
+ <songlength>95</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 04:52:02</locked_until>
+ <lastplayed>2018-06-04 08:26:12</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>5885</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1419">JCH</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

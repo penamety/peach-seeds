@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31175">
+ <title>Pixel Cave</title>
+ <status v="A">Active</status>
+ <bitrate>212</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.9615</rating>
+ <info>From the &#34;Back to the sources&#34; musicdisk.
+Made with SunVox.</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-21 02:37:59</locked_until>
+ <lastplayed>2018-06-17 11:27:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52834</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4573">NightRadio</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>SunVox</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

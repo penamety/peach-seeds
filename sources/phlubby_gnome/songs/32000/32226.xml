@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32226">
+ <title>Alice love ST</title>
+ <status v="A">Active</status>
+ <bitrate>166</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.1667</rating>
+ 
+ <songlength>176</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 11:18:16</locked_until>
+ <lastplayed>2018-06-01 06:22:14</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AtariST</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35678">
+ <title>Alternature</title>
+ <status v="A">Active</status>
+ <bitrate>142</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="11">3.6364</rating>
+ 
+ <songlength>208</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 23:11:58</locked_until>
+ <lastplayed>2017-11-12 23:03:03</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5088">Meaty</artist>
+ </artists>
+ <groups>
+  <group id="405">Approximate</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33366">
+ <title>Fuckin&#39; Aye</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="73">2.6164</rating>
+ <info>1st place in combined demo compo at the Ultimate Meeting 2006
+
+
+From Little Bitchard&#39;s Website:
+
+&#34;Some nuskool gabber for the mfx TUM 2006 demo Simulaatio 5 Invitation made by Gary Hung of Limp Ninja.. My contribution to this one was mostly related to mixdown/production, maybe there&#39;ll be some A/B version of how the tune got pimped online some day ;)&#34;</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 14:21:40</locked_until>
+ <lastplayed>2018-05-26 05:53:25</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>28491</pouetid>
+ <ytid>hvU04FC5w80</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="4296">Gary J. Hung</artist><artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>cowbell</tag>
+  
+  <tag>Gabber</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=hvU04FC5w80</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

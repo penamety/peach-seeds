@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38452">
+ <title>Aufhebung</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.6552</rating>
+ <info>A l&#39;Ancienne (soundtrack).
+3rd place in the Revision 2013 PC 64K Intro competition.
+
+Only 1 softsynth used for this one : the awful but useful V2 by Farbrausch.</info>
+ <songlength>310</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 21:46:31</locked_until>
+ <lastplayed>2018-05-22 05:37:40</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>61213</pouetid>
+ <ytid>rH2b48ZsGhc</ytid>
+ 
+ 
+ <artists>
+  <artist id="359">Doh</artist>
+ </artists>
+ <groups>
+  <group id="704">XMen (fr)</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rH2b48ZsGhc</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/59944/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

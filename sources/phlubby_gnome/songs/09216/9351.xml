@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9351">
+ <title>Introductorium</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.3333</rating>
+ <info>Used in Digital Disco 2 by Chrome. Song composed in 1992, the intro tune which was extended as a whole song instead of looping intro.</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-30 23:49:06</locked_until>
+ <lastplayed>2017-12-11 01:43:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>18724</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

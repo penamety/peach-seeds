@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34124">
+ <title>Candybar</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">4.125</rating>
+ <info>This track was an entry to one of those regular tracking competitions back in 2000 - cant remember which - but it won :)</info>
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 14:26:44</locked_until>
+ <lastplayed>2018-05-21 11:44:13</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

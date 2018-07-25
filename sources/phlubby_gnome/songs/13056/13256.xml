@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13256">
+ <title>Plans Without Clue</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.7857</rating>
+ <info>From the xkcompo in 2004.</info>
+ <songlength>120</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 14:35:28</locked_until>
+ <lastplayed>2018-05-20 19:22:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="838">Nagz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>xkcompo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

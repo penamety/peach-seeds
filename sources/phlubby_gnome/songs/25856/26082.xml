@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26082">
+ <title>Amiga lort</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">1.2286</rating>
+ 
+ <songlength>104</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 14:22:16</locked_until>
+ <lastplayed>2018-05-01 09:25:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12423</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>OddStuffFromOldNecta</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32151">
+ <title>tUM 2008 Invitation</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.1739</rating>
+ 
+ <songlength>263</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-03 20:15:46</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>51287</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="400">eha</artist>
+ </artists>
+ <groups>
+  <group id="499">Royal Belgian Beer Squadron [RBBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13479</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

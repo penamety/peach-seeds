@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36668">
+ <title>Exemption</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">4.0435</rating>
+ 
+ <songlength>223</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-20 12:58:07</locked_until>
+ <lastplayed>2017-08-15 08:59:22</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>8161</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2897">Intensity</artist>
+ </artists>
+ <groups>
+  <group id="408">Onslaught</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14686">
+ <title>In Your Face</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0</rating>
+ 
+ <songlength>172</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-10 23:25:22</locked_until>
+ <lastplayed>2017-10-20 13:31:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5262</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="98">Bass</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

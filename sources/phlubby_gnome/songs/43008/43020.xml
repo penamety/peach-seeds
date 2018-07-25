@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43020">
+ <title>Orch-OR</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.9167</rating>
+ <info>A &#39;funk&#39; chiptune with a slow intro. Made in 2016. ZX Spectrum 48K with AY-interface was my instrument here.
+Some complex synthesis has been used to avoid the usual boring square-wave of AY. The problem with those advanced synths is - literally all notes have to be tuned manually to a proper key/pitch. So You can imagine it&#39;s kind of tedious. ;)</info>
+ <songlength>295</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 01:23:35</locked_until>
+ <lastplayed>2018-05-26 04:36:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group><group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/154962/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

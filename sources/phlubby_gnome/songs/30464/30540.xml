@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30540">
+ <title>Hot Dogs 3</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>lesnik/altair
+w zoltej koszulce
+dilera
+26.07.00
+before dinner
+ftp://ae.pl/pub/scene/stuff/msx/lesnik
+</info>
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-09 03:05:06</locked_until>
+ <lastplayed>2017-10-19 23:59:07</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="660">Lesnik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

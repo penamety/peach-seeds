@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44410">
+ <title>Moon Hoax</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.25</rating>
+ <info>The song has been made and recorded from Raspberry Pi 2. I wanted to check out how would SID emulation work from the Broadcom BCM2836 chip (11 bit quality from a digital PWM module - gives a &#39;pulse width modulated&#39; signal - working with frequency around 40MHz and it is low-pass-filtered).
+I started the song in 2015 but finished it only in March 2016.</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 14:33:55</locked_until>
+ <lastplayed>2018-06-06 05:45:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/176020/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41915">
+ <title>VierKA</title>
+ <status v="A">Active</status>
+ <bitrate>233</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>SPECS / TOOLS / LIBS
+
+Visual Studio Express, Crinkler, Shader Minifier, Renoise, Our still unnamed VSTi
+
+This shit runs on fucking Nvidia only. Go figure, bitch.</info>
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-07 13:20:38</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>65422</pouetid>
+ <ytid>ezv1-idqd6c</ytid>
+ 
+ 
+ <artists>
+  <artist id="2199">Andy [DE]</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ezv1-idqd6c</url>
+    <comment>HQ capture by Annikras !</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

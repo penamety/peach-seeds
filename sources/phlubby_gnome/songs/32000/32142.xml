@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32142">
+ <title>Concentrate</title>
+ <status v="A">Active</status>
+ <bitrate>282</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="28">4.1429</rating>
+ 
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 11:03:54</locked_until>
+ <lastplayed>2018-03-13 09:57:02</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50119</pouetid>
+ <ytid>rplX2O_kxCI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1317">Bass-Cadet</artist>
+ </artists>
+ <groups>
+  <group id="131">Adapt</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=rplX2O_kxCI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

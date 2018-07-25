@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1369">
+ <title>Popcorn Mission OK</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">2.15</rating>
+ 
+ <songlength>359</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 23:20:28</locked_until>
+ <lastplayed>2018-05-30 07:33:52</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="255">Cubico</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Popcorn</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

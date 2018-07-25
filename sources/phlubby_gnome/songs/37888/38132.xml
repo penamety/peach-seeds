@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38132">
+ <title>Skogens Djur 038</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5714</rating>
+ <info>Comas contribution to Datatorm 2013 Amiga 16k chipmusic compo - shared 5:th place</info>
+ <songlength>42</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 02:29:13</locked_until>
+ <lastplayed>2017-10-31 18:12:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="229">Coma</artist>
+ </artists>
+ <groups>
+  <group id="293">3 Little Elks</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

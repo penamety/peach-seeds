@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22252">
+ <title>Round one</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.4</rating>
+ <info>KEFRENS: Psychoball Oldskool Amiga Demo</info>
+ <songlength>258</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 00:26:58</locked_until>
+ <lastplayed>2018-03-23 07:53:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>L-b_2CU3_0M</ytid>
+ 
+ 
+ <artists>
+  <artist id="861">Nightlight</artist>
+ </artists>
+ <groups>
+  <group id="56">Kefrens</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

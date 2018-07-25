@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="879">
+ <title>Monica es a szexofon</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">3.6111</rating>
+ 
+ <songlength>243</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-07 18:50:52</locked_until>
+ <lastplayed>2018-05-04 08:50:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>137</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist><artist id="4445">Mr. Suxx</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>saxophone</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

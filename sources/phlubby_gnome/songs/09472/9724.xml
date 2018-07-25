@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9724">
+ <title>Turrican 3 [world 4 - part 2] &#34;bionic train&#34;</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.5</rating>
+ <info>[url=http://www.exotica.org.uk/wiki/Turrican_3]TFMX download[/url]
+/pwl
+
+Download Link: http://www.f1-software.com/mp3/Chris%20Huelsbeck%20-%20Turrican%203%2017-Bionic%20Train.mp3</info>
+ <songlength>51</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-06 07:25:31</locked_until>
+ <lastplayed>2017-09-25 23:39:20</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1537</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

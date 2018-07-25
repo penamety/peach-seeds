@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44711">
+ <title>Demo Ridicule</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">3.0</rating>
+ 
+ <songlength>169</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 17:00:20</locked_until>
+ <lastplayed>2018-05-24 20:13:30</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>59682</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5783">Aardvark</artist>
+ </artists>
+ <groups>
+  <group id="887">The 81st Track</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

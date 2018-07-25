@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35962">
+ <title>Echoing (Live Piano Version)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.4242</rating>
+ 
+ <songlength>89</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 15:03:34</locked_until>
+ <lastplayed>2018-06-07 16:24:05</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1348">HideawayStudio</artist>
+ </artists>
+ <groups>
+  <group id="396">World Of Wonders [WOW]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

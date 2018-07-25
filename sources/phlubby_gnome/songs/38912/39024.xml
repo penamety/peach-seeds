@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39024">
+ <title>Technodrive</title>
+ <status v="A">Active</status>
+ <bitrate>802</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.4615</rating>
+ <info>1st place in ZX Spectrum AY Music compo at Chaos Constructions Antique 2007</info>
+ <songlength>147</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-25 07:19:55</locked_until>
+ <lastplayed>2017-07-18 14:57:01</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3932">Darkman007</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/29938/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

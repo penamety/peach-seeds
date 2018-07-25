@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19812">
+ <title>Jungledanze</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ <info>5th in The Gathering 1991 music competition</info>
+ <songlength>376</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-10 11:48:50</locked_until>
+ <lastplayed>2017-11-17 08:41:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="346">DJ Joge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>hitit</tag>
+  
+  <tag>Maths</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31">
+ <title>6beat</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.5306</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-19 07:42:47</locked_until>
+ <lastplayed>2018-01-30 16:38:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9076</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>StolenData</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

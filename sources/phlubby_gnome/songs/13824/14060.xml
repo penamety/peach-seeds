@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14060">
+ <title>Everlasting War</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.1429</rating>
+ 
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-31 01:45:00</locked_until>
+ <lastplayed>2018-05-09 19:38:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="52">Andromeda</artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remedy</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

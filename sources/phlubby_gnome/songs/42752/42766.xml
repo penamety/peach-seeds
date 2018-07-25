@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42766">
+ <title>So Illusive</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0</rating>
+ 
+ <songlength>282</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 22:59:53</locked_until>
+ <lastplayed>2018-04-17 20:35:23</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>56646</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5643">Yelm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>minor</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

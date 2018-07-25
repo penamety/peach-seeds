@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41002">
+ <title>Elegy</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.9444</rating>
+ <info>Elegy was used in a Wild demo called newborn by Fragile released at Assembly 2003. It placed 6th.
+</info>
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-19 01:42:01</locked_until>
+ <lastplayed>2017-07-13 17:17:08</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>10592</pouetid>
+ <ytid>sDL-YbIEDEM</ytid>
+ 
+ 
+ <artists>
+  <artist id="936">Pk</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

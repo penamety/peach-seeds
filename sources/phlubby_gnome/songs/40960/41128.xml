@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41128">
+ <title>Orgasmic Chipper 2K13 (DJ Arvy Jumpstyle Mix)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">2.125</rating>
+ <info>A little happy Jumpstyle Just for Fun Remix of TDKs legendary Chiptune. Competed in Demodays 2013 Tracked Music Compo.</info>
+ <songlength>234</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 09:27:54</locked_until>
+ <lastplayed>2018-03-07 05:28:47</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>PR-eTSPPWwM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>FemaleMoans</tag>
+  
+  <tag>Jumpstyle</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PR-eTSPPWwM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

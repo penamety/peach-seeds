@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="891">
+ <title>Das Boot</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="80">3.0375</rating>
+ 
+ <songlength>213</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 19:52:37</locked_until>
+ <lastplayed>2018-04-22 13:04:18</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4693">Case [nl]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>cheesy</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>loveboat</tag>
+  
+  <tag>Takeover</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

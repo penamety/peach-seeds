@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28595">
+ <title>We Come in Peace</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.4359</rating>
+ <info>[url=http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20demoscene%20reports%20magic%20the%20making%20of%20we%20come%20in%20peace.htm]The making of...[/url]</info>
+ <songlength>305</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:54:12</locked_until>
+ <lastplayed>2018-05-26 18:10:13</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>54648</pouetid>
+ <ytid>k_2P31K9mRs</ytid>
+ 
+ 
+ <artists>
+  <artist id="1335">Chaser</artist>
+ </artists>
+ <groups>
+  <group id="151">Elude</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=k_2P31K9mRs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

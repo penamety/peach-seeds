@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40373">
+ <title>Whiskey Drops</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">4.0</rating>
+ <info>Ranked 6th in the tracked music compo at Revision 2014.
+
+Too much of Whiskey
+Too much of Beer
+Too much of Ganja
+Too much of Samba
+Party at Revision
+Like a real engineer
+
+OpenMPT 1.23 + Schism Tracker, 52 channels, IT
+
+Samples: SQ8L, Superwave P8, xhip, AN1x, SGM-180, Emulator II, Emax, Korg X5DR, kb6, ArcanaSounds, Korg Wavestation, Synth1, freesound, Roland D-50, Roland U-220, SoundDesigner 2, VstSpeek 3</info>
+ <songlength>244</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-03 12:04:42</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/108921/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

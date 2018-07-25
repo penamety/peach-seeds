@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11079">
+ <title>Datass</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.3291</rating>
+ <info>Made with musicmon 2.5e on a atari 1040STe
+
+Made 1st place in the sommarhack 2009 music compo. </info>
+ <songlength>181</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 15:23:58</locked_until>
+ <lastplayed>2018-05-22 21:58:35</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>53405</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1332">Cerror</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>AtariSTe</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Sommarhack</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/32558/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

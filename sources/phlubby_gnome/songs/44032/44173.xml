@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44173">
+ <title>Cheshire Cat</title>
+ <status v="A">Active</status>
+ <bitrate>1684</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.2857</rating>
+ <info>This track took 2nd place at the DiHalt 2017 (Date: 1-2 July 2017. Place: Russia, Nizhny Novgorod city).
+Compo: ZX Spectrum AY/YM-Music
+Release date:1 July 2017
+</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 02:47:15</locked_until>
+ <lastplayed>2018-04-18 06:04:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5727">Quiet</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>DiHALT</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/173711/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

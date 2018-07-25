@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22599">
+ <title>Starscroll</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">2.8451</rating>
+ 
+ <songlength>251</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 23:44:30</locked_until>
+ <lastplayed>2018-05-29 14:16:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4033</pouetid>
+ <ytid>QkznItCgnJ4</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="906">Pat</artist>
+ </artists>
+ <groups>
+  <group id="430">Wild Copper</group>
+ </groups>
+ 
+ <tags>
+  <tag>amigaspeak</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Speech-Synth</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

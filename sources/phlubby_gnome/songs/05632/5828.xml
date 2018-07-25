@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5828">
+ <title>Cool City</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">3.3478</rating>
+ <info>TechnoFreaks - WATCH OUT!!
+Made for High School Christmas Show.  VOLUME!</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 17:29:28</locked_until>
+ <lastplayed>2018-05-25 20:52:24</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6515</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>Hardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

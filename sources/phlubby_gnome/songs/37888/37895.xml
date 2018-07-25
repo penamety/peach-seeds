@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37895">
+ <title>Crying Elve</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.1364</rating>
+ 
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 03:45:41</locked_until>
+ <lastplayed>2018-06-02 00:27:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>60273</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1540">Siatek</artist>
+ </artists>
+ <groups>
+  <group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>moody</tag>
+  
+  <tag>Relaxing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

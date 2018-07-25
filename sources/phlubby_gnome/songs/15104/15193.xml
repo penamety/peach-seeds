@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15193">
+ <title>Hplus</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">2.7143</rating>
+ 
+ <songlength>230</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 14:39:59</locked_until>
+ <lastplayed>2017-11-01 16:10:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>115</pouetid>
+ <ytid>bs1h6F9mw5I</ytid>
+ 
+ 
+ <artists>
+  <artist id="144">Brothomstates</artist>
+ </artists>
+ <groups>
+  <group id="415">Halcyon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>DOS</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=bs1h6F9mw5I</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

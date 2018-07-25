@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35855">
+ <title>Mirage</title>
+ <status v="A">Active</status>
+ <bitrate>201</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0968</rating>
+ 
+ <songlength>131</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 13:10:56</locked_until>
+ <lastplayed>2018-05-23 04:46:21</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

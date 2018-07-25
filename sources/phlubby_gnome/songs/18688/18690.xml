@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18690">
+ <title>Partytime</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.4667</rating>
+ <info>Winner of the music compo at The Gathering 1992.</info>
+ <songlength>195</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-11 16:29:36</locked_until>
+ <lastplayed>2017-06-02 15:34:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="487">Gin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

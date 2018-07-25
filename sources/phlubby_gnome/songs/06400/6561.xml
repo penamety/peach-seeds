@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6561">
+ <title>Spritzstunden 5</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ 
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-13 09:50:16</locked_until>
+ <lastplayed>2017-10-05 22:00:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3468</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1091">Slide</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

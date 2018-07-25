@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24950">
+ <title>Halla</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ <info>The story in the song is The Little Match Girl, by Hans Christian Andersen.
+
+[url]http://en.wikipedia.org/wiki/The_Little_Match_Girl[/url]</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-11 22:26:23</locked_until>
+ <lastplayed>2017-07-04 14:33:38</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>7132</pouetid>
+ <ytid>jHE-xifBcSA</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1553">Sumo Lounge</artist>
+ </artists>
+ <groups>
+  <group id="428">Moppi Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jHE-xifBcSA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=4795</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

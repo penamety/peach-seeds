@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10743">
+ <title>Behind The Wall</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.9655</rating>
+ <info>Created by BrainTrace Design (Carlsten Schlote, Branko Mikic and Carsten Herbst) to demostrate their new tracker called Sonic Arranger</info>
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 01:55:11</locked_until>
+ <lastplayed>2018-03-28 12:26:29</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ <ytid>jeum81O4rvg</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1869">BodyLove</artist><artist id="1870">Branko Mikic</artist><artist id="1871">Mr Soundwave </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

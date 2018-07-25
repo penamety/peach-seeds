@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30972">
+ <title>Arkanoid-Mix</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>needs reencode with less stereo separation</info>
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-23 08:15:28</locked_until>
+ <lastplayed>2018-04-19 10:55:16</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="5">Remix</type>
+ <pouetid>57467</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2060">Archon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

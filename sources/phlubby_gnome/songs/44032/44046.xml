@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44046">
+ <title>Read My Mind</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.25</rating>
+ <info>This is a re-mastered version of my .IT module entered at TRSAC 2015 tracked music compo.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 22:47:18</locked_until>
+ <lastplayed>2018-06-05 14:19:53</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ <ytid>4SfLO3756Oc</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>dance</tag>
+  
+  <tag>Melodic</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=4SfLO3756Oc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/0MO7U0hc3J1s0ubRGAMXBq</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

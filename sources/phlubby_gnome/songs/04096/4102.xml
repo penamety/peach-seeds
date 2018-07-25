@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4102">
+ <title>Nordic Report #2</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.234</rating>
+ <info>From Nordic Report #2 by Strange: http://bitworld.bitfellas.org/demo.php?id=1061</info>
+ <songlength>328</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 17:37:43</locked_until>
+ <lastplayed>2018-06-13 23:56:53</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>Doskpop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40739">
+ <title>Black and White Lies</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.4167</rating>
+ <info>1st place in combined demo at Assembly 2014.
+[url]http://soundcloud.com/crankshaft/black-and-white-lies[/url]</info>
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-20 18:34:22</locked_until>
+ <lastplayed>2018-01-31 17:26:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>63863</pouetid>
+ <ytid>_VTwOUZSSLA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1342">Crankshaft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Quote</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_VTwOUZSSLA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

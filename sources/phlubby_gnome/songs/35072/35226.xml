@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35226">
+ <title>Your Fingers So Gently On My Skin</title>
+ <status v="A">Active</status>
+ <bitrate>126</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.0426</rating>
+ <info>First at Symphony 2004 (Demo Compo)</info>
+ <songlength>588</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 13:30:52</locked_until>
+ <lastplayed>2018-05-28 16:33:54</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>12735</pouetid>
+ <ytid>kNMgPensGRg</ytid>
+ <ytoffset>10</ytoffset>
+ 
+ <artists>
+  <artist id="5018">zAyka</artist>
+ </artists>
+ <groups>
+  <group id="181">Plastic</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

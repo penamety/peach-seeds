@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14636">
+ <title>Sweet Illusions Giga Assembler Part</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0385</rating>
+ 
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 22:36:31</locked_until>
+ <lastplayed>2018-04-01 03:33:16</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>9750</pouetid>
+ <ytid>8QE4DTH-t-0</ytid>
+ <ytoffset>659</ytoffset>
+ 
+ <artists>
+  <artist id="2277">Bartman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>Atari</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>party</tag>
+  
+  <tag>Shadows</tag>
+  
+  <tag>ShadowsParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8QE4DTH-t-0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

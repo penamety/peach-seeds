@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11337">
+ <title>Demovibes Jingle #1</title>
+ <status v="J">Jingle</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.625</rating>
+ <info>Demovibes jingle</info>
+ <songlength>21</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="10">Wild</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jingle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

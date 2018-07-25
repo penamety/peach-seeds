@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6492">
+ <title>Amazonas</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">3.725</rating>
+ <info>This song is dedicated to the Amazonian rain forests. Currently they are being cut down at an alarming rate. Mankind does not know what it actually is losing by doing this.</info>
+ <songlength>157</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 23:37:16</locked_until>
+ <lastplayed>2018-06-13 13:31:02</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6516</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>panflutes</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?33408</url>
+    <comment>Download @ ModArchive</comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

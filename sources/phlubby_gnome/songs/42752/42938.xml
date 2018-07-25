@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42938">
+ <title>Kicker (endpart)</title>
+ <status v="A">Active</status>
+ <bitrate>932</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ <info>End theme for the demo &#34;Kicker&#34;, originally tracked in OctaMED. Heavily inspired by Last Ninja. :)</info>
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-18 04:24:35</locked_until>
+ <lastplayed>2018-01-27 16:15:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18057</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4373">Pipe</artist>
+ </artists>
+ <groups>
+  <group id="361">Nature</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

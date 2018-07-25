@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32761">
+ <title>Just Imagine (Deviation &amp; Vocalization)</title>
+ <status v="B">Banned</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">2.6875</rating>
+ <info>song inspirated from Marc Lavoine - Vogue le magazine... to be an ode to the C64.
+
+Features mindbender introduction tape samples and CJ singing</info>
+ <songlength>223</songlength>
+ <locked>True</locked>
+ <locked_until>2018-01-31 20:32:21</locked_until>
+ <lastplayed>2018-01-08 16:28:00</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>samples</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34904">
+ <title>Canvas Trip</title>
+ <status v="A">Active</status>
+ <bitrate>201</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.8</rating>
+ <info>Second in JS Demo competition.
+You can watch [url=http://adinpsz.org/online/canvas-trip/]demo online[/url]</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 16:14:13</locked_until>
+ <lastplayed>2017-11-25 01:00:12</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57257</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4807">Wullon</artist>
+ </artists>
+ <groups>
+  <group id="433">Adinpsz</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>DemoJS</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

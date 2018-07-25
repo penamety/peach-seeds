@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10226">
+ <title>Dream Complex II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="178">4.5562</rating>
+ <info>Elwood megamix.</info>
+ <songlength>685</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 18:44:31</locked_until>
+ <lastplayed>2018-05-25 20:37:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1748">Anvil [fi]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Dream</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>megamix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7581">
+ <title>Nano</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.8649</rating>
+ 
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 15:47:14</locked_until>
+ <lastplayed>2018-05-26 05:38:50</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>25857</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1863">DQ</artist>
+ </artists>
+ <groups>
+  <group id="280">Kakiarts</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

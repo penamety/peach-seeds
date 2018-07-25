@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29935">
+ <title>State of Flux</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">3.5745</rating>
+ <info>Ranked 4th in the mp3/ogg music compo at Evoke 2010.</info>
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 22:11:15</locked_until>
+ <lastplayed>2018-06-07 02:29:18</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4156">Drumhead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="295">
+ <title>Out of Disorder [Goatage]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="102">4.4412</rating>
+ <info>Music used in the winning PC demo from Remedy&#39;99 by Noice, called &#39;Goatage&#39;
+
+Lyrics:
+Yesterday a shaft of light. For the first time, an agreement has been reached on bringing the forces of nuclear destruction under international control.
+x2</info>
+ <songlength>317</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 03:04:26</locked_until>
+ <lastplayed>2018-06-08 22:45:53</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>18</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="52">Andromeda</artist><artist id="2054">Evade</artist>
+ </artists>
+ <groups>
+  <group id="352">Noice</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remedy</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

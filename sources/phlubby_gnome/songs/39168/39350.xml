@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39350">
+ <title>Let Everything Fall Into Place</title>
+ <status v="A">Active</status>
+ <bitrate>222</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.5238</rating>
+ <info>Song for Samar &#34;20 Years&#34; anniversary musicdisk.</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 04:50:46</locked_until>
+ <lastplayed>2018-06-01 17:10:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="764">Samar Productions</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

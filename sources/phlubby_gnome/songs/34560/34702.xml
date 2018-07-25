@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34702">
+ <title>Relax</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.1143</rating>
+ <info>made with renoise and some absynth</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 18:42:58</locked_until>
+ <lastplayed>2018-05-18 00:00:52</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

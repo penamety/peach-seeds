@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41256">
+ <title>Synthetic Journey</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ <info>Ranked 17th out of 42 in the One Synth Challenge #68: Synth1 at kvraudio.com. 29 instances of Synth1 are the sole tone generators.</info>
+ <songlength>270</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-03 04:44:19</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>one_synth_challenge</tag>
+  
+  <tag>Synth1</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

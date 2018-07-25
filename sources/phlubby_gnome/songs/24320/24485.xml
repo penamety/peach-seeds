@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24485">
+ <title>Digital Moondust</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.963</rating>
+ <info>2nd in Buenzli 2005 tracked music compo</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 08:13:55</locked_until>
+ <lastplayed>2018-05-25 20:00:02</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Buenzli</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

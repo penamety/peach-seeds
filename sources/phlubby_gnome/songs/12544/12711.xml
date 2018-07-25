@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12711">
+ <title>Lost Dream</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.4219</rating>
+ <info>Composed with Amiga SidMon.
+[url=http://www.antialias.se/chiptunes/sidmon/]download[/url]</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 12:12:21</locked_until>
+ <lastplayed>2018-05-22 06:07:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>27258</pouetid>
+ <ytid>HzZ8fQDmh44</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="1913">The DJ</artist>
+ </artists>
+ <groups>
+  <group id="348">Red Sector Inc. [RSI]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Dream</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>stereoseparation</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

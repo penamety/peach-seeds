@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37819">
+ <title>Channel 42</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="17">3.6471</rating>
+ 
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 03:41:24</locked_until>
+ <lastplayed>2018-02-27 13:01:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14479</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5270">Ice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

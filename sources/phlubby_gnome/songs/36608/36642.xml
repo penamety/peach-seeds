@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36642">
+ <title>Acid Banana</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="59">1.4407</rating>
+ <info>Cab was member of Qbranch. It was released at Amiga Conference held in Glostrup/DK in 1990.
+
+http://modland.com/pub/modules/Protracker/Cab/acid%20banana.mod</info>
+ <songlength>253</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-07 09:47:34</locked_until>
+ <lastplayed>2018-06-14 05:55:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18074</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5165">Cab</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Acid</tag>
+  
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

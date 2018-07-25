@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7733">
+ <title>Evoid Droid</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="150">4.3467</rating>
+ 
+ <songlength>296</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 08:48:56</locked_until>
+ <lastplayed>2018-06-16 12:56:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31587</pouetid>
+ <ytid>L_L7jq7lr2w</ytid>
+ 
+ 
+ <artists>
+  <artist id="1386">Flipside</artist><artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="6">Portal Process</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Excess</tag>
+  
+  <tag>video</tag>
+  
+  <tag>XBOX</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=L_L7jq7lr2w</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

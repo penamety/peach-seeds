@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2160">
+ <title>Makako</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">2.125</rating>
+ <info>4th place in pc demo compo at Assembly&#39;96.
+https://www.youtube.com/watch?v=a0TJy2Mh9d0</info>
+ <songlength>247</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 12:32:09</locked_until>
+ <lastplayed>2018-02-25 19:45:52</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>298</pouetid>
+ <ytid>a0TJy2Mh9d0</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  <group id="94">Orange</group>
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

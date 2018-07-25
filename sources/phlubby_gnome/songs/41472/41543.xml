@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41543">
+ <title>X2012</title>
+ <status v="A">Active</status>
+ <bitrate>123</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.0</rating>
+ <info>1# at X&#39;2012 music compo</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 23:21:08</locked_until>
+ <lastplayed>2018-05-26 06:58:07</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5570">Sad</artist>
+ </artists>
+ <groups>
+  <group id="817">Padua</group>
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=112363</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

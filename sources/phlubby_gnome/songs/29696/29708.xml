@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29708">
+ <title>Symphonic Shades</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.1739</rating>
+ <info>Originally composed by Chris Huelsbeck.
+Rearranged for orchestra and choir by Jonne Valtonen (Purple Motion / Future Crew), Yuzo Koshiro and Takenobu Mitsuyoshi.
+Performed by WDR Radio Orchestra (Cologne) and FILMharmonic Choir (Prague).
+</info>
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-09 21:34:40</locked_until>
+ <lastplayed>2018-05-11 02:10:40</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8492">
+ <title>Ballad</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="129">4.5736</rating>
+ 
+ <songlength>338</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 14:57:58</locked_until>
+ <lastplayed>2018-06-13 08:20:04</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>30508</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist><artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  <group id="465">Hugi</group>
+ </groups>
+ 
+ <tags>
+  <tag>Ballad</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Hugi</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

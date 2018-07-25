@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13495">
+ <title>Antique</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.2364</rating>
+ <info>Song in .sndh format can be found in [url=http://sndh.atari.org/files/sndh34lf.zip]this archive[/url].
+
+Used in &#34;Moving into Darkness&#34; by DHS, ranked 2nd in Error in Line 2003 ST demo compo</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 03:38:17</locked_until>
+ <lastplayed>2018-05-23 15:02:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9525</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="551">Dead Hackers Society [DHS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>syncopated</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

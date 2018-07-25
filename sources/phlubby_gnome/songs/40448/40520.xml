@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40520">
+ <title>Snowblind Santa</title>
+ <status v="A">Active</status>
+ <bitrate>1088</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">4.0667</rating>
+ <info>3rd place in Scenecompos.net Christmas Compo 2013</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 23:19:14</locked_until>
+ <lastplayed>2018-05-25 07:45:14</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1988">LargerThanLink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

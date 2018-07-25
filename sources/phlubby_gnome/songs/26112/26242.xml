@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26242">
+ <title>Swinth 8 canon in d orig by pachelbel</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.3636</rating>
+ <info>Comments for subsong #8
+  TITLE: Canon in D major
+ ARTIST: Johann Pachelbel
+COMMENT: &#34;This is a very popular classical hit. I transcribed the notes from a
+         Transactor or Compute! article (this is the only Synth Sample piece
+         not transcribed by ear).&#34; (GF)</info>
+ <songlength>69</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-08 22:44:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>52343</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4920">Georg Feil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>pachelbel</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

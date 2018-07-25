@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3614">
+ <title>3D Demo 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">4.0351</rating>
+ 
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 09:30:59</locked_until>
+ <lastplayed>2018-05-18 13:18:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3091</pouetid>
+ <ytid>5NPPPDCJ6R4</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="597">Julius</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Rave</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

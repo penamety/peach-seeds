@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17409">
+ <title>Deadlineblues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">2.3</rating>
+ <info>bobobear^bp-orga: keys, vocals
+bombe^fr: bass
+cp^fr: electric ryhthm guitar
+doj^fr: electric lead guitar
+kb^fr: vocals, keys
+unkown person: percussion
+unknown person: acustic guitar
+2 unknown persons: didgeridoo
+
+A standard blues in Em. Sung by bobobear who handed the keys over to kb.</info>
+ <songlength>592</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 22:59:05</locked_until>
+ <lastplayed>2018-05-31 21:26:25</lastplayed>
+ <platform id="16">Live</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="360">Doj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Blues</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfSync</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

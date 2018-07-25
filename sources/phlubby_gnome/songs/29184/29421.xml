@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29421">
+ <title>Nano Galaxy</title>
+ <status v="A">Active</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">3.4054</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-03 17:05:47</locked_until>
+ <lastplayed>2017-11-13 18:02:07</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

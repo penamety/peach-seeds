@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2645">
+ <title>Vision Factory</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="60">4.05</rating>
+ 
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 21:15:42</locked_until>
+ <lastplayed>2018-06-06 19:31:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>8027</pouetid>
+ <ytid>X4ZflDrvSZE</ytid>
+ <ytoffset>14</ytoffset>
+ 
+ <artists>
+  <artist id="441">TSM</artist>
+ </artists>
+ <groups>
+  <group id="61">Fraxion</group><group id="559">Vision Factory</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>cracktro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

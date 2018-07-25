@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36093">
+ <title>Highfliers</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.8462</rating>
+ 
+ <songlength>301</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-19 06:53:30</locked_until>
+ <lastplayed>2017-06-09 22:34:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3987</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="304">Deelite</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>TheSummerParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

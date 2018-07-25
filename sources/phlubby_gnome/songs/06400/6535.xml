@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6535">
+ <title>War in the Middle Earth remix</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="113">4.5841</rating>
+ <info>Inspired by the stories written by J.R.R. Tolkien. The song is a remix of a tune I made much earlier with a Sound Blaster. The stereo effects and samples were bad, and I wanted to make an improved version.</info>
+ <songlength>288</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 01:03:56</locked_until>
+ <lastplayed>2018-06-15 23:53:00</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6516</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>Epic</tag>
+  
+  <tag>Fantasy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

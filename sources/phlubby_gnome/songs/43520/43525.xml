@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43525">
+ <title>Vladone</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>Small chiptune &#34;tribute&#34; based on Little Bitchards theme from &#34;The Code Inside&#34;.
+Bonefish asked me to do it, as LB´s got 40 recently and the Amiga Birthday Committee did an intro for his pleasure.
+
+I used a YT video as reference to the original theme and developed this chippie with some artistic freedom. 
+</info>
+ <songlength>179</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 18:20:32</locked_until>
+ <lastplayed>2018-05-21 22:00:12</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>68303</pouetid>
+ <ytid>1zDGuOwrIF8</ytid>
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

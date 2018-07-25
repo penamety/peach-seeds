@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44336">
+ <title>Supreme Allmighty</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="7">3.0</rating>
+ <info>A pure 8Bit famicom tune made to praise what is most supreme! =)</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 15:33:03</locked_until>
+ <lastplayed>2018-04-10 05:44:41</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2193">Advertise Play</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34130">
+ <title>Gummi, Ged - og andet godt</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.0</rating>
+ 
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 21:03:08</locked_until>
+ <lastplayed>2018-06-06 03:03:17</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="781">Metal</artist>
+ </artists>
+ <groups>
+  <group id="338">Fudge</group><group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Chillout</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

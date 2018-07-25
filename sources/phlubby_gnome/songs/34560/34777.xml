@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34777">
+ <title>RAF Megademo - Turn Disk</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.6</rating>
+ <info>The group was &#34;Royal Amiga Force&#34;</info>
+ <songlength>336</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-22 23:48:32</locked_until>
+ <lastplayed>2018-04-15 09:51:00</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>7559</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="441">TSM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

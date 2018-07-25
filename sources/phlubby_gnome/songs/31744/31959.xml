@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31959">
+ <title>Micro World</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.375</rating>
+ <info>This music from DLEIFTRA demo. Written on the MASON-AY.</info>
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 17:17:45</locked_until>
+ <lastplayed>2018-05-09 05:15:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3991">Robus</artist>
+ </artists>
+ <groups>
+  <group id="242">Entire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

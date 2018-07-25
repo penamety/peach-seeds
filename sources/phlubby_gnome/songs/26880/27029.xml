@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27029">
+ <title>I Play the Blues</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="16">3.625</rating>
+ 
+ <songlength>201</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 22:18:57</locked_until>
+ <lastplayed>2018-06-03 05:10:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>15606</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="193">Chorus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

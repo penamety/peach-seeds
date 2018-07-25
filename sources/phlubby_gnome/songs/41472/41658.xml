@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41658">
+ <title>Melody of the End</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">4.0</rating>
+ <info>-----------------------------
+(c) Rez / Eclipse 1995
+-----------------------------
+
+Short End-theme for
+the Lisa demo...
+
+
+-----------------------Rez-
+
+1st place @ Gasp 1995 in PC demo compo.</info>
+ <songlength>76</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 15:36:18</locked_until>
+ <lastplayed>2018-05-11 06:07:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>210</pouetid>
+ <ytid>GaXdc4qPXyQ</ytid>
+ <ytoffset>174</ytoffset>
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="549">Eclipse</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>epilogue</tag>
+  
+  <tag>Gasp</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GaXdc4qPXyQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/27961/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

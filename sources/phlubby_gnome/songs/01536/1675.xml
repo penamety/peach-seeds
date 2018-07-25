@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1675">
+ <title>Coloris</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">4.2099</rating>
+ <info>This is a ripped and slightly altered version of a title music from Coloris game (1990, Avesoft). The song is made by Walkman though some minor edits are made for this version used in the demo.
+
+In the end of the demo, the music credits for this section are attributed to &#34;unknown&#34;, suggesting that Budbrain was no aware about the origins of the song. nemesis1 is mentioned as ripper in modarchive.</info>
+ <songlength>314</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 13:54:10</locked_until>
+ <lastplayed>2018-05-22 16:29:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4063</pouetid>
+ <ytid>KXV5-GkKUsk</ytid>
+ <ytoffset>19</ytoffset>
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  <group id="216">Budbrain</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>AmigaConference</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KXV5-GkKUsk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://hol.abime.net/3064</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

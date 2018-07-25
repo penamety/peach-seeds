@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18478">
+ <title>Transparent</title>
+ <status v="A">Active</status>
+ <bitrate>56</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.1538</rating>
+ 
+ <songlength>112</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 22:32:54</locked_until>
+ <lastplayed>2018-06-07 22:04:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16322</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

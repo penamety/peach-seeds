@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35213">
+ <title>Pulss (Radio Edit)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.3846</rating>
+ <info>1st place in combined demo compo at Icons 2012</info>
+ <songlength>260</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-09 07:03:37</locked_until>
+ <lastplayed>2018-03-31 01:11:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>58506</pouetid>
+ <ytid>lwU2a54etbE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1641">Teknomies</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Icons</tag>
+  
+  <tag>Minimal</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=lwU2a54etbE</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

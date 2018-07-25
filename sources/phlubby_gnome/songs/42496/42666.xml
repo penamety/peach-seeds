@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42666">
+ <title>Leave Me Alone</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">1.3636</rating>
+ <info>The last ever release as U4ia.
+
+A change in style was obvious, as was a need for a new ID.</info>
+ <songlength>540</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 00:15:57</locked_until>
+ <lastplayed>2018-05-16 07:43:59</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1277">u4ia</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

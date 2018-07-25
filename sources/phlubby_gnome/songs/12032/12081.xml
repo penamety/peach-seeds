@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12081">
+ <title>Drowner</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.9773</rating>
+ <info>Cover of song of the russian punk-rock group: Сектор Газа (Sektor Gaza) - Утопленник (Drowner)</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:05:26</locked_until>
+ <lastplayed>2018-06-02 15:02:59</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>RussianPunk</tag>
+  
+  <tag>SectorGaza</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

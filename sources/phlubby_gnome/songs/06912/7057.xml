@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7057">
+ <title>The 6th Sense</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-09 22:50:10</locked_until>
+ <lastplayed>2017-11-19 22:32:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>6327</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="798">Mindfuck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

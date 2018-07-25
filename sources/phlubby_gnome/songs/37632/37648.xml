@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37648">
+ <title>Invasion of the Furbles</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="8">2.875</rating>
+ <info>sample list:
+001	======================	(8 bit - 909)
+002	|     I N V A S I O N	(8 bit - 640)
+003	|          Of The	(8 bit - 400)
+004	|       F U R B L E S	(8 bit - 400)
+005	|=====================	(8 bit - 667)
+006		(8 bit - 614)
+007	(c) 1996 Yannis Brown	(8 bit - 68)
+008	2nd Place Oz96 16k Com	(8 bit - 400)
+</info>
+ <songlength>211</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-09 13:47:26</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1740">YanniS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

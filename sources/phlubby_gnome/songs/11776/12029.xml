@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12029">
+ <title>CyberLogik 2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.65</rating>
+ 
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 00:06:00</locked_until>
+ <lastplayed>2018-06-02 04:08:26</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3451</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="862">Nightshade</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

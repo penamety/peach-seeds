@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41934">
+ <title>Interstase</title>
+ <status v="A">Active</status>
+ <bitrate>137</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.8636</rating>
+ <info>Original track from &#34;Interstase&#34; demo by Mankind
+
+Lyrics of last part, heavily vocoded:
+
+&#34;Quand le fruit de mes bottes parle
+Sur un ton que je n&#39;aimes pas
+Je me dois de les écouter
+Car c&#39;est elles qui guident mes pas&#34;</info>
+ <songlength>477</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 20:47:19</locked_until>
+ <lastplayed>2018-05-26 15:00:33</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>65394</pouetid>
+ <ytid>Dn95AGzb3fw</ytid>
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist><artist id="5597">gWen</artist>
+ </artists>
+ <groups>
+  <group id="798">Mankind</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Dn95AGzb3fw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

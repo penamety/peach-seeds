@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38986">
+ <title>Insomnia</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.7143</rating>
+ 
+ <songlength>310</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 13:26:48</locked_until>
+ <lastplayed>2018-02-15 16:10:54</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>57736</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4139">Zardax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Intro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

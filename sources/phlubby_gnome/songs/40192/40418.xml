@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40418">
+ <title>Observatory</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0</rating>
+ <info>Buy this song on [url=http://tympanikaudio.bandcamp.com/track/observatory]Bandcamp[/url] !</info>
+ <songlength>302</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 23:02:49</locked_until>
+ <lastplayed>2018-03-18 03:29:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>62972</pouetid>
+ <ytid>V05HS1LqqRE</ytid>
+ 
+ 
+ <artists>
+  <artist id="5499">Tineidae</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=V05HS1LqqRE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

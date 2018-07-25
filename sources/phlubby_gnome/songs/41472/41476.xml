@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41476">
+ <title>Boutique</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">2.4615</rating>
+ <info>Tracked using ProTracker 2.3d
+4ch only.
+
+Released in one issue of the &#34;Heroine&#34; Amiga diskmag</info>
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 16:06:05</locked_until>
+ <lastplayed>2018-01-12 15:00:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="67">TriStar &amp; Red Sector Inc. [TRSI]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32268">
+ <title>Trabant Funk</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.9375</rating>
+ 
+ <songlength>111</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-11 00:42:59</locked_until>
+ <lastplayed>2017-11-23 03:43:37</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>brass</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>rhodes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

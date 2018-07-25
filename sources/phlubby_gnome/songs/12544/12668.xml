@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12668">
+ <title>My Girl Nr 1</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.0769</rating>
+ 
+ <songlength>194</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-03 01:00:50</locked_until>
+ <lastplayed>2017-11-07 16:48:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1235">Tommy [de]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acid</tag>
+  
+  <tag>didgeridoo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

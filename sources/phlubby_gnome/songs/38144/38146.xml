@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38146">
+ <title>Stocked and Abused</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.25</rating>
+ <info>1:st place at Icing 1998 - Amiga 4ch music compo</info>
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 05:22:38</locked_until>
+ <lastplayed>2018-03-22 19:40:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Icing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

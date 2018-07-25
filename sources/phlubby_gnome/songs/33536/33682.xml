@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33682">
+ <title>Creepomatic</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.4615</rating>
+ <info>Winner of Tracked Music competition at Buenzli 2010</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 03:05:34</locked_until>
+ <lastplayed>2018-05-12 15:22:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1650">Dixan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>breakbeat</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

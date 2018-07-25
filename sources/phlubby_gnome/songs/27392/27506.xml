@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27506">
+ <title>Somewhere Outer Space</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="78">4.4103</rating>
+ <info>2nd place at the tUM 2009 streamed music</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 19:04:12</locked_until>
+ <lastplayed>2018-06-08 12:34:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1588">Wiseman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

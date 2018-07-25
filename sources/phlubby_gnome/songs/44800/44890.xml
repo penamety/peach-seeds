@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44890">
+ <title>atarin</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="3">4.6667</rating>
+ <info>Hey, some new features for our lovely Vortex Tracker!
+
+Release date:
+30 April 2018
+</info>
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 01:20:32</locked_until>
+ <lastplayed>2018-06-03 06:45:12</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>1ZTGlUpjcao</ytid>
+ 
+ 
+ <artists>
+  <artist id="4010">n1k-o</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Multimatograf</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/n1k-o/atarin</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

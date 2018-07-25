@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37842">
+ <title>Last Christmas</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">1.7692</rating>
+ <info>From the BaSShuT EP 2012</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 03:25:05</locked_until>
+ <lastplayed>2018-05-25 05:19:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>60877</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3541">Scamp</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>CommercialSamples</tag>
+  
+  <tag>GeorgeMichael</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

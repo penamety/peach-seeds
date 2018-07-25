@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22593">
+ <title>Lotus 3 - Breathless (CD Track 1)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5909</rating>
+ <info>Track 1 on ingame CD player.</info>
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-07 17:01:01</locked_until>
+ <lastplayed>2017-11-18 08:06:52</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="907">Patrick Phelan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Racing</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

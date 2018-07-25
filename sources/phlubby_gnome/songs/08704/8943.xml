@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8943">
+ <title>Nightfall Over the City</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="125">4.504</rating>
+ <info>Made with unmodified ST-01 samples only.</info>
+ <songlength>361</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 01:49:50</locked_until>
+ <lastplayed>2018-05-25 08:45:26</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52436</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>st-01</tag>
+  
+  <tag>SynthWave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

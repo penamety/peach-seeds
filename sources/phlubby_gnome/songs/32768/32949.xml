@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32949">
+ <title>Doctor Awesome</title>
+ <status v="A">Active</status>
+ <bitrate>203</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.2609</rating>
+ <info>This song is me trying to do combine a regular four-to-the-floor style dance track with my own ambient and more minimalistic style. The title is a bit of a homeage to Bjørn Lynne; one of my favorite composers on the Amiga.</info>
+ <songlength>292</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 15:01:45</locked_until>
+ <lastplayed>2018-05-29 07:05:53</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>56876</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

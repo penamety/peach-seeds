@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7518">
+ <title>Crime Minister of Europe</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.4815</rating>
+ 
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 14:34:49</locked_until>
+ <lastplayed>2018-06-16 03:57:10</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9872</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1342">Crankshaft</artist>
+ </artists>
+ <groups>
+  <group id="205">katastro.fi</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33809">
+ <title>Extremes</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.3256</rating>
+ 
+ <songlength>258</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 02:13:52</locked_until>
+ <lastplayed>2018-06-02 03:37:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1615</pouetid>
+ <ytid>H6UOyaTBJbY</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="4139">Zardax</artist>
+ </artists>
+ <groups>
+  <group id="39">Byterapers</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24106">
+ <title>The Smuglers Lair</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.6957</rating>
+ <info>From &#34;Dansktoppen 6 intro&#34; by Passion: [url]http://bitworld.bitfellas.org/demo.php?id=29462[/url]</info>
+ <songlength>68</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-18 17:30:33</locked_until>
+ <lastplayed>2017-10-30 22:44:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1047">Scorpion</artist>
+ </artists>
+ <groups>
+  <group id="144">Passion</group>
+ </groups>
+ 
+ <tags>
+  <tag>NotOnPouet</tag>
+  
+  <tag>pirates</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

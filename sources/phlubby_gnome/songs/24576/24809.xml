@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24809">
+ <title>Magia</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.5</rating>
+ <info>The main track from &#34;Magia&#34; demo by The Black Lotus.
+1st place in amiga demo compo @ Breakpoint 2003.</info>
+ <songlength>155</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 21:09:28</locked_until>
+ <lastplayed>2018-03-23 09:19:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9468</pouetid>
+ <ytid>ag1-By-4qfw</ytid>
+ <ytoffset>105</ytoffset>
+ 
+ <artists>
+  <artist id="1138">Steffo</artist>
+ </artists>
+ <groups>
+  <group id="488">cryonics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>EBM</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ag1-By-4qfw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=6477</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/6052/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

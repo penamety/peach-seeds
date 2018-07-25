@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39632">
+ <title>Flimbo&#39;s Quest loader [Amiga remix]</title>
+ <status v="A">Active</status>
+ <bitrate>247</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.875</rating>
+ <info>Original by Reyn Ouwehand
+
+This song did not appear in the Amiga port of the game. This remix is based on the C64 song.
+
+(Bjerregaard is erroneously credited by the remixer but actually Ouwehand wrote this loader song)
+
+Protracker MOD</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-18 15:24:22</locked_until>
+ <lastplayed>2017-07-09 18:10:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4030">Yavin</artist>
+ </artists>
+ <groups>
+  <group id="773">HeatWave</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Platformer</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

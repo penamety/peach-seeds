@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11072">
+ <title>Neon Jungle</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.8125</rating>
+ <info>(c) basehead /fm 1995
+
+brave the funky depths of the dense neon jungle
+can you dig it ?
+
+samples: virgill, bit, dune
+be-dop be-dop shoo-bop-bow!
+</info>
+ <songlength>422</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 19:07:38</locked_until>
+ <lastplayed>2018-03-17 00:52:19</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

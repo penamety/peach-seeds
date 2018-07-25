@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36993">
+ <title>The Noiseplug</title>
+ <status v="A">Active</status>
+ <bitrate>134</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.8824</rating>
+ <info>3rd place in alternative compo at Evoke 2012
+
+ATtiny9 with 1k of Flash and 32 Bytes of RAM.</info>
+ <songlength>117</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-12 03:48:21</locked_until>
+ <lastplayed>2018-03-25 13:08:20</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>59694</pouetid>
+ <ytid>AZpfHiwQf-s</ytid>
+ <ytoffset>70</ytoffset>
+ 
+ <artists>
+  <artist id="5199">dojoe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=AZpfHiwQf-s</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

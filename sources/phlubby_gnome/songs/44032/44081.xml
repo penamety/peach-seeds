@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44081">
+ <title>Orchestra Choirs</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Used in [url]http://janeway.exotica.org.uk/release.php?id=14255[/url]
+Idea by Arrakis/BW
+GFX by Van Gogh/BW
+FX by Van Gogh/BW
+Code By Cinefex
+Music by BTS/CX
+All samples by Arrakis/BW
+
+[b][u]sample list:[/u][/b]
+
+001	  this tune was made
+002	 and composed in the
+003	     first days of
+004	    october 1990
+005	      by bts.
+006	   all samples were
+007	     taken from
+008	    roland s-50</info>
+ <songlength>522</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 01:15:39</locked_until>
+ <lastplayed>2018-03-18 18:48:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5731">BTS</artist>
+ </artists>
+ <groups>
+  <group id="569">Brainwave [FR]</group><group id="868">Cinefex Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>Choir</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OldSchool</tag>
+  
+  <tag>Orchestral</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

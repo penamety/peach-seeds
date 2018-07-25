@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40410">
+ <title>Drop</title>
+ <status v="A">Active</status>
+ <bitrate>214</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.5556</rating>
+ 
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-26 01:07:31</locked_until>
+ <lastplayed>2018-01-06 13:28:03</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>62958</pouetid>
+ <ytid>BtTpzJd9NAw</ytid>
+ 
+ 
+ <artists>
+  <artist id="5498">Druttis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

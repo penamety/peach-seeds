@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3263">
+ <title>Defined as Mess</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.119</rating>
+ <info>Ranked 6th in the music compo at The Party 1993.</info>
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 13:25:04</locked_until>
+ <lastplayed>2018-05-22 03:36:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="563">Jason</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Blues</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Rock</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13622">
+ <title>My First Console</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">4.1778</rating>
+ <info>Ranked 5th in the newschool executable music compo at Breakpoint 2007.</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 12:38:09</locked_until>
+ <lastplayed>2018-05-16 18:44:01</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>country</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

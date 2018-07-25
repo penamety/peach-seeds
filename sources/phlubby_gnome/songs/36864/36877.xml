@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36877">
+ <title>Shock Magazine</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.1333</rating>
+ <info>SID chipset: MOS6581R2</info>
+ <songlength>215</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 21:44:19</locked_until>
+ <lastplayed>2018-05-31 14:41:28</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>3789</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

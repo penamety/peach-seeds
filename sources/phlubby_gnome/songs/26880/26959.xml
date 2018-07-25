@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26959">
+ <title>Jellied Veal</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.2727</rating>
+ 
+ <songlength>10</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-29 02:18:09</locked_until>
+ <lastplayed>2018-04-12 00:50:42</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>8551</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2752">Fred Funk</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>TheAlternativeParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22959">
+ <title>Arrival</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.5</rating>
+ 
+ <songlength>240</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-26 07:02:34</lastplayed>
+ 
+ 
+ <pouetid>9451</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2873">Holberg</artist>
+ </artists>
+ <groups>
+  <group id="243">Portal Project</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

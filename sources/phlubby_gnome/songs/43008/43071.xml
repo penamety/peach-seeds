@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43071">
+ <title>Timeless Beauty</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.8</rating>
+ 
+ <songlength>347</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 07:50:02</locked_until>
+ <lastplayed>2018-04-02 12:37:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12565</pouetid>
+ <ytid>JJCwAEDWWOg</ytid>
+ 
+ 
+ <artists>
+  <artist id="5656">Meta</artist>
+ </artists>
+ <groups>
+  <group id="850">Ethic</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=JJCwAEDWWOg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

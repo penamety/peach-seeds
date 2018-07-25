@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38094">
+ <title>Penumbra</title>
+ <status v="A">Active</status>
+ <bitrate>227</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.3125</rating>
+ <info>One Hour Compo tune written in 2012, re-used in Penumbra by trbl.</info>
+ <songlength>104</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-17 14:39:16</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>61007</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>OHC</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

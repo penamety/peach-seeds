@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26549">
+ <title>Robot Speech Test</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2778</rating>
+ <info>Download Link: ftp://ftp.scene.org/pub/parties/2005/function05/mmul/rst.zip</info>
+ <songlength>231</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-23 16:12:15</locked_until>
+ <lastplayed>2018-06-14 05:42:17</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group><group id="20">mfx</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

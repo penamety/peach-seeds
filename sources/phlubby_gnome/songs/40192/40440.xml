@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40440">
+ <title>Silly Venture</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="20">3.95</rating>
+ <info>A little spring loop for Silly Venture. The biggest Atari demoscene event in Europe will take place in Gdansk, Poland, from 5th to 7th December 2014 ! This year we&#39;ll celebrate the 25 years of Atari STE :)</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 14:09:42</locked_until>
+ <lastplayed>2018-05-21 22:56:37</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>blips-n-blops</tag>
+  
+  <tag>Speech-Synth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38883">
+ <title>Energy Soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>968</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">4.0714</rating>
+ <info>The soundtrack of this demo was released by M!c^Progress [PGS] under his virtual nick Moby of Cosmix [CMX], which consists of two different songs: MOTION! + DESTINATION.</info>
+ <songlength>185</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 01:15:08</locked_until>
+ <lastplayed>2018-05-17 14:11:42</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>7839</pouetid>
+ <ytid>C26Jb_mYNX0</ytid>
+ <ytoffset>16</ytoffset>
+ 
+ <artists>
+  <artist id="786">Mic [RU]</artist>
+ </artists>
+ <groups>
+  <group id="455">Progress</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=C26Jb_mYNX0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=2534</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/28594/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

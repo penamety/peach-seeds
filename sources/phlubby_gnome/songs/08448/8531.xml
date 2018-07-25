@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8531">
+ <title>Two Steps</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.9286</rating>
+ 
+ <songlength>241</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 08:01:08</locked_until>
+ <lastplayed>2018-03-05 03:14:25</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1076">Siren</artist><artist id="1631">Sirrus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

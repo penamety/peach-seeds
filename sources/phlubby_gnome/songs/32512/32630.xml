@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32630">
+ <title>The Oceanwoman</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">3.6667</rating>
+ <info>used in Eurochart #48</info>
+ <songlength>448</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 20:06:45</locked_until>
+ <lastplayed>2018-06-07 20:57:42</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>24389</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4744">KAM_</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Eurochart</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

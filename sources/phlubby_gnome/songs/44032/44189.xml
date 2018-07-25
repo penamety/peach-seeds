@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44189">
+ <title>Cosmic Elk Riders</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.5455</rating>
+ <info>3rd in Newschool Music compo at Solskogen 2017.</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 18:24:17</locked_until>
+ <lastplayed>2018-05-18 23:30:01</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4645">Phobium</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

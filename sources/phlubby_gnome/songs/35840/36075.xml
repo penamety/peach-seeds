@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36075">
+ <title>Mercenary</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="14">1.2857</rating>
+ 
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-11 02:45:05</locked_until>
+ <lastplayed>2018-05-14 02:47:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>16831</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5124">Mercure [EoC]</artist>
+ </artists>
+ <groups>
+  <group id="681">End of Century 1999</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

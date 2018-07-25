@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17908">
+ <title>Smoke Bomb</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.56</rating>
+ 
+ <songlength>128</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-01 20:40:02</locked_until>
+ <lastplayed>2017-09-25 07:52:47</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>170</pouetid>
+ <ytid>D36SQ2c3mAc</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="2472">Cueder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

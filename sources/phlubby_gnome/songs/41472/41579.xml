@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41579">
+ <title>Get Lucky (Dualtrax Chiptune Cover)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.1667</rating>
+ <info>This tune was created within a ~2 hours Renoise session on a public German holiday. :)</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-18 15:21:53</locked_until>
+ <lastplayed>2017-11-27 13:13:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2059">Dualtrax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chippop</tag>
+  
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

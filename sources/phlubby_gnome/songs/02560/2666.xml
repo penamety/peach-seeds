@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2666">
+ <title>Rastaman</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.3492</rating>
+ 
+ <songlength>229</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 17:58:49</locked_until>
+ <lastplayed>2018-06-05 01:06:01</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9393</pouetid>
+ <ytid>_T3PpsQ2nig</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="447">Firefox</artist>
+ </artists>
+ <groups>
+  <group id="200">Phenomena</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Ethnic</tag>
+  
+  <tag>Reggae</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

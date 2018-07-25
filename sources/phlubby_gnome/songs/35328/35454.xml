@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35454">
+ <title>Raster</title>
+ <status v="A">Active</status>
+ <bitrate>142</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.4043</rating>
+ <info>AdPlug emulation</info>
+ <songlength>137</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 07:24:34</locked_until>
+ <lastplayed>2018-06-07 17:36:28</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Reggae</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

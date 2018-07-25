@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6319">
+ <title>Commando</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="122">4.1967</rating>
+ <info>1985 Elite.
+
+based on theme from Commando arcade game</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 09:39:14</locked_until>
+ <lastplayed>2018-06-05 12:41:42</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>9934</pouetid>
+ <ytid>hDAhixO2t5w</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Gameport</tag>
+  
+  <tag>Heroic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=525</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

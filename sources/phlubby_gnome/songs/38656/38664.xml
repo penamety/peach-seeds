@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38664">
+ <title>The Pearl</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.4706</rating>
+ <info>Winner of the Nectarine/Scenecompos Open Music Compo 2013.</info>
+ <songlength>204</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-15 16:03:11</locked_until>
+ <lastplayed>2018-03-16 23:13:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

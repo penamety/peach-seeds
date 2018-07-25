@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8730">
+ <title>Sharpness Buzztone</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.3592</rating>
+ 
+ <songlength>391</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 00:54:35</locked_until>
+ <lastplayed>2018-05-24 08:14:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ <ytid>1Udxp71i2Mc</ytid>
+ <ytoffset>27</ytoffset>
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="545">Legacy (Atari)</group><group id="18">Overlanders</group><group id="544">ST Connexion</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

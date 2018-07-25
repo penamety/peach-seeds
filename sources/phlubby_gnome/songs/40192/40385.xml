@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40385">
+ <title>Jesus Stole My Jelly Beans</title>
+ <status v="A">Active</status>
+ <bitrate>140</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ <info>Winner of the oldskool exe music competition at Revision 2014</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 00:17:50</locked_until>
+ <lastplayed>2018-05-21 00:17:08</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

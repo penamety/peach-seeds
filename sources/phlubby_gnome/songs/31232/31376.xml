@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31376">
+ <title>Beams of Light (CPC cover)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.4167</rating>
+ <info>This one is a CPC cover of &#34;Beams of Light&#34; by Walkman</info>
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-30 12:00:52</locked_until>
+ <lastplayed>2018-02-20 17:58:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

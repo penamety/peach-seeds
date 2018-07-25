@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26238">
+ <title>Swinth 3 spiral excerpt orig by vangelis</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.9</rating>
+ <info>Comments for subsong #3
+  TITLE: Spiral [from Spiral]
+ ARTIST: Vangelis</info>
+ <songlength>65</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 11:27:26</locked_until>
+ <lastplayed>2018-05-10 09:33:21</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>52343</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4920">Georg Feil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>Vangelis</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

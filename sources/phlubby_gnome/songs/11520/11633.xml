@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11633">
+ <title>The Lost Vikings - Ingame 2 (Prehistory)</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ <info>Tune from prehistory level (second) of The Lost Vikings game, lemonamiga link: http://www.lemonamiga.com/games/details.php?id=699.
+
+Converted from .p4x (The Player 4.x) using ProWizard, original file: http://www.exotica.org.uk/wiki/The_Lost_Vikings (p4x.ingame2).</info>
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-20 11:14:53</locked_until>
+ <lastplayed>2018-05-02 01:13:25</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist><artist id="1334">Charles Deenen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

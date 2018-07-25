@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8604">
+ <title>Forsaken</title>
+ <status v="A">Active</status>
+ <bitrate>255</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="45">3.8889</rating>
+ 
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-27 15:35:02</locked_until>
+ <lastplayed>2018-01-09 13:14:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1224</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="687">Loonie</artist><artist id="977">Radix</artist>
+ </artists>
+ <groups>
+  <group id="463">replay</group>
+ </groups>
+ 
+ <tags>
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3386">
+ <title>Distances</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.6471</rating>
+ 
+ <songlength>322</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-05 23:56:55</locked_until>
+ <lastplayed>2018-01-17 18:42:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9385</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="579">Jester</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>HackMag</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8774">
+ <title>Forrest Hymn</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.125</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 03:31:21</locked_until>
+ <lastplayed>2018-05-06 00:28:20</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1719">Spin Dizzy</artist><artist id="1698">Warder</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Acoustic</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Flute</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

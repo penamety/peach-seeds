@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41062">
+ <title>French Sexy Maid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>6th place in pc demo compo at Revision 2012.
+
+Note that the file is uploaded as MP3 as it&#39;s found in the data, there could be an original XM version of this tune.</info>
+ <songlength>112</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 11:31:53</locked_until>
+ <lastplayed>2018-05-17 09:41:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>59156</pouetid>
+ <ytid>qScaAIZBY-Y</ytid>
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist><artist id="1707">Zalza</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qScaAIZBY-Y</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

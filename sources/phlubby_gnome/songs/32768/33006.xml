@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33006">
+ <title>Wormhole</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.0</rating>
+ 
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-08 16:10:03</locked_until>
+ <lastplayed>2018-03-18 05:00:06</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>4281</pouetid>
+ <ytid>O_0gYOcu29A</ytid>
+ 
+ 
+ <artists>
+  <artist id="1162">SuperNao</artist>
+ </artists>
+ <groups>
+  <group id="192">Complex</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

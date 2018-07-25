@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="64">
+ <title>Songbird (Flower Power end)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.3913</rating>
+ 
+ <songlength>127</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-08 05:31:04</locked_until>
+ <lastplayed>2018-04-18 03:52:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3037</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>DigitalSymposium</tag>
+  
+  <tag>panflutes</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

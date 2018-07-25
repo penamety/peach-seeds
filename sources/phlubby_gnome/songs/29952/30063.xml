@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30063">
+ <title>Road to Circus</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">3.7647</rating>
+ <info>Ranked 4th in the oldskool music compo at Sundown 2010.</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 16:14:13</locked_until>
+ <lastplayed>2018-06-03 02:58:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1628">Mice</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

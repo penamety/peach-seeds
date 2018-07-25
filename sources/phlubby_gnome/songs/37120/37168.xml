@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37168">
+ <title>Orivesi</title>
+ <status v="A">Active</status>
+ <bitrate>156</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">2.2609</rating>
+ <info>R4 recording from Stone Oakvalley&#39;s site
+
+From the intro of the same name, Assembly 2001 (Mixed demo competition #5)</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 01:08:28</locked_until>
+ <lastplayed>2018-05-11 23:03:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3701">TBB</artist>
+ </artists>
+ <groups>
+  <group id="689">Extend</group>
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>high-pitched</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=3902</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

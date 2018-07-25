@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44495">
+ <title>Stilla Natt (Silent Night) - Caustic Robot Version</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.875</rating>
+ <info>Christmas song with a robot singing the swedish lyrics of Silent Night.
+
+Made in the smartphone DAW Caustic 3.2.
+
+Inside look of the music can be seen here:
+https://www.youtube.com/watch?v=EiBrJ1mFJ04
+
+This version has a post limiter applied to the audio, which makes it sound a bit louder than in the Youtube video.</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 03:48:44</locked_until>
+ <lastplayed>2018-05-21 11:21:07</lastplayed>
+ 
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5114">d vibe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>SwedishSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=EiBrJ1mFJ04</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

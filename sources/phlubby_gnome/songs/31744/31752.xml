@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31752">
+ <title>Twilight</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.1071</rating>
+ 
+ <songlength>182</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-11 09:08:44</locked_until>
+ <lastplayed>2017-10-25 08:54:15</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>56005</pouetid>
+ <ytid>PQWrSyk_Rlg</ytid>
+ 
+ 
+ <artists>
+  <artist id="4662">Olav Mørkrid</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>X</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

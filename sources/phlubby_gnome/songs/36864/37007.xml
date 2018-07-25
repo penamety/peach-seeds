@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37007">
+ <title>Cheese Fondue</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">2.6364</rating>
+ 
+ <songlength>140</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-21 14:22:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>54182</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2365">Caramel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+  <tag>Retro</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8458">
+ <title>The Plan (Realtime Demo Wannabe)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="124">4.4274</rating>
+ 
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 18:02:56</locked_until>
+ <lastplayed>2018-06-17 14:24:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>31591</pouetid>
+ <ytid>Kh4l5wg1fyo</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="1354">D Fast</artist><artist id="2574">en5ca</artist>
+ </artists>
+ <groups>
+  <group id="152">½-bit Cheese [HBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>bigbeat</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Groovy</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Kh4l5wg1fyo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32802">
+ <title>Timeless</title>
+ <status v="A">Active</status>
+ <bitrate>260</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.6842</rating>
+ <info>Sountrack of the Demo &#34;Timeless&#34; by BluFlame</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-11 07:31:21</locked_until>
+ <lastplayed>2017-12-19 12:17:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53865</pouetid>
+ <ytid>5REB_86sRPI</ytid>
+ 
+ 
+ <artists>
+  <artist id="992">raYn [DE]</artist><artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5REB_86sRPI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

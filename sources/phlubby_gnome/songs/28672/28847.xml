@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28847">
+ <title>Master Of Puppets</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">2.6053</rating>
+ 
+ <songlength>543</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 08:21:36</locked_until>
+ <lastplayed>2018-05-30 20:47:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2296">Betrayer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>distortedguitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>metallica</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

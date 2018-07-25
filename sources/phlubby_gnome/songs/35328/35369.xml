@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35369">
+ <title>Looking Out - Cityscape</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.6364</rating>
+ <info>Track 4 for Hellven Urbanism Musicdisk</info>
+ <songlength>420</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-05 17:42:13</locked_until>
+ <lastplayed>2018-02-14 04:42:24</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  <group id="16">Hellven</group>
+ </groups>
+ 
+ <tags>
+  <tag>atmospheric</tag>
+  
+  <tag>long</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

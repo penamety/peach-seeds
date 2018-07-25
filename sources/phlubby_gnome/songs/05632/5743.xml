@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5743">
+ <title>Poikarakkautta</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>Poikarakkautta by
+Pepsodent / Amour &#39;95
+
+samples from songs by
+Dune, Bruno and Groo
+
+(too lazy to make my
+own chip samples...)</info>
+ <songlength>78</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-24 05:29:06</locked_until>
+ <lastplayed>2017-07-17 14:52:06</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="945">Prism</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>romantic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

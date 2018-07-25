@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33278">
+ <title>Aleph One</title>
+ <status v="B">Banned</status>
+ <bitrate>149</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.6</rating>
+ <info>http://files.tomek.cedro.info/cederom/muzik/mod/CeDeROM-ALEPH_ONE.mp3</info>
+ <songlength>141</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2016-04-30 23:24:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4821">CeDeROM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

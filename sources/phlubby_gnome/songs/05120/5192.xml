@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5192">
+ <title>Point of Departure</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="158">4.5823</rating>
+ 
+ <songlength>314</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 11:24:19</locked_until>
+ <lastplayed>2018-05-20 15:22:21</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6518</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>fast</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

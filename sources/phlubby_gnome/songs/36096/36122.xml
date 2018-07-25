@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36122">
+ <title>Tripaphonic</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">2.0</rating>
+ 
+ <songlength>349</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 17:55:10</locked_until>
+ <lastplayed>2017-11-16 16:50:31</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2844</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="714">Maelcum</artist>
+ </artists>
+ <groups>
+  <group id="167">Kosmic Free Music Foundation [KFMF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

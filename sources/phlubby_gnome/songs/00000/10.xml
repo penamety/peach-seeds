@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10">
+ <title>Downtown Blues</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ <info>Used in &#34;Sound Visions&#34; by Tech: http://bitworld.bitfellas.org/demo.php?id=8727</info>
+ <songlength>105</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-13 23:36:53</locked_until>
+ <lastplayed>2017-12-25 14:48:22</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2">16 Beat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

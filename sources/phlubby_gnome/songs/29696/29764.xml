@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29764">
+ <title>Derelict</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ 
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-24 08:15:01</locked_until>
+ <lastplayed>2018-04-06 00:16:48</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>55529</pouetid>
+ <ytid>H9O6uwbjGWU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1445">Leaphion</artist>
+ </artists>
+ <groups>
+  <group id="150">Hedelmae</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>android</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>N900</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=H9O6uwbjGWU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/70945/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

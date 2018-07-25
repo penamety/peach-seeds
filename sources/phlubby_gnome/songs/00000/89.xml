@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="89">
+ <title>Red Sector Theme (aka &#34;Shockwave&#34;, &#34;Electric revenge&#34;)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="139">4.6043</rating>
+ <info>This song is originally made for an Afterburner type game called Shockwave (digital magic software, 1990)</info>
+ <songlength>357</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 01:23:09</locked_until>
+ <lastplayed>2018-06-11 23:17:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>8879</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="6">4-mat</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>cracktro</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1911</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

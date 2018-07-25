@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5862">
+ <title>Sundance</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.2</rating>
+ <info>1:st place in Assembly&#39;93 4ch music compo</info>
+ <songlength>172</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 12:26:59</locked_until>
+ <lastplayed>2018-05-25 17:24:00</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Assembly</tag>
+  
+  <tag>Compowinner</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="169">
+ <title>Rest in Pieces</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.3478</rating>
+ <info>4th at Assembly 2001 C64 music compo.
+
+Track is now from soasc / 8580R5</info>
+ <songlength>143</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 00:12:49</locked_until>
+ <lastplayed>2018-06-03 07:07:59</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist><artist id="4761">Rooster</artist>
+ </artists>
+ <groups>
+  <group id="618">Scallop</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

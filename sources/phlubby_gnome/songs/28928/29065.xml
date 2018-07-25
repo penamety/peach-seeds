@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29065">
+ <title>D-Mob Music Disk 3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="84">3.5</rating>
+ 
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 06:13:27</locked_until>
+ <lastplayed>2018-06-04 17:48:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>16562</pouetid>
+ <ytid>QYHBLgVc9y8</ytid>
+ 
+ 
+ <artists>
+  <artist id="4567">Turbobrain</artist>
+ </artists>
+ <groups>
+  <group id="391">D-Mob</group>
+ </groups>
+ 
+ <tags>
+  <tag>1989</tag>
+  
+  <tag>ayeah</tag>
+  
+  <tag>burp</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>italo</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

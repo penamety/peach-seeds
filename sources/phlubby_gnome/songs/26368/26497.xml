@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26497">
+ <title>Cannon Fodder - Boothill</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.3671</rating>
+ <info>Virgin, 1993
+
+&#34;We put the sad music over the top of the recruitment screen, which was an instrumental version of an old song I wrote it for the first person I fell in love with, back when I was 18 and really fell apart in that way you do at that age.&#34; -Jon Hare</info>
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 10:08:43</locked_until>
+ <lastplayed>2018-06-07 20:19:01</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5486">Jops</artist><artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2917</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

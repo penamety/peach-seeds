@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1485">
+ <title>Pacific shore</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.9032</rating>
+ 
+ <songlength>391</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 08:47:58</locked_until>
+ <lastplayed>2018-05-16 20:26:07</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="284">Darkhalo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>Mellow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

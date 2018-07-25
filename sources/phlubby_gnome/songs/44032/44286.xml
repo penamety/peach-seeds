@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44286">
+ <title>Victory</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.75</rating>
+ <info>From [url]http://janeway.exotica.org.uk/release.php?id=1840[/url]</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 19:46:43</locked_until>
+ <lastplayed>2018-04-11 05:48:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="488">Gladiator</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

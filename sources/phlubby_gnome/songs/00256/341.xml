@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="341">
+ <title>Alcoholic Score</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.625</rating>
+ 
+ <songlength>290</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 05:38:39</locked_until>
+ <lastplayed>2018-05-31 14:45:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8077</pouetid>
+ <ytid>-HOnE_aRNRc</ytid>
+ <ytoffset>87</ytoffset>
+ 
+ <artists>
+  <artist id="68">Audiomonster</artist>
+ </artists>
+ <groups>
+  <group id="163">Melon Dezign</group>
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>alcohol</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Hurricane&amp;BrutalSummerParty</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-HOnE_aRNRc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

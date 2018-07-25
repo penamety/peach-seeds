@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26981">
+ <title>Rotagilla</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.0769</rating>
+ <info>FM + PCM samples in ScreamTracker 3. Use ST3, Schism Tracker or any other software that can play S3M files with adlib patches.
+Also watch the [url=http://www.youtube.com/watch?v=-lFNYJ7B820]video[/url] of the tune playing in ST3.
+
+Track 10 from Ubiktune&#39;s 11th release, &#34;Autumntunes&#34;.  Download link here: http://ubiktune.org/releases/ubi011/</info>
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 18:25:10</locked_until>
+ <lastplayed>2018-01-26 02:42:36</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>FM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

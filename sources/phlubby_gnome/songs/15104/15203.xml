@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15203">
+ <title>Ftuffe</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.2778</rating>
+ <info>Used in Vector Demoes #2 by Gate: http://bitworld.bitfellas.org/demo.php?id=14438</info>
+ <songlength>110</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 20:07:45</locked_until>
+ <lastplayed>2018-05-30 09:54:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>10475</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="147">Bruno</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

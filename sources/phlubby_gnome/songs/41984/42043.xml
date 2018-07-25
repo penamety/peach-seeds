@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42043">
+ <title>My Time with Mim</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">4.1333</rating>
+ <info>5th# in Outline 2015 newschool music compo</info>
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-26 12:35:46</locked_until>
+ <lastplayed>2018-04-09 03:16:57</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="36">Satanic Kids Enterprise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>outline</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/138075/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

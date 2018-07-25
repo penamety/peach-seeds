@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30242">
+ <title>Chipdancers</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">3.7857</rating>
+ <info>Entry for Music compo @Main#5 2010. Had to rush, bad sound :( Live recording from Atari ST / Game Boy / Renoise MIDI sync.
+
+Ranked 2nd in the compo.</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 04:55:37</locked_until>
+ <lastplayed>2018-05-30 04:26:31</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

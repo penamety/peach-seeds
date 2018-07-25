@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4632">
+ <title>Chausettequipue</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6842</rating>
+ 
+ <songlength>129</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 21:35:47</locked_until>
+ <lastplayed>2018-05-31 00:00:11</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>64995</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="760">MED</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

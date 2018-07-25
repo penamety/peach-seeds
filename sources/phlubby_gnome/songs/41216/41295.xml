@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41295">
+ <title>Jordgubbar Memories</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">4.0588</rating>
+ <info>Sommarhack 2012 competition entry.
+Composed using the Atari Falcon Ace tracker.</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 21:37:46</locked_until>
+ <lastplayed>2018-06-06 01:23:52</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>v=lV8UqEL0w5M</ytid>
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

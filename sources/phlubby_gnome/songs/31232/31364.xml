@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31364">
+ <title>Trail of the Ending Tale</title>
+ <status v="A">Active</status>
+ <bitrate>137</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.1087</rating>
+ <info>This is a collaboration by Elrinth, lemonade, Oliver Meres and rams. Enjoy!
+
+Tools used: Milkytracker &amp; Renoise</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 09:22:40</locked_until>
+ <lastplayed>2018-04-15 22:56:07</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>56430</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1681">Elrinth</artist><artist id="1999">lemonade</artist><artist id="1872">Oliwerko</artist><artist id="1764">rams</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10806">
+ <title>Relation Theory</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.7692</rating>
+ <info>Relation Theory
+a co-op tune between Chuck Biscuits and Ozone
+
+Originally finished in september 1995 for a Heretics intro called &#34;Two&#34; and released in october 1996 under the Kosmic Free Music Foundation.
+Tested fine in IT, CapaMod and Mod4Win. DO NOT PLAY in Cubic!: the volume slides are completely incorrect.
+
+25.10.96
+</info>
+ <songlength>191</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-20 12:31:08</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1843">Chuck Biscuits</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

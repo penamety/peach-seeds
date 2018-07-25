@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28575">
+ <title>Phon (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">3.7722</rating>
+ <info>1st place in combined demo compo at The Gathering 2010</info>
+ <songlength>274</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 07:44:42</locked_until>
+ <lastplayed>2018-06-12 05:40:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>54578</pouetid>
+ <ytid>th2oP8WPGGQ</ytid>
+ <ytoffset>24</ytoffset>
+ 
+ <artists>
+  <artist id="1427">Kaktusen</artist>
+ </artists>
+ <groups>
+  <group id="447">PlayPsyCo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>PlayPsyCo</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=th2oP8WPGGQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

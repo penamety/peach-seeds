@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41266">
+ <title>Ross2</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6154</rating>
+ 
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 11:47:12</locked_until>
+ <lastplayed>2018-06-09 19:01:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>64338</pouetid>
+ <ytid>KhpC6EZMZy0</ytid>
+ 
+ 
+ <artists>
+  <artist id="3322">Okkie</artist><artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

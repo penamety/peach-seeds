@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44527">
+ <title>Chapell</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Date of this song unknown, was mid to late 90s.</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 04:28:08</locked_until>
+ <lastplayed>2018-05-30 06:12:24</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5760">Dirk</artist><artist id="5761">Yorak</artist>
+ </artists>
+ <groups>
+  <group id="878">Mauve</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?36218</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

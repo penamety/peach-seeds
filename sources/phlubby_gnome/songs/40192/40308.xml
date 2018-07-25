@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40308">
+ <title>Titel 2</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="12">2.75</rating>
+ 
+ <songlength>210</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-02 00:04:26</locked_until>
+ <lastplayed>2017-11-09 07:21:16</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5485">Jörg Schütte</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

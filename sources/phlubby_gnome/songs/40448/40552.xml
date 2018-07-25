@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40552">
+ <title>Karakoa</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.9</rating>
+ <info>3rd place in Freestyle music compo, @party 2014</info>
+ <songlength>166</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-24 18:51:36</locked_until>
+ <lastplayed>2018-02-18 12:58:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1999">lemonade</artist>
+ </artists>
+ <groups>
+  <group id="645">#cubernicus [CBC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>atparty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

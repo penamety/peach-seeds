@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43918">
+ <title>Engage</title>
+ <status v="A">Active</status>
+ <bitrate>252</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.0769</rating>
+ 
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 17:41:33</locked_until>
+ <lastplayed>2018-05-23 04:23:30</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>69658</pouetid>
+ <ytid>XzQSXXejiNU</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="528">h0ffman</artist><artist id="5715">Wobble</artist>
+ </artists>
+ <groups>
+  <group id="846">Logicoma [LGC]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XzQSXXejiNU</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/170759/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

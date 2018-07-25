@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42400">
+ <title>EatMe - Alpha</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">1.6</rating>
+ <info>Digital music.. for you.. by EatMe - [url]http://eatme.pro[/url]
+
+Download .mp3 + .flac + .xrns Renoise song:
+[url]http://eatme.pro/music[/url] (.mp3 + .flac)
+[url]http://archive.org/download/ietmie/EatMe_-_alpha.mp3[/url] (.mp3)
+[url]http://archive.org/download/free_music_by_eatme/EatMe_-_Alpha.flac[/url] (.flac)
+[url]http://forum.renoise.com/index.php/topic/44962-songs-eatme-alpha-2-renoise-version/[/url] (.xrns) for Renoise 3.0.1+
+[url]http://soundcloud.com/eatme/alpha[/url] (.mp3)
+[url]http://www.youtube.com/watch?v=IbTLJugwYKQ[/url] (youtube)
+
+With a broadcast or share, please mention EatMe&#39;s music online: [url]http://eatme.pro[/url] or [url]http://soundcloud.com/eatme[/url] , so people know where to download this music by EatMe.
+
+Some rights reserved, see [url]http://creativecommons.org/licenses/by-nc-nd/3.0/[/url] - by EatMe - [url]http://eatme.pro[/url]
+</info>
+ <songlength>318</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 21:06:07</locked_until>
+ <lastplayed>2018-05-04 16:01:00</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ <ytid>IbTLJugwYKQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="4039">EatMe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IbTLJugwYKQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

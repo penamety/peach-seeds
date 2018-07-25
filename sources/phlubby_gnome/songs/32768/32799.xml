@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32799">
+ <title>Machined soundtrack</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">3.9655</rating>
+ <info>Soundtrack from the &#34;machined&#34; demo by triebkraft &amp; 4th dimension, 3rd place at Sundown 2007 Oldschool Demo competition.</info>
+ <songlength>194</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 19:41:21</locked_until>
+ <lastplayed>2018-05-24 18:33:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>32116</pouetid>
+ <ytid>mE6LKVKHvJM</ytid>
+ 
+ 
+ <artists>
+  <artist id="4239">Fatal Snipe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>Sundown</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=mE6LKVKHvJM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

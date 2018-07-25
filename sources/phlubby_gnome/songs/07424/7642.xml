@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7642">
+ <title>Alterraid</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">3.7895</rating>
+ <info>Download link: http://modarchive.org/index.php?request=view_by_moduleid&amp;query=165309</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 07:04:01</locked_until>
+ <lastplayed>2018-05-31 05:59:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2175</pouetid>
+ <ytid>3Od0iMMTZos</ytid>
+ 
+ 
+ <artists>
+  <artist id="383">Dune</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>8chn</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

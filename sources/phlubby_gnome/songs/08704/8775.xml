@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8775">
+ <title>Ocean Reloaded</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="102">4.4804</rating>
+ <info>Written for the Recollection C64 disk magazine. Excellent &amp; worth the read =)</info>
+ <songlength>383</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 03:23:58</locked_until>
+ <lastplayed>2018-05-25 04:43:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>24259</pouetid>
+ <ytid>M_N5UpZw5nk</ytid>
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

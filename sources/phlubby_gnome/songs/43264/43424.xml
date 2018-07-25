@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43424">
+ <title>Sheikhin it up</title>
+ <status v="A">Active</status>
+ <bitrate>211</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">3.6667</rating>
+ <info>Winning module in the Chip Music competition at Gerp 2016.</info>
+ <songlength>125</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-07 20:30:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>IQcqsRKPd6s</ytid>
+ 
+ 
+ <artists>
+  <artist id="5548">obbe</artist><artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group><group id="757">Powerline</group><group id="371">Traktor</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gerp</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

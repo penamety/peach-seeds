@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11613">
+ <title>The Traveller</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="8">3.0</rating>
+ <info>A FastTracker II module that got second in the music competition of Takeover &#39;98.
+
+It&#39;s samples are completely stolen from a Razor 1911 song, but I can&#39;t remember the title.
+</info>
+ <songlength>217</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-10 15:13:45</locked_until>
+ <lastplayed>2017-12-20 02:10:34</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1927">Kork</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6713">
+ <title>Sign of the worm</title>
+ <status v="R">Rejected</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">5.0</rating>
+ <info>Dune: Spice Opera was released by Virgin Records in 1992. The tracks were composed by Stéphane Picq and Philip Ulrich. Virgin Records was later sold to EMI, which then became the new holders of the copyright. Picq wishes to have the rights in order to rerelease the album, though they were not granted.
+http://en.wikipedia.org/wiki/Dune_Spice_Opera#Audio</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1141">Stéphane Picq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+  <tag>Dune</tag>
+  
+  <tag>opera</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

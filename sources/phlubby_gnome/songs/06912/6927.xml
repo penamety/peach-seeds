@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6927">
+ <title>Parakrishna</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.1111</rating>
+ 
+ <songlength>57</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-26 07:15:45</locked_until>
+ <lastplayed>2018-06-15 15:45:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>11117</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1217">Timeless</artist>
+ </artists>
+ <groups>
+  <group id="185">Axis</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

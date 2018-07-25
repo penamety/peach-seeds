@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11150">
+ <title>Summercon quickie intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.375</rating>
+ <info>Cheesy adlib toon by basehead/ice 4.24.95
+
+
+* Processed with ScreamTracker 3 (DOSBox Portable 0.72) and recorded with Audacity (Win XP Pro) *
+</info>
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-06 12:57:29</locked_until>
+ <lastplayed>2017-09-25 21:52:11</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

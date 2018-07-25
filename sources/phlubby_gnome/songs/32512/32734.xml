@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32734">
+ <title>PC-05: Flux</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.3621</rating>
+ <info>1st place in PC Demo compo at Revision 2011</info>
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 09:36:31</locked_until>
+ <lastplayed>2018-06-14 18:59:19</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56908</pouetid>
+ <ytid>jzWMAMKIIH0</ytid>
+ 
+ 
+ <artists>
+  <artist id="4161">Orhan Project</artist>
+ </artists>
+ <groups>
+  <group id="316">Panda Cube</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jzWMAMKIIH0</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

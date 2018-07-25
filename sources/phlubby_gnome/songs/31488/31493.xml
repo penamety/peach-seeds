@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31493">
+ <title>Chimera (Standfast Remix)</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">2.0588</rating>
+ 
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-26 04:00:23</locked_until>
+ <lastplayed>2017-10-31 14:57:47</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3381">Phil Bak</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

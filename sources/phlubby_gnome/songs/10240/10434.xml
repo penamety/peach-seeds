@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10434">
+ <title>Kentilla</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="74">2.3919</rating>
+ 
+ <songlength>768</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 10:00:30</locked_until>
+ <lastplayed>2018-06-11 13:17:52</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>rzyv_quIBU4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1986</tag>
+  
+  <tag>boring</tag>
+  
+  <tag>long</tag>
+  
+  <tag>monotone</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

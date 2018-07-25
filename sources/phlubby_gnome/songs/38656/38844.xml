@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38844">
+ <title>Texas Parade</title>
+ <status v="A">Active</status>
+ <bitrate>308</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>ZX Spectrum song </info>
+ <songlength>137</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-15 21:54:59</locked_until>
+ <lastplayed>2018-02-26 04:29:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32912">
+ <title>Hart Kinderheit Inpheed</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="38">4.1316</rating>
+ <info>Soundtrack from &#34;Weed&#34; demo by Triebkraft &amp; 4th Dimension, 1st at CAFe&#39;2003.</info>
+ <songlength>259</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 10:34:39</locked_until>
+ <lastplayed>2018-05-25 08:44:28</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>11130</pouetid>
+ <ytid>yLEm4uuiljs</ytid>
+ 
+ 
+ <artists>
+  <artist id="4238">Key-Jee</artist>
+ </artists>
+ <groups>
+  <group id="796">4th Dimension [4D]</group><group id="554">Triebkraft</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>CAFe</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yLEm4uuiljs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=5335</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

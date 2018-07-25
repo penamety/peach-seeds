@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12108">
+ <title>Spartacus</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.3118</rating>
+ <info>Title theme from the game &#34;Fiveteen&#39;S&#34; (15&#39;S) by by Greedy Guys Group 1996 (ZX Spectrum)</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 10:46:33</locked_until>
+ <lastplayed>2018-06-15 11:59:38</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  <group id="85">Silicon Brains</group>
+ </groups>
+ 
+ <tags>
+  <tag>15s</tag>
+  
+  <tag>1995</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Cartoon</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TV</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

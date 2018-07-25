@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29423">
+ <title>Scene Spirit</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.3188</rating>
+ <info>Atari ST</info>
+ <songlength>243</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 19:29:55</locked_until>
+ <lastplayed>2018-06-13 03:31:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

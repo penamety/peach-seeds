@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18940">
+ <title>No Way to Tipperary</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7879</rating>
+ <info>Used in a Virtual dreams dentro.</info>
+ <songlength>134</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 16:02:28</locked_until>
+ <lastplayed>2018-06-07 14:42:58</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14879</pouetid>
+ <ytid>uO0kBbHr6mc</ytid>
+ 
+ 
+ <artists>
+  <artist id="503">Groo</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group><group id="245">Virtual Dreams [VD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>Geography</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

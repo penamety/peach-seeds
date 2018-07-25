@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33752">
+ <title>I Wish It Would Just Go Away</title>
+ <status v="A">Active</status>
+ <bitrate>86</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.3438</rating>
+ 
+ <songlength>298</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 10:45:10</locked_until>
+ <lastplayed>2018-06-04 10:49:37</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57512</pouetid>
+ <ytid>DiwZl-td3bI</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1390">Gargaj</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group><group id="237">Traction</group><group id="471">Ümlaüt Design [UD]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>minimaltechno</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DiwZl-td3bI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

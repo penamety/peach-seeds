@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3013">
+ <title>Scrambled Mind</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="120">4.4583</rating>
+ 
+ <songlength>276</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 00:14:29</locked_until>
+ <lastplayed>2018-06-13 03:21:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2721</pouetid>
+ <ytid>5Z-fGwBewlk</ytid>
+ <ytoffset>18</ytoffset>
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

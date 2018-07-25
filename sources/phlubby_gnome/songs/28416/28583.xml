@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28583">
+ <title>Disrupt</title>
+ <status v="A">Active</status>
+ <bitrate>209</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.9846</rating>
+ <info>1st @ Breakpoint 2010 Streaming music compo</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 10:52:24</locked_until>
+ <lastplayed>2018-06-09 02:42:39</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1518">Puryx</artist>
+ </artists>
+ <groups>
+  <group id="33">TBC</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

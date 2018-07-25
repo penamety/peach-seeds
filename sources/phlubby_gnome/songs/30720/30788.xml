@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30788">
+ <title>Kalle Kloakk (msi-demo)</title>
+ <status v="A">Active</status>
+ <bitrate>136</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="41">4.0244</rating>
+ <info>This tune is a CPC cover version of a song from a Megastyle inc. C64 Demo called Kalle Kloakk. The original composer was Anders Rodahl (Rage) - kudos to him for that beautiful tune! </info>
+ <songlength>317</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 01:12:19</locked_until>
+ <lastplayed>2018-06-03 19:34:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>15401</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

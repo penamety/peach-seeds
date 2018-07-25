@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28670">
+ <title>Govermentro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">2.1875</rating>
+ 
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-02 12:24:07</locked_until>
+ <lastplayed>2017-05-29 06:01:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13193</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4119">Sarka&#39;s Surgery</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=U15a_XJ0ywA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

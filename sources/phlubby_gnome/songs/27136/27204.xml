@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27204">
+ <title>CNN Weather Report</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ 
+ <songlength>73</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-23 13:42:04</locked_until>
+ <lastplayed>2018-03-05 03:08:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1162">SuperNao</artist>
+ </artists>
+ <groups>
+  <group id="113">Lemon.</group>
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>smooth</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

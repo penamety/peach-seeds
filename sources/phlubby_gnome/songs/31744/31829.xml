@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31829">
+ <title>Tejcsokolade</title>
+ <status v="A">Active</status>
+ <bitrate>124</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">4.1333</rating>
+ 
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 07:25:10</locked_until>
+ <lastplayed>2018-05-13 21:29:16</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53876</pouetid>
+ <ytid>e9rahpeDN1g</ytid>
+ 
+ 
+ <artists>
+  <artist id="1911">Slyspy</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Function</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e9rahpeDN1g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

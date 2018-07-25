@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="205">
+ <title>Dark Age</title>
+ <status v="A">Active</status>
+ <bitrate>181</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="64">4.2813</rating>
+ 
+ <songlength>305</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:36:39</locked_until>
+ <lastplayed>2018-05-25 18:20:51</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="38">Allister Brimble</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Calm</tag>
+  
+  <tag>misterious</tag>
+  
+  <tag>moody</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43470">
+ <title>Ancient Art of Chiptune</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.125</rating>
+ <info>Listen on bandcamp: [url]https://gwem.bandcamp.com/track/ancient-art-of-chiptune[/url]</info>
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 04:45:40</locked_until>
+ <lastplayed>2018-03-08 14:08:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4731">gwEm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/104345/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

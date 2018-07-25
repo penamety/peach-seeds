@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41863">
+ <title>Panda Blues</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>One of my two entries for Chip Chop issue #16 released at Revision 2015.
+
+Kind of a slow-paced blues tune filled with some blues cliches with a C64 twist to it ;) .. Actually finished about a year ago but kept in the drawer for Chip Chop to be released..</info>
+ <songlength>198</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-13 03:12:36</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>65327</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Blues</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

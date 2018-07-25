@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39302">
+ <title>Compo Breaker</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0333</rating>
+ <info>For Sundown 2013 chiptune compo. Placed 2nd, out of 2 :D Was a close call with 1st position, though.
+
+My first Atari tune ever, done with MusicMon V2.5 by Dark Angel.
+No digisounds as i didnt know how to do them (lol) so just normal 3 channel sndh...</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 22:44:27</locked_until>
+ <lastplayed>2018-06-09 21:06:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

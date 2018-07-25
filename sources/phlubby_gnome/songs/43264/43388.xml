@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43388">
+ <title>Valentine</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.3077</rating>
+ <info>Released with Bitfellas Analysis Diskmag.</info>
+ <songlength>180</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 10:31:09</locked_until>
+ <lastplayed>2018-06-13 11:32:53</lastplayed>
+ 
+ <type id="12">Diskmag</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  <group id="285">BitFellas</group>
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

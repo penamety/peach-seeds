@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1955">
+ <title>The Dub</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>Originally (?) from Anthrox trainer [url]http://bitworld.bitfellas.org/demo.php?id=20203[/url]</info>
+ <songlength>298</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-29 10:47:18</locked_until>
+ <lastplayed>2017-06-21 20:33:37</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>58033</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="371">Dreamfish</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chiptune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

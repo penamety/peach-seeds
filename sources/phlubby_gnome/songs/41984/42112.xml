@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42112">
+ <title>Inside the screen</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.3333</rating>
+ <info>ZX Spectrum 48K with AY-interface.
+A song dedicated to Trixs, as ZX Spectrum graphic artist.</info>
+ <songlength>105</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 11:02:16</locked_until>
+ <lastplayed>2018-05-21 15:22:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

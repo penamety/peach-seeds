@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40316">
+ <title>The Show Must Go On</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">4.375</rating>
+ <info>The original written by Brian May in 1990</info>
+ <songlength>232</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 16:55:46</locked_until>
+ <lastplayed>2018-06-15 04:29:52</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>19980</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3413">PRI</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Queen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

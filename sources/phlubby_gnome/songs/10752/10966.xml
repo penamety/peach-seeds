@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10966">
+ <title>On Behalf  of the Queen</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="57">4.386</rating>
+ 
+ <songlength>129</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 02:11:57</locked_until>
+ <lastplayed>2018-06-11 17:00:38</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>30862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

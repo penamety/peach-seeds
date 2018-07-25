@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32576">
+ <title>Comic Bakery Mix</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">2.6</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-14 15:07:52</locked_until>
+ <lastplayed>2017-03-31 13:33:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4439">Marcer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ComicBakery</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

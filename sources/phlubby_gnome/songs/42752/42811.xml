@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42811">
+ <title>Illusions</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>http://csdb.dk/release/?id=141044
+
+Authors:
+MCH of Dream, Genesis Project, MultiStyle Labs
+Stinsen of Genesis Project
+
+Mixed Music Competition at Riverwash 2015 :  #4</info>
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 00:04:02</locked_until>
+ <lastplayed>2018-05-14 18:55:43</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3200">mch</artist><artist id="5097">Stinsen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Riverwash</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/144767/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

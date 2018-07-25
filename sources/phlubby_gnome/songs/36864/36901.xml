@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36901">
+ <title>Dark Side</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">3.5581</rating>
+ <info>SID chipset: MOS6581R4</info>
+ <songlength>755</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 17:14:42</locked_until>
+ <lastplayed>2018-06-13 20:34:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>41329</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1859">Hagar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>mystical</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=633</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

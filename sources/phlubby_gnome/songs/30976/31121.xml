@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31121">
+ <title>Alphaville</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="31">3.0645</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 02:44:51</locked_until>
+ <lastplayed>2018-03-10 08:01:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>4033</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="906">Pat</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

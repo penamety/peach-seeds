@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42111">
+ <title>Deadly Labyrinth of Lord Xyrx</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0323</rating>
+ <info>The song has been made on ZX Spectrum 48K with AY-interface, on Sound-Tracker 1.1, for a HOOY-PROGRAM game &#34;Deadly Labyrinth of Lord Xyrx&#34;.</info>
+ <songlength>310</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 00:35:40</locked_until>
+ <lastplayed>2018-06-10 23:31:13</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Speccy</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30785">
+ <title>Hyperpik (cover)</title>
+ <status v="A">Active</status>
+ <bitrate>143</bitrate>
+ <samplerate>22050</samplerate>
+ <rating votes="15">3.8667</rating>
+ <info>This one is a CPC cover version of some Amiga mod called &#34;hyperpiknupikale&#34; (IIRC)</info>
+ <songlength>64</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 00:38:57</locked_until>
+ <lastplayed>2018-03-17 03:37:55</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1862">BSC</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cpc</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7386">
+ <title>Melrose Space</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.5862</rating>
+ 
+ <songlength>341</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-18 21:41:31</locked_until>
+ <lastplayed>2018-03-14 23:35:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>162</pouetid>
+ <ytid>8dpRUQAA5Oc</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1298">Vic</artist>
+ </artists>
+ <groups>
+  <group id="519">Threestate [3S]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=12358</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

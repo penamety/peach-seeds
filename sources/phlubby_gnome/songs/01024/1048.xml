@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1048">
+ <title>40k Intro</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.4762</rating>
+ 
+ <songlength>84</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-15 23:28:50</locked_until>
+ <lastplayed>2018-04-10 03:33:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9631</pouetid>
+ <ytid>TcyeG7NClkQ</ytid>
+ <ytoffset>4</ytoffset>
+ 
+ <artists>
+  <artist id="207">Chromag</artist>
+ </artists>
+ <groups>
+  <group id="120">Dual Crew &amp; Shining</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>40k</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TcyeG7NClkQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

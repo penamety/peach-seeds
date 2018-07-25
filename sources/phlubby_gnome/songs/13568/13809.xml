@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13809">
+ <title>Nightshift</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="37">4.4324</rating>
+ <info>Winner of the C64 music competition at Core 2001.</info>
+ <songlength>159</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 12:00:55</locked_until>
+ <lastplayed>2018-03-16 14:30:19</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>12354</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11871">
+ <title>Le Pâté de Campagne</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">2.3421</rating>
+ <info>Vocals: GTK &amp; mAF
+
+Il me faut du pâté de campagne
+Il me faut du pâté pour le diner
+
+English:
+I need country-style pâté
+I need pâté for dinner
+</info>
+ <songlength>52</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 08:28:31</locked_until>
+ <lastplayed>2018-05-11 21:51:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>burp</tag>
+  
+  <tag>food</tag>
+  
+  <tag>FrenchSpeak</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

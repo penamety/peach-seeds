@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4345">
+ <title>Deeply Depressed</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.8065</rating>
+ 
+ <songlength>376</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 22:22:11</locked_until>
+ <lastplayed>2018-05-23 15:20:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10388</pouetid>
+ <ytid>x62sTsmUrRM</ytid>
+ <ytoffset>12</ytoffset>
+ 
+ <artists>
+  <artist id="319">Diablo</artist><artist id="715">Maestro</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

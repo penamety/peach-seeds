@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32868">
+ <title>Dihydrogenmonoxide [aka &#34;Saint&#34;]</title>
+ <status v="A">Active</status>
+ <bitrate>145</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0</rating>
+ 
+ <songlength>286</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 05:20:06</locked_until>
+ <lastplayed>2018-05-23 18:17:55</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16312</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist><artist id="1660">Trenedy</artist>
+ </artists>
+ <groups>
+  <group id="140">Excess</group><group id="139">Yaphan</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1168">
+ <title>Beauty and the Beast</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.3846</rating>
+ 
+ <songlength>252</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-07 14:37:06</locked_until>
+ <lastplayed>2018-04-13 03:39:30</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="211">Rico</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

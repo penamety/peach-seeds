@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44253">
+ <title>- Gabba Rulszh -</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">1.6875</rating>
+ <info>    Hay Fuck Off!!
+   this piece of art
+     was made by
+ -- Zetor / Jormas /
+   Kone / Lasol 1911 /
+  Foothill Assholes /
+  Shoggoth Team /
+   Wartec / FBI --
+
+----------------------
+Finnish Dudex Call:
+
+     TerrorDrome
+      972-54602
+     22:00-07:00
+       PCBoard
+----------------------</info>
+ <songlength>197</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 04:20:55</locked_until>
+ <lastplayed>2018-04-27 20:01:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5748">Zetor</artist>
+ </artists>
+ <groups>
+  <group id="40">dA JoRMaS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Gabber</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?94756</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

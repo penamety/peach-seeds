@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39567">
+ <title>No Compromise</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.1</rating>
+ <info>Music from &#34;Antimoney&#34; demo by Threestate.</info>
+ <songlength>178</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-12 18:16:54</locked_until>
+ <lastplayed>2017-08-04 17:07:15</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>285</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1010">Rez</artist>
+ </artists>
+ <groups>
+  <group id="519">Threestate [3S]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Lucky&amp;TigrouParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5461">
+ <title>Wonder Flow</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.8077</rating>
+ <info>Download link:
+
+http://modarchive.org/index.php?request=view_by_moduleid&amp;query=133262</info>
+ <songlength>112</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 00:01:26</locked_until>
+ <lastplayed>2018-05-31 05:17:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>8880</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="875">Nuke</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

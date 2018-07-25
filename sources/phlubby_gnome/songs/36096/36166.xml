@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36166">
+ <title>Yamaha Action</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="66">4.6667</rating>
+ <info>A part of Ubiktune&#39;s musicdisk: SOUNDSHOCK 2: FM FUNK TERRROR!!
+
+Track nr: 14/16, made using FM7
+
+UBI044, 05.04.2012, http://ubiktune.org/releases/ubi044-various-artists-soundshock-2-fm-funk-terrror</info>
+ <songlength>310</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 08:02:13</locked_until>
+ <lastplayed>2018-06-12 10:54:01</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="84">Bacter</artist><artist id="4220">Zinger</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>FM</tag>
+  
+  <tag>fusion</tag>
+  
+  <tag>neo80s</tag>
+  
+  <tag>SynthWave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

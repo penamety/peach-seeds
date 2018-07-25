@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31534">
+ <title>Defuse</title>
+ <status v="A">Active</status>
+ <bitrate>184</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="40">4.1</rating>
+ 
+ <songlength>430</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-24 18:25:57</locked_until>
+ <lastplayed>2018-05-22 17:05:57</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ambient</tag>
+  
+  <tag>Calm</tag>
+  
+  <tag>long</tag>
+  
+  <tag>quiet</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

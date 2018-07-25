@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8204">
+ <title>Boy Carrot v4</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">4.0333</rating>
+ 
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 07:30:32</locked_until>
+ <lastplayed>2018-03-29 10:44:24</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>50696</pouetid>
+ <ytid>UE5g6nRRAXI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1029">Roz</artist>
+ </artists>
+ <groups>
+  <group id="375">Fit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>food</tag>
+  
+  <tag>Icons</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

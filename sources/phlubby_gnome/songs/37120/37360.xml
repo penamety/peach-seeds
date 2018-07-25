@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37360">
+ <title>Critical Density</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.6786</rating>
+ <info>AMIGA 1200, DigiBooster 1.7 (8 channels). 
+
+The song comes from album &#34;RetroBeat&#34;
+DOWNLOAD: 
+http://yerzmyey.i-demo.pl/
+
+From the info tag: 
+*******************************
+This is my second song made on
+Amiga 1200 with standard CPU
+(Motorola 020, 14Mhz).
+
+The song has 8 channels and has been
+composed on DigiBooster 1.7. 
+
+All samples by me (made on the Amiga, 
+not on PC :) ). 
+
+Recorded from real hardware. (Stereo slightly modified).
+
+Greetz to all AMIGA fans! 
+*******************************
+
+
+</info>
+ <songlength>259</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 15:36:48</locked_until>
+ <lastplayed>2018-03-19 19:56:23</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="3">Oldskool</type>
+ 
+ <ytid>J8DH7k5H0j0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  <group id="295">Hooy-Program</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>retrobeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

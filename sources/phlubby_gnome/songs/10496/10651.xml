@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10651">
+ <title>Taurus 7</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0909</rating>
+ <info>Music from the asteroid Taurus 7.</info>
+ <songlength>256</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 18:07:06</locked_until>
+ <lastplayed>2018-01-18 07:13:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

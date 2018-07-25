@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10619">
+ <title>Git-song</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">1.7647</rating>
+ <info>Based around a nice lead guitar sample, this guitar song tells a story. Note the drum phrase which is modelled after a song by the hip hopper “Tone-Loc”.</info>
+ <songlength>157</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-15 19:25:15</locked_until>
+ <lastplayed>2018-02-17 06:40:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1851">Lord Performer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulGuitarSample</tag>
+  
+  <tag>OutOfTune</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

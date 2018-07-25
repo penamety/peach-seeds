@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6559">
+ <title>Goy Stole Final Re3</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.1765</rating>
+ 
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-08 09:42:22</locked_until>
+ <lastplayed>2017-05-31 16:50:15</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>702</pouetid>
+ <ytid>_6zDkih1Cyk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1091">Slide</artist>
+ </artists>
+ <groups>
+  <group id="165">Polka Brothers</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FridayatEight</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_6zDkih1Cyk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=4293</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

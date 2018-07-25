@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36570">
+ <title>AKE_4LEM</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.0</rating>
+ <info>A remix based on a song from the game &#34;Oh no! More Lemmings&#34;</info>
+ <songlength>150</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-30 10:41:27</locked_until>
+ <lastplayed>2017-09-21 23:40:56</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4191">Paokala</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

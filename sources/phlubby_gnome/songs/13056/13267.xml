@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13267">
+ <title>The Hit (froggies reset screen)</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="118">3.4746</rating>
+ <info>Song from a secret part of the demo.</info>
+ <songlength>995</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 18:16:36</locked_until>
+ <lastplayed>2018-05-19 07:00:47</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>8936</pouetid>
+ <ytid>oJhBXtaLgTI</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="578">Jess [fr]</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>froggies</tag>
+  
+  <tag>hoi</tag>
+  
+  <tag>long</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

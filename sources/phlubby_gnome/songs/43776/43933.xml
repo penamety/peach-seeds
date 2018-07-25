@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43933">
+ <title>Valley of the Spires</title>
+ <status v="R">Rejected</status>
+ <bitrate>525</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="1">5.0</rating>
+ <info>Impulse Tracker Song by Michiel Van Den Bos for the commercial game Unreal, 1998.</info>
+ <songlength>492</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>Never</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3199">MCA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41300">
+ <title>Thunderdome Demo - Part II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">4.0294</rating>
+ <info>Track for the Thunderdome Demo released by Checkpoint at Silly Venture 2014. Something a bit different, with simple instrument design, YM drums, no DMA, and very few SID voices to meet the demo constraints. Congrats to Checkpoint for the 1st place !</info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 16:56:50</locked_until>
+ <lastplayed>2018-05-30 17:27:30</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>64503</pouetid>
+ <ytid>Dwz0JhgDz1g</ytid>
+ <ytoffset>326</ytoffset>
+ 
+ <artists>
+  <artist id="1991">Ultrasyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Dwz0JhgDz1g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

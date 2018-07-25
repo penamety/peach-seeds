@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40170">
+ <title>Buratino Strikes Back</title>
+ <status v="A">Active</status>
+ <bitrate>1005</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>«Buratino» Strikes Back ;) ...of course, on AY!
+
+The original song is called &#34;Bu-ra-ti-no! The final song&#34; (Buratino - it&#39;s a Russian Pinocchio). Music by Alexey Rybnikov, lyrics by Yuri Entin.
+It comes from the Soviet children&#39;s musical film &#34;The Adventures of Buratino&#34; (on russian &#34;Приключения Буратино&#34;), Belarusfilm, USSR, 1975.
+Based on Aleksey Nikolayevich Tolstoy&#39;s tale &#34;The Golden Key, or Adventures of Buratino&#34;, USSR, 1936.</info>
+ <songlength>70</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-22 14:03:20</locked_until>
+ <lastplayed>2018-06-15 12:57:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5160">Bfox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>ChildrensSong</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/34284/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

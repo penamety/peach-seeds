@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27939">
+ <title>Lovn Owern Man</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.6818</rating>
+ <info>Windows-port for demo: [url]http://www.pouet.net/prod.php?which=6483[/url]</info>
+ <songlength>263</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-23 18:35:46</locked_until>
+ <lastplayed>2017-08-14 04:25:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>3606</pouetid>
+ <ytid>F64vTr9uhhY</ytid>
+ 
+ 
+ <artists>
+  <artist id="511">Heatbeat</artist><artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  <group id="129">Doomsday</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

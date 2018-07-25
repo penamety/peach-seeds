@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42079">
+ <title>3D Galax [AY Remake]</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.8889</rating>
+ <info>This is a cover of 3D Galax by a 16-channel XM mod by dubmood/Razor1911 (and it&#39;s probably cover of a song by Ben Daglish).  Squeezed into 3 channels of ZX Spectrum&#39;s AY sound chip. Uses ABC stereo separation.
+
+Soundtrack from &#34;Logout #20&#34; - ZX Spectrum gift-demo to Logout on his 32th birthday.</info>
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 22:45:04</locked_until>
+ <lastplayed>2018-05-26 16:08:20</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ <pouetid>65537</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1725">Factor6</artist>
+ </artists>
+ <groups>
+  <group id="782">Gemba Boys</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>Remake</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/137658/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

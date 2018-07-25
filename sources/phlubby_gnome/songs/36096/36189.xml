@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36189">
+ <title>Legends</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">4.24</rating>
+ <info>1st place in streaming music compo at Birdie 12</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-05 06:10:55</locked_until>
+ <lastplayed>2018-05-06 23:40:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2087">Wiklund</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Birdie</tag>
+  
+  <tag>Choir</tag>
+  
+  <tag>cinematic</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Symphony</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

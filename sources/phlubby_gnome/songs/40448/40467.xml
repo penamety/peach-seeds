@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40467">
+ <title>PlasmaScreen</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ <info>Tune release with the first 3D PlasmaScreen coded on ATARI ST by DIM.
+Remix performed by ACCXess</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-04 22:25:29</locked_until>
+ <lastplayed>2018-01-17 01:47:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ 
+ <ytid>http://youtu.be/D73mJgWRVdI</ytid>
+ 
+ 
+ <artists>
+  <artist id="357">Doclands</artist>
+ </artists>
+ <groups>
+  <group id="18">Overlanders</group>
+ </groups>
+ <labels>
+  <label id="2">8bitpeoples</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

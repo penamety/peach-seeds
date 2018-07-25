@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9690">
+ <title>Turrican 1 [title theme]</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="95">4.5684</rating>
+ <info>[url=http://www.exotica.org.uk/wiki/Turrican]TFMX download[/url]
+/pwl
+
+Download Link: http://www.f1-software.com/mp3/Chris%20Huelsbeck%20-%20Turrican%2001-Main%20Theme.mp3</info>
+ <songlength>240</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 12:27:57</locked_until>
+ <lastplayed>2018-05-27 06:33:01</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>G9cznwHK0Ok</ytid>
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Heroic</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1533</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38511">
+ <title>Starslug</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.3429</rating>
+ <info>&#34;Written in lovely AHX tracker on Amiga 1200 :)
+Released @ Revision 2013, got #4 place in oldschool music compo.&#34;</info>
+ <songlength>222</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 15:07:46</locked_until>
+ <lastplayed>2018-05-28 22:39:45</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>4th</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

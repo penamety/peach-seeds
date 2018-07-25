@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40165">
+ <title>Homunculi - Tune 2</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ <info>Made for c64 demo &#39; Homunculi &#39; by Dream.
+
+1st place @ Forever 2014.</info>
+ <songlength>167</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-09 17:11:41</locked_until>
+ <lastplayed>2018-03-23 01:29:47</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>62796</pouetid>
+ <ytid>d6aIvA3Pp8Q</ytid>
+ <ytoffset>230</ytoffset>
+ 
+ <artists>
+  <artist id="3200">mch</artist>
+ </artists>
+ <groups>
+  <group id="653">Genesis Project</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Forever</tag>
+  
+  <tag>olympiad</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=d6aIvA3Pp8Q</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

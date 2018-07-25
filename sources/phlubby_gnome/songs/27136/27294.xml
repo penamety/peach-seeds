@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27294">
+ <title>too_late_theme</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.7692</rating>
+ 
+ <songlength>154</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-28 19:09:21</locked_until>
+ <lastplayed>2018-01-06 13:55:50</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>18862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1915">Curt Cool</artist>
+ </artists>
+ <groups>
+  <group id="162">Depth</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40698">
+ <title>Let yourself go</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.1053</rating>
+ <info>Was made in 1996 , entry from Gravedigger compo at Nordlicht 2014. </info>
+ <songlength>267</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-12 08:16:11</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>Nordlicht</tag>
+  
+  <tag>pachelbel</tag>
+  
+  <tag>Whoo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

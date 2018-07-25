@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23989">
+ <title>Uhkaidaestae</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">1.72</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-20 00:53:25</locked_until>
+ <lastplayed>2017-12-24 07:54:23</lastplayed>
+ <platform id="34">GBA</platform>
+ <type id="2">Demo</type>
+ <pouetid>13054</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3540">Sauli</artist>
+ </artists>
+ <groups>
+  <group id="230">Jumalauta</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

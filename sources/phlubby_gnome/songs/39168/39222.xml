@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39222">
+ <title>Show Trixie what U got</title>
+ <status v="A">Active</status>
+ <bitrate>216</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.6154</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 02:40:46</locked_until>
+ <lastplayed>2018-03-25 01:43:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5234">Knoeki</artist>
+ </artists>
+ <groups>
+  <group id="701">Digital Sounds System</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

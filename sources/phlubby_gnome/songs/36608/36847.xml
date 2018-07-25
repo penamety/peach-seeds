@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36847">
+ <title>Enlighten (Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">4.1667</rating>
+ <info>2nd place in pc 4k compo at Evoke 2012</info>
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 01:08:43</locked_until>
+ <lastplayed>2018-03-24 06:43:05</lastplayed>
+ <platform id="38">4K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>59687</pouetid>
+ <ytid>cJPv3TAEAcM</ytid>
+ 
+ 
+ <artists>
+  <artist id="4112">xTr1m</artist>
+ </artists>
+ <groups>
+  <group id="298">BluFlame</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Evoke</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=cJPv3TAEAcM</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

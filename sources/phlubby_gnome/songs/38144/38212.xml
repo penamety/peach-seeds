@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38212">
+ <title>Teh Lsat Crhsitams</title>
+ <status v="A">Active</status>
+ <bitrate>171</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.8421</rating>
+ <info>Compowinner of CAO Scenecompo 2012</info>
+ <songlength>98</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 05:24:53</locked_until>
+ <lastplayed>2018-06-13 18:21:55</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Christmas</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

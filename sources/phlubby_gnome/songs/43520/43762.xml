@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43762">
+ <title>I am a SID (Alternative Facts)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.7778</rating>
+ <info>Make Fake SID great again, listen to all that music - a total disaster....
+
+On a more serious note, enjoy some uplifting party track. Donte with RMT Raster Music Tracker, as basic as it can be: Riding a single Pokey built in 1979....love that filthy overdriven sound &lt;3
+
+</info>
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-10 01:17:24</locked_until>
+ <lastplayed>2018-03-28 04:21:17</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="692">Insane</group>
+ </groups>
+ 
+ <tags>
+  <tag>Atari</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Datastorm</tag>
+  
+  <tag>Desire</tag>
+  
+  <tag>Fake</tag>
+  
+  <tag>Insane</tag>
+  
+  <tag>pokey</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>Wild</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/168064/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

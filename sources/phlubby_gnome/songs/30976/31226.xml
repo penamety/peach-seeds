@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31226">
+ <title>Wicked Dancing Robot</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5714</rating>
+ 
+ <songlength>205</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-15 16:12:43</lastplayed>
+ 
+ <type id="5">Remix</type>
+ <pouetid>54203</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4579">uuav</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

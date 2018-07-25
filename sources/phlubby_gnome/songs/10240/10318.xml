@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10318">
+ <title>Euphonik (Final Version)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.8214</rating>
+ 
+ <songlength>235</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 10:30:38</locked_until>
+ <lastplayed>2018-04-29 21:08:44</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>365</pouetid>
+ <ytid>L_lD7iqG8nA</ytid>
+ 
+ 
+ <artists>
+  <artist id="421">Estrayk</artist>
+ </artists>
+ <groups>
+  <group id="578">iguana</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=L_lD7iqG8nA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

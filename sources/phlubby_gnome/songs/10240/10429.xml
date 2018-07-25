@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10429">
+ <title>One Man And His Droid</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="93">4.2258</rating>
+ <info>Borrows few notes from the beginning of Police Woman theme (a long version with strings) by Henry Mancini</info>
+ <songlength>349</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-23 20:41:01</locked_until>
+ <lastplayed>2018-05-23 00:15:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>qo-DjywmIGA</ytid>
+ <ytoffset>55</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Heroic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

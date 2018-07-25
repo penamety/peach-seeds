@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40372">
+ <title>Feetwiggler</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="24">3.9167</rating>
+ 
+ <songlength>254</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 00:48:43</locked_until>
+ <lastplayed>2018-04-26 03:40:25</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2211">Alk</artist><artist id="5494">Mr Z</artist><artist id="5491">XyCe</artist>
+ </artists>
+ <groups>
+  <group id="49">Titan</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1165">
+ <title>Killing Party</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.6111</rating>
+ 
+ <songlength>236</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 18:32:48</locked_until>
+ <lastplayed>2018-03-10 11:17:55</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="208">Chrylian</artist><artist id="1215">Thug</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Saturne</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

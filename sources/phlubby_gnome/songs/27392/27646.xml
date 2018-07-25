@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27646">
+ <title>Quedex (infected leads)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="67">3.7463</rating>
+ <info>Original SID by Matt Gray.
+Quedex with leads inspired by Infected Mushroom.</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 23:05:05</locked_until>
+ <lastplayed>2018-05-27 13:11:24</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="625">PowerTrace</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>distortedguitar</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34780">
+ <title>Gloria in Exelsis Deo</title>
+ <status v="A">Active</status>
+ <bitrate>187</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">3.0909</rating>
+ 
+ <songlength>264</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:56:08</locked_until>
+ <lastplayed>2018-05-24 19:51:33</lastplayed>
+ 
+ <type id="5">Remix</type>
+ <pouetid>58214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1196">THC Flatline</artist>
+ </artists>
+ <groups>
+  <group id="450">BaSShuT</group>
+ </groups>
+ 
+ <tags>
+  <tag>Christmas</tag>
+  
+  <tag>HappyHardcore</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8280">
+ <title>UMD 8730 - Intro</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="236">4.4449</rating>
+ <info>Intro Soundtrack from the &#34;Ultimate Muzak Demo 8730&#34; - Atari ST/E Musicdisk by Psycho Hacking Force.
+3rd place in the ST News International Christmas Coding Convention (STNICCC) 2000 Demo competition.</info>
+ <songlength>1230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 15:39:01</locked_until>
+ <lastplayed>2018-05-21 01:52:41</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>7787</pouetid>
+ <ytid>gmX_WfwtnmY</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="1177">Tao</artist>
+ </artists>
+ <groups>
+  <group id="518">Psycho Hacking Force [PHF]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>AtariST</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>Jam</tag>
+  
+  <tag>long</tag>
+  
+  <tag>medley</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>STNICCC</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XBr25IAz7mM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/65502/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36898">
+ <title>Twintris [ingame]</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ <info>SID chipset: MOS6581R2
+
+Can&#39;t prove scene relevence of this song, so your best bet is to upload this to CVGM.NET instead.
+
+Update: Sure it can be proved, it&#39;s from a C64 conversion of classic Amiga game Twintris, by group Megastyle [url]http://csdb.dk/release/?id=2954[/url] -serp</info>
+ <songlength>367</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-29 18:30:46</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4529">Rage [of Megastyle]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

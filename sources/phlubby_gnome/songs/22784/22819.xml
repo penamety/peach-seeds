@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="22819">
+ <title>Fun Song</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.0</rating>
+ 
+ <songlength>85</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-23 07:40:47</locked_until>
+ <lastplayed>2017-06-11 09:09:06</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3396">Platon42</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

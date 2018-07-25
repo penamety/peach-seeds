@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28833">
+ <title>Veridis Quo</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="68">3.8088</rating>
+ <info>Remix of a well-known Daft Punk track.</info>
+ <songlength>386</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-13 17:01:07</locked_until>
+ <lastplayed>2018-06-10 06:36:41</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4153">EvilWezil</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>DaftPunk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

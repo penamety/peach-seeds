@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31940">
+ <title>After Hours (feat. Nik Ander)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.5</rating>
+ <info>10th in the streamed music compo @ tUM 2009.</info>
+ <songlength>273</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 04:48:20</locked_until>
+ <lastplayed>2018-05-17 18:38:09</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="2028">tEiS</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

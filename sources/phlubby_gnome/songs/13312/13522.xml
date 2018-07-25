@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13522">
+ <title>Saturation</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.3636</rating>
+ <info>&#34;ACE-tracker samplecompo (2nd)&#34;
+
+ACE Tracker format
+
+Recording from 505&#39;s website.</info>
+ <songlength>126</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-30 09:30:26</locked_until>
+ <lastplayed>2018-03-16 05:42:15</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Progressive</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

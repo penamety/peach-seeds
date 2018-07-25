@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44210">
+ <title>Fighting for Transistions</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">2.625</rating>
+ <info>Main Tune from the Atari XL Demo &#34;We are still fighting for Transistions, but the effects are pretty cool&#34;
+
+Single Pokey Chip, tracked with RMT Raster Music Tracker</info>
+ <songlength>155</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 09:41:17</locked_until>
+ <lastplayed>2018-05-18 10:47:36</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="2">Demo</type>
+ <pouetid>71124</pouetid>
+ <ytid>BZ3wb4UvsG0</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=BZ3wb4UvsG0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/176030/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

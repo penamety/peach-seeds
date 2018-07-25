@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24574">
+ <title>An Important Thought</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>Ranked 5th in the multichannel music compo at Assembly 2001.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 10:09:21</locked_until>
+ <lastplayed>2018-05-23 03:50:36</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1096">Smash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

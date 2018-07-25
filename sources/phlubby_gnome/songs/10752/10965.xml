@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10965">
+ <title>Nuance</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">4.0526</rating>
+ <info>Also on 505&#39;s &#34;HYMNS&#34; album, 2012</info>
+ <songlength>121</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 06:19:39</locked_until>
+ <lastplayed>2018-06-02 19:27:46</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>30862</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="42">Paradox</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11391">
+ <title>San Angeles Observation</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.0851</rating>
+ <info>4k synth music
+1st place in combined 4k compo at Assembly 2004</info>
+ <songlength>109</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 15:19:31</locked_until>
+ <lastplayed>2017-12-09 07:52:45</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>13020</pouetid>
+ <ytid>_mIzvdMBkho</ytid>
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  <group id="212">Armada</group><group id="446">trauma</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>4k</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Geography</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=_mIzvdMBkho</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

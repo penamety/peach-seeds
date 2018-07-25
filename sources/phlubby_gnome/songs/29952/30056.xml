@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30056">
+ <title>Bappalander</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>MP3 recording From Stone Oakvalley SOASC
+http://www.6581-8580.com/ for CSG8580R5.</info>
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 12:55:21</locked_until>
+ <lastplayed>2018-03-17 04:29:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4357">Stormbringer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

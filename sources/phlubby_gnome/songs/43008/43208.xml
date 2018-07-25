@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43208">
+ <title>Koirra</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>#1 at Nectarine Animal Compo</info>
+ <songlength>133</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-30 01:44:02</locked_until>
+ <lastplayed>2018-04-29 10:41:10</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

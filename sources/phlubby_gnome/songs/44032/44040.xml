@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44040">
+ <title>Helicoid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.2308</rating>
+ <info>This is a re-version and re-master of my SID tune &#34;Helicoid&#34; which was awarded 1st. place the the commodore 64 music compo at Forever 2017.
+This is part of my album &#34;Helicoid&#34;.</info>
+ <songlength>278</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 12:52:20</locked_until>
+ <lastplayed>2018-06-10 15:07:22</lastplayed>
+ 
+ <type id="6">Commercial CD</type>
+ 
+ <ytid>KPeJhr8VmM4</ytid>
+ 
+ 
+ <artists>
+  <artist id="3819">Uctumi</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Space</tag>
+  
+  <tag>Spacesynth</tag>
+  
+  <tag>synthpop</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KPeJhr8VmM4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/2Y2HmK4OhYmTdvBhSA3YqQ</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

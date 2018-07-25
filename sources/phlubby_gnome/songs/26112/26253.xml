@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26253">
+ <title>Tiger Road - Ingame</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.3684</rating>
+ <info>Gamemusic, from Amiga port of the arcade game &#34;Tiger Road&#34; by Capcom</info>
+ <songlength>279</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-05 02:41:12</locked_until>
+ <lastplayed>2017-11-14 23:40:09</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>oRYQAniCBQo</ytid>
+ <ytoffset>182</ytoffset>
+ 
+ <artists>
+  <artist id="2012">Jas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Arcade</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Oriental</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1397</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=2653</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

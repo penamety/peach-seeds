@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39379">
+ <title>Hydrostatic</title>
+ <status v="A">Active</status>
+ <bitrate>476</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">3.6667</rating>
+ <info>ZX Spectrum entry for WeCan 2013 chip music compo, made with Vortex Tracker II.</info>
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 04:41:33</locked_until>
+ <lastplayed>2018-06-02 04:45:18</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>water</tag>
+  
+  <tag>WeCan</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

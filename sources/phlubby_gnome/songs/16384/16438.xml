@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16438">
+ <title>Dead Meat</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.68</rating>
+ <info>project : Dead Meat (aka Chicken Bomb) game by Bug Factory (old belgian demoparty team Paradise Studio)
+</info>
+ <songlength>281</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 12:56:33</locked_until>
+ <lastplayed>2018-06-15 09:15:00</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="260">Cyborg Jeff</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>food</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

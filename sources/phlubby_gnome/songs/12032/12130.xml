@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12130">
+ <title>Unreal II</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">3.7895</rating>
+ <info>2nd at Chaos Constructions 999 AY music competition.
+19th at CC999.999 AY music competition (normal results).
+22nd at CC999.999 AY music competition (alternative results).</info>
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 14:15:22</locked_until>
+ <lastplayed>2018-05-28 15:06:15</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1735">DJ Serg</artist>
+ </artists>
+ <groups>
+  <group id="48">Fishbone</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Remix</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=527</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

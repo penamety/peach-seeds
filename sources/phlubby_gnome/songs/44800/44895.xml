@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44895">
+ <title>Raster v2</title>
+ <status v="A">Active</status>
+ <bitrate>499</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">3.8</rating>
+ 
+ <songlength>147</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 05:06:21</locked_until>
+ <lastplayed>2018-05-29 04:49:19</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="5">Remix</type>
+ <pouetid>75963</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

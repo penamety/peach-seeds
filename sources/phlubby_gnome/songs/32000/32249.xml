@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32249">
+ <title>A Realm Beyond The Mists</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.2273</rating>
+ 
+ <songlength>473</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 18:52:48</locked_until>
+ <lastplayed>2018-05-23 01:11:12</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2776">Gargoyle</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

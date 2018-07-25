@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40965">
+ <title>Vomitoxin</title>
+ <status v="A">Active</status>
+ <bitrate>264</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">3.3846</rating>
+ <info>Used in the &#34;20 Years Samar&#34; C64 Musicdisk</info>
+ <songlength>87</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-16 17:45:08</locked_until>
+ <lastplayed>2017-11-26 12:30:03</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>61871</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5536">Svetlana Tovarisch</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=M0pQ_gBJ38c</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

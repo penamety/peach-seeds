@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20929">
+ <title>Shadowz Pleasure</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.0</rating>
+ 
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-11 02:36:33</locked_until>
+ <lastplayed>2017-10-20 18:11:27</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>18032</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5249">Mike (Sinners)</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

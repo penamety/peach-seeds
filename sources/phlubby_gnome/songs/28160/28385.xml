@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28385">
+ <title>Sweet and Sour</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="38">4.4211</rating>
+ <info>CSG8580R5</info>
+ <songlength>85</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 00:01:35</locked_until>
+ <lastplayed>2018-06-10 20:49:39</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>9308</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3413">PRI</artist>
+ </artists>
+ <groups>
+  <group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

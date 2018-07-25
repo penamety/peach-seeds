@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39859">
+ <title>Magnetar</title>
+ <status v="A">Active</status>
+ <bitrate>268</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.6429</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 01:55:55</locked_until>
+ <lastplayed>2018-03-13 05:10:46</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>62333</pouetid>
+ <ytid>PEubbvJfjO4</ytid>
+ 
+ 
+ <artists>
+  <artist id="2045">Alpha C</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>tUM</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=PEubbvJfjO4</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

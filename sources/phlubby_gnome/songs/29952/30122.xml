@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30122">
+ <title>Peanuts</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="25">4.2</rating>
+ 
+ <songlength>130</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 10:19:55</locked_until>
+ <lastplayed>2018-05-12 16:58:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>8782</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="364">Don Cato</artist>
+ </artists>
+ <groups>
+  <group id="125">Talent</group>
+ </groups>
+ 
+ <tags>
+  <tag>Organ</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

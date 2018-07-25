@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11335">
+ <title>Weight of the Future (Demo version)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="41">3.5122</rating>
+ 
+ <songlength>279</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 06:48:21</locked_until>
+ <lastplayed>2018-06-16 20:04:08</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>24552</pouetid>
+ <ytid>IRtsJoTUHzA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=IRtsJoTUHzA</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

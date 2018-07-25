@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43416">
+ <title>Hands On Modern Talking - Geronimo&#39;s Cadillac</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.7778</rating>
+ <info>Space remake of Modern Talkings Geronimos Cadillac!</info>
+ <songlength>193</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 01:56:40</locked_until>
+ <lastplayed>2018-03-28 10:45:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1122">Spiral</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>ModernTalking</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38448">
+ <title>PC-07: Breached</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">3.8</rating>
+ <info>4th place in pc demo compo at Revision 2013</info>
+ <songlength>202</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 17:30:52</locked_until>
+ <lastplayed>2018-06-14 19:06:40</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>61238</pouetid>
+ <ytid>5IdMyDNrq0Q</ytid>
+ 
+ 
+ <artists>
+  <artist id="4161">Orhan Project</artist>
+ </artists>
+ <groups>
+  <group id="316">Panda Cube</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5IdMyDNrq0Q</url>
+    <comment>Highquality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

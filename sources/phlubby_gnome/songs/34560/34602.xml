@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34602">
+ <title>Creative Human</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="23">3.3913</rating>
+ <info>2nd song from Vision&#39;s Megademo 1 on the Amiga</info>
+ <songlength>245</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 14:40:51</locked_until>
+ <lastplayed>2018-06-04 10:09:33</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1469</pouetid>
+ <ytid>Xlk8JWMFsfQ</ytid>
+ <ytoffset>85</ytoffset>
+ 
+ <artists>
+  <artist id="1580">Walkman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Groovy</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

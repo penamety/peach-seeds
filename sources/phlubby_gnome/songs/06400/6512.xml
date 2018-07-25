@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6512">
+ <title>InvTro&#39;94 music</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.8261</rating>
+ <info>The Assembly&#39;94 pre-invitation intro music (not used)</info>
+ <songlength>132</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-01 19:04:23</locked_until>
+ <lastplayed>2018-01-14 07:45:56</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1081">Skaven</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Assembly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

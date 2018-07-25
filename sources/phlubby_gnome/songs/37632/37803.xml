@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37803">
+ <title>Contour</title>
+ <status v="A">Active</status>
+ <bitrate>189</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0</rating>
+ <info>2nd place in pc demo compo at Takeover 1999</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-01-09 09:07:14</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="2">Demo</type>
+ <pouetid>31</pouetid>
+ <ytid>G7SSi5hiMUw</ytid>
+ 
+ 
+ <artists>
+  <artist id="252">Crystal Score</artist>
+ </artists>
+ <groups>
+  <group id="29">The Black Lotus</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>Takeover</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=G7SSi5hiMUw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

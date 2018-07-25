@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6448">
+ <title>Pulse</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">2.1818</rating>
+ 
+ <songlength>305</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 00:52:39</locked_until>
+ <lastplayed>2018-05-04 21:16:09</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>70</pouetid>
+ <ytid>hDEnFyvQLdg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1055">Shad</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

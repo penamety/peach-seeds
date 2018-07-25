@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36009">
+ <title>Epilepsilon</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="29">3.6897</rating>
+ <info>7th place in pc 64k compo at Revision 2012</info>
+ <songlength>89</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-19 00:58:46</locked_until>
+ <lastplayed>2018-02-28 01:07:39</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="5">Remix</type>
+ <pouetid>59132</pouetid>
+ <ytid>XtQVb44bumA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1284">Unknown</artist>
+ </artists>
+ <groups>
+  <group id="410">Stroboholics</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=XtQVb44bumA</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

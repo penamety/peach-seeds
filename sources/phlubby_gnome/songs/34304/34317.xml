@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34317">
+ <title>Funci Ton</title>
+ <status v="A">Active</status>
+ <bitrate>316</bitrate>
+ <samplerate>32000</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>&#34;This piece of music was created for the Function 2011 Music competition. It&#39;s a 32k executable, but there was only a combined tracked/executable/streaming compo, so I gave it a shot with this 32k anyway.&#34;</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-14 13:40:25</locked_until>
+ <lastplayed>2018-05-06 00:33:26</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Function</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

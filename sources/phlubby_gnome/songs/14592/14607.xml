@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14607">
+ <title>Little Pinocchio</title>
+ <status v="B">Banned</status>
+ <bitrate>119</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">1.24</rating>
+ 
+ <songlength>92</songlength>
+ <locked>True</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2015-03-21 02:02:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50355</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2275">Bar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

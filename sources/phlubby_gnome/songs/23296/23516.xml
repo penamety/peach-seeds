@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="23516">
+ <title>Pumpe/Düse</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">3.5385</rating>
+ <info>Winner of the mp3 compo @ Geekcamp 2005 (but made in 2004, according to jco&#39;s website).</info>
+ <songlength>224</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 07:44:13</locked_until>
+ <lastplayed>2018-06-02 06:37:41</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="569">jco</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Geekcamp</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

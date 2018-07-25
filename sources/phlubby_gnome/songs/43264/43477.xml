@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43477">
+ <title>I Hope It Hurts</title>
+ <status v="A">Active</status>
+ <bitrate>110</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ <info>6th place at North Party V6.0
+
+R5 recording from Stone Oakvalley&#39;s site</info>
+ <songlength>203</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 01:43:44</locked_until>
+ <lastplayed>2018-04-13 20:01:12</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2096">Wacek</artist>
+ </artists>
+ <groups>
+  <group id="99">Arise</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Experimental</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/release/?id=26122</url>
+    <comment></comment>
+    <type id="25">
+        <name>CSDb (release)</name>
+        <icon>/static/media/linkicons/favicon_1_TcYHNvE.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

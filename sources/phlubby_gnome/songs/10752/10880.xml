@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10880">
+ <title>Glow Bug</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.8333</rating>
+ <info>(c) basehead / fm 1995
+
+some samples and a few of the patterns this was based on are by: supernao/vd-flt (werd man )
+peace peace peace peace....
+</info>
+ <songlength>391</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 21:48:03</locked_until>
+ <lastplayed>2018-05-26 16:20:03</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="95">Basehead</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9717">
+ <title>Turrican 3 [world 2 - part 3] &#34;swim or die&#34;</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">2.4444</rating>
+ <info>[url=http://www.exotica.org.uk/wiki/Turrican_3]TFMX download[/url]
+/pwl
+
+Download Link: http://www.f1-software.com/mp3/Chris%20Huelsbeck%20-%20Turrican%203%2010-Swim%20Or%20Die.mp3</info>
+ <songlength>63</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-31 20:40:25</locked_until>
+ <lastplayed>2017-12-07 21:53:45</lastplayed>
+ <platform id="35">TFMX</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="205">Chris Hülsbeck</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Turrican</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1537</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

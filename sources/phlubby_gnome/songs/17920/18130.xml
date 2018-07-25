@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="18130">
+ <title>Knucklebusters y2k</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">1.5455</rating>
+ 
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 04:39:30</locked_until>
+ <lastplayed>2018-05-08 10:39:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="434">Fash</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>OutOfSync</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

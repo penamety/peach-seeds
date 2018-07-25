@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11677">
+ <title>Trapped</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.125</rating>
+ <info>Created in Ninnju</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-13 13:39:13</locked_until>
+ <lastplayed>2018-04-12 06:31:19</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1938">Neil Baldwin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

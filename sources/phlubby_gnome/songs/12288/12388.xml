@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12388">
+ <title>Dr. Mario - Funky Pills</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">3.8947</rating>
+ <info>&#34;Chill and fever. Remixed. Aw, yeah. I am messed up.&#34;</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 07:37:31</locked_until>
+ <lastplayed>2017-12-22 03:10:12</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1575">Virt</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>medley</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

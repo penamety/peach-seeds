@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10246">
+ <title>Element of Insanity</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">4.0303</rating>
+ 
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-29 20:45:38</locked_until>
+ <lastplayed>2018-01-12 03:54:46</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>27199</pouetid>
+ <ytid>nYvMliUL1sw</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1823">Horace Wimp</artist>
+ </artists>
+ <groups>
+  <group id="64">Aurora</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Intro</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

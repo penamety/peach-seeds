@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37325">
+ <title>Noise Reduction</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.6842</rating>
+ <info>Instruments/sequencers:
+- Atari Falcon 030.
+
+Retro-software used:
+- for Atari Falcon 030: ACE Tracker 0.997.
+
+Sound-chips used in individual machines:
+- Atari Falcon 030: Motorola DSP 56001.
+
+Recording studio sound-effects and modern software used: 
+ - Zoom RFX 2000
+ - Zoom Studio 1201
+ - Behringer Xenyx 1002 FX
+ - Behringer FEX 800
+ - Cool Edit Pro 2.1
+ - Sony Sound Forge 8.0.
+
+In general — recording-studio effects used: 
+ - track-by-track recording
+ - filters
+ - phasers 
+ - choruses 
+ - flangers 
+ - delays 
+ - noise-gates
+ - echoes 
+ - reverbs 
+ - equalizers 
+ - compressors 
+ - limiters.</info>
+ <songlength>268</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 03:02:19</locked_until>
+ <lastplayed>2018-03-24 14:39:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ <labels>
+  <label id="4">Ubiktune</label>
+ </labels>
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

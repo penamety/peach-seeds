@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15969">
+ <title>Krowa Na Biegunach</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ 
+ <songlength>242</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-16 12:46:13</locked_until>
+ <lastplayed>2018-03-30 02:34:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14650</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2418">Cloo</artist>
+ </artists>
+ <groups>
+  <group id="744">World Federation of Mad Hackers (WFMH)</group>
+ </groups>
+ 
+ <tags>
+  <tag>Demo</tag>
+  
+  <tag>Software</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

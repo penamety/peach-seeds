@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="874">
+ <title>Grandpa Blues</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7353</rating>
+ 
+ <songlength>226</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 02:00:10</locked_until>
+ <lastplayed>2018-03-28 03:03:18</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="166">Carlos</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Blues</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

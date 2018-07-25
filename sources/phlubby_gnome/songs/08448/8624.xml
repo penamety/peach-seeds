@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8624">
+ <title>Memento Mori</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="209">4.5933</rating>
+ <info>1st place in combined demo at Assembly 2007</info>
+ <songlength>501</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 17:11:14</locked_until>
+ <lastplayed>2018-05-21 14:02:00</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>31571</pouetid>
+ <ytid>o9GLl6kI4hQ</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="44">aMUSIC</artist><artist id="661">Leviathan [GR]</artist>
+ </artists>
+ <groups>
+  <group id="7">ASD</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>long</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=o9GLl6kI4hQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

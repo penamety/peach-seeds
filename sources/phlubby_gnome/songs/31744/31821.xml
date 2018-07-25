@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31821">
+ <title>Jungle Bit + PopsAcid</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="18">4.0556</rating>
+ <info>Soundtrack from &#34;RiZC&#34; demo by Extreme (XTM).
+3rd place at Chaos Constructions 2000 in ZX Demo compo.
+
+Buy this song on [url=http://mmcm.bandcamp.com/track/jungle-bit-popsacid]Bandcamp.com[/url] !</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 03:04:02</locked_until>
+ <lastplayed>2018-05-28 06:08:29</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>1908</pouetid>
+ <ytid>5OX3M8Sf2LQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="1731">MmcM</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>ChaosConstructions</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=5OX3M8Sf2LQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=2eJNCm6bWww</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

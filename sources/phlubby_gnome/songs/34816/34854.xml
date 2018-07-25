@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34854">
+ <title>Sogni Disturbati</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.5385</rating>
+ 
+ <songlength>230</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 01:05:02</locked_until>
+ <lastplayed>2018-06-08 08:58:45</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58277</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4338">One Man Group</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

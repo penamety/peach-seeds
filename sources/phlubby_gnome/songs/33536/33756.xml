@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33756">
+ <title>Bugs in Amber</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="59">4.4576</rating>
+ <info>Ranked 9th in the mp3/ogg music compo at Evoke 2011.
+
+Soundcloud link: http://soundcloud.com/mystrabrs/mystra-bugs-in-amber</info>
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 18:31:06</locked_until>
+ <lastplayed>2018-05-20 01:08:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1625">Mystra</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Guitar</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/18395/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

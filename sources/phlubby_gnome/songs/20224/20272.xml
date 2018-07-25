@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20272">
+ <title>Kitshy Module</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.4444</rating>
+ <info>Ranked 17th in the 4 channel music compo at Delirium 1996.</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-25 03:09:00</locked_until>
+ <lastplayed>2017-12-05 01:39:45</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="627">KeyG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Delirium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10504">
+ <title>Jackpot</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="75">4.28</rating>
+ <info>Ranked 5th in the music compo at Scenecon 2009.</info>
+ <songlength>135</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 11:23:43</locked_until>
+ <lastplayed>2018-05-23 05:06:32</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1593">Xerxes</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>SceneCON</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

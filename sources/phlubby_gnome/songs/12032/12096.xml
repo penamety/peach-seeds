@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12096">
+ <title>Guardian Of 4ever</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="47">4.0</rating>
+ <info>Remix of song of the famous synthdance group: Laserdance - &#34;The Guardian Of Forever&#34;</info>
+ <songlength>256</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 18:01:44</locked_until>
+ <lastplayed>2018-06-08 07:28:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1973">MadMax</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ChiptuneCover</tag>
+  
+  <tag>Laserdance</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>YM</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

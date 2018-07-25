@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20567">
+ <title>Isoljator</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">3.8</rating>
+ <info>From the demo Protozoa, which ranked 7th in the PC demo compo at Breakpoint 2003.</info>
+ <songlength>265</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 16:02:24</locked_until>
+ <lastplayed>2018-06-04 20:01:23</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>9471</pouetid>
+ <ytid>YsplYoRBcdw</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist><artist id="3176">Mel Funktion</artist>
+ </artists>
+ <groups>
+  <group id="32">Kewlers</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>ambient</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>Chillout</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>SceneOrgAwards</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=YsplYoRBcdw</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

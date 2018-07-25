@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40516">
+ <title>Fikapaus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="20">4.3</rating>
+ <info>Placed #2, at Nectarine Scenecompos #29. &#34;Coop-Compo&#34; LargerThanLink and Kanonmat *gratz</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 02:01:22</locked_until>
+ <lastplayed>2018-06-07 01:03:29</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1917">Kanonmat</artist><artist id="1988">LargerThanLink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>food</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

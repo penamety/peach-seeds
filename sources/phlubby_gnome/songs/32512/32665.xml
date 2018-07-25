@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32665">
+ <title>Carl B rider igjen</title>
+ <status v="A">Active</status>
+ <bitrate>187</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">2.7813</rating>
+ 
+ <songlength>165</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 20:39:20</locked_until>
+ <lastplayed>2018-05-17 16:25:26</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>27079</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2006</tag>
+  
+  <tag>Explicit</tag>
+  
+  <tag>Kindergarden</tag>
+  
+  <tag>NorwegianSpeak</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

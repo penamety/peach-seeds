@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41024">
+ <title>Wild Horses (remix)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ <info>A remix of his old tune &#34;Wild Horses&#34;, done by himself under the alias &#34;Teetow&#34;.</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 03:54:47</locked_until>
+ <lastplayed>2018-06-17 01:15:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1227">Tito</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30938">
+ <title>Freaky Humans</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.1364</rating>
+ <info>From the mighty &#34;dromacore&#34; part of the megademo.
+/pwl</info>
+ <songlength>283</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 14:27:17</locked_until>
+ <lastplayed>2018-06-11 00:28:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10371</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  <group id="97">The Silents</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

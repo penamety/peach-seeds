@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28049">
+ <title>Riding the Datastorm</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.7714</rating>
+ <info>#3 at Datastorm 2010
+
+http://noname.c64.org/csdb/release/?id=87999</info>
+ <songlength>160</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-09 03:24:03</locked_until>
+ <lastplayed>2017-12-21 07:18:55</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4043">Archmage</artist>
+ </artists>
+ <groups>
+  <group id="267">Instinct</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Datastorm</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26962">
+ <title>Moonstone - Intro</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.037</rating>
+ 
+ <songlength>94</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-19 05:53:40</locked_until>
+ <lastplayed>2018-03-08 20:20:04</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>lT83vOh7_CE</ytid>
+ 
+ 
+ <artists>
+  <artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Mystic</tag>
+  
+  <tag>thunder</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2509</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

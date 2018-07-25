@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="818">
+ <title>Space Rhumba</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.8947</rating>
+ 
+ <songlength>366</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-21 15:40:52</locked_until>
+ <lastplayed>2017-10-12 12:40:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>55188</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1011">Rhesus Minus</artist>
+ </artists>
+ <groups>
+  <group id="104">Cryptoburners</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

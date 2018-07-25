@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37032">
+ <title>Tripping over the tops</title>
+ <status v="A">Active</status>
+ <bitrate>243</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ <info>Ranked 4th in the music compo at Demodays 2012.</info>
+ <songlength>245</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 02:39:04</locked_until>
+ <lastplayed>2018-02-11 06:54:15</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1087">Skyrunner</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Demodays</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31408">
+ <title>Escaping the Orbit</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.7667</rating>
+ <info>Ranked 3rd in the Streamed Music Compo at tUM 2010.</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-15 16:44:26</locked_until>
+ <lastplayed>2018-05-13 15:13:08</lastplayed>
+ <platform id="20">PC-custom</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>tUM</tag>
+  
+  <tag>Upbeat</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

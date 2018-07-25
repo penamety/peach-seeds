@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5865">
+ <title>Turbulence</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.098</rating>
+ <info>Inspired by Jean-Michael Jarre&#39;s Globetrotters song.  This was my 3rd REAL multichannel song.</info>
+ <songlength>321</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 01:48:50</locked_until>
+ <lastplayed>2018-05-21 05:12:34</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>6514</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="962">Purple Motion</artist>
+ </artists>
+ <groups>
+  <group id="38">Future Crew</group>
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>TheParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

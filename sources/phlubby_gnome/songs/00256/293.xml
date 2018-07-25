@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="293">
+ <title>SWIV [silkworm IV]</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="48">3.4792</rating>
+ 
+ <songlength>219</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-20 14:00:38</locked_until>
+ <lastplayed>2017-10-31 17:34:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ 
+ <ytid>AzD81DjnLl0</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="51">Andrew Barnabas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>Industrial</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/2240</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

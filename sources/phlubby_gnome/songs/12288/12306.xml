@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12306">
+ <title>Tickles</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="42">4.3571</rating>
+ <info>Listen and buy (name your price) here:
+http://mosaik.se/album/leandi
+
+co-op with Nummelin</info>
+ <songlength>248</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 20:09:03</locked_until>
+ <lastplayed>2018-05-29 00:17:06</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1702">Mosaik</artist><artist id="4996">Nummelin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

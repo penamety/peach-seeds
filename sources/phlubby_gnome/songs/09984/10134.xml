@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10134">
+ <title>Fuck Your Sampler</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="65">2.7231</rating>
+ <info>1st @ The POLARIS Computer Party 1993 in  Amiga Demo Competition.
+
+##### j  o  e #####
+i,which means, joe
+made this techno tune
+for group called :
+###### binary ######
+which consist of :
+#1 amigo - coding
+#2 nap   - graphics
+#3 joe   - music
+music&#39;s been made
+i mean finally mixed
+on : 26th feb 1993
+the tune is used in
+demo which is
+probably the best
+demo in croatia and
+slovenia.
+demo includes 2 disks
+and is full of wunder
+full codings,gfx,
+music and raytracein&#39;</info>
+ <songlength>323</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-04 13:17:26</locked_until>
+ <lastplayed>2018-02-18 13:54:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12018</pouetid>
+ <ytid>yo7KxvooD14</ytid>
+ <ytoffset>2</ytoffset>
+ 
+ <artists>
+  <artist id="1824">Joe [HR]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>POLARISComputerParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Ic9Ld4ym4OY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15294/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/110590/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

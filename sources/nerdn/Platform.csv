@@ -1,0 +1,47 @@
+﻿"PlatformID","PlatformName","Image"
+1,PC (other),koekpc.png
+2,SID (6581/8580),koeksid.png
+3,PC-XM,koekxm.png
+4,AMIGA-AHX,koekahx.png
+5,"PSG AY-3-891x/YM2149 (CPC, ST, ZX)",koekym.png
+6,AMIGA-MOD,koekmod.png
+7,PC-S3M,koeks3m.png
+8,PC-IT,koekit.png
+9,PC-MP3,koekmp3.png
+10,Wild,koekwild.png
+11,Nintendo DS,koeknintendo.png
+12,XBOX,koekxbox.png
+13,AMIGA-custom,koekamiga.png
+15,PC-Renoise,koekrenoise.png
+16,Live,koeklive.png
+17,NES,koeknes.png
+18,AdLib,koedkadlib.png
+19,Gameboy,koekgameboy.png
+20,PC (PXTone),koekpxtone.png
+22,Apple Macintosh,koekmac.png
+23,Jaguar,koekjaguar.png
+24,Z80 / ULA (Sinclair),koeksinclair.png
+25,POKEY,koekpokey.png
+26,VIC-20,koekvic20.png
+27,"YM2413 aka OPLL (MSX, etc)",koekopll.png
+28,PC-Reason,koekreason.png
+29,AMIGA-MED,koekmed.png
+30,PC-HSC,koekhsc.png
+31,PC-MTM,koekmtm.png
+32,PC-Buzz,koekbuzz.png
+33,PC-ZTracker,koekztracker.png
+34,GBA,koekgba.png
+35,AMIGA-TFMX,koektfmx.png
+36,"32K exe",koek32exe.png
+37,"16K exe",koek16exe.png
+38,"4K exe",koek4kexe.png
+39,PC-Psycle,koekpsycle.png
+40,AMIGA-DBM,koekdbm.png
+41,"64K exe",koek-64kexe37n0.png
+43,MID,koek-mid3mcom.png
+44,PC-X-Tracker,x-tracker.png
+45,AMIGA-OKT,koek-oktbjryf.png
+46,Atari VCS (2600),hp2_vcs.png
+47,"SN76489 (BBC micro, Master System etc.)",sn76489.png
+48,PC-MT2,koekmad_cVUfctG.png
+49,MPTM,mptm.png

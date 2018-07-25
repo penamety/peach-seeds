@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30161">
+ <title>Pokémon Trading Card Game, Credits</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="31">3.7419</rating>
+ <info>Played live on the amazing [url=http://www.linusakesson.net/chipophone/index.php]Chipophone[/url]
+
+Info from Linus:
+
+&#34;This is my Chipophone interpretation of the Credits music from the Pokémon Trading Card Game video game. The music was composed by Ichiro Shimakura in 1998.
+
+First, a loop consisting of bass and drums is recorded. Then, the pedals are used to transpose the loop throughout the tune.&#34;</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-13 05:43:17</locked_until>
+ <lastplayed>2018-05-10 06:47:10</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="10">Live Act</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1448">lft</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chipophone</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Live</tag>
+  
+  <tag>Merry</tag>
+  
+  <tag>Nintendo</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ahadZLeASwg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

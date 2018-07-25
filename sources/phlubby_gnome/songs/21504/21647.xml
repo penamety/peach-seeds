@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21647">
+ <title>Spy Master</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.9474</rating>
+ 
+ <songlength>280</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-01 07:52:27</locked_until>
+ <lastplayed>2018-04-29 23:07:10</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3197">Michal Brzezicki</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

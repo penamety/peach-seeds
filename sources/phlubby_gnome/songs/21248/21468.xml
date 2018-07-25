@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21468">
+ <title>Rats, Bats!</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">4.1538</rating>
+ 
+ <songlength>49</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-15 15:03:12</locked_until>
+ <lastplayed>2018-02-26 13:18:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3936</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="770">Melomaniac</artist>
+ </artists>
+ <groups>
+  <group id="628">Mystic [MST]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1997</tag>
+  
+  <tag>Gravity</tag>
+  
+  <tag>Halloween</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>spooky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

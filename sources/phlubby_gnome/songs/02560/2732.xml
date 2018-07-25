@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="2732">
+ <title>Obnoxious demoseq5</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.6667</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 07:54:32</locked_until>
+ <lastplayed>2018-04-10 17:31:56</lastplayed>
+ <platform id="53">Atari Falcon</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="463">Front 6</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AmenBreak</tag>
+  
+  <tag>Falcon</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

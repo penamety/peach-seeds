@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36010">
+ <title>Contre-Jour (soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="49">3.9184</rating>
+ <info>2nd place in pc demo compo at Assembly 2008</info>
+ <songlength>272</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 23:42:50</locked_until>
+ <lastplayed>2018-05-30 03:06:52</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>51128</pouetid>
+ <ytid>kiNGxFC7gyY</ytid>
+ 
+ 
+ <artists>
+  <artist id="1427">Kaktusen</artist>
+ </artists>
+ <groups>
+  <group id="447">PlayPsyCo</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=kiNGxFC7gyY</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

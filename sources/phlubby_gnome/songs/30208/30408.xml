@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30408">
+ <title>Alex Kidd in Spectrum Castle</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">3.2778</rating>
+ 
+ <songlength>120</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-28 06:10:14</locked_until>
+ <lastplayed>2017-11-07 18:59:50</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>55996</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4459">Fenyx Kell</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>MAiN</tag>
+  
+  <tag>Musicdisk</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

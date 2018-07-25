@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31763">
+ <title>In Noro&#39;s Style...</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="49">3.2653</rating>
+ <info>3rd place at Enlight&#39;96 Music on interrupt.</info>
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 21:53:32</locked_until>
+ <lastplayed>2018-05-21 10:46:33</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4342">KSA</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>enlight</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://zxdemo.org/item.php?id=1460</url>
+    <comment></comment>
+    <type id="12">
+        <name>ZXDemo</name>
+        <icon>/static/media/linkicons/zxdemo-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

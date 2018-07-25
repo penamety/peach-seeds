@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1340">
+ <title>Mulla on Porkkanaa</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ 
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-09 14:02:28</locked_until>
+ <lastplayed>2017-11-18 04:30:05</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ <pouetid>355</pouetid>
+ <ytid>_u6DCeVDjOU</ytid>
+ 
+ 
+ <artists>
+  <artist id="248">Croaker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

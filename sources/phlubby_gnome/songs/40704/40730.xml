@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40730">
+ <title>Manifesto</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.6923</rating>
+ <info>Soundtrack from &#34;MANIFESTO&#34; ZX Spectrum demo by thesuper. 1st place at DiHalt 2014.</info>
+ <songlength>197</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 18:53:55</locked_until>
+ <lastplayed>2018-06-07 05:24:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>63717</pouetid>
+ <ytid>-2p6dm9WwOI</ytid>
+ 
+ 
+ <artists>
+  <artist id="5069">Nick Roll</artist>
+ </artists>
+ <groups>
+  <group id="673">thesuper</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=-2p6dm9WwOI</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/37345/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

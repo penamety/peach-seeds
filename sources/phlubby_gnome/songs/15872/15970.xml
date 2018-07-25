@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15970">
+ <title>Little Music X-mag</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">2.2</rating>
+ <info>
+</info>
+ <songlength>124</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 20:26:26</locked_until>
+ <lastplayed>2017-10-21 21:27:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2418">Cloo</artist><artist id="3778">Tracker</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

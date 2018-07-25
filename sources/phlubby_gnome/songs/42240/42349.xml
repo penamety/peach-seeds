@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42349">
+ <title>Enemies Closer</title>
+ <status v="A">Active</status>
+ <bitrate>226</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">4.0588</rating>
+ 
+ <songlength>212</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 20:38:25</locked_until>
+ <lastplayed>2018-05-20 03:02:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ <ytid>20r0NwgIhg0</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist><artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group><group id="757">Powerline</group><group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Gerp</tag>
+  
+  <tag>laugh</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=20r0NwgIhg0</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

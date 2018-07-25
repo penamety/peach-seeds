@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24835">
+ <title>Too</title>
+ <status v="A">Active</status>
+ <bitrate>725</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">4.3846</rating>
+ <info>alternative names: Ornithopter, Warsong, Voyage</info>
+ <songlength>65</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-16 00:58:08</locked_until>
+ <lastplayed>2018-06-15 17:08:58</lastplayed>
+ <platform id="18">OPLx</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1141">Stéphane Picq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>adlib</tag>
+  
+  <tag>Gamemusic</tag>
+  
+  <tag>OPL2</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

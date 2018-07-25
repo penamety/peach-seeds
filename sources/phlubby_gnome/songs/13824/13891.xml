@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13891">
+ <title>2 Hard 4 U</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">2.6389</rating>
+ 
+ <songlength>396</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-04-16 19:31:30</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="33">Alf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>2Unlimited</tag>
+  
+  <tag>House</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>SummerConference</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Whoo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

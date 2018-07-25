@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12958">
+ <title>Strike Force [introtune]</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.36</rating>
+ <info>File exchanged with recording from real hardware.</info>
+ <songlength>124</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 02:39:01</locked_until>
+ <lastplayed>2018-06-05 14:35:25</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>40401</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2083">Markus Schneider</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>C64</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

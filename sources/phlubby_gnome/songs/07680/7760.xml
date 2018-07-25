@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7760">
+ <title>ImeesU</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.9231</rating>
+ <info>Came to shared 8th place in MP3 compo at Mekka&amp;Symposium 2002.</info>
+ <songlength>221</songlength>
+ <locked>False</locked>
+ <locked_until>2017-10-12 06:10:41</locked_until>
+ <lastplayed>2017-10-03 17:10:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1656">Batres</artist><artist id="1655">Horn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2002</tag>
+  
+  <tag>Mekka&amp;Symposium</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

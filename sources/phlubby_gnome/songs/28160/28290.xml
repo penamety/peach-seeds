@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28290">
+ <title>7 Sisters</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.9091</rating>
+ <info>A cover of the theme of a norwegian soap opera that aired in the mid-90s</info>
+ <songlength>44</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-07 03:02:43</locked_until>
+ <lastplayed>2018-05-20 02:26:29</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+  <tag>Short</tag>
+  
+  <tag>TV</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

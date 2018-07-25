@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5236">
+ <title>Stolen Data #10</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="52">3.9615</rating>
+ 
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 22:36:56</locked_until>
+ <lastplayed>2018-05-17 12:18:42</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>9202</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1746">BKH</artist><artist id="1495">NHP</artist>
+ </artists>
+ <groups>
+  <group id="14">Anarchy</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>diskmag</tag>
+  
+  <tag>StolenData</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

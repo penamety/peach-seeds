@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36899">
+ <title>Plastic Pop</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">4.3333</rating>
+ <info>SID chipset: CSG8580R5</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-31 03:49:28</locked_until>
+ <lastplayed>2018-05-02 15:08:52</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52332</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5185">Richard Bayliss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

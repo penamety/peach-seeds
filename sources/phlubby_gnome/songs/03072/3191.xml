@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3191">
+ <title>Silicon records</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.0526</rating>
+ <info>&#39;Silicon Records&#39; (Infra/Silicon Records), released 04/1996</info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 12:28:09</locked_until>
+ <lastplayed>2018-02-18 13:34:38</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="548">Infra</artist>
+ </artists>
+ <groups>
+  <group id="638">Silicon Records</group>
+ </groups>
+ 
+ <tags>
+  <tag>Acid</tag>
+  
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

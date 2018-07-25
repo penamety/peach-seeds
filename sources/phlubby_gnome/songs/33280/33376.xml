@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33376">
+ <title>Das Mammut</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.5263</rating>
+ <info>Streaming Music Compo Entry for Revision 2011 - Did not pass the preselection.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-25 06:32:36</locked_until>
+ <lastplayed>2018-06-08 19:34:47</lastplayed>
+ 
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4105">Retrobot0r</artist>
+ </artists>
+ <groups>
+  <group id="634">Schaedelproduktion</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

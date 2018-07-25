@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10892">
+ <title>Cocio &amp; Finsprit</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="71">3.1549</rating>
+ <info>1st at Scene Event 2001
+
+Track was used in a demo at TRSAC 2011 where it scored 4th place in combined demo compo.</info>
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 19:06:01</locked_until>
+ <lastplayed>2018-05-28 08:38:22</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57926</pouetid>
+ <ytid>zn9fr0aUkwo</ytid>
+ 
+ 
+ <artists>
+  <artist id="4455">Reflex (DK)</artist>
+ </artists>
+ <groups>
+  <group id="369">loopit</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>2011</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>Karaoke</tag>
+  
+  <tag>loopit</tag>
+  
+  <tag>SceneEvent</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zn9fr0aUkwo</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/57362/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?149154</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35813">
+ <title>Improvisation #2</title>
+ <status v="A">Active</status>
+ <bitrate>205</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.75</rating>
+ 
+ <songlength>64</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 03:38:57</locked_until>
+ <lastplayed>2018-06-06 00:12:31</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5099">Ivan Roshin</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

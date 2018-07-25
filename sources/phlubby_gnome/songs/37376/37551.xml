@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37551">
+ <title>Love is Insecurable</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="58">4.2241</rating>
+ <info>NES with Konami VRC6
+
+Featured in &#34;HARDWARE GIRLS MAGAZINE vol.1&#34; - Chiptune Compilation CD Nol.1.
+
+Also featured in &#34;Famicompo mini vol.8&#34; - originals section.
+
+Electro-house thingofajig I made a few months ago. Heavily influenced by A_Rival, so he deserves credit for the style of this song.
+Composed in Famitracker v0.3.7 (2A03 + VRC6). Stereo automation done in post. Visualizations via MIDITrail.
+
+Originally this was only intended for my live NES chiptune DJ set during &#34;Hardware Girls Night 3&#34;, hence the &#34;original mix&#34;-style repetition for the intro/outro. I wasn&#39;t planning to release it beyond that. As with my typical &#34;make TOTALLY DANZ UNTZ the night before lol!!!!!!!&#34; routine for every live set I&#39;m invited to, I composed this in a few hours within the wee morning before having to bail for the venue @ Shibuya. Yes, including the vocals. It kinda shows with the ridiculous &#34;lyrics&#34;. :D
+</info>
+ <songlength>376</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-03 05:13:26</locked_until>
+ <lastplayed>2018-05-03 18:35:06</lastplayed>
+ <platform id="17">NES</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1799">Chibi-Tech</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Compowinner</tag>
+  
+  <tag>House</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

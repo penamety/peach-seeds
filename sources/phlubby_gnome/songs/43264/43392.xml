@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43392">
+ <title>Polar Valves</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.2857</rating>
+ 
+ <songlength>358</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 15:12:21</locked_until>
+ <lastplayed>2018-05-12 09:38:48</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>67959</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="432">Falcon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>glitch</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

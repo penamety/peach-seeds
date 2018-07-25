@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40005">
+ <title>Prophecy3</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">3.1111</rating>
+ <info>Used in [url=http://janeway.exotica.org.uk/release.php?id=6548]this[/url] cracktro.</info>
+ <songlength>184</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-12 09:27:53</locked_until>
+ <lastplayed>2017-11-21 00:45:39</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="91">Baz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Energetic</tag>
+  
+  <tag>happy</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/1168</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

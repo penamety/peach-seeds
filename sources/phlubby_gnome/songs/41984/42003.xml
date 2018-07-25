@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42003">
+ <title>Les voix des êtres</title>
+ <status v="A">Active</status>
+ <bitrate>152</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">2.1379</rating>
+ <info>An experimentation with my voice...</info>
+ <songlength>404</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-30 03:53:05</locked_until>
+ <lastplayed>2018-06-11 16:15:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2698">Erk</artist>
+ </artists>
+ <groups>
+  <group id="798">Mankind</group>
+ </groups>
+ 
+ <tags>
+  <tag>Experimental</tag>
+  
+  <tag>spooky</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

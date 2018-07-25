@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32981">
+ <title>Iloinen Päivä</title>
+ <status v="A">Active</status>
+ <bitrate>164</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.7</rating>
+ 
+ <songlength>80</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-05-23 02:53:01</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>56978</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4785">Mankeli</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Instanssi</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

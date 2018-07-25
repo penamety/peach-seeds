@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7934">
+ <title>Patient Zero</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="69">4.1884</rating>
+ <info>1st place in combined 64k compo at Simulaatio 2005</info>
+ <songlength>227</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-10 06:59:18</locked_until>
+ <lastplayed>2018-06-09 12:30:31</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>17645</pouetid>
+ <ytid>OuZw96F7KsI</ytid>
+ 
+ 
+ <artists>
+  <artist id="1453">Little Bitchard</artist>
+ </artists>
+ <groups>
+  <group id="5">Farbrausch</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Simulaatio</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=OuZw96F7KsI</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

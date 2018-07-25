@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42470">
+ <title>Technostyle II</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">4.1111</rating>
+ <info>by xenox of triad -90
+ST-03:filter2
+ST-03:filter1
+ST-03:filter4
+ST-03:flute2
+ST-03:hit6
+
+ST-03:snaredrum9
+ST-89:beatbdrum
+
+
+ST-90:shaker2
+ST-91:minim2 
+</info>
+ <songlength>145</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 22:59:58</locked_until>
+ <lastplayed>2018-04-06 19:47:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5631">Xenox</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1349">
+ <title>World of Noise</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.4381</rating>
+ <info>1st place in pc 64k compo at Ambience 2000
+
+Soundtrack of the famous &#34;please the cookie thing&#34; 64k. Originally written in Impulse Tracker module, the soundtrack uses both samples and synthesized instruments.</info>
+ <songlength>246</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 21:06:25</locked_until>
+ <lastplayed>2018-06-13 16:45:57</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="2">Demo</type>
+ <pouetid>232</pouetid>
+ <ytid>ycmgjZLU0xQ</ytid>
+ <ytoffset>5</ytoffset>
+ 
+ <artists>
+  <artist id="252">Crystal Score</artist>
+ </artists>
+ <groups>
+  <group id="180">Aardbei</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>64k</tag>
+  
+  <tag>Ambience</tag>
+  
+  <tag>ixs</tag>
+  
+  <tag>softsynth</tag>
+  
+  <tag>technically-awesome</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ycmgjZLU0xQ</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12616">
+ <title>Resonance</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="39">3.7436</rating>
+ <info>Deep Space demo by GPA.</info>
+ <songlength>249</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-03 00:28:44</locked_until>
+ <lastplayed>2018-03-28 20:54:27</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>26909</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2044">Targhan</artist>
+ </artists>
+ <groups>
+  <group id="508">GPA</group>
+ </groups>
+ 
+ <tags>
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

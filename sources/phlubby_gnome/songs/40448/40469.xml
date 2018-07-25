@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40469">
+ <title>Twilight</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="13">3.7692</rating>
+ 
+ <songlength>300</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-26 19:41:49</locked_until>
+ <lastplayed>2017-12-07 23:45:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>21441</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3439">Quick</artist>
+ </artists>
+ <groups>
+  <group id="254">Oxygene</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

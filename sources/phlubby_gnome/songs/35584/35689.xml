@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35689">
+ <title>Shineblast</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ 
+ <songlength>142</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-06 14:49:39</locked_until>
+ <lastplayed>2018-03-17 23:38:12</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="2">Demo</type>
+ <pouetid>59135</pouetid>
+ <ytid>e5tPG_hFTwc</ytid>
+ <ytoffset>287</ytoffset>
+ 
+ <artists>
+  <artist id="981">Raiden</artist>
+ </artists>
+ <groups>
+  <group id="557">MadWizards [MWI MaWi]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=e5tPG_hFTwc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

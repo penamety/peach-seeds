@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38304">
+ <title>Riddle Me Rave-n (FM Excerpt #1)</title>
+ <status v="A">Active</status>
+ <bitrate>150</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">1.7143</rating>
+ <info>Excerpt from Corwin&#39;s Finale Medley. Tailor mixed for Nectarine DemoScene Radio, with compliments.</info>
+ <songlength>238</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-17 00:26:40</locked_until>
+ <lastplayed>2018-03-28 02:12:39</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="8">Newschool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>CommercialSamples</tag>
+  
+  <tag>samples</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

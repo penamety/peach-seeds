@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="9274">
+ <title>Artcity</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.9677</rating>
+ <info>Lyrics:
+Oslo, London,
+Rome, Berlin,
+Helsinki, Stockholm,
+Vienna, Artcity
+
+You move around and &#39;round in the Artcity
+You move around and &#39;round in the Artcity
+You move around and &#39;round in the Artcity
+You move around in the Artcity</info>
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-16 19:41:07</locked_until>
+ <lastplayed>2018-05-16 10:32:22</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>16340</pouetid>
+ <ytid>6kssxdrt8pU</ytid>
+ 
+ 
+ <artists>
+  <artist id="1574">Virgill</artist>
+ </artists>
+ <groups>
+  <group id="136">Anadune</group><group id="123">Nah-Kolor</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funk</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>trumpet</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=Udx6qH8FlLg</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

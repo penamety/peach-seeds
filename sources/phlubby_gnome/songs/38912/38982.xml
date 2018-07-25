@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="38982">
+ <title>Discoson</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.0</rating>
+ <info>1# at Edison 2013, Stockholm, streamed music compo</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-06 21:30:39</locked_until>
+ <lastplayed>2018-06-03 02:06:59</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5484">Fegolhuzz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>disco</tag>
+  
+  <tag>Edison</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

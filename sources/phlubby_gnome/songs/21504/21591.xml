@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21591">
+ <title>Metalwar 12</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.0769</rating>
+ 
+ <songlength>262</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-01 02:07:22</locked_until>
+ <lastplayed>2018-03-22 08:10:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>10399</pouetid>
+ <ytid>ZO0UWE9lITI</ytid>
+ 
+ 
+ <artists>
+  <artist id="3187">Metalwar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

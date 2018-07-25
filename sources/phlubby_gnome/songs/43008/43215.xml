@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43215">
+ <title>Go mellow</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.7143</rating>
+ <info>One of the Level Music pieces from &#34;Fruit&#39;Y&#34; by Retroguru, a freewareGame released at Revision Game Compo in 2015</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-13 03:51:12</locked_until>
+ <lastplayed>2018-03-09 14:26:17</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="7">Game</type>
+ <pouetid>65413</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Dreamcast</tag>
+  
+  <tag>game</tag>
+  
+  <tag>mod</tag>
+  
+  <tag>protracker</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/136106/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34859">
+ <title>Natur(e)a</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">4.0</rating>
+ 
+ <songlength>303</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 15:26:00</locked_until>
+ <lastplayed>2018-05-21 00:21:16</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>58277</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4338">One Man Group</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Orchestral</tag>
+  
+  <tag>Slow</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

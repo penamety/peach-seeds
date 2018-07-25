@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5183">
+ <title>The Grey Note</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.7059</rating>
+ 
+ <songlength>274</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-22 08:03:49</locked_until>
+ <lastplayed>2017-11-03 12:12:41</lastplayed>
+ <platform id="7">S3M</platform>
+ 
+ <pouetid>6518</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="844">Necros</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Jazz</tag>
+  
+  <tag>Piano</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

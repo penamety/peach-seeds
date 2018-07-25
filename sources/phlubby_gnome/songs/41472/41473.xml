@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41473">
+ <title>Cyanid</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Tracked using ProTracker 2.3d - done in June 2014. 4ch.
+
+Featured on MoDS Vol. 1 by Resistance &amp; Desire.</info>
+ <songlength>108</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-02-18 12:02:02</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="288">Dascon</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group><group id="814">The Deadliners</group>
+ </groups>
+ 
+ <tags>
+  <tag>glitch</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

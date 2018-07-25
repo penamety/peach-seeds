@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35261">
+ <title>Syntax Party 2009 invite</title>
+ <status v="A">Active</status>
+ <bitrate>152</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="34">3.4118</rating>
+ <info>2nd place in pc demo compo at Evoke 2009
+
+Invitation for Syntax 2009</info>
+ <songlength>205</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-26 10:20:55</locked_until>
+ <lastplayed>2018-05-20 07:34:49</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>53583</pouetid>
+ <ytid>DbKQ5hLY6y4</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="4026">cTrix</artist>
+ </artists>
+ <groups>
+  <group id="261">Disaster Area</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Syntaxparty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=DbKQ5hLY6y4</url>
+    <comment>High Quality Capture</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

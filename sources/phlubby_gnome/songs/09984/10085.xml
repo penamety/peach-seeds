@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10085">
+ <title>Windamingo</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.0698</rating>
+ <info>Another oldie from my archives. This song, while tracked in Renoise in 2004, references classic tracking techniqes and the sound of old module songs. It was made as a tribute to my many tracker influences, especially Necros or Andrew Sega.</info>
+ <songlength>277</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 18:01:52</locked_until>
+ <lastplayed>2018-06-11 20:45:29</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1744">DDSpeed</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Renoise</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

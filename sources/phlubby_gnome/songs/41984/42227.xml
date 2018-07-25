@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42227">
+ <title>Chiperia Boogie</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.0</rating>
+ <info>from the Chiperia #1 Chipmusic Disk releaes for OCS Amigas in 2015</info>
+ <songlength>183</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-07 08:22:04</locked_until>
+ <lastplayed>2018-02-16 05:00:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>65233</pouetid>
+ <ytid>8lpOtiLl-uM</ytid>
+ 
+ 
+ <artists>
+  <artist id="5446">Triace</artist>
+ </artists>
+ <groups>
+  <group id="160">Desire</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Chiperia</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Desire</tag>
+  
+  <tag>Insane</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8lpOtiLl-uM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/134734/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

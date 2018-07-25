@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27588">
+ <title>8580 Luftballons</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">3.5455</rating>
+ 
+ <songlength>152</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-08 16:59:36</locked_until>
+ <lastplayed>2017-08-02 02:11:49</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="12">Diskmag</type>
+ <pouetid>26941</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  <group id="215">Triad</group><group id="680">Viruz</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

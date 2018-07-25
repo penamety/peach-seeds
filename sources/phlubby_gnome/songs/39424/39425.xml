@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39425">
+ <title>Saunagroup Copyparty</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="26">3.8462</rating>
+ <info>Entry for TRSAC 2013 oldskool music compo.</info>
+ <songlength>127</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-04 22:31:49</locked_until>
+ <lastplayed>2018-05-31 07:45:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1627">serpent</artist>
+ </artists>
+ <groups>
+  <group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>eggbanjo</tag>
+  
+  <tag>PatternsPlayedBackwards</tag>
+  
+  <tag>TRSAC</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

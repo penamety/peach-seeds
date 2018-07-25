@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41385">
+ <title>Minitune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.0</rating>
+ <info>Entry for the Scenecompos #32 - AHX Compo - Placed 5. Composed on Amiga 1200.</info>
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-30 23:00:12</locked_until>
+ <lastplayed>2018-05-13 06:05:10</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

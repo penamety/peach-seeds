@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37217">
+ <title>WoTW the One and Only (Starcraft 2 cracktro)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.9091</rating>
+ <info>WoTW the One and Only (Starcraft 2 cracktro version), 
+alternative title: &#34;WoTW Razor 1911 Int&#34;</info>
+ <songlength>113</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-28 21:21:45</locked_until>
+ <lastplayed>2018-02-11 00:43:47</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>55471</pouetid>
+ <ytid>0bZbQH_1sj8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1373">Dubmood</artist>
+ </artists>
+ <groups>
+  <group id="28">Razor 1911</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=0bZbQH_1sj8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

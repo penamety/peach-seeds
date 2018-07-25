@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44258">
+ <title>Mad Scientist</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>Evoke 2017, protracker ST-01 compo, 2nd place</info>
+ <songlength>188</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-20 22:03:49</locked_until>
+ <lastplayed>2018-03-11 15:20:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="681">LMan</artist>
+ </artists>
+ <groups>
+  <group id="818">MultiStyle Labs</group>
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>st-01</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

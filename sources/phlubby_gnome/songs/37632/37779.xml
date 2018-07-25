@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37779">
+ <title>Muda</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.0435</rating>
+ 
+ <songlength>302</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 03:28:47</locked_until>
+ <lastplayed>2018-05-26 19:34:08</lastplayed>
+ <platform id="52">Atari STe</platform>
+ <type id="2">Demo</type>
+ <pouetid>60819</pouetid>
+ <ytid>hzSLOE9APLU</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="4938">Tomchi</artist>
+ </artists>
+ <groups>
+  <group id="658">No Extra</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>SillyVenture</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=CmnZoUxXIQM</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>https://demozoo.org/music/55626/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

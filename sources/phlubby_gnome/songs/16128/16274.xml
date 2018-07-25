@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="16274">
+ <title>Trashcan 5 Intro</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.5</rating>
+ 
+ <songlength>94</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-01 22:00:00</locked_until>
+ <lastplayed>2018-05-25 14:54:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3519</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2472">Cueder</artist><artist id="870">Nork</artist>
+ </artists>
+ <groups>
+  <group id="449">Network [NTW]</group><group id="182">Ozone (PC)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

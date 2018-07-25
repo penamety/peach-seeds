@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36736">
+ <title>i cant play</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="9">3.6667</rating>
+ 
+ <songlength>121</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-02 04:48:17</locked_until>
+ <lastplayed>2018-05-14 05:59:52</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>57112</pouetid>
+ <ytid>q8HvcblNVKQ</ytid>
+ 
+ 
+ <artists>
+  <artist id="5175">slashz</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=q8HvcblNVKQ</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43880">
+ <title>Disassembly</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="21">4.381</rating>
+ <info>Placed #4 in Tracked Music compo at Revision 2017.
+
+OpenMPT
+Samples from:
+Synth1, Dexed, Korg X5DR,
+Yamaha CS6R, Roland
+XV-5080, ABL2, kb6 </info>
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-07 08:23:02</locked_until>
+ <lastplayed>2018-06-08 02:40:06</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1536">Saga Musix</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

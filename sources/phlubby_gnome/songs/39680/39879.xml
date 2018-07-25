@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39879">
+ <title>The Strings</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="16">3.5</rating>
+ 
+ <songlength>168</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-09 00:50:59</locked_until>
+ <lastplayed>2017-10-20 18:48:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>9088</pouetid>
+ <ytid>R8e35xJzrUg</ytid>
+ <ytoffset>1013</ytoffset>
+ 
+ <artists>
+  <artist id="5455">Exolon</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

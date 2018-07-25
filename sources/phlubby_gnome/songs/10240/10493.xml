@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10493">
+ <title>Action Biker</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.2571</rating>
+ <info>Clumsy Colin FTW!!</info>
+ <songlength>187</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-09 19:42:59</locked_until>
+ <lastplayed>2018-05-03 09:03:44</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ 
+ <ytid>W5ZSF6A2HZ0</ytid>
+ <ytoffset>33</ytoffset>
+ 
+ <artists>
+  <artist id="1021">Rob Hubbard</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>Bleepy</tag>
+  
+  <tag>Merry</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30217">
+ <title>The Gate (Main Part)</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="22">3.8636</rating>
+ 
+ <songlength>306</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-08 06:23:20</locked_until>
+ <lastplayed>2018-06-03 15:24:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>3126</pouetid>
+ <ytid>BcCnwb-Nc94</ytid>
+ <ytoffset>77</ytoffset>
+ 
+ <artists>
+  <artist id="1100">SMT</artist>
+ </artists>
+ <groups>
+  <group id="515">Artwork [ATW]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Symposium</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

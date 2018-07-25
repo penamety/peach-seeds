@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34469">
+ <title>On a Rainy Day</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="46">4.2609</rating>
+ 
+ <songlength>271</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-18 15:10:11</locked_until>
+ <lastplayed>2018-05-20 10:33:33</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>1733</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4661">Stein Pedersen</artist>
+ </artists>
+ <groups>
+  <group id="411">Prosonix</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://csdb.dk/sid/?id=22863</url>
+    <comment></comment>
+    <type id="19">
+        <name>CSDb (SID)</name>
+        <icon>/static/media/linkicons/favicon_1.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

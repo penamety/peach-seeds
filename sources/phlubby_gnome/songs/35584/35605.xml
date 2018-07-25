@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35605">
+ <title>More or Less Zero</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="19">3.6842</rating>
+ <info>Soundtrack from &#34;Scroller&#34; demo by deMarche.
+2nd place in ZX demo compo at AAA ZX Spectrum demo compo 2010.</info>
+ <songlength>174</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-21 06:14:05</locked_until>
+ <lastplayed>2018-04-17 05:04:34</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>56455</pouetid>
+ <ytid>tL-6lBtVkiw</ytid>
+ <ytoffset>9</ytoffset>
+ 
+ <artists>
+  <artist id="3304">nq</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>2nd</tag>
+  
+  <tag>AAA</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=tL-6lBtVkiw</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15006/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

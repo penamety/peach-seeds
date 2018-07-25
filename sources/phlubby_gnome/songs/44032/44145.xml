@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44145">
+ <title>Fifth Generation</title>
+ <status v="A">Active</status>
+ <bitrate>1037</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">4.0</rating>
+ <info>2nd place at Silly Venture 2016 music compo.</info>
+ <songlength>222</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-17 17:27:03</locked_until>
+ <lastplayed>2018-03-17 18:39:08</lastplayed>
+ <platform id="25">POKEY</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1622">XTD</artist>
+ </artists>
+ <groups>
+  <group id="873">Lamers</group>
+ </groups>
+ 
+ <tags>
+  <tag>Intense</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/165121/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

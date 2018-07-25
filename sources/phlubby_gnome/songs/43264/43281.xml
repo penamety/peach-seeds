@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="43281">
+ <title>The Wub of Death</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.1538</rating>
+ <info>LSDJ Testing, really.</info>
+ <songlength>207</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-12 08:59:47</locked_until>
+ <lastplayed>2018-01-18 04:25:49</lastplayed>
+ <platform id="19">Gameboy</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5637">Kry.exe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

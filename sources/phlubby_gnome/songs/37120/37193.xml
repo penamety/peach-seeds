@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37193">
+ <title>Mirage - Lightspeed II</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="21">3.7619</rating>
+ 
+ <songlength>377</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-14 19:22:31</locked_until>
+ <lastplayed>2018-06-10 05:39:13</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1579">Void</artist>
+ </artists>
+ <groups>
+  <group id="176">Reality</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

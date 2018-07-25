@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12813">
+ <title>Full Contact (intro theme remix)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="54">4.0926</rating>
+ <info>Original by Allister Brimble.
+
+Check out the game here: http://www.infinitelives.se/archives/3-Full-Contact.html</info>
+ <songlength>329</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 09:04:40</locked_until>
+ <lastplayed>2018-06-06 16:42:20</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1349">DaXX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://hol.abime.net/633</url>
+    <comment></comment>
+    <type id="8">
+        <name>Hall Of Light</name>
+        <icon>/static/media/linkicons/hol-icon.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

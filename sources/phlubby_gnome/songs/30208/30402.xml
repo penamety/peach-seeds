@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30402">
+ <title>Love Theme 1 (Digideja Style)</title>
+ <status v="A">Active</status>
+ <bitrate>268</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="51">4.0588</rating>
+ <info>A Reason cover of Jogeir&#39;s &#34;Love Theme 1&#34;. Not a midi version! Acheron input the song manually with his own hands, after which Corwin edited portions for timing and accuracy.
+
+[url=http://www.trideja.com/music/mp3/]Download .mp3[/url]</info>
+ <songlength>339</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 00:48:10</locked_until>
+ <lastplayed>2018-06-07 21:21:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5328">Acheron</artist><artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>coop</tag>
+  
+  <tag>Remix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

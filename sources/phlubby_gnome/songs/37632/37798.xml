@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37798">
+ <title>Renaissance</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="32">3.625</rating>
+ <info>Editor: maxYMiser
+This tune was originally composed for an intro which required clock cycle accurate timings so the tune doesn&#39;t use any timer effects. I was inspired by Jochen Hippel&#39;s tunes in some games like Rings of Medusa 2, and tried to come up with something similar. The tune is included in my music demo Meet !Cube.
+Release date: SillyVenture 2012 </info>
+ <songlength>215</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 10:30:50</locked_until>
+ <lastplayed>2018-05-14 09:32:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>60836</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="254">!cube</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

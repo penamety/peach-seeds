@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44067">
+ <title>Mug Broken</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">4.0</rating>
+ <info>File format:	MTC
+Sound format:	Turbo Sound (2xAY 6 channels) + FM
+AY chip type:	ay
+AY channels layout:	ACB
+Publication year:	2009
+Duration:	2:18.12
+Channels:	7
+Tracker:	mtctool r3270 Apr 21 2015 windows-x86 i686</info>
+ <songlength>138</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 19:22:37</locked_until>
+ <lastplayed>2018-03-29 19:03:45</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4510">Karbofos </artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>TurboSound</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

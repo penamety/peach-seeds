@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42912">
+ <title>Fucking is fun ;-)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.5333</rating>
+ <info>The track was made in 1994 and released in 2008 in the album: Oldschool MODe
+
+This album contains 4-channels MOD music Yerzmyey wrote throughout years, since 1994, for Amiga 500, Atari ST and ZX Spectrum. Besides, You can find here 3 guest-songs - MODs make by Factor6, TDM and Epi; the MODs have been made for ZX Spectrum and Atari XL/XE.</info>
+ <songlength>162</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 01:54:02</locked_until>
+ <lastplayed>2018-04-11 13:57:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="6">Commercial CD</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1598">Yerzmyey</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>happy</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=GARxRWlSMAs</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/14507/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

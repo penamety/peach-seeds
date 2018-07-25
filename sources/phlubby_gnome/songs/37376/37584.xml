@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37584">
+ <title>Nuclear Tide</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.8571</rating>
+ <info>These songs are in the s3m format. All of them use 6 channels, and samples from various other artists. All were made using Modplug tracker.
+
+Nuclear Tide (Dec 2010)
+
+http://modarchive.org/index.php?request=view_by_moduleid&amp;query=170134</info>
+ <songlength>262</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 02:28:12</locked_until>
+ <lastplayed>2018-05-15 19:40:45</lastplayed>
+ <platform id="7">S3M</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4034">FearofDark</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

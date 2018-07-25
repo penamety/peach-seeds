@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34173">
+ <title>Mummot Humppaa Taas</title>
+ <status v="A">Active</status>
+ <bitrate>319</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="57">3.6491</rating>
+ 
+ <songlength>76</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 06:54:36</locked_until>
+ <lastplayed>2018-05-18 06:28:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1327">Buzzer</artist>
+ </artists>
+ <groups>
+  <group id="374">Zenon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Funny</tag>
+  
+  <tag>Humppa</tag>
+  
+  <tag>samples</tag>
+  
+  <tag>weird</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

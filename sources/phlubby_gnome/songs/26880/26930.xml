@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26930">
+ <title>Vidal Sassoon</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.2083</rating>
+ <info>All the songs from Quazar are available here :
+ftp://ftp.modland.com/pub/modules/Fasttracker%202/Quazar/</info>
+ <songlength>125</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 01:16:06</locked_until>
+ <lastplayed>2018-05-18 13:08:20</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="970">Quazar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Chillout</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>sinewave</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

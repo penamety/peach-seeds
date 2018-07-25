@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42807">
+ <title>Stay (The Use of Life is Use)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="22">1.5</rating>
+ <info>freeware VSTs used: 
+BeyerDynamic Virtual Studio :: http://europe.beyerdynamic.com/virtual-studio.html :: 
+FreeVerb2 :: http://wiki.audacityteam.org/index.php?title=GVerb#Freeverb :: 
+MJRotoDelay :: http://magnus.smartelectronix.com/ :: 
+BassLane :: http://www.vst4free.com/free_vst.php?id=522 :: 
+
+Digital music.. for you.. by EatMe - http://eatme.pro
+
+Download .mp3 + .flac + .xrns Renoise song:
+http://eatme.pro/music (.mp3 + .flac)
+http://archive.org/download/ietmie/EatMe_-_stay.mp3 (.mp3)
+http://archive.org/download/free_music_by_eatme/EatMe_-_Stay.flac (.flac)
+http://forum.renoise.com/index.php/files/file/372-eatme-stay-the-use-of-life-is-use-xrns-renoise31/ (.xrns) for Renoise 3.1+
+http://soundcloud.com/eatme/stay (.mp3)
+https://www.youtube.com/watch?v=ZoN0toIFvZY (youtube)
+https://open.spotify.com/track/61bFEokrrH5NOjbRpLcVmw (spotify)
+
+With a broadcast or share, please mention EatMe&#39;s music online: http://eatme.pro or http://soundcloud.com/eatme , so people know where to download this music by EatMe.
+
+Some rights reserved, see http://creativecommons.org/licenses/by-nc-nd/3.0/ - by EatMe - http://eatme.pro </info>
+ <songlength>826</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-29 22:58:45</locked_until>
+ <lastplayed>2018-06-06 21:25:11</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4039">EatMe</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2016</tag>
+  
+  <tag>long</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>trance</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=ZoN0toIFvZY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://open.spotify.com/track/61bFEokrrH5NOjbRpLcVmw</url>
+    <comment></comment>
+    <type id="5">
+        <name>Spotify</name>
+        <icon>/static/media/linkicons/spotify_icon16.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

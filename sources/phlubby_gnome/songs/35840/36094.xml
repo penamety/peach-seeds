@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36094">
+ <title>Mysiga Meloner</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="19">3.4737</rating>
+ <info>Ranked 2nd in the 4 channel music compo at The Summer Party 1996.
+
+Internal text :
+[code]    easy tune by:
+.\ fudge/subspace /.
+[…]
+this is the compotune
+for the summer party!
+in the tune that was
+relesed at the party,
+ it stod that it was
+composed by [artist]5128[/artist] and
+fudge...this is wrong
+it was only composed
+ by fudge...zalo put
+ his name on because
+   the person who
+ composed it had to
+  be present on the
+party, and i wasn&#39;t!!
+    later girls!!![/code]</info>
+ <songlength>220</songlength>
+ <locked>False</locked>
+ <locked_until>2018-02-15 16:01:29</locked_until>
+ <lastplayed>2018-01-26 21:14:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1677">Fudge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>TheSummerParty</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://modarchive.org/module.php?98784</url>
+    <comment></comment>
+    <type id="24">
+        <name>ModArchive</name>
+        <icon>/static/media/linkicons/modarchive_Hns9j6v.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

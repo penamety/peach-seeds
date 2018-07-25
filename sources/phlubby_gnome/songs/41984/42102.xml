@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42102">
+ <title>Grandma Was a Druglord</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.9091</rating>
+ <info>8th in C64 Music Competition at ZOO 2013.
+http://csdb.dk/release/?id=123981</info>
+ <songlength>75</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 16:00:02</locked_until>
+ <lastplayed>2018-05-11 21:54:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1821">Linus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>drugs</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

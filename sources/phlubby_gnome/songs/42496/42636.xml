@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42636">
+ <title>Xmas 2015</title>
+ <status v="A">Active</status>
+ <bitrate>196</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.5</rating>
+ <info>Soundtrack for the 64kB Christmas intro Xmas 2015 by PACiF!C released on Christmas Eve 2015.</info>
+ <songlength>154</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-19 18:13:41</locked_until>
+ <lastplayed>2018-06-12 15:49:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>66727</pouetid>
+ <ytid>vrpfTDaeAtg</ytid>
+ <ytoffset>15</ytoffset>
+ 
+ <artists>
+  <artist id="5298">Wasp</artist>
+ </artists>
+ <groups>
+  <group id="800">Pacific</group>
+ </groups>
+ 
+ <tags>
+  <tag>64k</tag>
+  
+  <tag>Christmas</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

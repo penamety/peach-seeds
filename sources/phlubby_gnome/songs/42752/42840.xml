@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42840">
+ <title>Sense.Net (UCM 25-3)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="9">2.8889</rating>
+ <info>Released at Outline 2004
+
+Recorded from US model Atari STE, TOS 1.6
+
+
+</info>
+ <songlength>161</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 23:44:49</locked_until>
+ <lastplayed>2018-05-16 03:02:23</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>12236</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1458">Lotek Style</artist>
+ </artists>
+ <groups>
+  <group id="379">The Sirius Cybernetics Corporation [tSCC]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

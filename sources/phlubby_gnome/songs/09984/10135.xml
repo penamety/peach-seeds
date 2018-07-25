@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10135">
+ <title>Jack My UnderGround</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="29">3.069</rating>
+ <info>HI! This is 2nd tune
+made 4 binary
+which consists of :
+#1 - A M I G O
+#2 - N A P
+#3 - J O E
+this is one of my
+techno tunes and
+its called :
+JACK MY UNDERGROUND!
+greetings to :
+AMIGO NAP TOMAZSH,
+and all the other
+  rachunalnikar&#39;s
+        and
+ TECHNO freaks like
+        me !!!
+JOE loves you all !!</info>
+ <songlength>268</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-27 04:06:19</locked_until>
+ <lastplayed>2018-06-15 17:15:34</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12018</pouetid>
+ <ytid>yo7KxvooD14</ytid>
+ <ytoffset>317</ytoffset>
+ 
+ <artists>
+  <artist id="1824">Joe [HR]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=yo7KxvooD14</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.cvgm.net/demovibes/song/15295/</url>
+    <comment></comment>
+    <type id="16">
+        <name>CVGM</name>
+        <icon>/static/media/linkicons/favicon.ico</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

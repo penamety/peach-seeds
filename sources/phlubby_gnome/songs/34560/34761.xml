@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="34761">
+ <title>Elephant</title>
+ <status v="A">Active</status>
+ <bitrate>271</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ <info>song used in some crack intro or greet demo - i don&#39;t recall where exactly</info>
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-12 16:09:37</locked_until>
+ <lastplayed>2018-04-08 18:59:17</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="558">Jaan</artist>
+ </artists>
+ <groups>
+  <group id="71">Phantasy</group>
+ </groups>
+ 
+ <tags>
+  <tag>1996</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

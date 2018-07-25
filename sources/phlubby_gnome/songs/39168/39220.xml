@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39220">
+ <title>Cocos Cocos</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="18">4.2222</rating>
+ <info>5th at Buenzli/Demodays 2013 music competition</info>
+ <songlength>212</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-06 03:10:54</locked_until>
+ <lastplayed>2018-05-07 17:49:44</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>Demodays</tag>
+  
+  <tag>Schlager</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

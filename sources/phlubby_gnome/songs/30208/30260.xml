@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30260">
+ <title>Eight Hours</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.1818</rating>
+ 
+ <songlength>161</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-22 06:42:12</locked_until>
+ <lastplayed>2017-06-10 22:40:53</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56006</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4417">Deemphasis</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

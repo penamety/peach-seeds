@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4173">
+ <title>Water Below</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="90">4.2667</rating>
+ 
+ <songlength>601</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-21 16:51:52</locked_until>
+ <lastplayed>2018-05-22 15:23:40</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>15564</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="669">Lizardking</artist>
+ </artists>
+ <groups>
+  <group id="159">Balance</group>
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+  <tag>Upstream</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/6680/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

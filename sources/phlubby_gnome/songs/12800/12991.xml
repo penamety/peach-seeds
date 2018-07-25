@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12991">
+ <title>Nebukadnesar</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="21">3.9048</rating>
+ <info>Entered in the music compo at Rendezvous 1992.</info>
+ <songlength>270</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 09:35:34</locked_until>
+ <lastplayed>2018-05-24 15:41:49</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2065">HeadX</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1992</tag>
+  
+  <tag>Rendezvous</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

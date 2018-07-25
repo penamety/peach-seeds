@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35931">
+ <title>Ebykti</title>
+ <status v="A">Active</status>
+ <bitrate>64</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">3.6774</rating>
+ <info>MSX Info Update 2010 music compo winner.
+
+Recorded from a real Philips NMS8255 MSX2 computer. Sorry for mono sound, but the PSG/YM sound is mono on that computer.</info>
+ <songlength>228</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 06:03:30</locked_until>
+ <lastplayed>2018-06-14 06:28:54</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4471">Yzi</artist>
+ </artists>
+ <groups>
+  <group id="679">Lieves!Tuore</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

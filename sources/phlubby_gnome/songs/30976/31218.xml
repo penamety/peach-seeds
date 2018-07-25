@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31218">
+ <title>Desolate</title>
+ <status v="A">Active</status>
+ <bitrate>160</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="18">4.0556</rating>
+ 
+ <songlength>199</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-06 01:09:45</locked_until>
+ <lastplayed>2018-05-06 10:06:54</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>53957</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1722">Fab</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>MAiN</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

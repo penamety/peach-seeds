@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42226">
+ <title>Three Bad Mice (party version)</title>
+ <status v="A">Active</status>
+ <bitrate>289</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="13">4.0769</rating>
+ <info>1st place in zx spectrum music compo at 3bm openair 2015</info>
+ <songlength>103</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 04:58:50</locked_until>
+ <lastplayed>2018-06-15 12:44:22</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4238">Key-Jee</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>3BMOpenAir</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

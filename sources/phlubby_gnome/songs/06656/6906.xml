@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="6906">
+ <title>Cybernoid 2 [sonic arranger remix]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.68</rating>
+ 
+ <songlength>327</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-29 16:54:22</locked_until>
+ <lastplayed>2018-05-24 13:06:01</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="318">DHS</artist>
+ </artists>
+ <groups>
+  <group id="86">The Soundwavers</group>
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+  <tag>SpaceShooter</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24705">
+ <title>The Ocean Frontier</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="30">3.4667</rating>
+ 
+ <songlength>441</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:12:22</locked_until>
+ <lastplayed>2018-05-11 15:27:15</lastplayed>
+ <platform id="20">PC-custom</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3628">Soundwave</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>long</tag>
+  
+  <tag>water</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

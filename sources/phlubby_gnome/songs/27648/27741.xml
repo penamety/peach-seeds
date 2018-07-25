@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27741">
+ <title>To a Far Away Friend</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">4.0</rating>
+ <info>Composed by me in 2003.
+Tracked for PostMODism musicdisk in 2005.
+Dedicated to old friend whose birthday I missed a few years.
+Also dedicated to my wife Helen, this song was composed the night before our wedding anniversary, so I played this tune next morning for her. Useless present, isn&#39;t it?
+Bass was made in Psycle Tracker, guitars recorded with M-Audio DUO. Drums are sampled from audio tape, loops rendered in Impulse Tracker.
+4 channel Amiga MOD as a result.</info>
+ <songlength>209</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-09 17:17:50</locked_until>
+ <lastplayed>2017-11-21 23:06:31</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>21005</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1758">Manwe</artist>
+ </artists>
+ <groups>
+  <group id="22">The SandS</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>Guitar</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Rock</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

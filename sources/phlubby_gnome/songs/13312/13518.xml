@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13518">
+ <title>Nowhere</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.3077</rating>
+ <info>Used in &#34;Moving into Darkness&#34; ST demo by DHS, 2nd at Error in Line 2003</info>
+ <songlength>148</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 08:07:42</locked_until>
+ <lastplayed>2018-04-03 00:57:07</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>9525</pouetid>
+ <ytid>8B3A-jKeke8</ytid>
+ 
+ 
+ <artists>
+  <artist id="7">505</artist>
+ </artists>
+ <groups>
+  <group id="775">Checkpoint [CPT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>ErrorInLine</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

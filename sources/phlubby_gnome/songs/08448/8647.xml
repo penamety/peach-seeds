@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8647">
+ <title>Mermaid</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="55">4.1818</rating>
+ <info>9th in the streamed music compo @ Buenzli 2004.</info>
+ <songlength>239</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 10:07:58</locked_until>
+ <lastplayed>2018-05-29 05:23:27</lastplayed>
+ 
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="113">Big Bear</artist>
+ </artists>
+ <groups>
+  <group id="83">Scoopex</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Buenzli</tag>
+  
+  <tag>LogicAudio</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

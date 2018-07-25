@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39094">
+ <title>Quazoor</title>
+ <status v="A">Active</status>
+ <bitrate>159</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>Classical and chiptune combined in Impulse Tracker v2.14 patch 2</info>
+ <songlength>210</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-19 10:52:46</locked_until>
+ <lastplayed>2018-05-10 12:28:06</lastplayed>
+ <platform id="8">IT</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5407">XCEL</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>Classical</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

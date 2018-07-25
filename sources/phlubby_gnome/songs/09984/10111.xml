@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10111">
+ <title>Nostalgy</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">4.2857</rating>
+ <info>The last track (Epilogue) from ZX-Spectrum (pentagon clone) demo, audiovisual art on 8bit machine, come 2nd at FunTop 1998 demoparty.</info>
+ <songlength>95</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-15 03:12:43</locked_until>
+ <lastplayed>2018-05-14 08:42:46</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>2145</pouetid>
+ <ytid>bJOBUt46ZfI</ytid>
+ <ytoffset>295</ytoffset>
+ 
+ <artists>
+  <artist id="590">Joe</artist>
+ </artists>
+ <groups>
+  <group id="45">Digital Reality</group>
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>FunTop</tag>
+  
+  <tag>video</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39518">
+ <title>Inspectør Knudsen</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">4.1852</rating>
+ <info>Entry for Scenecompos TV Series Theme Compo</info>
+ <songlength>108</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 10:28:43</locked_until>
+ <lastplayed>2018-06-14 18:18:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5390">Triton</artist>
+ </artists>
+ <groups>
+  <group id="748">Planet Jazz</group><group id="761">Saunagroup</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

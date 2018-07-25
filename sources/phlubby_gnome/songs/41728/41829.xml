@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41829">
+ <title>Entropia</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">4.2105</rating>
+ <info>Demo ranked 6th at Riverwash 2014.</info>
+ <songlength>255</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 20:57:18</locked_until>
+ <lastplayed>2018-06-01 06:24:02</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>64109</pouetid>
+ <ytid>CRyOqehvUe4</ytid>
+ 
+ 
+ <artists>
+  <artist id="1258">Traymuss</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>chill</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27574">
+ <title>JK</title>
+ <status v="N">Needs Re-Encoding</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.2727</rating>
+ <info>Cover of Virt&#39;s &#34;Good Morning Dracula&#34;. Soundtrack for &#34;Smart Girls Hate Booze&#34; by Booze Design, 2nd place C64 demo at LCP 2005.</info>
+ <songlength>177</songlength>
+ <locked>False</locked>
+ <locked_until>2017-07-10 21:23:55</locked_until>
+ <lastplayed>2017-07-03 06:58:32</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>18410</pouetid>
+ <ytid>hzEGEKgjhH8</ytid>
+ 
+ 
+ <artists>
+  <artist id="1623">Dane</artist>
+ </artists>
+ <groups>
+  <group id="419">Booze Design</group>
+ </groups>
+ 
+ <tags>
+  <tag>2005</tag>
+  
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>LittleComputerPeople</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

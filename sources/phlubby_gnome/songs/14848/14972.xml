@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="14972">
+ <title>Oasis</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">2.75</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-14 08:34:07</locked_until>
+ <lastplayed>2017-07-09 04:41:05</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12999</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2312">Blair Zuppicich</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

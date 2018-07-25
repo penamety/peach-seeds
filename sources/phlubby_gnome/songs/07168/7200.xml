@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7200">
+ <title>Chapter One Ohne</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="44">4.2045</rating>
+ 
+ <songlength>186</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-16 12:47:51</locked_until>
+ <lastplayed>2018-05-17 14:40:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>5103</pouetid>
+ <ytid>haecl4s_yLI</ytid>
+ 
+ 
+ <artists>
+  <artist id="358">Doc Holiday</artist><artist id="3814">Twilight (de)</artist>
+ </artists>
+ <groups>
+  <group id="576">Lego</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

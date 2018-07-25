@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21950">
+ <title>Chuchu rocket 01</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.08</rating>
+ 
+ <songlength>164</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-18 14:03:08</locked_until>
+ <lastplayed>2018-04-15 05:43:41</lastplayed>
+ <platform id="5">AY/YM</platform>
+ 
+ 
+ <ytid>TQQhu_x1diE</ytid>
+ 
+ 
+ <artists>
+  <artist id="2084">MSG</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gameport</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=TQQhu_x1diE</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

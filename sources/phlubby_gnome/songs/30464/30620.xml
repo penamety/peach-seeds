@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30620">
+ <title>0 to X in Y</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.7576</rating>
+ <info>1st place in combined intro compo at TRSAC 2010
+
+The tune from our winning 64k intro at TRSAC 2010. Might be a bit odd as standalone, so go and catch a glance at the intro from the pouet-link</info>
+ <songlength>131</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-16 19:56:02</locked_until>
+ <lastplayed>2017-10-29 03:39:44</lastplayed>
+ <platform id="41">64K exe</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>56099</pouetid>
+ <ytid>MqLlffCxU1c</ytid>
+ <ytoffset>1</ytoffset>
+ 
+ <artists>
+  <artist id="960">Punqtured</artist>
+ </artists>
+ <groups>
+  <group id="297">Fnuque</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>TRSAC</tag>
+  
+  <tag>wobble</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=FMaPAFEPRLY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=MqLlffCxU1c</url>
+    <comment>High Quality Rip</comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

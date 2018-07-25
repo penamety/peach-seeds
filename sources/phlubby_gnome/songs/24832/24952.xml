@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="24952">
+ <title>Lobotomia 2000 invitation</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="8">3.375</rating>
+ 
+ <songlength>62</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-28 01:42:39</locked_until>
+ <lastplayed>2017-11-08 01:21:25</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>728</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1553">Sumo Lounge</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Invitation</tag>
+  
+  <tag>Lobotomia</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

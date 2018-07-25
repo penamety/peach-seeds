@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27577">
+ <title>Orimar Dna Sirhc</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">4.0714</rating>
+ <info>Used in &#34;One-der&#34; by Oxyron, 2nd place C64 demo at The Party 1997</info>
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 13:00:04</locked_until>
+ <lastplayed>2017-10-31 05:24:01</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>1414</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1797">Fanta</artist>
+ </artists>
+ <groups>
+  <group id="234">Oxyron</group>
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>SID</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

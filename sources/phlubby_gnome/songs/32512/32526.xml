@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32526">
+ <title>Lydia&#39;s Song</title>
+ <status v="A">Active</status>
+ <bitrate>112</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2143</rating>
+ 
+ <songlength>149</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-02 03:51:28</locked_until>
+ <lastplayed>2018-04-11 09:07:21</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4733">Mozy</artist>
+ </artists>
+ <groups>
+  <group id="427">Castrum Doloris</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

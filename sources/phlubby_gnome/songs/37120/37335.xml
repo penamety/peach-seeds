@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37335">
+ <title>Space Whale</title>
+ <status v="A">Active</status>
+ <bitrate>190</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.8182</rating>
+ <info>Inspired by the Futurama episode with the space whale!</info>
+ <songlength>189</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-15 04:36:48</locked_until>
+ <lastplayed>2017-10-28 02:04:53</lastplayed>
+ <platform id="1">Other</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1988">LargerThanLink</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

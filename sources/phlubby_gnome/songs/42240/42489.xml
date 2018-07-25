@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42489">
+ <title>Uptown Funk Chiptune</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">2.0</rating>
+ <info>Uptown Funk, The Chiptune Version.
+Based on :Beesmix</info>
+ <songlength>304</songlength>
+ <locked>False</locked>
+ <locked_until>2018-03-03 01:43:20</locked_until>
+ <lastplayed>2018-02-05 05:42:33</lastplayed>
+ <platform id="8">IT</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2193">Advertise Play</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>ORCHESTRAHIT</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

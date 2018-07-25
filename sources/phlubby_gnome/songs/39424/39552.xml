@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39552">
+ <title>Careless Whisper</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">4.0571</rating>
+ 
+ <songlength>153</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 00:44:24</locked_until>
+ <lastplayed>2018-06-14 06:26:35</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="5">Remix</type>
+ <pouetid>20888</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3413">PRI</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>ChiptuneCover</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>GeorgeMichael</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

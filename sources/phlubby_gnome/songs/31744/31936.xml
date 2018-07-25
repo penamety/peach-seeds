@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31936">
+ <title>Spellbound</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="24">3.4167</rating>
+ 
+ <songlength>505</songlength>
+ <locked>True</locked>
+ <locked_until>2018-05-29 17:22:04</locked_until>
+ <lastplayed>2018-04-20 18:58:23</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>2381</pouetid>
+ <ytid>zj-wLt76I94</ytid>
+ 
+ 
+ <artists>
+  <artist id="566">Jazz</artist>
+ </artists>
+ <groups>
+  <group id="482">Loveboat [LUV]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1999</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=zj-wLt76I94</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42022">
+ <title>Eternity 2</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="37">3.6486</rating>
+ 
+ <songlength>902</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-24 11:07:00</locked_until>
+ <lastplayed>2018-06-15 18:44:51</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>14094</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1100">SMT</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>AwfulSaxophone</tag>
+  
+  <tag>FemaleMoans</tag>
+  
+  <tag>long</tag>
+  
+  <tag>ThatSameOldEthnicFluteSample</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

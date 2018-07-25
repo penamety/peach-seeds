@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42103">
+ <title>Voyage</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>Intro tune from demo Legoland 3 by Fairlight.
+http://csdb.dk/release/?id=11664</info>
+ <songlength>299</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-21 18:08:02</locked_until>
+ <lastplayed>2018-04-02 17:24:42</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>9800</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5215">Kristian Røstøen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

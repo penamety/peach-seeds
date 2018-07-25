@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="31415">
+ <title>Evoke Evoke</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="53">2.566</rating>
+ 
+ <songlength>201</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-14 11:38:18</locked_until>
+ <lastplayed>2017-10-22 03:19:20</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>2364</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="207">Chromag</artist><artist id="4592">XXX</artist>
+ </artists>
+ <groups>
+  <group id="2">Haujobb</group>
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>bad_encoder</tag>
+  
+  <tag>cover</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="15039">
+ <title>Jitter Funk</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.8462</rating>
+ 
+ <songlength>250</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 18:33:37</locked_until>
+ <lastplayed>2018-05-17 09:22:28</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ <pouetid>32214</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1980">Blue Fox</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

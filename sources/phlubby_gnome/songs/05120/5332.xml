@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5332">
+ <title>Contradiction</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>Winner of the 4 channel music compo at Euskal 1998.</info>
+ <songlength>181</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-05 03:14:04</locked_until>
+ <lastplayed>2018-03-15 21:58:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="870">Nork</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Euskal</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1830">
+ <title>Yrru</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">2.7273</rating>
+ 
+ <songlength>175</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-24 22:49:43</locked_until>
+ <lastplayed>2017-11-02 07:22:35</lastplayed>
+ <platform id="3">XM</platform>
+ 
+ <pouetid>13</pouetid>
+ <ytid>jAfHEUWqlAc</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="334">Djamm</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>laugh</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=jAfHEUWqlAc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39463">
+ <title>DNR</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.8</rating>
+ <info>from Alternative Party 2013. Placed 3rd.</info>
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-17 13:45:03</locked_until>
+ <lastplayed>2017-10-30 00:56:11</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="3900">T-101</artist>
+ </artists>
+ <groups>
+  <group id="307">Darklite</group>
+ </groups>
+ 
+ <tags>
+  <tag>2013</tag>
+  
+  <tag>AlternativeParty</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

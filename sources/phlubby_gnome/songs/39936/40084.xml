@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40084">
+ <title>Drop Table</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0</rating>
+ <info>From the 11th ubiktune album...</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-06 14:03:22</locked_until>
+ <lastplayed>2018-04-15 06:04:56</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="1">Chiptune</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2125">Syphus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>hively</tag>
+  
+  <tag>hvl</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

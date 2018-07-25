@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="613">
+ <title>It&#39;s Just Sonorous</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.3175</rating>
+ 
+ <songlength>166</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-12 00:32:01</locked_until>
+ <lastplayed>2018-06-12 07:33:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>3154</pouetid>
+ <ytid>uUQZzpw3kdw</ytid>
+ <ytoffset>303</ytoffset>
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="19">Sanity</group>
+ </groups>
+ 
+ <tags>
+  <tag>Amiga</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

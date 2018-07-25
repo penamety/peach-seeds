@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28674">
+ <title>Camden Town</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.64</rating>
+ <info>Released at The Gathering 2008 by PlayPsyCo &amp;  kvasigen.
+
+Lyrics:
+Metaphysics?
+I spit on metaphysics, sir. 
+(Blade Runner Deleted scene)
+
+MIND THE GAP!
+
+Don&#39;t you know what they are looking for?
+What for?
+God...</info>
+ <songlength>274</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-28 05:18:55</locked_until>
+ <lastplayed>2018-03-24 12:49:29</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>50112</pouetid>
+ <ytid>8ZvAwF3Lod8</ytid>
+ 
+ 
+ <artists>
+  <artist id="4117">Eladamri</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Accordion</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>dubstep</tag>
+  
+  <tag>electro</tag>
+  
+  <tag>PlayPsyCo</tag>
+  
+  <tag>TheGathering</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.demoscene.tv/prod.php?id_prod=13365</url>
+    <comment></comment>
+    <type id="7">
+        <name>Demoscene.TV</name>
+        <icon>/static/media/linkicons/television.png</icon>
+    </type>
+  </link>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=8ZvAwF3Lod8</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

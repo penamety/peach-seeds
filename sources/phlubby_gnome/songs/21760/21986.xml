@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21986">
+ <title>Blindman&#39;s Dreams - Short Version</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.0909</rating>
+ 
+ <songlength>63</songlength>
+ <locked>False</locked>
+ <locked_until>None</locked_until>
+ <lastplayed>2017-03-12 23:20:13</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>33775</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="3249">Mushies</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1994</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>Saturne</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

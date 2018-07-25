@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13092">
+ <title>Comic Bakery [spaced out remix]</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="62">3.6613</rating>
+ 
+ <songlength>309</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 01:48:35</locked_until>
+ <lastplayed>2018-05-20 18:01:27</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1815">Hazel</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>breakbeat</tag>
+  
+  <tag>ComicBakery</tag>
+  
+  <tag>food</tag>
+  
+  <tag>GameRemix</tag>
+  
+  <tag>Hardcore</tag>
+  
+  <tag>OldSchool</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

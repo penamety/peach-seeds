@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="28701">
+ <title>Lost Signal</title>
+ <status v="A">Active</status>
+ <bitrate>148</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.7059</rating>
+ <info>3rd @ BreakPoint 2010 - Executable Music oldschool</info>
+ <songlength>234</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 01:58:18</locked_until>
+ <lastplayed>2018-05-31 23:26:18</lastplayed>
+ <platform id="36">32K exe</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1706">AceMan</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Breakpoint</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

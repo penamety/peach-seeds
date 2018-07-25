@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="39191">
+ <title>Goamaniti - Part 1</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="9">2.4444</rating>
+ <info>First part of a tune composed for an unreleased LSD demo for TP. </info>
+ <songlength>144</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-19 19:31:57</locked_until>
+ <lastplayed>2018-04-26 00:39:31</lastplayed>
+ <platform id="6">MOD</platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2932">Jerry</artist>
+ </artists>
+ <groups>
+  <group id="564">LSD</group>
+ </groups>
+ 
+ <tags>
+  <tag>demostyle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

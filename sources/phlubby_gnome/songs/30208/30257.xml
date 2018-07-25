@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30257">
+ <title>Rerohammer v2</title>
+ <status v="A">Active</status>
+ <bitrate>142</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.913</rating>
+ 
+ <songlength>165</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-08 02:44:40</locked_until>
+ <lastplayed>2017-11-20 00:11:02</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>30640</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1614">Vincenzo</artist>
+ </artists>
+ <groups>
+  <group id="92">Rebels [RBS]</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

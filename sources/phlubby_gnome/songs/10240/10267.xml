@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10267">
+ <title>Hawkeye</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="76">4.3026</rating>
+ 
+ <songlength>383</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-18 11:58:23</locked_until>
+ <lastplayed>2018-06-16 21:37:40</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="7">Game</type>
+ <pouetid>47717</pouetid>
+ <ytid>UNbgx9DqJjI</ytid>
+ <ytoffset>7</ytoffset>
+ 
+ <artists>
+  <artist id="1935">WAVE</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>animal</tag>
+  
+  <tag>Birds</tag>
+  
+  <tag>TruckDriversGearChange</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

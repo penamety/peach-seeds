@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32352">
+ <title>Abridge</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="49">3.9184</rating>
+ 
+ <songlength>265</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-26 05:10:38</locked_until>
+ <lastplayed>2018-04-22 21:17:38</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>8070</pouetid>
+ <ytid>_KFE4lIyAcg</ytid>
+ <ytoffset>56</ytoffset>
+ 
+ <artists>
+  <artist id="602">Kaktus</artist><artist id="1467">Mahoney</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1991</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Uplifting</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="29920">
+ <title>Lost Paradise</title>
+ <status v="A">Active</status>
+ <bitrate>282</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="63">4.0317</rating>
+ <info>11th in the music compo at Evoke 2010.</info>
+ <songlength>213</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-27 03:14:27</locked_until>
+ <lastplayed>2018-05-26 09:27:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>57029</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="121">BitArts</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2010</tag>
+  
+  <tag>Evoke</tag>
+  
+  <tag>Jingle</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

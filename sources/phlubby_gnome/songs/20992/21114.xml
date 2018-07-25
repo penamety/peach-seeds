@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21114">
+ <title>Sensuous Whisper</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.3636</rating>
+ <info>Winner of the 4 channel music compo at Rush Hours 1998.</info>
+ <songlength>173</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 12:04:08</locked_until>
+ <lastplayed>2018-05-09 06:19:03</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="727">Marc</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>RushHours</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

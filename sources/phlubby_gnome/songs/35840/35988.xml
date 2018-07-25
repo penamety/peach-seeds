@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="35988">
+ <title>Wake Up! (end part)</title>
+ <status v="A">Active</status>
+ <bitrate>198</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="26">4.1154</rating>
+ 
+ <songlength>160</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-02 10:03:17</locked_until>
+ <lastplayed>2018-05-30 10:56:56</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="2">Demo</type>
+ <pouetid>59073</pouetid>
+ <ytid>rIHP_4oUQag</ytid>
+ <ytoffset>317</ytoffset>
+ 
+ <artists>
+  <artist id="354">Dma-Sc</artist>
+ </artists>
+ <groups>
+  <group id="441">Sector One [SCT1]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2012</tag>
+  
+  <tag>3rd</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Revision</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

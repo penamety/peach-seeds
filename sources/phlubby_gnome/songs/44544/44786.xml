@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44786">
+ <title>The Colours and Lights of The North</title>
+ <status v="A">Active</status>
+ <bitrate>1411</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="4">4.25</rating>
+ 
+ <songlength>285</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 20:14:49</locked_until>
+ <lastplayed>2018-06-07 10:34:48</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>75810</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5520">Noby</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>IDM</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://soundcloud.com/noby/fm8mcopy3-the-colours-and-lights-of-the-north</url>
+    <comment></comment>
+    <type id="30">
+        <name>SoundCloud</name>
+        <icon>/static/media/linkicons/soundcloud_fwNSBiS.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

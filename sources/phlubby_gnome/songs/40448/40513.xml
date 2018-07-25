@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40513">
+ <title>Dümpelhorst</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="43">4.4419</rating>
+ <info>Placed #1 at Nectarine Scenecompos #29, &#34;Coop-Competition&#34;</info>
+ <songlength>300</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-20 21:27:38</locked_until>
+ <lastplayed>2018-05-23 14:43:51</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2134">Shinobi</artist><artist id="4070">Silok</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>compo</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>NectaScene</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

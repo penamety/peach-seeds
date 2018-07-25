@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="5061">
+ <title>Enclose</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="17">3.4706</rating>
+ <info>Winner of the 4channel music compo at Abduction 1998.</info>
+ <songlength>174</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-22 22:04:32</locked_until>
+ <lastplayed>2018-05-17 05:51:48</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="828">Muffler</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1998</tag>
+  
+  <tag>Abduction</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Drum&amp;Bass</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

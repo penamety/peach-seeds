@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="17975">
+ <title>Mental</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.0328</rating>
+ <info>5th at Assembly 2003 combined demo competition.</info>
+ <songlength>252</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-09 18:38:06</locked_until>
+ <lastplayed>2018-06-06 18:50:43</lastplayed>
+ <platform id="40">DBM</platform>
+ <type id="2">Demo</type>
+ <pouetid>10571</pouetid>
+ <ytid>qgMEu0ZKAeo</ytid>
+ 
+ 
+ <artists>
+  <artist id="2708">Exploder</artist>
+ </artists>
+ <groups>
+  <group id="615">Push Entertainment </group>
+ </groups>
+ 
+ <tags>
+  <tag>2003</tag>
+  
+  <tag>5th</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>trance</tag>
+  
+  <tag>Untz</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=qgMEu0ZKAeo</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

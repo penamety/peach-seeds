@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26650">
+ <title>Like an E-bird</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="27">3.7778</rating>
+ <info>LittleWhite thanks Okeanos for this beautiful song used in his demo ( http://www.pouet.net/prod.php?which=53844 ).</info>
+ <songlength>180</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-25 19:59:25</locked_until>
+ <lastplayed>2018-05-07 04:46:49</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>52065</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>2009</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Sundown</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

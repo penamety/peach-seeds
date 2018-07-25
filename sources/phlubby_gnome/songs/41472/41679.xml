@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41679">
+ <title>飛機​,​我的朋友 (airplane, my friend) </title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="11">3.1818</rating>
+ <info>3rd at Tokyo demofest 2015 combined music compo</info>
+ <songlength>276</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-14 05:34:57</locked_until>
+ <lastplayed>2018-05-04 05:31:05</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="760">MED</artist>
+ </artists>
+ <groups>
+  <group id="339">Mandarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>flying</tag>
+  
+  <tag>TokyoDemoFest</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/133223/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

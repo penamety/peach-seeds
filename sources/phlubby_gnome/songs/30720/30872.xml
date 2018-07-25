@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30872">
+ <title>Disco</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="12">2.6667</rating>
+ <info>Used as loadertune in the megademo.
+/pwl</info>
+ <songlength>118</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-01 14:52:41</locked_until>
+ <lastplayed>2017-11-08 07:55:35</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14582</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="4515">Hurricane</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

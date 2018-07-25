@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40107">
+ <title>The Restoration</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>0</samplerate>
+ <rating votes="11">3.1818</rating>
+ 
+ <songlength>153</songlength>
+ <locked>False</locked>
+ <locked_until>2017-11-13 00:17:59</locked_until>
+ <lastplayed>2017-10-23 00:29:20</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>14998</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="5477">Avenger</artist>
+ </artists>
+ <groups>
+  <group id="266">Equinox (Amiga)</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

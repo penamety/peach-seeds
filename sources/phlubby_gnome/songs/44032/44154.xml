@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44154">
+ <title>Rubbik (Soundproof Motion Soundtrack)</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.8</rating>
+ 
+ <songlength>261</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-20 16:12:59</locked_until>
+ <lastplayed>2018-06-15 14:09:11</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>70460</pouetid>
+ <ytid>OuA0IBrlUpw</ytid>
+ 
+ 
+ <artists>
+  <artist id="4312">Ferris</artist><artist id="528">h0ffman</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2017</tag>
+  
+  <tag>claps</tag>
+  
+  <tag>NOVA</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4870">
+ <title>Reverie of Truth</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="61">4.3279</rating>
+ <info>Ranked 3rd in the Amiga music compo at The Computer Crossroad in 1993.</info>
+ <songlength>190</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-25 11:37:35</locked_until>
+ <lastplayed>2018-05-25 15:04:32</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="801">Daeron</artist><artist id="2132">Misty</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1993</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Dream</tag>
+  
+  <tag>TheComputerCrossroad</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

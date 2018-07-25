@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42533">
+ <title>Sakkijarven polkka</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.6</rating>
+ <info>! by strobo/stellar !
+      date 8/9/92
+ whadda great finnish
+ folk song made in 10
+ minutes!!!
+   all samples are
+   sampled from my
+  roland d-5 synth.</info>
+ <songlength>23</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-12 06:09:10</locked_until>
+ <lastplayed>2018-05-08 14:49:41</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1150">Strobo</artist>
+ </artists>
+ <groups>
+  <group id="124">Stellar</group>
+ </groups>
+ 
+ <tags>
+  <tag>Accordion</tag>
+  
+  <tag>polka</tag>
+  
+  <tag>traditional</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7996">
+ <title>Dreaming Snowdrop</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="105">4.3524</rating>
+ <info>6th in streaming compo at breakpoint 2008.</info>
+ <songlength>211</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-30 21:52:00</locked_until>
+ <lastplayed>2018-06-01 10:53:08</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1767">Masterfaker</artist><artist id="1766">Titus</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>Breakpoint</tag>
+  
+  <tag>coop</tag>
+  
+  <tag>Dream</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

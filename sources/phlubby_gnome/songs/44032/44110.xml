@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44110">
+ <title>Sceneradio Invitation </title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">3.2857</rating>
+ <info>Original is DragonForce - Through The Fire And Flames</info>
+ <songlength>202</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-23 22:41:47</locked_until>
+ <lastplayed>2018-03-17 08:28:25</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>70387</pouetid>
+ <ytid>bDmaRXyXcMI</ytid>
+ 
+ 
+ <artists>
+  <artist id="5734">Oskill8</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>cover</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

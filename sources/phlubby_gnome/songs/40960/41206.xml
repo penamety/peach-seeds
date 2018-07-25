@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41206">
+ <title>Scotland-Holand</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="13">3.9231</rating>
+ <info>Ranked 2nd place in Horizon 2000 mp3 music competition.</info>
+ <songlength>115</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-22 18:07:06</locked_until>
+ <lastplayed>2018-03-22 17:48:14</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1046">Scorpik</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2000</tag>
+  
+  <tag>Folk</tag>
+  
+  <tag>horizon</tag>
+  
+  <tag>Irish</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26117">
+ <title>Cauldron</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.5</rating>
+ <info>© Palace Software (1985)</info>
+ <songlength>119</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-16 23:52:23</locked_until>
+ <lastplayed>2018-03-30 18:11:47</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1013">Richard Joseph</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1985</tag>
+  
+  <tag>amstrad</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>cpc</tag>
+  
+  <tag>Epic</tag>
+  
+  <tag>Gamemusic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

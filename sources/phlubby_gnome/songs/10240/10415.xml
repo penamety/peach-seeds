@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="10415">
+ <title>Breath of Air (2 x 3-channels)</title>
+ <status v="A">Active</status>
+ <bitrate>191</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.2</rating>
+ <info>A note from AY Riders:
+
+A cover the good old Amiga demo scene song from the early 90&#39;s - Breath of Air by Nuke/Anarchy.
+Feel the fresh and melodic multichannel tune!
+We&#39;re breaking record again - Breath of Air is played on two ZX Spectrums!
+
+Download from ay-riders.speccy.cz: http://ay-riders.speccy.cz/download/satellite/02-X-agon-Breath_of_air(2x3-channels).mp3</info>
+ <songlength>191</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 15:52:23</locked_until>
+ <lastplayed>2018-05-29 03:04:39</lastplayed>
+ <platform id="5">AY/YM</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1728">X-Agon</artist>
+ </artists>
+ <groups>
+  <group id="118">AY Riders</group>
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>AY</tag>
+  
+  <tag>Musicdisk</tag>
+  
+  <tag>Remake</tag>
+  
+  <tag>Satellite</tag>
+  
+  <tag>Speccy</tag>
+  
+  <tag>TurboSound</tag>
+  
+  <tag>ZXSpectrum</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

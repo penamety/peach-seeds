@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3849">
+ <title>Cheap vectors</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">3.625</rating>
+ 
+ <songlength>188</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 10:09:52</locked_until>
+ <lastplayed>2018-05-31 21:19:47</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="11">Musicdisk</type>
+ <pouetid>11196</pouetid>
+ <ytid>EsOl2eq3ego</ytid>
+ <ytoffset>1329</ytoffset>
+ 
+ <artists>
+  <artist id="626">Keo</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

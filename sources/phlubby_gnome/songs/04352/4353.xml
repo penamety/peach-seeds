@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="4353">
+ <title>Buy a Cow</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="35">3.2571</rating>
+ 
+ <songlength>97</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 06:43:36</locked_until>
+ <lastplayed>2018-06-07 17:49:44</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="716">Maf</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>animal</tag>
+  
+  <tag>country</tag>
+  
+  <tag>Funk</tag>
+  
+  <tag>HillBilly</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

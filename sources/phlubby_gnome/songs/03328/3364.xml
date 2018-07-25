@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3364">
+ <title>Scorcher [suburbs]</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="23">3.087</rating>
+ <info>platform: SEGA saturn (chip music)
+
+(as far as I know, the sound chip was unique on this console)
+
+/pwl</info>
+ <songlength>410</songlength>
+ <locked>False</locked>
+ <locked_until>2017-06-27 00:09:22</locked_until>
+ <lastplayed>2017-06-18 16:51:08</lastplayed>
+ 
+ <type id="7">Game</type>
+ 
+ <ytid>h3lyBL-FOkc</ytid>
+ <ytoffset>185</ytoffset>
+ 
+ <artists>
+  <artist id="577">Jesper Kyd</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Gamemusic</tag>
+  
+  <tag>Repetitive</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40290">
+ <title>Voyager Golden Record</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="15">3.0667</rating>
+ <info>Placed 6th @ Nectarine Scenecompos #28 ( Trip Hop Compo ). Composed with SunVox.
+
+---
+
+Carl Sagan &#34;Pale Blue Dot&#34; provides the vocal samples.
+
+SunVox was used to pull it all together, but I wrote a lot of the stuff in a MIDI editor + soundfonts too, so I guess the moral is that I need to get a real workflow some time.
+
+CC attributions:
+String bass samples by Carlos Vaquero
+Record noise sample by Joe Deshon</info>
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 08:39:17</locked_until>
+ <lastplayed>2018-05-25 01:26:16</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="5037">STS-136</artist>
+ </artists>
+ <groups>
+  <group id="91">Nectarine</group>
+ </groups>
+ 
+ <tags>
+  <tag>2014</tag>
+  
+  <tag>compo</tag>
+  
+  <tag>NectaScene</tag>
+  
+  <tag>SunVox</tag>
+  
+  <tag>TripHop</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="40163">
+ <title>good bye my friends </title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="10">3.0</rating>
+ <info>remix</info>
+ <songlength>387</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-06 21:31:30</locked_until>
+ <lastplayed>2017-07-29 02:44:47</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="618">Kellersound</artist>
+ </artists>
+ <groups>
+  <group id="756">C-Lous</group>
+ </groups>
+ 
+ <tags>
+  <tag>3D</tag>
+  
+  <tag>5tarbuck</tag>
+  
+  <tag>B</tag>
+  
+  <tag>clopt</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

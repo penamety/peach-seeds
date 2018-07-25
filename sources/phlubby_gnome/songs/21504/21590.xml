@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="21590">
+ <title>Md2 loader</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">3.0526</rating>
+ 
+ <songlength>229</songlength>
+ <locked>False</locked>
+ <locked_until>2018-04-29 11:58:39</locked_until>
+ <lastplayed>2018-03-21 06:13:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1329</pouetid>
+ <ytid>FlCKfQTVlZA</ytid>
+ 
+ 
+ <artists>
+  <artist id="3187">Metalwar</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1988</tag>
+  
+  <tag>EarlyMOD</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

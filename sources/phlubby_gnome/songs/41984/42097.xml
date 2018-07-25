@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="42097">
+ <title>Wonderland XII (tune 3)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="12">3.6667</rating>
+ <info>Soundtrack from C64 demo Wonderland XII by Censor Design.
+http://csdb.dk/release/?id=120907</info>
+ <songlength>239</songlength>
+ <locked>False</locked>
+ <locked_until>2017-08-03 03:38:02</locked_until>
+ <lastplayed>2017-07-28 00:05:29</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="2">Demo</type>
+ <pouetid>61652</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="676">Lizard [se]</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="41770">
+ <title>Fear The Setting Sun</title>
+ <status v="A">Active</status>
+ <bitrate>260</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="14">2.6429</rating>
+ 
+ <songlength>173</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 14:06:54</locked_until>
+ <lastplayed>2018-05-21 18:12:47</lastplayed>
+ 
+ <type id="2">Demo</type>
+ <pouetid>65255</pouetid>
+ <ytid>wnnkJ49AVwg</ytid>
+ 
+ 
+ <artists>
+  <artist id="1396">Gloom</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2015</tag>
+  
+  <tag>NVScene</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

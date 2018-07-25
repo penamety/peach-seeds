@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="13121">
+ <title>Green Beret (makeover)</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="36">3.9444</rating>
+ <info>The great Green Beret by Martin Galway, a makeover by Yours truly.</info>
+ <songlength>170</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-17 06:41:25</locked_until>
+ <lastplayed>2017-12-30 10:59:28</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="1027">Ron Klaren</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>GameRemix</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

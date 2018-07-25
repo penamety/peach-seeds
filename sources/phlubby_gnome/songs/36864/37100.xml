@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="37100">
+ <title>Youscope</title>
+ <status v="A">Active</status>
+ <bitrate>240</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="28">3.3929</rating>
+ 
+ <songlength>151</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 13:33:08</locked_until>
+ <lastplayed>2018-06-09 02:49:33</lastplayed>
+ <platform id="10">Wild</platform>
+ <type id="2">Demo</type>
+ <pouetid>31592</pouetid>
+ <ytid>s1eNjUgaB-g</ytid>
+ <ytoffset>8</ytoffset>
+ 
+ <artists>
+  <artist id="5212">tejeez</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2007</tag>
+  
+  <tag>Assembly</tag>
+  
+  <tag>Untz</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=s1eNjUgaB-g</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

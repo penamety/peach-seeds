@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="11123">
+ <title>Chiphood</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">3.8605</rating>
+ <info>Winner of the music compo at Solskogen 2009.
+
+Lyrics:
+Zero four seven
+Zero three seven
+Will get you to heaven
+We are the trackers
+We ain&#39;t no slackers
+We&#39;ll snap your neck for dino crackers</info>
+ <songlength>218</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-17 01:02:17</locked_until>
+ <lastplayed>2018-05-14 15:19:30</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="4">Compo Entry</type>
+ <pouetid>54489</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1405">Hansee</artist>
+ </artists>
+ <groups>
+  <group id="25">Brainstorm</group>
+ </groups>
+ 
+ <tags>
+  <tag>2009</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>Solskogen</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

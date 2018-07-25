@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="1475">
+ <title>Complications</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="103">4.2233</rating>
+ <info>Beside being in the My Room demo by Fairlight, which won the PHA and Censor Party demo compo in 1990, this mod was also in music compo at the same party and placed 2nd.</info>
+ <songlength>130</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-11 19:10:36</locked_until>
+ <lastplayed>2018-06-10 04:11:18</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>1335</pouetid>
+ <ytid>UeNEvAVniqM</ytid>
+ 
+ 
+ <artists>
+  <artist id="278">Danko</artist>
+ </artists>
+ <groups>
+  <group id="3">Fairlight [FLT]</group>
+ </groups>
+ 
+ <tags>
+  <tag>1990</tag>
+  
+  <tag>Amiga</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>ORCHESTRAHIT</tag>
+  
+  <tag>PhenomenaAndCensorParty</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

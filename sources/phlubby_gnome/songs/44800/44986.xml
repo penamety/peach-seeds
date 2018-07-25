@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44986">
+ <title>Vitamin D</title>
+ <status v="A">Active</status>
+ <bitrate>999</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="5">4.0</rating>
+ <info>[i]Everyone knows that UV rays are much healthier than energy drinks. So put down your can of mass produced chemicals, and dose yourself with the 5,778 degrees kelvin hot plasma currently residing at the most optimal distance from YOU! All natural, completely additive free (much like this song&#39;s synthesis, for once) This is once in a universe lifecycle opportunity, so don&#39;t miss out![/i]</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-17 19:42:32</locked_until>
+ <lastplayed>2018-05-22 06:36:34</lastplayed>
+ 
+ <type id="11">Musicdisk</type>
+ <pouetid>76212</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1468">Malmen</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+  <link>
+    <url>https://demozoo.org/music/187097/</url>
+    <comment></comment>
+    <type id="23">
+        <name>Demozoo</name>
+        <icon>/static/media/linkicons/demozoo-16x16_RJXlval.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

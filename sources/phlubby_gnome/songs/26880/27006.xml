@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="27006">
+ <title>Lost in Space</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="14">3.4286</rating>
+ 
+ <songlength>123</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-21 21:29:49</locked_until>
+ <lastplayed>2017-12-01 17:11:25</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="12">Diskmag</type>
+ <pouetid>50451</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1591">WOTW</artist>
+ </artists>
+ <groups>
+  <group id="601">Damian</group>
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

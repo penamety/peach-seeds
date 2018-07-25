@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="26653">
+ <title>Metamorphose</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="10">3.3</rating>
+ <info>Abstractica 3 - game version
+
+LittleWhite thanks Okeanos for this beautiful music used in his demo.</info>
+ <songlength>192</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-06 21:16:15</locked_until>
+ <lastplayed>2017-11-15 14:32:07</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>51095</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="2008">Okeanos</artist>
+ </artists>
+ <groups>
+  <group id="145">Nuance [NCE]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2008</tag>
+  
+  <tag>VIP</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

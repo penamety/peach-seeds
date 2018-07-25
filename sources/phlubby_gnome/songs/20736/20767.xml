@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="20767">
+ <title>Nattsang for Knatter</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="33">3.8485</rating>
+ 
+ <songlength>142</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-28 12:07:02</locked_until>
+ <lastplayed>2018-05-25 01:45:00</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="2">Demo</type>
+ <pouetid>4485</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1461">Lug00ber</artist>
+ </artists>
+ <groups>
+  <group id="134">Kvasigen [KVG]</group>
+ </groups>
+ 
+ <tags>
+  <tag>2001</tag>
+  
+  <tag>Dreamhack</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

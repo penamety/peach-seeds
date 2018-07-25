@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="33090">
+ <title>Cimallus</title>
+ <status v="A">Active</status>
+ <bitrate>192</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="31">4.0</rating>
+ 
+ <songlength>178</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-05 17:39:57</locked_until>
+ <lastplayed>2018-06-02 09:43:09</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>57006</pouetid>
+ <ytid>I5ij6Sn5ZUY</ytid>
+ <ytoffset>3</ytoffset>
+ 
+ <artists>
+  <artist id="1641">Teknomies</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>Stream</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=I5ij6Sn5ZUY</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

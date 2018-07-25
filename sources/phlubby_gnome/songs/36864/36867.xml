@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="36867">
+ <title>Figle 2</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="16">4.125</rating>
+ <info>SID chipset: MOS6581R2</info>
+ <songlength>151</songlength>
+ <locked>False</locked>
+ <locked_until>2017-12-17 10:07:10</locked_until>
+ <lastplayed>2017-11-30 02:35:55</lastplayed>
+ <platform id="2">SID </platform>
+ 
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="24">Agemixer</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+ </tags>
+ <links>
+ 
+ </links>
+</song>

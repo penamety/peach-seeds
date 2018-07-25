@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="44806">
+ <title>This Just In</title>
+ <status v="A">Active</status>
+ <bitrate>0</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="6">3.3333</rating>
+ <info>This one compressed to about 1700 bytes, but still gobbled up 380K of memory for precalculated waveforms.</info>
+ <songlength>206</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-17 07:24:29</locked_until>
+ <lastplayed>2018-06-09 11:34:04</lastplayed>
+ <platform id="4">AHX</platform>
+ <type id="2">Demo</type>
+ <pouetid>75761</pouetid>
+ <ytid>e2mTkq91RP4</ytid>
+ <ytoffset>30</ytoffset>
+ 
+ <artists>
+  <artist id="1915">Curt Cool</artist>
+ </artists>
+ <groups>
+  <group id="123">Nah-Kolor</group><group id="437">Offence</group>
+ </groups>
+ 
+ <tags>
+  <tag>2018</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

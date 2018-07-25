@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="30395">
+ <title>Sudden Swiftness</title>
+ <status v="A">Active</status>
+ <bitrate>200</bitrate>
+ <samplerate>48000</samplerate>
+ <rating votes="17">2.0588</rating>
+ <info>According to fans, this track is definitive.
+
+Well, sure.
+
+I like it too. ^^</info>
+ <songlength>318</songlength>
+ <locked>False</locked>
+ <locked_until>2017-09-07 03:56:59</locked_until>
+ <lastplayed>2017-08-26 05:45:43</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="3">Oldskool</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="4467">Corwin</artist>
+ </artists>
+ <groups>
+  <group id="372">Trideja</group>
+ </groups>
+ 
+ <tags>
+  <tag>boring</tag>
+  
+  <tag>Techno</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=KYRZWXbWJQc</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

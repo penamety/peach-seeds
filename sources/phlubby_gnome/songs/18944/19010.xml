@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="19010">
+ <title>Naekaerunner</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="86">2.0581</rating>
+ <info>Remix of Blade Runner Theme</info>
+ <songlength>200</songlength>
+ <locked>True</locked>
+ <locked_until>2018-08-03 06:40:13</locked_until>
+ <lastplayed>2018-06-16 00:00:55</lastplayed>
+ 
+ <type id="5">Remix</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2849">Harmonian Polku</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>Annoying</tag>
+  
+  <tag>cough</tag>
+  
+  <tag>fart</tag>
+  
+  <tag>Movie</tag>
+  
+  <tag>Vangelis</tag>
+  
+  <tag>Vocals</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

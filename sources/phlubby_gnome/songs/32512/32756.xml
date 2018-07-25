@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="32756">
+ <title>Deephouse (short)</title>
+ <status v="A">Active</status>
+ <bitrate>185</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">3.6</rating>
+ <info>trbl - organ for Revision 2011 webbrowser compo</info>
+ <songlength>339</songlength>
+ <locked>True</locked>
+ <locked_until>2018-06-13 00:49:36</locked_until>
+ <lastplayed>2018-05-08 01:37:36</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>56861</pouetid>
+ 
+ 
+ 
+ <artists>
+  <artist id="1435">ko0x</artist>
+ </artists>
+ <groups>
+  <group id="606">trbl</group>
+ </groups>
+ 
+ <tags>
+  <tag>2011</tag>
+  
+  <tag>arpeggios</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>House</tag>
+  
+  <tag>Organ</tag>
+  
+  <tag>OutOfTune</tag>
+  
+  <tag>Revision</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

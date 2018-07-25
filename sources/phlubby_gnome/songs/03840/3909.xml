@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="3909">
+ <title>Agent Zed</title>
+ <status v="A">Active</status>
+ <bitrate>127</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="79">4.2405</rating>
+ 
+ <songlength>220</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-15 07:19:44</locked_until>
+ <lastplayed>2018-06-13 19:25:18</lastplayed>
+ <platform id="3">XM</platform>
+ <type id="11">Musicdisk</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="655">Laxity [MON]</artist>
+ </artists>
+ <groups>
+  <group id="31">Vibrants</group>
+ </groups>
+ 
+ <tags>
+  <tag>Funky</tag>
+  
+  <tag>Jazz</tag>
+  
+  <tag>Organ</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

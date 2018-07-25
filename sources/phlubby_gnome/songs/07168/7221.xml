@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="7221">
+ <title>Response</title>
+ <status v="A">Active</status>
+ <bitrate>128</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="25">3.72</rating>
+ 
+ <songlength>492</songlength>
+ <locked>False</locked>
+ <locked_until>2018-01-22 06:28:23</locked_until>
+ <lastplayed>2018-01-02 20:31:29</lastplayed>
+ <platform id="6">MOD</platform>
+ <type id="2">Demo</type>
+ <pouetid>12408</pouetid>
+ <ytid>glV_Pq_hgS0</ytid>
+ <ytoffset>6</ytoffset>
+ 
+ <artists>
+  <artist id="1274">Typhoon</artist>
+ </artists>
+ <groups>
+  <group id="154">Avalon</group>
+ </groups>
+ 
+ <tags>
+  <tag>1995</tag>
+  
+  <tag>Doskpop</tag>
+  
+  <tag>long</tag>
+  
+  <tag>TheGathering</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>

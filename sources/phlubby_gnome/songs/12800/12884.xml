@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12884">
+ <title>Platoon (subtune 1)</title>
+ <status v="A">Active</status>
+ <bitrate>224</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="50">4.12</rating>
+ <info>MOS6581R4.</info>
+ <songlength>133</songlength>
+ <locked>False</locked>
+ <locked_until>2018-05-14 14:30:29</locked_until>
+ <lastplayed>2018-04-13 16:25:00</lastplayed>
+ <platform id="2">SID </platform>
+ <type id="1">Chiptune</type>
+ <pouetid>35607</pouetid>
+ <ytid>fXfkev09fHA</ytid>
+ 
+ 
+ <artists>
+  <artist id="1788">Jonathan Dunn</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>C64</tag>
+  
+  <tag>Chiptune</tag>
+  
+  <tag>SID</tag>
+  
+  <tag>video</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.lemon64.com/games/details.php?ID=1951</url>
+    <comment></comment>
+    <type id="9">
+        <name>Lemon 64</name>
+        <icon>/static/media/linkicons/lemon64-icon.gif</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

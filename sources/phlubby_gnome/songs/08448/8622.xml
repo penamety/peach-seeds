@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="8622">
+ <title>We Compute Each Other</title>
+ <status v="A">Active</status>
+ <bitrate>256</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="81">3.8519</rating>
+ <info>Lyrics:
+[Ready to demo]
+[Insert system disk]
+[Password needed]
+[Computing your existence]
+[Failure to set up device]
+[Program is not responding]
+[Memory full]
+[Kill the process]
+[Restart]
+[Brain format in progress]
+[Cancel your life]
+
+[Praise the system]
+
+I compute you
+You compute me
+I compute you
+You compute me
+[Praise the system]
+I compute you
+You compute me
+I compute you
+
+[Driver state power failure]
+
+[Status image checksum mismatch]
+
+[Ctrl Alt Del]
+Terminate
+[Terminate and shutdown]
+[Press Escape to terminate the program]</info>
+ <songlength>225</songlength>
+ <locked>True</locked>
+ <locked_until>2018-07-03 05:41:53</locked_until>
+ <lastplayed>2018-05-31 17:32:38</lastplayed>
+ <platform id="1">Other</platform>
+ <type id="2">Demo</type>
+ <pouetid>11457</pouetid>
+ <ytid>y1cCCgz6YPk</ytid>
+ 
+ 
+ <artists>
+  <artist id="1587">Willbe</artist>
+ </artists>
+ <groups>
+  <group id="30">Cocoon</group>
+ </groups>
+ 
+ <tags>
+  <tag>2004</tag>
+  
+  <tag>Compowinner</tag>
+  
+  <tag>Demo</tag>
+  
+  <tag>Lyrics</tag>
+  
+  <tag>StateOfTheArt</tag>
+  
+  <tag>video</tag>
+  
+  <tag>Vocals</tag>
+  
+  <tag>vocoder</tag>
+  
+  <tag>Windows</tag>
+  
+ </tags>
+ <links>
+ 
+  <link>
+    <url>http://www.youtube.com/watch?v=y1cCCgz6YPk</url>
+    <comment></comment>
+    <type id="2">
+        <name>YouTube</name>
+        <icon>/static/media/linkicons/youtube-icon_.png</icon>
+    </type>
+  </link>
+ 
+ </links>
+</song>

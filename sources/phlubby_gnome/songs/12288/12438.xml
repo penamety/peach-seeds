@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<song id="12438">
+ <title>Ikari Warriors</title>
+ <status v="A">Active</status>
+ <bitrate>320</bitrate>
+ <samplerate>44100</samplerate>
+ <rating votes="19">2.8421</rating>
+ <info>elite, 1987</info>
+ <songlength>163</songlength>
+ <locked>False</locked>
+ <locked_until>2018-06-04 02:42:26</locked_until>
+ <lastplayed>2018-04-23 06:17:34</lastplayed>
+ <platform id="13">AMIGA-custom</platform>
+ <type id="7">Game</type>
+ 
+ 
+ 
+ 
+ <artists>
+  <artist id="2012">Jas</artist>
+ </artists>
+ <groups>
+  
+ </groups>
+ 
+ <tags>
+  <tag>1987</tag>
+  
+  <tag>Heroic</tag>
+  
+ </tags>
+ <links>
+ 
+ </links>
+</song>
